@@ -1,0 +1,717 @@
+{
+  "date": "2026-07-06",
+  "updatedAt": "2026-07-06T03:33:51.266Z",
+  "github": {
+    "updatedAt": "2026-07-06T03:33:51.266Z",
+    "repos": [
+      {
+        "rank": 1,
+        "author": "Zackriya-Solutions",
+        "name": "meetily",
+        "fullName": "Zackriya-Solutions/meetily",
+        "url": "https://github.com/Zackriya-Solutions/meetily",
+        "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 17355,
+        "forks": 1824,
+        "builtBy": [
+          {
+            "username": "sujithatzackriya",
+            "avatar": "https://avatars.githubusercontent.com/u/85450497?s=40&40&v=4"
+          },
+          {
+            "username": "safvanatzack",
+            "avatar": "https://avatars.githubusercontent.com/u/213172806?s=40&40&v=4"
+          },
+          {
+            "username": "mohammedsafvan",
+            "avatar": "https://avatars.githubusercontent.com/u/37416474?s=40&40&v=4"
+          },
+          {
+            "username": "athulchandroth",
+            "avatar": "https://avatars.githubusercontent.com/u/87969134?s=40&40&v=4"
+          },
+          {
+            "username": "p-s-vishnu",
+            "avatar": "https://avatars.githubusercontent.com/u/14847870?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "author": "openai",
+        "name": "codex-plugin-cc",
+        "fullName": "openai/codex-plugin-cc",
+        "url": "https://github.com/openai/codex-plugin-cc",
+        "description": "Use Codex from Claude Code to review code or delegate tasks.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 25609,
+        "forks": 1549,
+        "builtBy": [
+          {
+            "username": "dkundel-openai",
+            "avatar": "https://avatars.githubusercontent.com/u/200841172?s=40&40&v=4"
+          },
+          {
+            "username": "VOIDXAI",
+            "avatar": "https://avatars.githubusercontent.com/u/267589254?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "xiaolai",
+            "avatar": "https://avatars.githubusercontent.com/u/152970?s=40&40&v=4"
+          },
+          {
+            "username": "zeta987",
+            "avatar": "https://avatars.githubusercontent.com/u/126369952?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "author": "asgeirtj",
+        "name": "system_prompts_leaks",
+        "fullName": "asgeirtj/system_prompts_leaks",
+        "url": "https://github.com/asgeirtj/system_prompts_leaks",
+        "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 50157,
+        "forks": 8200,
+        "builtBy": [
+          {
+            "username": "asgeirtj",
+            "avatar": "https://avatars.githubusercontent.com/u/27446620?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "awrreny",
+            "avatar": "https://avatars.githubusercontent.com/u/46632417?s=40&40&v=4"
+          },
+          {
+            "username": "anonymous619259",
+            "avatar": "https://avatars.githubusercontent.com/u/87837428?s=40&40&v=4"
+          },
+          {
+            "username": "lcebot",
+            "avatar": "https://avatars.githubusercontent.com/u/117039037?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "author": "Leonxlnx",
+        "name": "taste-skill",
+        "fullName": "Leonxlnx/taste-skill",
+        "url": "https://github.com/Leonxlnx/taste-skill",
+        "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 57715,
+        "forks": 3944,
+        "builtBy": [
+          {
+            "username": "Leonxlnx",
+            "avatar": "https://avatars.githubusercontent.com/u/219127460?s=40&40&v=4"
+          },
+          {
+            "username": "cursoragent",
+            "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "luojiyin1987",
+            "avatar": "https://avatars.githubusercontent.com/u/6524977?s=40&40&v=4"
+          },
+          {
+            "username": "jkk442",
+            "avatar": "https://avatars.githubusercontent.com/u/60716205?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "author": "alirezarezvani",
+        "name": "claude-skills",
+        "fullName": "alirezarezvani/claude-skills",
+        "url": "https://github.com/alirezarezvani/claude-skills",
+        "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 20662,
+        "forks": 2798,
+        "builtBy": [
+          {
+            "username": "alirezarezvani",
+            "avatar": "https://avatars.githubusercontent.com/u/5697919?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "olgasafonova",
+            "avatar": "https://avatars.githubusercontent.com/u/23409189?s=40&40&v=4"
+          },
+          {
+            "username": "fernandezbaptiste",
+            "avatar": "https://avatars.githubusercontent.com/u/83458751?s=40&40&v=4"
+          },
+          {
+            "username": "ikala-shawn",
+            "avatar": "https://avatars.githubusercontent.com/u/111341595?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "author": "rommapp",
+        "name": "romm",
+        "fullName": "rommapp/romm",
+        "url": "https://github.com/rommapp/romm",
+        "description": "A beautiful, powerful, self-hosted rom manager and player.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 10601,
+        "forks": 509,
+        "builtBy": [
+          {
+            "username": "zurdi15",
+            "avatar": "https://avatars.githubusercontent.com/u/34356590?s=40&40&v=4"
+          },
+          {
+            "username": "gantoine",
+            "avatar": "https://avatars.githubusercontent.com/u/3247106?s=40&40&v=4"
+          },
+          {
+            "username": "adamantike",
+            "avatar": "https://avatars.githubusercontent.com/u/3867850?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "author": "ogulcancelik",
+        "name": "herdr",
+        "fullName": "ogulcancelik/herdr",
+        "url": "https://github.com/ogulcancelik/herdr",
+        "description": "agent multiplexer that lives in your terminal.",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 12175,
+        "forks": 716,
+        "builtBy": [
+          {
+            "username": "ogulcancelik",
+            "avatar": "https://avatars.githubusercontent.com/u/7064011?s=40&40&v=4"
+          },
+          {
+            "username": "kangal-bot",
+            "avatar": "https://avatars.githubusercontent.com/u/285672167?s=40&40&v=4"
+          },
+          {
+            "username": "dmmulroy",
+            "avatar": "https://avatars.githubusercontent.com/u/2755722?s=40&40&v=4"
+          },
+          {
+            "username": "Golden-Pigeon",
+            "avatar": "https://avatars.githubusercontent.com/u/20119392?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "author": "alibaba",
+        "name": "page-agent",
+        "fullName": "alibaba/page-agent",
+        "url": "https://github.com/alibaba/page-agent",
+        "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 24034,
+        "forks": 2067,
+        "builtBy": [
+          {
+            "username": "gaomeng1900",
+            "avatar": "https://avatars.githubusercontent.com/u/10131203?s=40&40&v=4"
+          },
+          {
+            "username": "Copilot",
+            "avatar": "https://avatars.githubusercontent.com/in/1143301?s=40&40&v=4"
+          },
+          {
+            "username": "JasonOA888",
+            "avatar": "https://avatars.githubusercontent.com/u/101583541?s=40&40&v=4"
+          },
+          {
+            "username": "linked-danis",
+            "avatar": "https://avatars.githubusercontent.com/u/246056357?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "author": "harvard-edge",
+        "name": "cs249r_book",
+        "fullName": "harvard-edge/cs249r_book",
+        "url": "https://github.com/harvard-edge/cs249r_book",
+        "description": "Machine Learning Systems",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 26906,
+        "forks": 3199,
+        "builtBy": [
+          {
+            "username": "profvjreddi",
+            "avatar": "https://avatars.githubusercontent.com/u/6807956?s=40&40&v=4"
+          },
+          {
+            "username": "hzeljko",
+            "avatar": "https://avatars.githubusercontent.com/u/36451783?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "author": "usestrix",
+        "name": "strix",
+        "fullName": "usestrix/strix",
+        "url": "https://github.com/usestrix/strix",
+        "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 37271,
+        "forks": 3782,
+        "builtBy": [
+          {
+            "username": "0xallam",
+            "avatar": "https://avatars.githubusercontent.com/u/49919286?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "bearsyankees",
+            "avatar": "https://avatars.githubusercontent.com/u/46074070?s=40&40&v=4"
+          },
+          {
+            "username": "octovimmer",
+            "avatar": "https://avatars.githubusercontent.com/u/260551972?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 11,
+        "author": "hesreallyhim",
+        "name": "awesome-claude-code",
+        "fullName": "hesreallyhim/awesome-claude-code",
+        "url": "https://github.com/hesreallyhim/awesome-claude-code",
+        "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 48450,
+        "forks": 4242,
+        "builtBy": [
+          {
+            "username": "hesreallyhim",
+            "avatar": "https://avatars.githubusercontent.com/u/172150522?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "tninja",
+            "avatar": "https://avatars.githubusercontent.com/u/714625?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 12,
+        "author": "coreyhaines31",
+        "name": "marketingskills",
+        "fullName": "coreyhaines31/marketingskills",
+        "url": "https://github.com/coreyhaines31/marketingskills",
+        "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 36515,
+        "forks": 5898,
+        "builtBy": [
+          {
+            "username": "coreyhaines31",
+            "avatar": "https://avatars.githubusercontent.com/u/34802794?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "njcameron",
+            "avatar": "https://avatars.githubusercontent.com/u/1101879?s=40&40&v=4"
+          },
+          {
+            "username": "Jiliac",
+            "avatar": "https://avatars.githubusercontent.com/u/5956866?s=40&40&v=4"
+          },
+          {
+            "username": "basseko",
+            "avatar": "https://avatars.githubusercontent.com/u/20099808?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 13,
+        "author": "JuliusBrussee",
+        "name": "caveman",
+        "fullName": "JuliusBrussee/caveman",
+        "url": "https://github.com/JuliusBrussee/caveman",
+        "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 84998,
+        "forks": 4730,
+        "builtBy": [
+          {
+            "username": "JuliusBrussee",
+            "avatar": "https://avatars.githubusercontent.com/u/104168679?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "sebastianbreguel",
+            "avatar": "https://avatars.githubusercontent.com/u/62109266?s=40&40&v=4"
+          },
+          {
+            "username": "vraj00222",
+            "avatar": "https://avatars.githubusercontent.com/u/87225460?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 14,
+        "author": "CoplayDev",
+        "name": "unity-mcp",
+        "fullName": "CoplayDev/unity-mcp",
+        "url": "https://github.com/CoplayDev/unity-mcp",
+        "description": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
+        "language": "C#",
+        "languageColor": "#178600",
+        "starsToday": 0,
+        "totalStars": 11990,
+        "forks": 1283,
+        "builtBy": [
+          {
+            "username": "Scriptwonder",
+            "avatar": "https://avatars.githubusercontent.com/u/51266340?s=40&40&v=4"
+          },
+          {
+            "username": "dsarno",
+            "avatar": "https://avatars.githubusercontent.com/u/2432103?s=40&40&v=4"
+          },
+          {
+            "username": "actions-user",
+            "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&40&v=4"
+          },
+          {
+            "username": "msanatan",
+            "avatar": "https://avatars.githubusercontent.com/u/2119378?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 15,
+        "author": "facebook",
+        "name": "astryx",
+        "fullName": "facebook/astryx",
+        "url": "https://github.com/facebook/astryx",
+        "description": "An open source design system that's fully customizable and agent ready",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 5991,
+        "forks": 382,
+        "builtBy": [
+          {
+            "username": "cixzhang",
+            "avatar": "https://avatars.githubusercontent.com/u/2781099?s=40&40&v=4"
+          },
+          {
+            "username": "rubyycheung",
+            "avatar": "https://avatars.githubusercontent.com/u/254546175?s=40&40&v=4"
+          },
+          {
+            "username": "josephfarina",
+            "avatar": "https://avatars.githubusercontent.com/u/17398284?s=40&40&v=4"
+          },
+          {
+            "username": "kentonquatman",
+            "avatar": "https://avatars.githubusercontent.com/u/847306?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 16,
+        "author": "immich-app",
+        "name": "immich",
+        "fullName": "immich-app/immich",
+        "url": "https://github.com/immich-app/immich",
+        "description": "High performance self-hosted photo and video management solution.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 106176,
+        "forks": 6065,
+        "builtBy": [
+          {
+            "username": "alextran1502",
+            "avatar": "https://avatars.githubusercontent.com/u/27055614?s=40&40&v=4"
+          },
+          {
+            "username": "jrasm91",
+            "avatar": "https://avatars.githubusercontent.com/u/4334196?s=40&40&v=4"
+          },
+          {
+            "username": "danieldietzler",
+            "avatar": "https://avatars.githubusercontent.com/u/36593685?s=40&40&v=4"
+          },
+          {
+            "username": "mertalev",
+            "avatar": "https://avatars.githubusercontent.com/u/101130780?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 17,
+        "author": "ruvnet",
+        "name": "RuView",
+        "fullName": "ruvnet/RuView",
+        "url": "https://github.com/ruvnet/RuView",
+        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 76761,
+        "forks": 10289,
+        "builtBy": [
+          {
+            "username": "ruvnet",
+            "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "fr4iser90",
+            "avatar": "https://avatars.githubusercontent.com/u/123288736?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 18,
+        "author": "gastownhall",
+        "name": "gastown",
+        "fullName": "gastownhall/gastown",
+        "url": "https://github.com/gastownhall/gastown",
+        "description": "Gas Town - multi-agent workspace manager",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "starsToday": 0,
+        "totalStars": 16418,
+        "forks": 1522,
+        "builtBy": [
+          {
+            "username": "steveyegge",
+            "avatar": "https://avatars.githubusercontent.com/u/613744?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "julianknutsen",
+            "avatar": "https://avatars.githubusercontent.com/u/8082291?s=40&40&v=4"
+          },
+          {
+            "username": "Thalia-geraghty",
+            "avatar": "https://avatars.githubusercontent.com/u/176345210?s=40&40&v=4"
+          },
+          {
+            "username": "seanbearden",
+            "avatar": "https://avatars.githubusercontent.com/u/72461227?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 19,
+        "author": "dotnet",
+        "name": "skills",
+        "fullName": "dotnet/skills",
+        "url": "https://github.com/dotnet/skills",
+        "description": "Repository for skills to assist AI coding agents with .NET and C#",
+        "language": "C#",
+        "languageColor": "#178600",
+        "starsToday": 0,
+        "totalStars": 4073,
+        "forks": 305,
+        "builtBy": [
+          {
+            "username": "ViktorHofer",
+            "avatar": "https://avatars.githubusercontent.com/u/7412651?s=40&40&v=4"
+          },
+          {
+            "username": "Evangelink",
+            "avatar": "https://avatars.githubusercontent.com/u/11340282?s=40&40&v=4"
+          },
+          {
+            "username": "JanKrivanek",
+            "avatar": "https://avatars.githubusercontent.com/u/3809076?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 20,
+        "author": "OthmanAdi",
+        "name": "planning-with-files",
+        "fullName": "OthmanAdi/planning-with-files",
+        "url": "https://github.com/OthmanAdi/planning-with-files",
+        "description": "Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agent shared state on disk. Manus-style. Works with Claude Code, Codex CLI, Cursor, Kiro, OpenCode and 60+ agents via the SKILL.md standard.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 24776,
+        "forks": 2109,
+        "builtBy": [
+          {
+            "username": "OthmanAdi",
+            "avatar": "https://avatars.githubusercontent.com/u/78882424?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "kaichen",
+            "avatar": "https://avatars.githubusercontent.com/u/4048?s=40&40&v=4"
+          },
+          {
+            "username": "mvanhorn",
+            "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&40&v=4"
+          },
+          {
+            "username": "ebrevdo",
+            "avatar": "https://avatars.githubusercontent.com/u/1794715?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 21,
+        "author": "steipete",
+        "name": "CodexBar",
+        "fullName": "steipete/CodexBar",
+        "url": "https://github.com/steipete/CodexBar",
+        "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+        "language": "Swift",
+        "languageColor": "#F05138",
+        "starsToday": 0,
+        "totalStars": 16314,
+        "forks": 1354,
+        "builtBy": [
+          {
+            "username": "steipete",
+            "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&40&v=4"
+          },
+          {
+            "username": "ratulsarna",
+            "avatar": "https://avatars.githubusercontent.com/u/105903728?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "Yuxin-Qiao",
+            "avatar": "https://avatars.githubusercontent.com/u/104957188?s=40&40&v=4"
+          },
+          {
+            "username": "bcharleson",
+            "avatar": "https://avatars.githubusercontent.com/u/170791?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 22,
+        "author": "anthropics",
+        "name": "claude-code",
+        "fullName": "anthropics/claude-code",
+        "url": "https://github.com/anthropics/claude-code",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 136342,
+        "forks": 21912,
+        "builtBy": [
+          {
+            "username": "actions-user",
+            "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&40&v=4"
+          },
+          {
+            "username": "bcherny",
+            "avatar": "https://avatars.githubusercontent.com/u/1761758?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "ant-kurt",
+            "avatar": "https://avatars.githubusercontent.com/u/209710463?s=40&40&v=4"
+          },
+          {
+            "username": "ashwin-ant",
+            "avatar": "https://avatars.githubusercontent.com/u/178951676?s=40&40&v=4"
+          }
+        ]
+      }
+    ]
+  },
+  "productHunt": null,
+  "hackerNews": null
+}

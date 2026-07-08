@@ -1,0 +1,245 @@
+{
+  "updatedAt": "2026-07-08T12:54:35.729Z",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+      "score": 511,
+      "comments": 100,
+      "author": "speerer"
+    },
+    {
+      "rank": 2,
+      "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
+      "score": 66,
+      "comments": 23,
+      "author": "soheilpro"
+    },
+    {
+      "rank": 3,
+      "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+      "score": 292,
+      "comments": 116,
+      "author": "ColinEberhardt"
+    },
+    {
+      "rank": 4,
+      "title": "How to Survive 3 Years in North Korea as a Foreigner",
+      "url": "https://mydiplomaticlife.com/how-to-survive-3-years-in-north-korea-as-a-foreigner/",
+      "score": 24,
+      "comments": 12,
+      "author": "chipndale"
+    },
+    {
+      "rank": 5,
+      "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
+      "url": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
+      "score": 238,
+      "comments": 159,
+      "author": "4diii"
+    },
+    {
+      "rank": 6,
+      "title": "Geosql: A Claude/Codex skill for geospatial data",
+      "url": "https://github.com/dekart-xyz/geosql",
+      "score": 47,
+      "comments": 6,
+      "author": "rzk"
+    },
+    {
+      "rank": 7,
+      "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
+      "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
+      "score": 114,
+      "comments": 29,
+      "author": "Stevvo"
+    },
+    {
+      "rank": 8,
+      "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+      "url": "https://kb.cert.org/vuls/id/213560",
+      "score": 255,
+      "comments": 84,
+      "author": "miniBill"
+    },
+    {
+      "rank": 9,
+      "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
+      "url": "https://www.digipres.org/the-floppy-guide/",
+      "score": 106,
+      "comments": 31,
+      "author": "whiteblossom"
+    },
+    {
+      "rank": 10,
+      "title": "NoiseLang: Where N = 5 is a Dirac delta",
+      "url": "https://manualmeida.dev/articles/noiselang/",
+      "score": 18,
+      "comments": 8,
+      "author": "manucorporat"
+    },
+    {
+      "rank": 11,
+      "title": "Chat Control 1.0 and 2.0 Explained",
+      "url": "https://fightchatcontrol.eu/chat-control-overview",
+      "score": 728,
+      "comments": 290,
+      "author": "gasull"
+    },
+    {
+      "rank": 12,
+      "title": "Structure and Interpretation of Computer Programs Video Lectures (1986)",
+      "url": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
+      "score": 208,
+      "comments": 26,
+      "author": "gjvc"
+    },
+    {
+      "rank": 13,
+      "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
+      "url": "https://www.gao.gov/products/gao-26-108193",
+      "score": 224,
+      "comments": 105,
+      "author": "Jimmc414"
+    },
+    {
+      "rank": 14,
+      "title": "Ants: Who looks after the injured in a colony?",
+      "url": "https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/ameisen-kolonie-verletzte-pflegt/",
+      "score": 37,
+      "comments": 15,
+      "author": "hhs"
+    },
+    {
+      "rank": 15,
+      "title": "Canada's only watchmaking school still ticking after 80 years",
+      "url": "https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211",
+      "score": 166,
+      "comments": 84,
+      "author": "throw0101a"
+    },
+    {
+      "rank": 16,
+      "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+      "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+      "score": 445,
+      "comments": 83,
+      "author": "speckx"
+    },
+    {
+      "rank": 17,
+      "title": "Home made GPU escalated quickly [video]",
+      "url": "https://www.youtube.com/watch?v=qMR3IXF2sWw",
+      "score": 83,
+      "comments": 22,
+      "author": "erichocean"
+    },
+    {
+      "rank": 18,
+      "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
+      "url": "https://30papers.com/",
+      "score": 565,
+      "comments": 87,
+      "author": "notmcrowley"
+    },
+    {
+      "rank": 19,
+      "title": "Automate Excel with Python: From manual grind to one-click workflow",
+      "url": "https://nostarch.com/automate-excel-with-python",
+      "score": 25,
+      "comments": 8,
+      "author": "teleforce"
+    },
+    {
+      "rank": 20,
+      "title": "LineageOS Statistics",
+      "url": "https://stats.lineageos.org",
+      "score": 123,
+      "comments": 75,
+      "author": "pentagrama"
+    },
+    {
+      "rank": 21,
+      "title": "Herdr: One terminal to rule them all",
+      "url": "https://herdr.dev/",
+      "score": 317,
+      "comments": 138,
+      "author": "handfuloflight"
+    },
+    {
+      "rank": 22,
+      "title": "Show HN: Davit, a Apple Containers UI",
+      "url": "https://davit.app",
+      "score": 330,
+      "comments": 80,
+      "author": "xinit"
+    },
+    {
+      "rank": 23,
+      "title": "The difference between \"today's task\" and \"accretive work\"",
+      "url": "https://pluralistic.net/2026/07/02/canonization/",
+      "score": 74,
+      "comments": 44,
+      "author": "hn_acker"
+    },
+    {
+      "rank": 24,
+      "title": "List of European organizations that have banned personal messaging apps at work",
+      "url": "https://www.birdy.chat/blog/the-growing-list-of-european-organisations-that-ban-personal-messaging-apps-at-work",
+      "score": 28,
+      "comments": 28,
+      "author": "rmesters"
+    },
+    {
+      "rank": 25,
+      "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "score": 180,
+      "comments": 62,
+      "author": "segmenta"
+    },
+    {
+      "rank": 26,
+      "title": "l: A new runtime for k and q",
+      "url": "https://lv1.sh/",
+      "score": 152,
+      "comments": 93,
+      "author": "skruger"
+    },
+    {
+      "rank": 27,
+      "title": "IEEE Rolls Out Large Language Models Training Course",
+      "url": "https://spectrum.ieee.org/large-language-models-ieee-course",
+      "score": 86,
+      "comments": 15,
+      "author": "JeanKage"
+    },
+    {
+      "rank": 28,
+      "title": "Why we built yet another Postgres connection pooler",
+      "url": "https://pgdog.dev/blog/why-yet-another-connection-pooler",
+      "score": 215,
+      "comments": 52,
+      "author": "levkk"
+    },
+    {
+      "rank": 29,
+      "title": "Scheme Is a Hoot",
+      "url": "https://gracefulliberty.com/notes/scheme-is-a-hoot/",
+      "score": 88,
+      "comments": 19,
+      "author": "signa11"
+    },
+    {
+      "rank": 30,
+      "title": "Jim's TrueType QR Code Font",
+      "url": "https://github.com/jimparis/qr-font",
+      "score": 194,
+      "comments": 25,
+      "author": "arantius"
+    }
+  ]
+}

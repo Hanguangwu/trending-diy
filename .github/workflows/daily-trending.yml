@@ -2,8 +2,8 @@ name: Daily Trending
 
 on:
   schedule:
-    # Every day at 09:00 UTC (17:00 Beijing time)
-    - cron: '0 9 * * *'
+    # Every day at 04:00 UTC (12:00 Beijing time)
+    - cron: '0 4 * * *'
   # Allow manual trigger
   workflow_dispatch:
 
@@ -27,7 +27,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 24
           cache: 'pnpm'
 
       - name: Install dependencies

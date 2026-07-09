@@ -1,0 +1,527 @@
+{
+  "date": "2026-07-09",
+  "updatedAt": "2026-07-09T07:33:14.299Z",
+  "github": {
+    "updatedAt": "2026-07-09T07:33:12.543Z",
+    "repos": [
+      {
+        "rank": 1,
+        "author": "MadsLorentzen",
+        "name": "ai-job-search",
+        "fullName": "MadsLorentzen/ai-job-search",
+        "url": "https://github.com/MadsLorentzen/ai-job-search",
+        "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 16210,
+        "forks": 4894,
+        "builtBy": [
+          {
+            "username": "MadsLorentzen",
+            "avatar": "https://avatars.githubusercontent.com/u/50207393?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "ayobamiseun",
+            "avatar": "https://avatars.githubusercontent.com/u/66267222?s=40&40&v=4"
+          },
+          {
+            "username": "akhil29897",
+            "avatar": "https://avatars.githubusercontent.com/u/30170370?s=40&40&v=4"
+          },
+          {
+            "username": "Yigtwxx",
+            "avatar": "https://avatars.githubusercontent.com/u/156921875?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "author": "addyosmani",
+        "name": "agent-skills",
+        "fullName": "addyosmani/agent-skills",
+        "url": "https://github.com/addyosmani/agent-skills",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 74929,
+        "forks": 8071,
+        "builtBy": [
+          {
+            "username": "addyosmani",
+            "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&40&v=4"
+          },
+          {
+            "username": "federicobartoli",
+            "avatar": "https://avatars.githubusercontent.com/u/27234034?s=40&40&v=4"
+          },
+          {
+            "username": "nucliweb",
+            "avatar": "https://avatars.githubusercontent.com/u/1307927?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "dj2313",
+            "avatar": "https://avatars.githubusercontent.com/u/103351705?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "author": "ruvnet",
+        "name": "RuView",
+        "fullName": "ruvnet/RuView",
+        "url": "https://github.com/ruvnet/RuView",
+        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 79373,
+        "forks": 10672,
+        "builtBy": [
+          {
+            "username": "ruvnet",
+            "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "fr4iser90",
+            "avatar": "https://avatars.githubusercontent.com/u/123288736?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "author": "TencentCloud",
+        "name": "TencentDB-Agent-Memory",
+        "fullName": "TencentCloud/TencentDB-Agent-Memory",
+        "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+        "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 7843,
+        "forks": 725,
+        "builtBy": [
+          {
+            "username": "Yuntong8888",
+            "avatar": "https://avatars.githubusercontent.com/u/277734672?s=40&40&v=4"
+          },
+          {
+            "username": "Maxwell-Code07",
+            "avatar": "https://avatars.githubusercontent.com/u/95488710?s=40&40&v=4"
+          },
+          {
+            "username": "Huang10q",
+            "avatar": "https://avatars.githubusercontent.com/u/114647511?s=40&40&v=4"
+          },
+          {
+            "username": "YOMXXX",
+            "avatar": "https://avatars.githubusercontent.com/u/18409951?s=40&40&v=4"
+          },
+          {
+            "username": "akhilesharora",
+            "avatar": "https://avatars.githubusercontent.com/u/484069?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "author": "prisma",
+        "name": "prisma",
+        "fullName": "prisma/prisma",
+        "url": "https://github.com/prisma/prisma",
+        "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 46668,
+        "forks": 2288,
+        "builtBy": [
+          {
+            "username": "timsuchanek",
+            "avatar": "https://avatars.githubusercontent.com/u/1094804?s=40&40&v=4"
+          },
+          {
+            "username": "prisma-bot",
+            "avatar": "https://avatars.githubusercontent.com/u/52275815?s=40&40&v=4"
+          },
+          {
+            "username": "Jolg42",
+            "avatar": "https://avatars.githubusercontent.com/u/1328733?s=40&40&v=4"
+          },
+          {
+            "username": "nikolasburk",
+            "avatar": "https://avatars.githubusercontent.com/u/4058327?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "author": "mvanhorn",
+        "name": "last30days-skill",
+        "fullName": "mvanhorn/last30days-skill",
+        "url": "https://github.com/mvanhorn/last30days-skill",
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 50980,
+        "forks": 4253,
+        "builtBy": [
+          {
+            "username": "mvanhorn",
+            "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "tmchow",
+            "avatar": "https://avatars.githubusercontent.com/u/517103?s=40&40&v=4"
+          },
+          {
+            "username": "j-sperling",
+            "avatar": "https://avatars.githubusercontent.com/u/17969723?s=40&40&v=4"
+          },
+          {
+            "username": "23241a6749",
+            "avatar": "https://avatars.githubusercontent.com/u/146319052?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "author": "argoproj",
+        "name": "argo-cd",
+        "fullName": "argoproj/argo-cd",
+        "url": "https://github.com/argoproj/argo-cd",
+        "description": "Declarative Continuous Deployment for Kubernetes",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "starsToday": 0,
+        "totalStars": 23487,
+        "forks": 7429,
+        "builtBy": [
+          {
+            "username": "alexmt",
+            "avatar": "https://avatars.githubusercontent.com/u/426437?s=40&40&v=4"
+          },
+          {
+            "username": "crenshaw-dev",
+            "avatar": "https://avatars.githubusercontent.com/u/350466?s=40&40&v=4"
+          },
+          {
+            "username": "jannfis",
+            "avatar": "https://avatars.githubusercontent.com/u/3942683?s=40&40&v=4"
+          },
+          {
+            "username": "jessesuen",
+            "avatar": "https://avatars.githubusercontent.com/u/12677113?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "author": "iOfficeAI",
+        "name": "OfficeCLI",
+        "fullName": "iOfficeAI/OfficeCLI",
+        "url": "https://github.com/iOfficeAI/OfficeCLI",
+        "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+        "language": "C#",
+        "languageColor": "#178600",
+        "starsToday": 0,
+        "totalStars": 12506,
+        "forks": 843,
+        "builtBy": [
+          {
+            "username": "goworm",
+            "avatar": "https://avatars.githubusercontent.com/u/28083037?s=40&40&v=4"
+          },
+          {
+            "username": "IceyLiu",
+            "avatar": "https://avatars.githubusercontent.com/u/10683426?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "ringringlin",
+            "avatar": "https://avatars.githubusercontent.com/u/226215277?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "author": "asgeirtj",
+        "name": "system_prompts_leaks",
+        "fullName": "asgeirtj/system_prompts_leaks",
+        "url": "https://github.com/asgeirtj/system_prompts_leaks",
+        "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 54526,
+        "forks": 8871,
+        "builtBy": [
+          {
+            "username": "asgeirtj",
+            "avatar": "https://avatars.githubusercontent.com/u/27446620?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "awrreny",
+            "avatar": "https://avatars.githubusercontent.com/u/46632417?s=40&40&v=4"
+          },
+          {
+            "username": "anonymous619259",
+            "avatar": "https://avatars.githubusercontent.com/u/87837428?s=40&40&v=4"
+          },
+          {
+            "username": "lcebot",
+            "avatar": "https://avatars.githubusercontent.com/u/117039037?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "author": "obra",
+        "name": "superpowers",
+        "fullName": "obra/superpowers",
+        "url": "https://github.com/obra/superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "languageColor": "#89e051",
+        "starsToday": 0,
+        "totalStars": 250209,
+        "forks": 22202,
+        "builtBy": [
+          {
+            "username": "obra",
+            "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&40&v=4"
+          },
+          {
+            "username": "arittr",
+            "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "clkao",
+            "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&40&v=4"
+          },
+          {
+            "username": "jjshanks",
+            "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 11,
+        "author": "alibaba",
+        "name": "zvec",
+        "fullName": "alibaba/zvec",
+        "url": "https://github.com/alibaba/zvec",
+        "description": "A lightweight, lightning-fast, in-process vector database",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "starsToday": 0,
+        "totalStars": 14545,
+        "forks": 898,
+        "builtBy": [
+          {
+            "username": "iaojnh",
+            "avatar": "https://avatars.githubusercontent.com/u/38692278?s=40&40&v=4"
+          },
+          {
+            "username": "feihongxu0824",
+            "avatar": "https://avatars.githubusercontent.com/u/237691413?s=40&40&v=4"
+          },
+          {
+            "username": "egolearner",
+            "avatar": "https://avatars.githubusercontent.com/u/45122959?s=40&40&v=4"
+          },
+          {
+            "username": "zhourrr",
+            "avatar": "https://avatars.githubusercontent.com/u/78126249?s=40&40&v=4"
+          },
+          {
+            "username": "Cuiyus",
+            "avatar": "https://avatars.githubusercontent.com/u/42903451?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 12,
+        "author": "Diolinux",
+        "name": "PhotoGIMP",
+        "fullName": "Diolinux/PhotoGIMP",
+        "url": "https://github.com/Diolinux/PhotoGIMP",
+        "description": "A Patch for GIMP 3+ for Photoshop Users",
+        "language": "CSS",
+        "languageColor": "#663399",
+        "starsToday": 0,
+        "totalStars": 15195,
+        "forks": 605,
+        "builtBy": [
+          {
+            "username": "Diolinux",
+            "avatar": "https://avatars.githubusercontent.com/u/13944967?s=40&40&v=4"
+          },
+          {
+            "username": "gabrielalmir",
+            "avatar": "https://avatars.githubusercontent.com/u/98054504?s=40&40&v=4"
+          },
+          {
+            "username": "emsspree",
+            "avatar": "https://avatars.githubusercontent.com/u/19785245?s=40&40&v=4"
+          },
+          {
+            "username": "Klubuntu",
+            "avatar": "https://avatars.githubusercontent.com/u/49614906?s=40&40&v=4"
+          },
+          {
+            "username": "Levletsplay0",
+            "avatar": "https://avatars.githubusercontent.com/u/147967711?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 13,
+        "author": "wonderwhy-er",
+        "name": "DesktopCommanderMCP",
+        "fullName": "wonderwhy-er/DesktopCommanderMCP",
+        "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+        "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 6436,
+        "forks": 752,
+        "builtBy": [
+          {
+            "username": "wonderwhy-er",
+            "avatar": "https://avatars.githubusercontent.com/u/1150639?s=40&40&v=4"
+          },
+          {
+            "username": "serg33v",
+            "avatar": "https://avatars.githubusercontent.com/u/989699?s=40&40&v=4"
+          },
+          {
+            "username": "edgarsskore",
+            "avatar": "https://avatars.githubusercontent.com/u/22543693?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "dmitry-ottic-ai",
+            "avatar": "https://avatars.githubusercontent.com/u/181032508?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 14,
+        "author": "huxingyi",
+        "name": "autoremesher",
+        "fullName": "huxingyi/autoremesher",
+        "url": "https://github.com/huxingyi/autoremesher",
+        "description": "Automatic quad remeshing tool",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "starsToday": 0,
+        "totalStars": 2122,
+        "forks": 158,
+        "builtBy": [
+          {
+            "username": "huxingyi",
+            "avatar": "https://avatars.githubusercontent.com/u/3941597?s=40&40&v=4"
+          },
+          {
+            "username": "animaone",
+            "avatar": "https://avatars.githubusercontent.com/u/31348553?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 15,
+        "author": "bradautomates",
+        "name": "claude-video",
+        "fullName": "bradautomates/claude-video",
+        "url": "https://github.com/bradautomates/claude-video",
+        "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 6267,
+        "forks": 738,
+        "builtBy": [
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "bradautomates",
+            "avatar": "https://avatars.githubusercontent.com/u/186665980?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 16,
+        "author": "TencentCloud",
+        "name": "CubeSandbox",
+        "fullName": "TencentCloud/CubeSandbox",
+        "url": "https://github.com/TencentCloud/CubeSandbox",
+        "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 9091,
+        "forks": 749,
+        "builtBy": [
+          {
+            "username": "fslongjin",
+            "avatar": "https://avatars.githubusercontent.com/u/63215266?s=40&40&v=4"
+          },
+          {
+            "username": "chenhengqi",
+            "avatar": "https://avatars.githubusercontent.com/u/4277743?s=40&40&v=4"
+          },
+          {
+            "username": "ls-ggg",
+            "avatar": "https://avatars.githubusercontent.com/u/48054568?s=40&40&v=4"
+          },
+          {
+            "username": "lisongqian",
+            "avatar": "https://avatars.githubusercontent.com/u/25759760?s=40&40&v=4"
+          },
+          {
+            "username": "zyl1121",
+            "avatar": "https://avatars.githubusercontent.com/u/62997582?s=40&40&v=4"
+          }
+        ]
+      }
+    ]
+  },
+  "productHunt": null,
+  "hackerNews": null
+}

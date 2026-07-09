@@ -1,245 +1,237 @@
 {
-  "updatedAt": "2026-07-08T12:54:35.729Z",
+  "updatedAt": "2026-07-09T07:33:14.291Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
-      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-      "score": 511,
-      "comments": 100,
-      "author": "speerer"
+      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+      "score": 698,
+      "comments": 131,
+      "author": "djoldman"
     },
     {
       "rank": 2,
-      "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
-      "score": 66,
+      "title": "Spider venom kills varroa mites without harming honeybees",
+      "url": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
+      "score": 69,
       "comments": 23,
-      "author": "soheilpro"
+      "author": "Jedd"
     },
     {
       "rank": 3,
-      "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-      "score": 292,
-      "comments": 116,
-      "author": "ColinEberhardt"
+      "title": "AI changes the economics of software rewrites",
+      "url": "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/",
+      "score": 34,
+      "comments": 37,
+      "author": "cinooo"
     },
     {
       "rank": 4,
-      "title": "How to Survive 3 Years in North Korea as a Foreigner",
-      "url": "https://mydiplomaticlife.com/how-to-survive-3-years-in-north-korea-as-a-foreigner/",
-      "score": 24,
-      "comments": 12,
-      "author": "chipndale"
+      "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "url": "https://github.com/malisper/pgrust",
+      "score": 15,
+      "comments": 2,
+      "author": "SweetSoftPillow"
     },
     {
       "rank": 5,
-      "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
-      "url": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
-      "score": 238,
-      "comments": 159,
-      "author": "4diii"
+      "title": "Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI",
+      "url": "https://nexte.st/",
+      "score": 62,
+      "comments": 16,
+      "author": "nateb2022"
     },
     {
       "rank": 6,
-      "title": "Geosql: A Claude/Codex skill for geospatial data",
-      "url": "https://github.com/dekart-xyz/geosql",
-      "score": 47,
-      "comments": 6,
-      "author": "rzk"
-    },
-    {
-      "rank": 7,
-      "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
-      "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
-      "score": 114,
-      "comments": 29,
-      "author": "Stevvo"
+      "title": "Separating signal from noise in coding evaluations",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+      "score": 202,
+      "comments": 71,
+      "author": "sk4rekr0w"
     },
     {
       "rank": 8,
-      "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
-      "url": "https://kb.cert.org/vuls/id/213560",
-      "score": 255,
-      "comments": 84,
-      "author": "miniBill"
+      "title": "Remote Attestation",
+      "url": "https://www.liamcvw.com/p/remote-attestation",
+      "score": 79,
+      "comments": 63,
+      "author": "lcvw"
     },
     {
       "rank": 9,
-      "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
-      "url": "https://www.digipres.org/the-floppy-guide/",
-      "score": 106,
-      "comments": 31,
-      "author": "whiteblossom"
+      "title": "Benchmarking coding agents on Databricks' multi-million line codebase",
+      "url": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
+      "score": 61,
+      "comments": 22,
+      "author": "tanelpoder"
     },
     {
       "rank": 10,
-      "title": "NoiseLang: Where N = 5 is a Dirac delta",
-      "url": "https://manualmeida.dev/articles/noiselang/",
-      "score": 18,
-      "comments": 8,
-      "author": "manucorporat"
+      "title": "Unicode's transliteration rules are Turing-complete",
+      "url": "https://seriot.ch/computation/uts35/",
+      "score": 92,
+      "comments": 27,
+      "author": "beefburger"
     },
     {
       "rank": 11,
-      "title": "Chat Control 1.0 and 2.0 Explained",
-      "url": "https://fightchatcontrol.eu/chat-control-overview",
-      "score": 728,
-      "comments": 290,
-      "author": "gasull"
+      "title": "Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line",
+      "url": "https://www.yamanote.fun/",
+      "score": 145,
+      "comments": 27,
+      "author": "madebymagnolia"
     },
     {
       "rank": 12,
-      "title": "Structure and Interpretation of Computer Programs Video Lectures (1986)",
-      "url": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
-      "score": 208,
-      "comments": 26,
-      "author": "gjvc"
+      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+      "url": "https://microsoft.github.io/flint-chart/#/",
+      "score": 262,
+      "comments": 100,
+      "author": "chenglong-hn"
     },
     {
       "rank": 13,
-      "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
-      "url": "https://www.gao.gov/products/gao-26-108193",
-      "score": 224,
-      "comments": 105,
-      "author": "Jimmc414"
+      "title": "Cloudflare Drop",
+      "url": "https://www.cloudflare.com/drop/",
+      "score": 385,
+      "comments": 194,
+      "author": "coloneltcb"
     },
     {
       "rank": 14,
-      "title": "Ants: Who looks after the injured in a colony?",
-      "url": "https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/ameisen-kolonie-verletzte-pflegt/",
-      "score": 37,
-      "comments": 15,
-      "author": "hhs"
+      "title": "Grok 4.5",
+      "url": "https://x.ai/news/grok-4-5",
+      "score": 590,
+      "comments": 801,
+      "author": "BoumTAC"
     },
     {
       "rank": 15,
-      "title": "Canada's only watchmaking school still ticking after 80 years",
-      "url": "https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211",
-      "score": 166,
-      "comments": 84,
-      "author": "throw0101a"
+      "title": "Patching MechCommander's \"left arm bug\" for fun and profit",
+      "url": "https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/",
+      "score": 57,
+      "comments": 17,
+      "author": "Narann"
     },
     {
       "rank": 16,
-      "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
-      "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
-      "score": 445,
-      "comments": 83,
-      "author": "speckx"
+      "title": "Turning a pile of documents into a searchable useable knowledge base",
+      "url": "https://github.com/linuxrebel/DocuBrowser",
+      "score": 122,
+      "comments": 27,
+      "author": "linuxrebe1"
     },
     {
       "rank": 17,
-      "title": "Home made GPU escalated quickly [video]",
-      "url": "https://www.youtube.com/watch?v=qMR3IXF2sWw",
-      "score": 83,
-      "comments": 22,
-      "author": "erichocean"
+      "title": "Apache Shiro security framework releases 3.0.0",
+      "url": "https://shiro.apache.org/blog/2026/06/apache-shiro-300-released.html",
+      "score": 23,
+      "comments": 0,
+      "author": "lprimak"
     },
     {
       "rank": 18,
-      "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
-      "url": "https://30papers.com/",
-      "score": 565,
-      "comments": 87,
-      "author": "notmcrowley"
+      "title": "3D Airplane tracker on Mercator map",
+      "url": "https://github.com/jamalrfordii-arch/Vanguard-Map",
+      "score": 6,
+      "comments": 0,
+      "author": "Lawyer24"
     },
     {
       "rank": 19,
-      "title": "Automate Excel with Python: From manual grind to one-click workflow",
-      "url": "https://nostarch.com/automate-excel-with-python",
-      "score": 25,
-      "comments": 8,
-      "author": "teleforce"
+      "title": "Chatto is now open source",
+      "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+      "score": 928,
+      "comments": 241,
+      "author": "speckx"
     },
     {
       "rank": 20,
-      "title": "LineageOS Statistics",
-      "url": "https://stats.lineageos.org",
-      "score": 123,
-      "comments": 75,
-      "author": "pentagrama"
+      "title": "GPT‑Live",
+      "url": "https://openai.com/index/introducing-gpt-live/",
+      "score": 685,
+      "comments": 447,
+      "author": "logickkk1"
     },
     {
       "rank": 21,
-      "title": "Herdr: One terminal to rule them all",
-      "url": "https://herdr.dev/",
-      "score": 317,
-      "comments": 138,
-      "author": "handfuloflight"
+      "title": "Rewriting Bun in Rust",
+      "url": "https://bun.com/blog/bun-in-rust",
+      "score": 498,
+      "comments": 280,
+      "author": "afturner"
     },
     {
       "rank": 22,
-      "title": "Show HN: Davit, a Apple Containers UI",
-      "url": "https://davit.app",
-      "score": 330,
-      "comments": 80,
-      "author": "xinit"
+      "title": "I Built the Only 2026 WWII Jeep",
+      "url": "https://www.theautopian.com/i-bet-my-company-on-an-impossible-jeep-build-then-a-miracle-happened/",
+      "score": 9,
+      "comments": 1,
+      "author": "martey"
     },
     {
       "rank": 23,
-      "title": "The difference between \"today's task\" and \"accretive work\"",
-      "url": "https://pluralistic.net/2026/07/02/canonization/",
-      "score": 74,
-      "comments": 44,
-      "author": "hn_acker"
+      "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
+      "url": "https://mira-wm.com/",
+      "score": 65,
+      "comments": 12,
+      "author": "ethanlipson"
     },
     {
       "rank": 24,
-      "title": "List of European organizations that have banned personal messaging apps at work",
-      "url": "https://www.birdy.chat/blog/the-growing-list-of-european-organisations-that-ban-personal-messaging-apps-at-work",
-      "score": 28,
-      "comments": 28,
-      "author": "rmesters"
+      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+      "score": 1361,
+      "comments": 213,
+      "author": "speerer"
     },
     {
       "rank": 25,
-      "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
-      "url": "https://github.com/rowboatlabs/rowboat",
-      "score": 180,
-      "comments": 62,
-      "author": "segmenta"
+      "title": "TypeScript 7",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
+      "score": 577,
+      "comments": 228,
+      "author": "DanRosenwasser"
     },
     {
       "rank": 26,
-      "title": "l: A new runtime for k and q",
-      "url": "https://lv1.sh/",
-      "score": 152,
-      "comments": 93,
-      "author": "skruger"
+      "title": "FAANG Simulator",
+      "url": "https://www.abeyk.com/escape-the-rat-race/",
+      "score": 379,
+      "comments": 144,
+      "author": "nerdbiscuits"
     },
     {
       "rank": 27,
-      "title": "IEEE Rolls Out Large Language Models Training Course",
-      "url": "https://spectrum.ieee.org/large-language-models-ieee-course",
-      "score": 86,
-      "comments": 15,
-      "author": "JeanKage"
+      "title": "New Sweden: the US's long-lost 'secret' colony",
+      "url": "https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony",
+      "score": 93,
+      "comments": 34,
+      "author": "bookofjoe"
     },
     {
       "rank": 28,
-      "title": "Why we built yet another Postgres connection pooler",
-      "url": "https://pgdog.dev/blog/why-yet-another-connection-pooler",
-      "score": 215,
-      "comments": 52,
-      "author": "levkk"
+      "title": "A bug which affected only left handed users",
+      "url": "https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/",
+      "score": 108,
+      "comments": 58,
+      "author": "sixhobbits"
     },
     {
       "rank": 29,
-      "title": "Scheme Is a Hoot",
-      "url": "https://gracefulliberty.com/notes/scheme-is-a-hoot/",
-      "score": 88,
-      "comments": 19,
-      "author": "signa11"
+      "title": "OpenMandriva: Statement regarding attempted distribution sabotage",
+      "url": "https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997",
+      "score": 98,
+      "comments": 17,
+      "author": "workethics"
     },
     {
       "rank": 30,
-      "title": "Jim's TrueType QR Code Font",
-      "url": "https://github.com/jimparis/qr-font",
-      "score": 194,
-      "comments": 25,
-      "author": "arantius"
+      "title": "I think I have LLM burnout",
+      "url": "https://www.alecscollon.com/blog/llm-burnout/",
+      "score": 310,
+      "comments": 236,
+      "author": "sosodev"
     }
   ]
 }

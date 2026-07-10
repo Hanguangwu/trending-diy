@@ -1,0 +1,457 @@
+{
+  "date": "2026-07-10",
+  "updatedAt": "2026-07-10T07:31:04.230Z",
+  "github": {
+    "updatedAt": "2026-07-10T07:31:01.651Z",
+    "repos": [
+      {
+        "rank": 1,
+        "author": "SmartlyDressedGames",
+        "name": "U3-SDK",
+        "fullName": "SmartlyDressedGames/U3-SDK",
+        "url": "https://github.com/SmartlyDressedGames/U3-SDK",
+        "description": "Source code for Unturned, a free open-world zombie survival sandbox game.",
+        "language": "C#",
+        "languageColor": "#178600",
+        "starsToday": 0,
+        "totalStars": 2182,
+        "forks": 278,
+        "builtBy": [
+          {
+            "username": "SDGNelson",
+            "avatar": "https://avatars.githubusercontent.com/u/12567645?s=40&40&v=4"
+          },
+          {
+            "username": "MoltonMontro",
+            "avatar": "https://avatars.githubusercontent.com/u/7608445?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "author": "addyosmani",
+        "name": "agent-skills",
+        "fullName": "addyosmani/agent-skills",
+        "url": "https://github.com/addyosmani/agent-skills",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 76226,
+        "forks": 8186,
+        "builtBy": [
+          {
+            "username": "addyosmani",
+            "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&40&v=4"
+          },
+          {
+            "username": "nucliweb",
+            "avatar": "https://avatars.githubusercontent.com/u/1307927?s=40&40&v=4"
+          },
+          {
+            "username": "federicobartoli",
+            "avatar": "https://avatars.githubusercontent.com/u/27234034?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "dj2313",
+            "avatar": "https://avatars.githubusercontent.com/u/103351705?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "author": "VoltAgent",
+        "name": "awesome-design-md",
+        "fullName": "VoltAgent/awesome-design-md",
+        "url": "https://github.com/VoltAgent/awesome-design-md",
+        "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+        "language": null,
+        "languageColor": null,
+        "starsToday": 0,
+        "totalStars": 100194,
+        "forks": 11599,
+        "builtBy": [
+          {
+            "username": "necatiozmen",
+            "avatar": "https://avatars.githubusercontent.com/u/18739364?s=40&40&v=4"
+          },
+          {
+            "username": "omeraplak",
+            "avatar": "https://avatars.githubusercontent.com/u/1110414?s=40&40&v=4"
+          },
+          {
+            "username": "doanbactam",
+            "avatar": "https://avatars.githubusercontent.com/u/24356000?s=40&40&v=4"
+          },
+          {
+            "username": "LeeDoYup",
+            "avatar": "https://avatars.githubusercontent.com/u/33016192?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "author": "iOfficeAI",
+        "name": "OfficeCLI",
+        "fullName": "iOfficeAI/OfficeCLI",
+        "url": "https://github.com/iOfficeAI/OfficeCLI",
+        "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+        "language": "C#",
+        "languageColor": "#178600",
+        "starsToday": 0,
+        "totalStars": 13839,
+        "forks": 938,
+        "builtBy": [
+          {
+            "username": "goworm",
+            "avatar": "https://avatars.githubusercontent.com/u/28083037?s=40&40&v=4"
+          },
+          {
+            "username": "IceyLiu",
+            "avatar": "https://avatars.githubusercontent.com/u/10683426?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "ringringlin",
+            "avatar": "https://avatars.githubusercontent.com/u/226215277?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "author": "wonderwhy-er",
+        "name": "DesktopCommanderMCP",
+        "fullName": "wonderwhy-er/DesktopCommanderMCP",
+        "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+        "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 6669,
+        "forks": 832,
+        "builtBy": [
+          {
+            "username": "wonderwhy-er",
+            "avatar": "https://avatars.githubusercontent.com/u/1150639?s=40&40&v=4"
+          },
+          {
+            "username": "serg33v",
+            "avatar": "https://avatars.githubusercontent.com/u/989699?s=40&40&v=4"
+          },
+          {
+            "username": "edgarsskore",
+            "avatar": "https://avatars.githubusercontent.com/u/22543693?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "dmitry-ottic-ai",
+            "avatar": "https://avatars.githubusercontent.com/u/181032508?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "author": "anthropics",
+        "name": "claude-cookbooks",
+        "fullName": "anthropics/claude-cookbooks",
+        "url": "https://github.com/anthropics/claude-cookbooks",
+        "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+        "language": "Jupyter Notebook",
+        "languageColor": "#DA5B0B",
+        "starsToday": 0,
+        "totalStars": 47306,
+        "forks": 5564,
+        "builtBy": [
+          {
+            "username": "zealoushacker",
+            "avatar": "https://avatars.githubusercontent.com/u/346275?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "alexalbertt",
+            "avatar": "https://avatars.githubusercontent.com/u/34638987?s=40&40&v=4"
+          },
+          {
+            "username": "PedramNavid",
+            "avatar": "https://avatars.githubusercontent.com/u/1045990?s=40&40&v=4"
+          },
+          {
+            "username": "saflamini",
+            "avatar": "https://avatars.githubusercontent.com/u/43142465?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "author": "vxcontrol",
+        "name": "pentagi",
+        "fullName": "vxcontrol/pentagi",
+        "url": "https://github.com/vxcontrol/pentagi",
+        "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "starsToday": 0,
+        "totalStars": 19633,
+        "forks": 2637,
+        "builtBy": [
+          {
+            "username": "sirozha",
+            "avatar": "https://avatars.githubusercontent.com/u/7765123?s=40&40&v=4"
+          },
+          {
+            "username": "asdek",
+            "avatar": "https://avatars.githubusercontent.com/u/4257336?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "mason5052",
+            "avatar": "https://avatars.githubusercontent.com/u/52062353?s=40&40&v=4"
+          },
+          {
+            "username": "cursoragent",
+            "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "author": "unclecode",
+        "name": "crawl4ai",
+        "fullName": "unclecode/crawl4ai",
+        "url": "https://github.com/unclecode/crawl4ai",
+        "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 72018,
+        "forks": 7387,
+        "builtBy": [
+          {
+            "username": "unclecode",
+            "avatar": "https://avatars.githubusercontent.com/u/12494079?s=40&40&v=4"
+          },
+          {
+            "username": "ntohidi",
+            "avatar": "https://avatars.githubusercontent.com/u/17140097?s=40&40&v=4"
+          },
+          {
+            "username": "aravindkarnam",
+            "avatar": "https://avatars.githubusercontent.com/u/15815124?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "SohamKukreti",
+            "avatar": "https://avatars.githubusercontent.com/u/114597712?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "author": "imthenachoman",
+        "name": "How-To-Secure-A-Linux-Server",
+        "fullName": "imthenachoman/How-To-Secure-A-Linux-Server",
+        "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+        "description": "An evolving how-to guide for securing a Linux server.",
+        "language": null,
+        "languageColor": null,
+        "starsToday": 0,
+        "totalStars": 29237,
+        "forks": 1942,
+        "builtBy": [
+          {
+            "username": "imthenachoman",
+            "avatar": "https://avatars.githubusercontent.com/u/83817?s=40&40&v=4"
+          },
+          {
+            "username": "moltenbit",
+            "avatar": "https://avatars.githubusercontent.com/u/31832259?s=40&40&v=4"
+          },
+          {
+            "username": "LaurenceJJones",
+            "avatar": "https://avatars.githubusercontent.com/u/23139695?s=40&40&v=4"
+          },
+          {
+            "username": "hellresistor",
+            "avatar": "https://avatars.githubusercontent.com/u/50468493?s=40&40&v=4"
+          },
+          {
+            "username": "nidamanx",
+            "avatar": "https://avatars.githubusercontent.com/u/1094368?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "author": "huxingyi",
+        "name": "autoremesher",
+        "fullName": "huxingyi/autoremesher",
+        "url": "https://github.com/huxingyi/autoremesher",
+        "description": "Automatic quad remeshing tool",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "starsToday": 0,
+        "totalStars": 2439,
+        "forks": 179,
+        "builtBy": [
+          {
+            "username": "huxingyi",
+            "avatar": "https://avatars.githubusercontent.com/u/3941597?s=40&40&v=4"
+          },
+          {
+            "username": "mvanhorn",
+            "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&40&v=4"
+          },
+          {
+            "username": "animaone",
+            "avatar": "https://avatars.githubusercontent.com/u/31348553?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 11,
+        "author": "bradautomates",
+        "name": "claude-video",
+        "fullName": "bradautomates/claude-video",
+        "url": "https://github.com/bradautomates/claude-video",
+        "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 6871,
+        "forks": 780,
+        "builtBy": [
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "bradautomates",
+            "avatar": "https://avatars.githubusercontent.com/u/186665980?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 12,
+        "author": "prisma",
+        "name": "prisma",
+        "fullName": "prisma/prisma",
+        "url": "https://github.com/prisma/prisma",
+        "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 47006,
+        "forks": 2397,
+        "builtBy": [
+          {
+            "username": "timsuchanek",
+            "avatar": "https://avatars.githubusercontent.com/u/1094804?s=40&40&v=4"
+          },
+          {
+            "username": "prisma-bot",
+            "avatar": "https://avatars.githubusercontent.com/u/52275815?s=40&40&v=4"
+          },
+          {
+            "username": "Jolg42",
+            "avatar": "https://avatars.githubusercontent.com/u/1328733?s=40&40&v=4"
+          },
+          {
+            "username": "nikolasburk",
+            "avatar": "https://avatars.githubusercontent.com/u/4058327?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 13,
+        "author": "kyutai-labs",
+        "name": "pocket-tts",
+        "fullName": "kyutai-labs/pocket-tts",
+        "url": "https://github.com/kyutai-labs/pocket-tts",
+        "description": "A TTS that fits in your CPU (and pocket)",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 7104,
+        "forks": 710,
+        "builtBy": [
+          {
+            "username": "gabrieldemarmiesse",
+            "avatar": "https://avatars.githubusercontent.com/u/12891691?s=40&40&v=4"
+          },
+          {
+            "username": "vvolhejn",
+            "avatar": "https://avatars.githubusercontent.com/u/8401624?s=40&40&v=4"
+          },
+          {
+            "username": "thataboy",
+            "avatar": "https://avatars.githubusercontent.com/u/9921143?s=40&40&v=4"
+          },
+          {
+            "username": "darknight054",
+            "avatar": "https://avatars.githubusercontent.com/u/182080266?s=40&40&v=4"
+          },
+          {
+            "username": "joshwhiton",
+            "avatar": "https://avatars.githubusercontent.com/u/217690071?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 14,
+        "author": "asgeirtj",
+        "name": "system_prompts_leaks",
+        "fullName": "asgeirtj/system_prompts_leaks",
+        "url": "https://github.com/asgeirtj/system_prompts_leaks",
+        "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 55414,
+        "forks": 9112,
+        "builtBy": [
+          {
+            "username": "asgeirtj",
+            "avatar": "https://avatars.githubusercontent.com/u/27446620?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "awrreny",
+            "avatar": "https://avatars.githubusercontent.com/u/46632417?s=40&40&v=4"
+          },
+          {
+            "username": "anonymous619259",
+            "avatar": "https://avatars.githubusercontent.com/u/87837428?s=40&40&v=4"
+          },
+          {
+            "username": "lcebot",
+            "avatar": "https://avatars.githubusercontent.com/u/117039037?s=40&40&v=4"
+          }
+        ]
+      }
+    ]
+  },
+  "productHunt": null,
+  "hackerNews": null
+}

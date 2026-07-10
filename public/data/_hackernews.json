@@ -1,237 +1,245 @@
 {
-  "updatedAt": "2026-07-09T07:33:14.291Z",
+  "updatedAt": "2026-07-10T07:31:04.222Z",
   "stories": [
     {
       "rank": 1,
-      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
-      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
-      "score": 698,
-      "comments": 131,
-      "author": "djoldman"
+      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+      "url": "https://github.com/JustVugg/colibri",
+      "score": 578,
+      "comments": 139,
+      "author": "vforno"
     },
     {
       "rank": 2,
-      "title": "Spider venom kills varroa mites without harming honeybees",
-      "url": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
-      "score": 69,
-      "comments": 23,
-      "author": "Jedd"
+      "title": "EU Parliament greenlights Chat Control 1.0",
+      "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+      "score": 1275,
+      "comments": 605,
+      "author": "rapnie"
     },
     {
       "rank": 3,
-      "title": "AI changes the economics of software rewrites",
-      "url": "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/",
-      "score": 34,
-      "comments": 37,
-      "author": "cinooo"
+      "title": "Train sim created by just one person is being called the best ever made",
+      "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
+      "score": 490,
+      "comments": 168,
+      "author": "oumua_don17"
     },
     {
       "rank": 4,
-      "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
-      "url": "https://github.com/malisper/pgrust",
-      "score": 15,
-      "comments": 2,
-      "author": "SweetSoftPillow"
+      "title": "Show HN: 18 Words",
+      "url": "https://18words.com/",
+      "score": 954,
+      "comments": 312,
+      "author": "pompomsheep"
     },
     {
       "rank": 5,
-      "title": "Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI",
-      "url": "https://nexte.st/",
-      "score": 62,
-      "comments": 16,
-      "author": "nateb2022"
-    },
-    {
-      "rank": 6,
-      "title": "Separating signal from noise in coding evaluations",
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
-      "score": 202,
-      "comments": 71,
-      "author": "sk4rekr0w"
-    },
-    {
-      "rank": 8,
-      "title": "Remote Attestation",
-      "url": "https://www.liamcvw.com/p/remote-attestation",
-      "score": 79,
-      "comments": 63,
-      "author": "lcvw"
-    },
-    {
-      "rank": 9,
-      "title": "Benchmarking coding agents on Databricks' multi-million line codebase",
-      "url": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
-      "score": 61,
-      "comments": 22,
-      "author": "tanelpoder"
-    },
-    {
-      "rank": 10,
-      "title": "Unicode's transliteration rules are Turing-complete",
-      "url": "https://seriot.ch/computation/uts35/",
-      "score": 92,
-      "comments": 27,
-      "author": "beefburger"
-    },
-    {
-      "rank": 11,
-      "title": "Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line",
-      "url": "https://www.yamanote.fun/",
-      "score": 145,
-      "comments": 27,
-      "author": "madebymagnolia"
-    },
-    {
-      "rank": 12,
-      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
-      "url": "https://microsoft.github.io/flint-chart/#/",
-      "score": 262,
-      "comments": 100,
-      "author": "chenglong-hn"
-    },
-    {
-      "rank": 13,
-      "title": "Cloudflare Drop",
-      "url": "https://www.cloudflare.com/drop/",
-      "score": 385,
-      "comments": 194,
-      "author": "coloneltcb"
-    },
-    {
-      "rank": 14,
-      "title": "Grok 4.5",
-      "url": "https://x.ai/news/grok-4-5",
-      "score": 590,
-      "comments": 801,
-      "author": "BoumTAC"
-    },
-    {
-      "rank": 15,
-      "title": "Patching MechCommander's \"left arm bug\" for fun and profit",
-      "url": "https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/",
-      "score": 57,
-      "comments": 17,
-      "author": "Narann"
-    },
-    {
-      "rank": 16,
-      "title": "Turning a pile of documents into a searchable useable knowledge base",
-      "url": "https://github.com/linuxrebel/DocuBrowser",
-      "score": 122,
-      "comments": 27,
-      "author": "linuxrebe1"
-    },
-    {
-      "rank": 17,
-      "title": "Apache Shiro security framework releases 3.0.0",
-      "url": "https://shiro.apache.org/blog/2026/06/apache-shiro-300-released.html",
-      "score": 23,
-      "comments": 0,
-      "author": "lprimak"
-    },
-    {
-      "rank": 18,
-      "title": "3D Airplane tracker on Mercator map",
-      "url": "https://github.com/jamalrfordii-arch/Vanguard-Map",
-      "score": 6,
-      "comments": 0,
-      "author": "Lawyer24"
-    },
-    {
-      "rank": 19,
-      "title": "Chatto is now open source",
-      "url": "https://www.hmans.dev/blog/chatto-is-open-source",
-      "score": 928,
-      "comments": 241,
-      "author": "speckx"
-    },
-    {
-      "rank": 20,
-      "title": "GPT‑Live",
-      "url": "https://openai.com/index/introducing-gpt-live/",
-      "score": 685,
-      "comments": 447,
+      "title": "GPT-5.6",
+      "url": "https://openai.com/index/gpt-5-6/",
+      "score": 1213,
+      "comments": 858,
       "author": "logickkk1"
     },
     {
+      "rank": 6,
+      "title": "Study: \"Mommy, do you love your phone more than me?\"",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full",
+      "score": 105,
+      "comments": 62,
+      "author": "hbcondo714"
+    },
+    {
+      "rank": 7,
+      "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "url": "https://github.com/malisper/pgrust",
+      "score": 599,
+      "comments": 501,
+      "author": "SweetSoftPillow"
+    },
+    {
+      "rank": 8,
+      "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
+      "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
+      "score": 208,
+      "comments": 89,
+      "author": "veqq"
+    },
+    {
+      "rank": 9,
+      "title": "Hy3",
+      "url": "https://hy.tencent.com/research/hy3",
+      "score": 448,
+      "comments": 91,
+      "author": "andai"
+    },
+    {
+      "rank": 10,
+      "title": "The glass backbone: Why the Army's logistics will break in the next war",
+      "url": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
+      "score": 361,
+      "comments": 440,
+      "author": "baud147258"
+    },
+    {
+      "rank": 11,
+      "title": "My Story of 3D Realms / Apogee Part I (2020)",
+      "url": "https://joesiegler.blog/2020/11/my-story-of-apogee-3dr/",
+      "score": 65,
+      "comments": 2,
+      "author": "Michelangelo11"
+    },
+    {
+      "rank": 12,
+      "title": "Life with Hazard Ratios",
+      "url": "https://dynomight.net/hazard-ratios/",
+      "score": 30,
+      "comments": 8,
+      "author": "surprisetalk"
+    },
+    {
+      "rank": 13,
+      "title": "No leap second will be introduced at the end of December 2026",
+      "url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
+      "score": 269,
+      "comments": 205,
+      "author": "ChrisArchitect"
+    },
+    {
+      "rank": 14,
+      "title": "Harman and Dr. Sean Olive are reshaping headphone sound",
+      "url": "https://www.crutchfield.com/S-ls67Oiva4Wu/learn/crutchfield-visits-harman.html",
+      "score": 12,
+      "comments": 0,
+      "author": "ledoge"
+    },
+    {
+      "rank": 15,
+      "title": "A road to Lisp: Why Lisp",
+      "url": "https://scotto.me/blog/2026-07-09-why-lisp/",
+      "score": 212,
+      "comments": 151,
+      "author": "silcoon"
+    },
+    {
+      "rank": 16,
+      "title": "Build your own vulnerability harness",
+      "url": "https://blog.cloudflare.com/build-your-own-vulnerability-harness/",
+      "score": 39,
+      "comments": 16,
+      "author": "ianrahman"
+    },
+    {
+      "rank": 17,
+      "title": "Common prefix skipping, adaptive sort",
+      "url": "http://smalldatum.blogspot.com/2026/01/common-prefix-skipping-adaptive-sort.html",
+      "score": 16,
+      "comments": 0,
+      "author": "theanonymousone"
+    },
+    {
+      "rank": 18,
+      "title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
+      "url": "https://www.context.dev",
+      "score": 91,
+      "comments": 64,
+      "author": "TheYahiaBakour"
+    },
+    {
+      "rank": 19,
+      "title": "Building a real-time AI tutor for 5-year-olds",
+      "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+      "score": 81,
+      "comments": 115,
+      "author": "catalinvoss"
+    },
+    {
+      "rank": 20,
+      "title": "A possible future for Damn Interesting",
+      "url": "https://www.damninteresting.com/a-possible-future/",
+      "score": 270,
+      "comments": 37,
+      "author": "mzur"
+    },
+    {
       "rank": 21,
-      "title": "Rewriting Bun in Rust",
-      "url": "https://bun.com/blog/bun-in-rust",
-      "score": 498,
-      "comments": 280,
-      "author": "afturner"
+      "title": "Why American ambulance rides are so expensive",
+      "url": "https://davidoks.blog/p/why-american-ambulance-rides-are",
+      "score": 179,
+      "comments": 229,
+      "author": "jyunwai"
     },
     {
       "rank": 22,
-      "title": "I Built the Only 2026 WWII Jeep",
-      "url": "https://www.theautopian.com/i-bet-my-company-on-an-impossible-jeep-build-then-a-miracle-happened/",
-      "score": 9,
-      "comments": 1,
-      "author": "martey"
+      "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
+      "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
+      "score": 61,
+      "comments": 46,
+      "author": "tosh"
     },
     {
       "rank": 23,
-      "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
-      "url": "https://mira-wm.com/",
-      "score": 65,
-      "comments": 12,
-      "author": "ethanlipson"
+      "title": "Muse Spark 1.1",
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+      "score": 362,
+      "comments": 181,
+      "author": "ot"
     },
     {
       "rank": 24,
-      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
-      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-      "score": 1361,
-      "comments": 213,
-      "author": "speerer"
+      "title": "Triple Dragon Fractal (2020)",
+      "url": "https://paulbourke.net/fractals/tripledragon/",
+      "score": 41,
+      "comments": 9,
+      "author": "nhatcher"
     },
     {
       "rank": 25,
-      "title": "TypeScript 7",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
-      "score": 577,
-      "comments": 228,
-      "author": "DanRosenwasser"
+      "title": "Girls just wanna have fast MPMC queues with bounded waiting",
+      "url": "https://nahla.dev/blog/waitfree_queue/",
+      "score": 153,
+      "comments": 31,
+      "author": "EvgeniyZh"
     },
     {
       "rank": 26,
-      "title": "FAANG Simulator",
-      "url": "https://www.abeyk.com/escape-the-rat-race/",
-      "score": 379,
-      "comments": 144,
-      "author": "nerdbiscuits"
+      "title": "Patterncollider: Generate and explore quasiperiodic tiling patterns",
+      "url": "https://github.com/aatishb/patterncollider",
+      "score": 42,
+      "comments": 2,
+      "author": "tobr"
     },
     {
       "rank": 27,
-      "title": "New Sweden: the US's long-lost 'secret' colony",
-      "url": "https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony",
-      "score": 93,
-      "comments": 34,
-      "author": "bookofjoe"
+      "title": "Cache-Conscious Data Layout in Rust: Field Zoning, False Sharing, 128-Byte Rule",
+      "url": "https://debasishg.github.io/blog/part1-cache-conscious-data-layout-in-rust/",
+      "score": 22,
+      "comments": 14,
+      "author": "eigenBasis"
     },
     {
       "rank": 28,
-      "title": "A bug which affected only left handed users",
-      "url": "https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/",
-      "score": 108,
-      "comments": 58,
-      "author": "sixhobbits"
+      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+      "score": 1311,
+      "comments": 276,
+      "author": "djoldman"
     },
     {
       "rank": 29,
-      "title": "OpenMandriva: Statement regarding attempted distribution sabotage",
-      "url": "https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997",
-      "score": 98,
-      "comments": 17,
-      "author": "workethics"
+      "title": "Buried Apple feature turns an iPhone into the perfect kids' dumb phone",
+      "url": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/",
+      "score": 327,
+      "comments": 194,
+      "author": "PotatoNinja"
     },
     {
       "rank": 30,
-      "title": "I think I have LLM burnout",
-      "url": "https://www.alecscollon.com/blog/llm-burnout/",
-      "score": 310,
-      "comments": 236,
-      "author": "sosodev"
+      "title": "SimPolitics: America’s quest to solve politics with computers",
+      "url": "https://mitpress.mit.edu/9780262053198/simpolitics/",
+      "score": 89,
+      "comments": 24,
+      "author": "mckelveyf"
     }
   ]
 }

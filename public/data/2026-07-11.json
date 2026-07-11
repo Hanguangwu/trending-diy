@@ -1,0 +1,640 @@
+{
+  "date": "2026-07-11",
+  "updatedAt": "2026-07-11T06:09:04.199Z",
+  "github": {
+    "updatedAt": "2026-07-11T06:09:02.534Z",
+    "repos": [
+      {
+        "rank": 1,
+        "author": "wonderwhy-er",
+        "name": "DesktopCommanderMCP",
+        "fullName": "wonderwhy-er/DesktopCommanderMCP",
+        "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+        "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 7453,
+        "forks": 943,
+        "builtBy": [
+          {
+            "username": "wonderwhy-er",
+            "avatar": "https://avatars.githubusercontent.com/u/1150639?s=40&40&v=4"
+          },
+          {
+            "username": "serg33v",
+            "avatar": "https://avatars.githubusercontent.com/u/989699?s=40&40&v=4"
+          },
+          {
+            "username": "edgarsskore",
+            "avatar": "https://avatars.githubusercontent.com/u/22543693?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "dmitry-ottic-ai",
+            "avatar": "https://avatars.githubusercontent.com/u/181032508?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "author": "oven-sh",
+        "name": "bun",
+        "fullName": "oven-sh/bun",
+        "url": "https://github.com/oven-sh/bun",
+        "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 94371,
+        "forks": 4950,
+        "builtBy": [
+          {
+            "username": "Jarred-Sumner",
+            "avatar": "https://avatars.githubusercontent.com/u/709451?s=40&40&v=4"
+          },
+          {
+            "username": "robobun",
+            "avatar": "https://avatars.githubusercontent.com/u/117481402?s=40&40&v=4"
+          },
+          {
+            "username": "dylan-conway",
+            "avatar": "https://avatars.githubusercontent.com/u/35280289?s=40&40&v=4"
+          },
+          {
+            "username": "nektro",
+            "avatar": "https://avatars.githubusercontent.com/u/5464072?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "author": "abseil",
+        "name": "abseil-cpp",
+        "fullName": "abseil/abseil-cpp",
+        "url": "https://github.com/abseil/abseil-cpp",
+        "description": "Abseil Common Libraries (C++)",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "starsToday": 0,
+        "totalStars": 17544,
+        "forks": 3200,
+        "builtBy": [
+          {
+            "username": "derekmauro",
+            "avatar": "https://avatars.githubusercontent.com/u/761129?s=40&40&v=4"
+          },
+          {
+            "username": "ezbr",
+            "avatar": "https://avatars.githubusercontent.com/u/69321728?s=40&40&v=4"
+          },
+          {
+            "username": "goldvitaly",
+            "avatar": "https://avatars.githubusercontent.com/u/1177862?s=40&40&v=4"
+          },
+          {
+            "username": "dinord",
+            "avatar": "https://avatars.githubusercontent.com/u/7139495?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "author": "addyosmani",
+        "name": "agent-skills",
+        "fullName": "addyosmani/agent-skills",
+        "url": "https://github.com/addyosmani/agent-skills",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 76967,
+        "forks": 8265,
+        "builtBy": [
+          {
+            "username": "addyosmani",
+            "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&40&v=4"
+          },
+          {
+            "username": "nucliweb",
+            "avatar": "https://avatars.githubusercontent.com/u/1307927?s=40&40&v=4"
+          },
+          {
+            "username": "federicobartoli",
+            "avatar": "https://avatars.githubusercontent.com/u/27234034?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "dj2313",
+            "avatar": "https://avatars.githubusercontent.com/u/103351705?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "author": "jbeder",
+        "name": "yaml-cpp",
+        "fullName": "jbeder/yaml-cpp",
+        "url": "https://github.com/jbeder/yaml-cpp",
+        "description": "A YAML parser and emitter in C++",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "starsToday": 0,
+        "totalStars": 6101,
+        "forks": 2261,
+        "builtBy": [
+          {
+            "username": "jbeder",
+            "avatar": "https://avatars.githubusercontent.com/u/1059334?s=40&40&v=4"
+          },
+          {
+            "username": "SGSSGene",
+            "avatar": "https://avatars.githubusercontent.com/u/456045?s=40&40&v=4"
+          },
+          {
+            "username": "dota17",
+            "avatar": "https://avatars.githubusercontent.com/u/50514813?s=40&40&v=4"
+          },
+          {
+            "username": "asmaloney",
+            "avatar": "https://avatars.githubusercontent.com/u/391371?s=40&40&v=4"
+          },
+          {
+            "username": "neheb",
+            "avatar": "https://avatars.githubusercontent.com/u/2918873?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "author": "mattpocock",
+        "name": "skills",
+        "fullName": "mattpocock/skills",
+        "url": "https://github.com/mattpocock/skills",
+        "description": "Skills for Real Engineers. Straight from my .claude directory.",
+        "language": "Shell",
+        "languageColor": "#89e051",
+        "starsToday": 0,
+        "totalStars": 164905,
+        "forks": 14190,
+        "builtBy": [
+          {
+            "username": "mattpocock",
+            "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "author": "obra",
+        "name": "superpowers",
+        "fullName": "obra/superpowers",
+        "url": "https://github.com/obra/superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "languageColor": "#89e051",
+        "starsToday": 0,
+        "totalStars": 251948,
+        "forks": 22487,
+        "builtBy": [
+          {
+            "username": "obra",
+            "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&40&v=4"
+          },
+          {
+            "username": "arittr",
+            "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "clkao",
+            "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&40&v=4"
+          },
+          {
+            "username": "jjshanks",
+            "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "author": "microsoft",
+        "name": "TypeScript",
+        "fullName": "microsoft/TypeScript",
+        "url": "https://github.com/microsoft/TypeScript",
+        "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 109817,
+        "forks": 13639,
+        "builtBy": [
+          {
+            "username": "ahejlsberg",
+            "avatar": "https://avatars.githubusercontent.com/u/4226954?s=40&40&v=4"
+          },
+          {
+            "username": "sheetalkamat",
+            "avatar": "https://avatars.githubusercontent.com/u/8052792?s=40&40&v=4"
+          },
+          {
+            "username": "DanielRosenwasser",
+            "avatar": "https://avatars.githubusercontent.com/u/972891?s=40&40&v=4"
+          },
+          {
+            "username": "sandersn",
+            "avatar": "https://avatars.githubusercontent.com/u/293473?s=40&40&v=4"
+          },
+          {
+            "username": "mhegazy",
+            "avatar": "https://avatars.githubusercontent.com/u/8000722?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "author": "catchorg",
+        "name": "Catch2",
+        "fullName": "catchorg/Catch2",
+        "url": "https://github.com/catchorg/Catch2",
+        "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "starsToday": 0,
+        "totalStars": 20636,
+        "forks": 3415,
+        "builtBy": [
+          {
+            "username": "horenmar",
+            "avatar": "https://avatars.githubusercontent.com/u/9026413?s=40&40&v=4"
+          },
+          {
+            "username": "philsquared",
+            "avatar": "https://avatars.githubusercontent.com/u/92878?s=40&40&v=4"
+          },
+          {
+            "username": "ChrisThrasher",
+            "avatar": "https://avatars.githubusercontent.com/u/39244355?s=40&40&v=4"
+          },
+          {
+            "username": "claremacrae",
+            "avatar": "https://avatars.githubusercontent.com/u/4840096?s=40&40&v=4"
+          },
+          {
+            "username": "JoeyGrajciar",
+            "avatar": "https://avatars.githubusercontent.com/u/5606370?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "author": "chriskohlhoff",
+        "name": "asio",
+        "fullName": "chriskohlhoff/asio",
+        "url": "https://github.com/chriskohlhoff/asio",
+        "description": "Asio C++ Library",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "starsToday": 0,
+        "totalStars": 6090,
+        "forks": 1506,
+        "builtBy": [
+          {
+            "username": "chriskohlhoff",
+            "avatar": "https://avatars.githubusercontent.com/u/462538?s=40&40&v=4"
+          },
+          {
+            "username": "klemens-morgenstern",
+            "avatar": "https://avatars.githubusercontent.com/u/8020376?s=40&40&v=4"
+          },
+          {
+            "username": "xavier2k6",
+            "avatar": "https://avatars.githubusercontent.com/u/42386382?s=40&40&v=4"
+          },
+          {
+            "username": "vinipsmaker",
+            "avatar": "https://avatars.githubusercontent.com/u/865914?s=40&40&v=4"
+          },
+          {
+            "username": "jcelerier",
+            "avatar": "https://avatars.githubusercontent.com/u/2772730?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 11,
+        "author": "TencentCloud",
+        "name": "TencentDB-Agent-Memory",
+        "fullName": "TencentCloud/TencentDB-Agent-Memory",
+        "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+        "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 8308,
+        "forks": 763,
+        "builtBy": [
+          {
+            "username": "Yuntong8888",
+            "avatar": "https://avatars.githubusercontent.com/u/277734672?s=40&40&v=4"
+          },
+          {
+            "username": "Maxwell-Code07",
+            "avatar": "https://avatars.githubusercontent.com/u/95488710?s=40&40&v=4"
+          },
+          {
+            "username": "Huang10q",
+            "avatar": "https://avatars.githubusercontent.com/u/114647511?s=40&40&v=4"
+          },
+          {
+            "username": "YOMXXX",
+            "avatar": "https://avatars.githubusercontent.com/u/18409951?s=40&40&v=4"
+          },
+          {
+            "username": "akhilesharora",
+            "avatar": "https://avatars.githubusercontent.com/u/484069?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 12,
+        "author": "davila7",
+        "name": "claude-code-templates",
+        "fullName": "davila7/claude-code-templates",
+        "url": "https://github.com/davila7/claude-code-templates",
+        "description": "CLI tool for configuring and monitoring Claude Code",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 28812,
+        "forks": 3164,
+        "builtBy": [
+          {
+            "username": "davila7",
+            "avatar": "https://avatars.githubusercontent.com/u/6216945?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 13,
+        "author": "zeux",
+        "name": "meshoptimizer",
+        "fullName": "zeux/meshoptimizer",
+        "url": "https://github.com/zeux/meshoptimizer",
+        "description": "Mesh optimization library that makes meshes smaller and faster to render",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "starsToday": 0,
+        "totalStars": 8044,
+        "forks": 784,
+        "builtBy": [
+          {
+            "username": "zeux",
+            "avatar": "https://avatars.githubusercontent.com/u/1106629?s=40&40&v=4"
+          },
+          {
+            "username": "mosra",
+            "avatar": "https://avatars.githubusercontent.com/u/344828?s=40&40&v=4"
+          },
+          {
+            "username": "corporateshark",
+            "avatar": "https://avatars.githubusercontent.com/u/2510143?s=40&40&v=4"
+          },
+          {
+            "username": "dtrebilco",
+            "avatar": "https://avatars.githubusercontent.com/u/7506147?s=40&40&v=4"
+          },
+          {
+            "username": "l0calh05t",
+            "avatar": "https://avatars.githubusercontent.com/u/1749069?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 14,
+        "author": "tailscale",
+        "name": "tailscale",
+        "fullName": "tailscale/tailscale",
+        "url": "https://github.com/tailscale/tailscale",
+        "description": "The easiest, most secure way to use WireGuard and 2FA.",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "starsToday": 0,
+        "totalStars": 33734,
+        "forks": 2914,
+        "builtBy": [
+          {
+            "username": "bradfitz",
+            "avatar": "https://avatars.githubusercontent.com/u/2621?s=40&40&v=4"
+          },
+          {
+            "username": "danderson",
+            "avatar": "https://avatars.githubusercontent.com/u/1918?s=40&40&v=4"
+          },
+          {
+            "username": "josharian",
+            "avatar": "https://avatars.githubusercontent.com/u/67496?s=40&40&v=4"
+          },
+          {
+            "username": "raggi",
+            "avatar": "https://avatars.githubusercontent.com/u/348?s=40&40&v=4"
+          },
+          {
+            "username": "andrew-d",
+            "avatar": "https://avatars.githubusercontent.com/u/1079173?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 15,
+        "author": "google-labs-code",
+        "name": "stitch-skills",
+        "fullName": "google-labs-code/stitch-skills",
+        "url": "https://github.com/google-labs-code/stitch-skills",
+        "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 6813,
+        "forks": 933,
+        "builtBy": [
+          {
+            "username": "JLXIA",
+            "avatar": "https://avatars.githubusercontent.com/u/43076783?s=40&40&v=4"
+          },
+          {
+            "username": "davideast",
+            "avatar": "https://avatars.githubusercontent.com/u/4570265?s=40&40&v=4"
+          },
+          {
+            "username": "dalmaer",
+            "avatar": "https://avatars.githubusercontent.com/u/4770?s=40&40&v=4"
+          },
+          {
+            "username": "meeChn",
+            "avatar": "https://avatars.githubusercontent.com/u/1460397?s=40&40&v=4"
+          },
+          {
+            "username": "vinothsubramanian",
+            "avatar": "https://avatars.githubusercontent.com/u/7145760?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 16,
+        "author": "iOfficeAI",
+        "name": "OfficeCLI",
+        "fullName": "iOfficeAI/OfficeCLI",
+        "url": "https://github.com/iOfficeAI/OfficeCLI",
+        "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+        "language": "C#",
+        "languageColor": "#178600",
+        "starsToday": 0,
+        "totalStars": 14593,
+        "forks": 994,
+        "builtBy": [
+          {
+            "username": "goworm",
+            "avatar": "https://avatars.githubusercontent.com/u/28083037?s=40&40&v=4"
+          },
+          {
+            "username": "IceyLiu",
+            "avatar": "https://avatars.githubusercontent.com/u/10683426?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "ringringlin",
+            "avatar": "https://avatars.githubusercontent.com/u/226215277?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 17,
+        "author": "hashicorp",
+        "name": "terraform",
+        "fullName": "hashicorp/terraform",
+        "url": "https://github.com/hashicorp/terraform",
+        "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "starsToday": 0,
+        "totalStars": 49219,
+        "forks": 10682,
+        "builtBy": [
+          {
+            "username": "jbardin",
+            "avatar": "https://avatars.githubusercontent.com/u/35067?s=40&40&v=4"
+          },
+          {
+            "username": "mitchellh",
+            "avatar": "https://avatars.githubusercontent.com/u/1299?s=40&40&v=4"
+          },
+          {
+            "username": "apparentlymart",
+            "avatar": "https://avatars.githubusercontent.com/u/20180?s=40&40&v=4"
+          },
+          {
+            "username": "stack72",
+            "avatar": "https://avatars.githubusercontent.com/u/227823?s=40&40&v=4"
+          },
+          {
+            "username": "catsby",
+            "avatar": "https://avatars.githubusercontent.com/u/61721?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 18,
+        "author": "grpc",
+        "name": "grpc",
+        "fullName": "grpc/grpc",
+        "url": "https://github.com/grpc/grpc",
+        "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "starsToday": 0,
+        "totalStars": 45162,
+        "forks": 11329,
+        "builtBy": [
+          {
+            "username": "ctiller",
+            "avatar": "https://avatars.githubusercontent.com/u/10120821?s=40&40&v=4"
+          },
+          {
+            "username": "jtattermusch",
+            "avatar": "https://avatars.githubusercontent.com/u/9939684?s=40&40&v=4"
+          },
+          {
+            "username": "markdroth",
+            "avatar": "https://avatars.githubusercontent.com/u/18664614?s=40&40&v=4"
+          },
+          {
+            "username": "vjpai",
+            "avatar": "https://avatars.githubusercontent.com/u/8864912?s=40&40&v=4"
+          },
+          {
+            "username": "yashykt",
+            "avatar": "https://avatars.githubusercontent.com/u/4181124?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 19,
+        "author": "vercel",
+        "name": "next.js",
+        "fullName": "vercel/next.js",
+        "url": "https://github.com/vercel/next.js",
+        "description": "The React Framework",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 140776,
+        "forks": 31533,
+        "builtBy": [
+          {
+            "username": "ijjk",
+            "avatar": "https://avatars.githubusercontent.com/u/22380829?s=40&40&v=4"
+          },
+          {
+            "username": "timneutkens",
+            "avatar": "https://avatars.githubusercontent.com/u/6324199?s=40&40&v=4"
+          },
+          {
+            "username": "sokra",
+            "avatar": "https://avatars.githubusercontent.com/u/1365881?s=40&40&v=4"
+          },
+          {
+            "username": "vercel-release-bot",
+            "avatar": "https://avatars.githubusercontent.com/u/88769842?s=40&40&v=4"
+          },
+          {
+            "username": "huozhi",
+            "avatar": "https://avatars.githubusercontent.com/u/4800338?s=40&40&v=4"
+          }
+        ]
+      }
+    ]
+  },
+  "productHunt": null,
+  "hackerNews": null
+}

@@ -1,237 +1,245 @@
 {
-  "updatedAt": "2026-07-11T06:09:04.192Z",
+  "updatedAt": "2026-07-12T06:28:45.647Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
-      "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
-      "score": 186,
-      "comments": 63,
-      "author": "hhs"
+      "title": "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
+      "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
+      "score": 75,
+      "comments": 30,
+      "author": "Anon84"
     },
     {
       "rank": 2,
-      "title": "QuadRF can spot drones and see WiFi through my wall",
-      "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
-      "score": 524,
-      "comments": 184,
-      "author": "speckx"
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "score": 179,
+      "comments": 41,
+      "author": "tionis"
     },
     {
       "rank": 3,
-      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-      "score": 854,
-      "comments": 426,
-      "author": "stock_toaster"
+      "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+      "url": "https://antjs.org",
+      "score": 231,
+      "comments": 101,
+      "author": "theMackabu"
     },
     {
       "rank": 4,
-      "title": "An iroh powered smart fan",
-      "url": "https://www.iroh.computer/blog/an-iroh-powered-smart-fan",
-      "score": 70,
-      "comments": 9,
-      "author": "surprisetalk"
+      "title": "RISCBoy is an open-source portable games console, designed from scratch",
+      "url": "https://github.com/Wren6991/RISCBoy",
+      "score": 104,
+      "comments": 17,
+      "author": "mariuz"
     },
     {
       "rank": 5,
-      "title": "An update on residential proxies and the scraper situation",
-      "url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
-      "score": 150,
-      "comments": 142,
-      "author": "chmaynard"
-    },
-    {
-      "rank": 6,
-      "title": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
-      "url": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/",
-      "score": 141,
-      "comments": 409,
-      "author": "CrankyBear"
-    },
-    {
-      "rank": 7,
-      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-      "score": 412,
-      "comments": 322,
-      "author": "scrlk"
-    },
-    {
-      "rank": 8,
-      "title": "Combustion engine web-based simulator",
-      "url": "https://combustionlab.net",
-      "score": 148,
-      "comments": 64,
-      "author": "mytuny"
-    },
-    {
-      "rank": 9,
-      "title": "The Lindy Effect in Software",
-      "url": "https://www.clemsau.com/posts/the-lindy-effect-in-software/",
-      "score": 7,
-      "comments": 5,
-      "author": "ankitg12"
-    },
-    {
-      "rank": 10,
-      "title": "Late Bronze Age Collapse",
-      "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
-      "score": 347,
-      "comments": 238,
-      "author": "dmonay"
-    },
-    {
-      "rank": 11,
-      "title": "The footgun of right-to-left decorative characters",
-      "url": "https://blog.alexbeals.com/posts/the-footgun-of-right-to-left-decorative-characters",
-      "score": 33,
-      "comments": 17,
-      "author": "dado3212"
-    },
-    {
-      "rank": 12,
-      "title": "Good Tools Are Invisible",
-      "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
-      "score": 394,
-      "comments": 186,
-      "author": "theanonymousone"
-    },
-    {
-      "rank": 13,
-      "title": "AI 2040: Plan A",
-      "url": "https://ai-2040.com/",
-      "score": 212,
-      "comments": 213,
-      "author": "kschaul"
-    },
-    {
-      "rank": 14,
-      "title": "The tech of 'Terminator 2' – an oral history (2017)",
-      "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
-      "score": 202,
-      "comments": 71,
-      "author": "markus_zhang"
-    },
-    {
-      "rank": 15,
-      "title": "Silent speech with ultrasound",
-      "url": "https://alephneuro.com/blog/silent-speech",
-      "score": 34,
-      "comments": 10,
-      "author": "chrwn"
-    },
-    {
-      "rank": 16,
-      "title": "Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit",
-      "url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
-      "score": 63,
-      "comments": 25,
-      "author": "theanonymousone"
-    },
-    {
-      "rank": 17,
-      "title": "New York City to ban deceptive subscription practices",
-      "url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
-      "score": 488,
-      "comments": 240,
-      "author": "randycupertino"
-    },
-    {
-      "rank": 18,
-      "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
-      "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
-      "score": 174,
-      "comments": 135,
-      "author": "simonebrunozzi"
-    },
-    {
-      "rank": 19,
-      "title": "Computation as a universal and fundamental concept",
-      "url": "https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept",
-      "score": 116,
-      "comments": 80,
-      "author": "simonpure"
-    },
-    {
-      "rank": 20,
-      "title": "Alternate clock designs and time systems",
-      "url": "https://serialc.github.io/altClocks/",
-      "score": 128,
-      "comments": 67,
-      "author": "ethanpil"
-    },
-    {
-      "rank": 21,
-      "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell",
-      "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
-      "score": 108,
-      "comments": 130,
-      "author": "aviaviavi"
-    },
-    {
-      "rank": 22,
-      "title": "GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years",
-      "url": "https://nebusec.ai/research/ionstack-part-2/",
-      "score": 65,
-      "comments": 13,
-      "author": "djfergus"
-    },
-    {
-      "rank": 24,
-      "title": "A love letter to flashcards",
-      "url": "https://lesleylai.info/en/flashcards/",
-      "score": 145,
-      "comments": 88,
+      "title": "Text Art Tools",
+      "url": "https://hlnet.notion.site/text-art-tools",
+      "score": 10,
+      "comments": 1,
       "author": "surprisetalk"
     },
     {
+      "rank": 6,
+      "title": "I Did Not Kill Stanley Lieber: How to Draw (With 9front)",
+      "url": "https://triapul.cz/automa/i_did_not_kill_stanley_lieber",
+      "score": 43,
+      "comments": 9,
+      "author": "c-c-c-c-c"
+    },
+    {
+      "rank": 7,
+      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+      "score": 219,
+      "comments": 71,
+      "author": "adletbalzhanov"
+    },
+    {
+      "rank": 8,
+      "title": "An agent in 100 lines of Lisp",
+      "url": "https://thebeach.dev/posts/lisp-agent/",
+      "score": 101,
+      "comments": 6,
+      "author": "jamiebeach"
+    },
+    {
+      "rank": 9,
+      "title": "A pure scheme web programming tool",
+      "url": "https://goeteia.dev",
+      "score": 76,
+      "comments": 20,
+      "author": "guenchi"
+    },
+    {
+      "rank": 10,
+      "title": "Why Write Code in 2026",
+      "url": "https://softwaredoug.com/blog/2026/07/09/write-code.html",
+      "score": 25,
+      "comments": 8,
+      "author": "zdw"
+    },
+    {
+      "rank": 11,
+      "title": "EF Core 11 makes your split queries faster",
+      "url": "https://steven-giesel.com/blogPost/d4401fd0-805a-4703-9d9e-5fe3b57c25ea",
+      "score": 14,
+      "comments": 1,
+      "author": "rellem"
+    },
+    {
+      "rank": 12,
+      "title": "The Energetic Costs of Cellular Computation (2012)",
+      "url": "https://arxiv.org/abs/1203.5426",
+      "score": 17,
+      "comments": 1,
+      "author": "lioeters"
+    },
+    {
+      "rank": 13,
+      "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
+      "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
+      "score": 43,
+      "comments": 56,
+      "author": "nradov"
+    },
+    {
+      "rank": 14,
+      "title": "Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts",
+      "url": "https://arxiv.org/abs/2607.07267",
+      "score": 79,
+      "comments": 10,
+      "author": "Anon84"
+    },
+    {
+      "rank": 15,
+      "title": "UPI: Anatomy of a Payment Transaction",
+      "url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
+      "score": 147,
+      "comments": 56,
+      "author": "prtk25"
+    },
+    {
+      "rank": 16,
+      "title": "A Erlang style pure Scheme Webserver and further",
+      "url": "https://igropyr.com",
+      "score": 53,
+      "comments": 5,
+      "author": "guenchi"
+    },
+    {
+      "rank": 17,
+      "title": "We scaled PgBouncer to 4x throughput",
+      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+      "score": 197,
+      "comments": 39,
+      "author": "saisrirampur"
+    },
+    {
+      "rank": 18,
+      "title": "Jellyfish Undersea Roundabout",
+      "url": "https://visitfaroeislands.com/en/plan-your-stay/getting-around/world-first-under-sea-roundabout",
+      "score": 20,
+      "comments": 2,
+      "author": "hydrogen7800"
+    },
+    {
+      "rank": 19,
+      "title": "Long Covid May Physically Damage the Nerves That Control the Stomach",
+      "url": "https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext",
+      "score": 96,
+      "comments": 42,
+      "author": "thenerdhead"
+    },
+    {
+      "rank": 20,
+      "title": "Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio",
+      "url": "https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/",
+      "score": 31,
+      "comments": 15,
+      "author": "marzukia"
+    },
+    {
+      "rank": 21,
+      "title": "Why are US consumers so angry? It's not just high prices",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jun/04/us-consumer-rage-prices-economy",
+      "score": 73,
+      "comments": 76,
+      "author": "dilawar"
+    },
+    {
+      "rank": 22,
+      "title": "What xAI's Grok Build CLI Actually Sends to xAI",
+      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+      "score": 225,
+      "comments": 110,
+      "author": "jhoho"
+    },
+    {
+      "rank": 23,
+      "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
+      "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
+      "score": 108,
+      "comments": 62,
+      "author": "wolfi1"
+    },
+    {
+      "rank": 24,
+      "title": "A dock that wakes up reliably",
+      "url": "https://fabiensanglard.net/tb4/index.html",
+      "score": 61,
+      "comments": 39,
+      "author": "ingve"
+    },
+    {
       "rank": 25,
-      "title": "War Atlas: An interactive cartography of every named war in human history",
-      "url": "https://waratlas.org",
-      "score": 138,
-      "comments": 58,
-      "author": "NaOH"
+      "title": "Prefer strict tables in SQLite",
+      "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+      "score": 253,
+      "comments": 127,
+      "author": "ingve"
     },
     {
       "rank": 26,
-      "title": "Preemption is GC for memory reordering (2019)",
-      "url": "https://pvk.ca/Blog/2019/01/09/preemption-is-gc-for-memory-reordering/",
-      "score": 23,
-      "comments": 5,
-      "author": "mpweiher"
+      "title": "Biff.graph: structure your Clojure codebase as a queryable graph",
+      "url": "https://github.com/jacobobryant/biff/tree/v2.x/libs/graph",
+      "score": 125,
+      "comments": 10,
+      "author": "jacobobryant"
     },
     {
       "rank": 27,
-      "title": "Lost city discovered beneath Egypt's desert with ancient church",
-      "url": "https://www.dailymail.com/sciencetech/article-15956159/Incredible-lost-city-discovered-Egypts-desert.html",
-      "score": 171,
-      "comments": 93,
-      "author": "Bender"
+      "title": "Doctors die. It's not like the rest of us, but it should be (2016)",
+      "url": "https://archive.cancerworld.net/featured/how-doctors-die/",
+      "score": 126,
+      "comments": 70,
+      "author": "downbad_"
     },
     {
       "rank": 28,
-      "title": "Show HN: Wyrm – Solve algebra by touch, built on an open-source soundness engine",
-      "url": "https://github.com/dicroce/wyrm_math",
-      "score": 72,
-      "comments": 12,
-      "author": "dicroce"
+      "title": "Optimization Solver as a Service",
+      "url": "https://www.quicopt.com/developer/getting-started/",
+      "score": 30,
+      "comments": 18,
+      "author": "paddi91"
     },
     {
       "rank": 29,
-      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
-      "url": "https://github.com/JustVugg/colibri",
-      "score": 843,
-      "comments": 208,
-      "author": "vforno"
+      "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
+      "url": "https://shipthatcode.com",
+      "score": 151,
+      "comments": 41,
+      "author": "acley"
     },
     {
       "rank": 30,
-      "title": "Successful companies go blind",
-      "url": "https://ianreppel.org/how-successful-companies-go-blind/",
-      "score": 207,
-      "comments": 72,
-      "author": "speckx"
+      "title": "Martha Lillard, last US polio patient using iron lung, dies at 78 in Oklahoma",
+      "url": "https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-134668491",
+      "score": 68,
+      "comments": 19,
+      "author": "daniel_iversen"
     }
   ]
 }

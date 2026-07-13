@@ -1,0 +1,558 @@
+{
+  "date": "2026-07-13",
+  "updatedAt": "2026-07-13T06:49:02.097Z",
+  "github": {
+    "updatedAt": "2026-07-13T06:49:00.340Z",
+    "repos": [
+      {
+        "rank": 1,
+        "author": "Dicklesworthstone",
+        "name": "destructive_command_guard",
+        "fullName": "Dicklesworthstone/destructive_command_guard",
+        "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+        "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 3284,
+        "forks": 122,
+        "builtBy": [
+          {
+            "username": "Dicklesworthstone",
+            "avatar": "https://avatars.githubusercontent.com/u/35050222?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "codex",
+            "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "author": "wonderwhy-er",
+        "name": "DesktopCommanderMCP",
+        "fullName": "wonderwhy-er/DesktopCommanderMCP",
+        "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+        "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 8061,
+        "forks": 992,
+        "builtBy": [
+          {
+            "username": "wonderwhy-er",
+            "avatar": "https://avatars.githubusercontent.com/u/1150639?s=40&40&v=4"
+          },
+          {
+            "username": "serg33v",
+            "avatar": "https://avatars.githubusercontent.com/u/989699?s=40&40&v=4"
+          },
+          {
+            "username": "edgarsskore",
+            "avatar": "https://avatars.githubusercontent.com/u/22543693?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "dmitry-ottic-ai",
+            "avatar": "https://avatars.githubusercontent.com/u/181032508?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "author": "HKUDS",
+        "name": "Vibe-Trading",
+        "fullName": "HKUDS/Vibe-Trading",
+        "url": "https://github.com/HKUDS/Vibe-Trading",
+        "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 20890,
+        "forks": 3636,
+        "builtBy": [
+          {
+            "username": "warren618",
+            "avatar": "https://avatars.githubusercontent.com/u/127300695?s=40&40&v=4"
+          },
+          {
+            "username": "shadowinlife",
+            "avatar": "https://avatars.githubusercontent.com/u/2840631?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "Elfsa-Miranda",
+            "avatar": "https://avatars.githubusercontent.com/u/230687636?s=40&40&v=4"
+          },
+          {
+            "username": "Teerapat-Vatpitak",
+            "avatar": "https://avatars.githubusercontent.com/u/155278130?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "author": "PrefectHQ",
+        "name": "prefect",
+        "fullName": "PrefectHQ/prefect",
+        "url": "https://github.com/PrefectHQ/prefect",
+        "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 23247,
+        "forks": 2400,
+        "builtBy": [
+          {
+            "username": "zanieb",
+            "avatar": "https://avatars.githubusercontent.com/u/2586601?s=40&40&v=4"
+          },
+          {
+            "username": "desertaxle",
+            "avatar": "https://avatars.githubusercontent.com/u/12350579?s=40&40&v=4"
+          },
+          {
+            "username": "pleek91",
+            "avatar": "https://avatars.githubusercontent.com/u/6200442?s=40&40&v=4"
+          },
+          {
+            "username": "zzstoatzz",
+            "avatar": "https://avatars.githubusercontent.com/u/31014960?s=40&40&v=4"
+          },
+          {
+            "username": "cicdw",
+            "avatar": "https://avatars.githubusercontent.com/u/13255838?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "author": "Shubhamsaboo",
+        "name": "awesome-llm-apps",
+        "fullName": "Shubhamsaboo/awesome-llm-apps",
+        "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+        "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 118879,
+        "forks": 17668,
+        "builtBy": [
+          {
+            "username": "Shubhamsaboo",
+            "avatar": "https://avatars.githubusercontent.com/u/31396011?s=40&40&v=4"
+          },
+          {
+            "username": "Madhuvod",
+            "avatar": "https://avatars.githubusercontent.com/u/124294538?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "onestardao",
+            "avatar": "https://avatars.githubusercontent.com/u/212544643?s=40&40&v=4"
+          },
+          {
+            "username": "libw0430",
+            "avatar": "https://avatars.githubusercontent.com/u/102198332?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "author": "anthropics",
+        "name": "claude-cookbooks",
+        "fullName": "anthropics/claude-cookbooks",
+        "url": "https://github.com/anthropics/claude-cookbooks",
+        "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+        "language": "Jupyter Notebook",
+        "languageColor": "#DA5B0B",
+        "starsToday": 0,
+        "totalStars": 48597,
+        "forks": 5744,
+        "builtBy": [
+          {
+            "username": "zealoushacker",
+            "avatar": "https://avatars.githubusercontent.com/u/346275?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "alexalbertt",
+            "avatar": "https://avatars.githubusercontent.com/u/34638987?s=40&40&v=4"
+          },
+          {
+            "username": "PedramNavid",
+            "avatar": "https://avatars.githubusercontent.com/u/1045990?s=40&40&v=4"
+          },
+          {
+            "username": "saflamini",
+            "avatar": "https://avatars.githubusercontent.com/u/43142465?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "author": "home-assistant",
+        "name": "core",
+        "fullName": "home-assistant/core",
+        "url": "https://github.com/home-assistant/core",
+        "description": "🏡 Open source home automation that puts local control and privacy first.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 89213,
+        "forks": 38088,
+        "builtBy": [
+          {
+            "username": "bdraco",
+            "avatar": "https://avatars.githubusercontent.com/u/663432?s=40&40&v=4"
+          },
+          {
+            "username": "balloob",
+            "avatar": "https://avatars.githubusercontent.com/u/1444314?s=40&40&v=4"
+          },
+          {
+            "username": "epenet",
+            "avatar": "https://avatars.githubusercontent.com/u/6771947?s=40&40&v=4"
+          },
+          {
+            "username": "frenck",
+            "avatar": "https://avatars.githubusercontent.com/u/195327?s=40&40&v=4"
+          },
+          {
+            "username": "emontnemery",
+            "avatar": "https://avatars.githubusercontent.com/u/14281572?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "author": "Crosstalk-Solutions",
+        "name": "project-nomad",
+        "fullName": "Crosstalk-Solutions/project-nomad",
+        "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+        "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 33924,
+        "forks": 3402,
+        "builtBy": [
+          {
+            "username": "jakeaturner",
+            "avatar": "https://avatars.githubusercontent.com/u/52841588?s=40&40&v=4"
+          },
+          {
+            "username": "chriscrosstalk",
+            "avatar": "https://avatars.githubusercontent.com/u/49691103?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "cosmistack-bot",
+            "avatar": "https://avatars.githubusercontent.com/u/175166532?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "author": "ColeMurray",
+        "name": "background-agents",
+        "fullName": "ColeMurray/background-agents",
+        "url": "https://github.com/ColeMurray/background-agents",
+        "description": "An open-source background agents coding system",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 2328,
+        "forks": 345,
+        "builtBy": [
+          {
+            "username": "ColeMurray",
+            "avatar": "https://avatars.githubusercontent.com/u/2492022?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "duboff",
+            "avatar": "https://avatars.githubusercontent.com/u/5929988?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "author": "k1tbyte",
+        "name": "Wand-Enhancer",
+        "fullName": "k1tbyte/Wand-Enhancer",
+        "url": "https://github.com/k1tbyte/Wand-Enhancer",
+        "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+        "language": "C#",
+        "languageColor": "#178600",
+        "starsToday": 0,
+        "totalStars": 7060,
+        "forks": 19731,
+        "builtBy": [
+          {
+            "username": "k1tbyte",
+            "avatar": "https://avatars.githubusercontent.com/u/96521396?s=40&40&v=4"
+          },
+          {
+            "username": "SunsetMkt",
+            "avatar": "https://avatars.githubusercontent.com/u/26019675?s=40&40&v=4"
+          },
+          {
+            "username": "YifePlayte",
+            "avatar": "https://avatars.githubusercontent.com/u/62252171?s=40&40&v=4"
+          },
+          {
+            "username": "Kava4",
+            "avatar": "https://avatars.githubusercontent.com/u/68651706?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 11,
+        "author": "pingdotgg",
+        "name": "t3code",
+        "fullName": "pingdotgg/t3code",
+        "url": "https://github.com/pingdotgg/t3code",
+        "description": "",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 13813,
+        "forks": 2898,
+        "builtBy": [
+          {
+            "username": "juliusmarminge",
+            "avatar": "https://avatars.githubusercontent.com/u/51714798?s=40&40&v=4"
+          },
+          {
+            "username": "codex",
+            "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&40&v=4"
+          },
+          {
+            "username": "t3dotgg",
+            "avatar": "https://avatars.githubusercontent.com/u/6751787?s=40&40&v=4"
+          },
+          {
+            "username": "cursoragent",
+            "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 12,
+        "author": "virattt",
+        "name": "ai-hedge-fund",
+        "fullName": "virattt/ai-hedge-fund",
+        "url": "https://github.com/virattt/ai-hedge-fund",
+        "description": "An AI Hedge Fund Team",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 61499,
+        "forks": 10872,
+        "builtBy": [
+          {
+            "username": "virattt",
+            "avatar": "https://avatars.githubusercontent.com/u/901795?s=40&40&v=4"
+          },
+          {
+            "username": "arsaboo",
+            "avatar": "https://avatars.githubusercontent.com/u/18319734?s=40&40&v=4"
+          },
+          {
+            "username": "KittatamSaisaard",
+            "avatar": "https://avatars.githubusercontent.com/u/50354903?s=40&40&v=4"
+          },
+          {
+            "username": "jsemldonado",
+            "avatar": "https://avatars.githubusercontent.com/u/172995042?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 13,
+        "author": "chen08209",
+        "name": "FlClash",
+        "fullName": "chen08209/FlClash",
+        "url": "https://github.com/chen08209/FlClash",
+        "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
+        "language": "Dart",
+        "languageColor": "#00B4AB",
+        "starsToday": 0,
+        "totalStars": 45338,
+        "forks": 2859,
+        "builtBy": [
+          {
+            "username": "chen08209",
+            "avatar": "https://avatars.githubusercontent.com/u/66918471?s=40&40&v=4"
+          },
+          {
+            "username": "actions-user",
+            "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&40&v=4"
+          },
+          {
+            "username": "txyyh",
+            "avatar": "https://avatars.githubusercontent.com/u/41893946?s=40&40&v=4"
+          },
+          {
+            "username": "BIGGASSS",
+            "avatar": "https://avatars.githubusercontent.com/u/101031809?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 14,
+        "author": "davila7",
+        "name": "claude-code-templates",
+        "fullName": "davila7/claude-code-templates",
+        "url": "https://github.com/davila7/claude-code-templates",
+        "description": "CLI tool for configuring and monitoring Claude Code",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 29299,
+        "forks": 3209,
+        "builtBy": [
+          {
+            "username": "davila7",
+            "avatar": "https://avatars.githubusercontent.com/u/6216945?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 15,
+        "author": "par274",
+        "name": "sharpemu",
+        "fullName": "par274/sharpemu",
+        "url": "https://github.com/par274/sharpemu",
+        "description": "An experimental PlayStation 5 emulator project.",
+        "language": "C#",
+        "languageColor": "#178600",
+        "starsToday": 0,
+        "totalStars": 1379,
+        "forks": 84,
+        "builtBy": [
+          {
+            "username": "par274",
+            "avatar": "https://avatars.githubusercontent.com/u/12572227?s=40&40&v=4"
+          },
+          {
+            "username": "YkPhysics",
+            "avatar": "https://avatars.githubusercontent.com/u/222535002?s=40&40&v=4"
+          },
+          {
+            "username": "MikeSaito",
+            "avatar": "https://avatars.githubusercontent.com/u/183648742?s=40&40&v=4"
+          },
+          {
+            "username": "kostyaff",
+            "avatar": "https://avatars.githubusercontent.com/u/257561424?s=40&40&v=4"
+          },
+          {
+            "username": "Foued-pro",
+            "avatar": "https://avatars.githubusercontent.com/u/180396963?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 16,
+        "author": "malisper",
+        "name": "pgrust",
+        "fullName": "malisper/pgrust",
+        "url": "https://github.com/malisper/pgrust",
+        "description": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 2608,
+        "forks": 74,
+        "builtBy": [
+          {
+            "username": "malisper",
+            "avatar": "https://avatars.githubusercontent.com/u/6210567?s=40&40&v=4"
+          },
+          {
+            "username": "BookSock",
+            "avatar": "https://avatars.githubusercontent.com/u/20192857?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 17,
+        "author": "Nutlope",
+        "name": "hallmark",
+        "fullName": "Nutlope/hallmark",
+        "url": "https://github.com/Nutlope/hallmark",
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "language": "CSS",
+        "languageColor": "#663399",
+        "starsToday": 0,
+        "totalStars": 4505,
+        "forks": 258,
+        "builtBy": [
+          {
+            "username": "Luffixos",
+            "avatar": "https://avatars.githubusercontent.com/u/154055839?s=40&40&v=4"
+          },
+          {
+            "username": "Nutlope",
+            "avatar": "https://avatars.githubusercontent.com/u/63742054?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "riccardogiorato",
+            "avatar": "https://avatars.githubusercontent.com/u/4527364?s=40&40&v=4"
+          },
+          {
+            "username": "JaySmith502",
+            "avatar": "https://avatars.githubusercontent.com/u/8827236?s=40&40&v=4"
+          }
+        ]
+      }
+    ]
+  },
+  "productHunt": null,
+  "hackerNews": null
+}

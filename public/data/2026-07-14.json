@@ -1,0 +1,349 @@
+{
+  "date": "2026-07-14",
+  "updatedAt": "2026-07-14T06:06:32.119Z",
+  "github": {
+    "updatedAt": "2026-07-14T06:06:31.096Z",
+    "repos": [
+      {
+        "rank": 1,
+        "author": "OpenCut-app",
+        "name": "OpenCut",
+        "fullName": "OpenCut-app/OpenCut",
+        "url": "https://github.com/OpenCut-app/OpenCut",
+        "description": "The open-source CapCut alternative",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 67457,
+        "forks": 7096,
+        "builtBy": [
+          {
+            "username": "mazeincoding",
+            "avatar": "https://avatars.githubusercontent.com/u/167211895?s=40&40&v=4"
+          },
+          {
+            "username": "izadoesdev",
+            "avatar": "https://avatars.githubusercontent.com/u/59828082?s=40&40&v=4"
+          },
+          {
+            "username": "anwarulislam",
+            "avatar": "https://avatars.githubusercontent.com/u/26295990?s=40&40&v=4"
+          },
+          {
+            "username": "khanguyen74",
+            "avatar": "https://avatars.githubusercontent.com/u/50540913?s=40&40&v=4"
+          },
+          {
+            "username": "DevloperAmanSingh",
+            "avatar": "https://avatars.githubusercontent.com/u/80804989?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "author": "HKUDS",
+        "name": "Vibe-Trading",
+        "fullName": "HKUDS/Vibe-Trading",
+        "url": "https://github.com/HKUDS/Vibe-Trading",
+        "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 22089,
+        "forks": 3819,
+        "builtBy": [
+          {
+            "username": "warren618",
+            "avatar": "https://avatars.githubusercontent.com/u/127300695?s=40&40&v=4"
+          },
+          {
+            "username": "shadowinlife",
+            "avatar": "https://avatars.githubusercontent.com/u/2840631?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "Elfsa-Miranda",
+            "avatar": "https://avatars.githubusercontent.com/u/230687636?s=40&40&v=4"
+          },
+          {
+            "username": "Teerapat-Vatpitak",
+            "avatar": "https://avatars.githubusercontent.com/u/155278130?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "author": "moeru-ai",
+        "name": "airi",
+        "fullName": "moeru-ai/airi",
+        "url": "https://github.com/moeru-ai/airi",
+        "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 42086,
+        "forks": 4227,
+        "builtBy": [
+          {
+            "username": "nekomeowww",
+            "avatar": "https://avatars.githubusercontent.com/u/11081491?s=40&40&v=4"
+          },
+          {
+            "username": "luoling8192",
+            "avatar": "https://avatars.githubusercontent.com/u/44741987?s=40&40&v=4"
+          },
+          {
+            "username": "shinohara-rin",
+            "avatar": "https://avatars.githubusercontent.com/u/25588514?s=40&40&v=4"
+          },
+          {
+            "username": "sumimakito",
+            "avatar": "https://avatars.githubusercontent.com/u/5277268?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "author": "Shubhamsaboo",
+        "name": "awesome-llm-apps",
+        "fullName": "Shubhamsaboo/awesome-llm-apps",
+        "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+        "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 119937,
+        "forks": 17800,
+        "builtBy": [
+          {
+            "username": "Shubhamsaboo",
+            "avatar": "https://avatars.githubusercontent.com/u/31396011?s=40&40&v=4"
+          },
+          {
+            "username": "Madhuvod",
+            "avatar": "https://avatars.githubusercontent.com/u/124294538?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "onestardao",
+            "avatar": "https://avatars.githubusercontent.com/u/212544643?s=40&40&v=4"
+          },
+          {
+            "username": "libw0430",
+            "avatar": "https://avatars.githubusercontent.com/u/102198332?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "author": "Nutlope",
+        "name": "hallmark",
+        "fullName": "Nutlope/hallmark",
+        "url": "https://github.com/Nutlope/hallmark",
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "language": "CSS",
+        "languageColor": "#663399",
+        "starsToday": 0,
+        "totalStars": 5422,
+        "forks": 322,
+        "builtBy": [
+          {
+            "username": "Luffixos",
+            "avatar": "https://avatars.githubusercontent.com/u/154055839?s=40&40&v=4"
+          },
+          {
+            "username": "Nutlope",
+            "avatar": "https://avatars.githubusercontent.com/u/63742054?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "riccardogiorato",
+            "avatar": "https://avatars.githubusercontent.com/u/4527364?s=40&40&v=4"
+          },
+          {
+            "username": "JaySmith502",
+            "avatar": "https://avatars.githubusercontent.com/u/8827236?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "author": "Raphire",
+        "name": "Win11Debloat",
+        "fullName": "Raphire/Win11Debloat",
+        "url": "https://github.com/Raphire/Win11Debloat",
+        "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+        "language": "PowerShell",
+        "languageColor": "#012456",
+        "starsToday": 0,
+        "totalStars": 51059,
+        "forks": 2102,
+        "builtBy": [
+          {
+            "username": "Raphire",
+            "avatar": "https://avatars.githubusercontent.com/u/9938813?s=40&40&v=4"
+          },
+          {
+            "username": "HetCreep",
+            "avatar": "https://avatars.githubusercontent.com/u/239326951?s=40&40&v=4"
+          },
+          {
+            "username": "SashankBhamidi",
+            "avatar": "https://avatars.githubusercontent.com/u/66299104?s=40&40&v=4"
+          },
+          {
+            "username": "N0tHorizon",
+            "avatar": "https://avatars.githubusercontent.com/u/100943586?s=40&40&v=4"
+          },
+          {
+            "username": "tsumi",
+            "avatar": "https://avatars.githubusercontent.com/u/1663025?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "author": "Graphify-Labs",
+        "name": "graphify",
+        "fullName": "Graphify-Labs/graphify",
+        "url": "https://github.com/Graphify-Labs/graphify",
+        "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 85140,
+        "forks": 8403,
+        "builtBy": [
+          {
+            "username": "safishamsi",
+            "avatar": "https://avatars.githubusercontent.com/u/216348667?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "TPAteeq",
+            "avatar": "https://avatars.githubusercontent.com/u/88542309?s=40&40&v=4"
+          },
+          {
+            "username": "Synvoya",
+            "avatar": "https://avatars.githubusercontent.com/u/16019863?s=40&40&v=4"
+          },
+          {
+            "username": "oleksii-tumanov",
+            "avatar": "https://avatars.githubusercontent.com/u/6143578?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "author": "hasaneyldrm",
+        "name": "exercises-dataset",
+        "fullName": "hasaneyldrm/exercises-dataset",
+        "url": "https://github.com/hasaneyldrm/exercises-dataset",
+        "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+        "language": "HTML",
+        "languageColor": "#e34c26",
+        "starsToday": 0,
+        "totalStars": 12852,
+        "forks": 1528,
+        "builtBy": [
+          {
+            "username": "hasaneyldrm",
+            "avatar": "https://avatars.githubusercontent.com/u/28005450?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "anderboski",
+            "avatar": "https://avatars.githubusercontent.com/u/44262177?s=40&40&v=4"
+          },
+          {
+            "username": "wacko-io",
+            "avatar": "https://avatars.githubusercontent.com/u/120308299?s=40&40&v=4"
+          },
+          {
+            "username": "alfredo0592",
+            "avatar": "https://avatars.githubusercontent.com/u/157413099?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "author": "github",
+        "name": "spec-kit",
+        "fullName": "github/spec-kit",
+        "url": "https://github.com/github/spec-kit",
+        "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 120785,
+        "forks": 10746,
+        "builtBy": [
+          {
+            "username": "localden",
+            "avatar": "https://avatars.githubusercontent.com/u/53200638?s=40&40&v=4"
+          },
+          {
+            "username": "mnriem",
+            "avatar": "https://avatars.githubusercontent.com/u/15701806?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "author": "coreyhaines31",
+        "name": "marketingskills",
+        "fullName": "coreyhaines31/marketingskills",
+        "url": "https://github.com/coreyhaines31/marketingskills",
+        "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 38824,
+        "forks": 6217,
+        "builtBy": [
+          {
+            "username": "coreyhaines31",
+            "avatar": "https://avatars.githubusercontent.com/u/34802794?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "njcameron",
+            "avatar": "https://avatars.githubusercontent.com/u/1101879?s=40&40&v=4"
+          },
+          {
+            "username": "Jiliac",
+            "avatar": "https://avatars.githubusercontent.com/u/5956866?s=40&40&v=4"
+          },
+          {
+            "username": "basseko",
+            "avatar": "https://avatars.githubusercontent.com/u/20099808?s=40&40&v=4"
+          }
+        ]
+      }
+    ]
+  },
+  "productHunt": null,
+  "hackerNews": null
+}

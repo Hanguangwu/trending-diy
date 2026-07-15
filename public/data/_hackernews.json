@@ -1,237 +1,245 @@
 {
-  "updatedAt": "2026-07-14T06:06:32.112Z",
+  "updatedAt": "2026-07-15T06:10:19.124Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
-      "url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
-      "score": 227,
-      "comments": 61,
-      "author": "donohoe"
+      "title": "Jurassic Park computers in excruciating detail",
+      "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+      "score": 214,
+      "comments": 49,
+      "author": "vinhnx"
     },
     {
       "rank": 2,
-      "title": "YouTrackDB is a general-use object-oriented graph database",
-      "url": "https://github.com/JetBrains/youtrackdb",
-      "score": 59,
-      "comments": 6,
-      "author": "gjvc"
+      "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
+      "url": "https://vpd.ca/",
+      "score": 212,
+      "comments": 77,
+      "author": "LookAtThatBacon"
     },
     {
       "rank": 3,
-      "title": "The Git history command deserves more attention",
-      "url": "https://lalitm.com/post/git-history/",
-      "score": 186,
-      "comments": 110,
-      "author": "turbocon"
+      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+      "url": "https://tailscale.com/security-bulletins",
+      "score": 104,
+      "comments": 44,
+      "author": "jervant"
     },
     {
       "rank": 4,
-      "title": "Fundamentals of Wireless Communication (2005)",
-      "url": "https://web.stanford.edu/~dntse/wireless_book.html",
-      "score": 96,
-      "comments": 3,
-      "author": "teleforce"
+      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+      "url": "https://prismml.com/news/bonsai-27b",
+      "score": 525,
+      "comments": 187,
+      "author": "xenova"
     },
     {
       "rank": 5,
-      "title": "Building and shipping Mac and iOS apps without opening Xcode",
-      "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
-      "score": 397,
-      "comments": 177,
-      "author": "speckx"
+      "title": "Andon (manufacturing)",
+      "url": "https://en.wikipedia.org/wiki/Andon_(manufacturing)",
+      "score": 19,
+      "comments": 0,
+      "author": "tony"
     },
     {
       "rank": 6,
-      "title": "How to build a circular LCD clock",
-      "url": "https://blinry.org/lcd-clock/",
-      "score": 35,
-      "comments": 9,
-      "author": "birdculture"
+      "title": "Dependabot version updates introduce default package cooldown",
+      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
+      "score": 147,
+      "comments": 86,
+      "author": "woodruffw"
     },
     {
       "rank": 7,
-      "title": "Australia is offering free daytime electricity",
-      "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
-      "score": 20,
-      "comments": 19,
-      "author": "i2oc"
+      "title": "The Tower Keeps Rising",
+      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+      "score": 423,
+      "comments": 190,
+      "author": "cdrnsf"
     },
     {
       "rank": 8,
-      "title": "The Economics of Recursive Self-Improvement [pdf]",
-      "url": "https://elasticity.institute/rsi-paper.pdf",
-      "score": 61,
-      "comments": 8,
-      "author": "apsec112"
+      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+      "score": 313,
+      "comments": 152,
+      "author": "Synthetic7346"
     },
     {
       "rank": 9,
-      "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-      "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
-      "score": 512,
-      "comments": 200,
-      "author": "get-inscribe"
+      "title": "Financing the AI boom: from cash flows to debt [pdf]",
+      "url": "https://www.bis.org/publ/bisbull120.pdf",
+      "score": 138,
+      "comments": 77,
+      "author": "1vuio0pswjnm7"
     },
     {
       "rank": 10,
-      "title": "Satellite Tracker – Live Map of Starlink and 30k Satellites",
-      "url": "https://satellitemap.space/",
-      "score": 53,
-      "comments": 13,
-      "author": "rolph"
+      "title": "Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel",
+      "url": "https://www.starfleetmath.com/",
+      "score": 101,
+      "comments": 43,
+      "author": "colin7snyder"
     },
     {
       "rank": 11,
-      "title": "An Englishwoman who sketched India before photography took hold",
-      "url": "https://www.bbc.com/news/articles/cm2drrv6q54o",
-      "score": 105,
-      "comments": 34,
-      "author": "1659447091"
+      "title": "How I use HTMX with Go",
+      "url": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
+      "score": 185,
+      "comments": 42,
+      "author": "gnabgib"
     },
     {
       "rank": 12,
-      "title": "Is x86 ready to ACE it?",
-      "url": "https://chipsandcheese.com/p/is-x86-ready-to-ace-it",
-      "score": 45,
-      "comments": 6,
-      "author": "mfiguiere"
+      "title": "The bread paradox: why convenience always wins, and why SaaS isn't doomed",
+      "url": "https://www.joanwestenberg.com/p/the-bread-paradox-why-convenience",
+      "score": 41,
+      "comments": 20,
+      "author": "srijan4"
     },
     {
       "rank": 13,
-      "title": "Our Amish Language",
-      "url": "https://www.thedial.world/articles/news/amish-pennsylvania-dutch",
-      "score": 25,
-      "comments": 3,
-      "author": "NaOH"
+      "title": "How to stop Claude from saying load-bearing",
+      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+      "score": 489,
+      "comments": 529,
+      "author": "shintoist"
     },
     {
       "rank": 14,
-      "title": "MorphoHDL: A minimalistic language for growing circuits",
-      "url": "https://paradigms-of-intelligence.github.io/morpho/",
-      "score": 49,
-      "comments": 4,
-      "author": "jacktang"
+      "title": "Microsoft Patches a Record 570 Security Flaws",
+      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+      "score": 85,
+      "comments": 41,
+      "author": "robin_reala"
     },
     {
       "rank": 15,
-      "title": "World-First 'Super Alloy' Could Transform the Way Metals Are Made",
-      "url": "https://www.sciencealert.com/world-first-super-alloy-could-transform-the-way-metals-are-made",
-      "score": 42,
-      "comments": 20,
-      "author": "tejohnso"
+      "title": "I'm a USB-C Maximalist",
+      "url": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
+      "score": 229,
+      "comments": 332,
+      "author": "speckx"
     },
     {
       "rank": 16,
-      "title": "Writing a bindless GPU abstraction layer",
-      "url": "https://www.kevin-gibson.com/blog/writing-a-bindless-gpu-abstraction-layer/",
-      "score": 14,
-      "comments": 0,
-      "author": "surprisetalk"
+      "title": "Mathematical texts from a Maya site in Guatemala identify an ancient astronomer",
+      "url": "https://www.nature.com/articles/d41586-026-02170-8",
+      "score": 68,
+      "comments": 18,
+      "author": "homarp"
     },
     {
       "rank": 17,
-      "title": "The infinite scroll may become endangered if controversial Calif. law passes",
-      "url": "https://www.sfgate.com/politics/article/meta-social-media-teenagers-22337724.php",
-      "score": 134,
-      "comments": 232,
-      "author": "Stratoscope"
+      "title": "Data centers have hiked electricity prices on the public by $23B",
+      "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/",
+      "score": 157,
+      "comments": 92,
+      "author": "measurablefunc"
     },
     {
       "rank": 18,
-      "title": "Building Food Metadata with LLM Juries",
-      "url": "https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/",
-      "score": 26,
-      "comments": 7,
-      "author": "tie-in"
+      "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
+      "url": "https://www.benjamin-bai.com/projects/lemario",
+      "score": 76,
+      "comments": 10,
+      "author": "kevinjosethomas"
     },
     {
       "rank": 19,
-      "title": "The art and engineering of Sega CD Silpheed",
-      "url": "https://fabiensanglard.net/silpheed/index.html",
-      "score": 241,
-      "comments": 50,
-      "author": "ibobev"
+      "title": "The kids with phones are alright",
+      "url": "https://heatherburns.tech/2026/07/08/the-kids-with-phones-are-alright/",
+      "score": 177,
+      "comments": 131,
+      "author": "JumpCrisscross"
     },
     {
       "rank": 20,
-      "title": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?",
-      "url": "https://cakehonolulu.github.io/linux-on-32x/",
-      "score": 118,
-      "comments": 23,
-      "author": "cakehonolulu"
+      "title": "The largest available Minecraft world, totalling 15 TB",
+      "url": "https://2b2t.place/1million",
+      "score": 192,
+      "comments": 65,
+      "author": "_____k"
     },
     {
       "rank": 21,
-      "title": "Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder",
-      "url": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
-      "score": 31,
-      "comments": 27,
-      "author": "detkin"
+      "title": "The Trade in Looted Antiquities Endures for One Reason: Demand",
+      "url": "https://news.artnet.com/art-world/matt-campbell-cambodia-looted-antiquities-2779870",
+      "score": 12,
+      "comments": 4,
+      "author": "derbOac"
     },
     {
       "rank": 22,
-      "title": "Show HN: Hackney – Compare Uber, Lyft, Waymo, and Robotaxi Prices",
-      "url": "https://hackney.app/",
-      "score": 41,
-      "comments": 30,
-      "author": "griffinli"
+      "title": "An unusual way for your DHCP server to run out of dynamic IPs",
+      "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DHCPServerAndScreamingHost",
+      "score": 51,
+      "comments": 11,
+      "author": "speckx"
     },
     {
       "rank": 23,
-      "title": "Show HN: I implemented a neural network in SQL",
-      "url": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
-      "score": 77,
-      "comments": 17,
-      "author": "alxmrs"
+      "title": "Probably check on your smart appliances",
+      "url": "https://xeiaso.net/notes/2026/check-your-smart-tv/",
+      "score": 54,
+      "comments": 19,
+      "author": "xena"
+    },
+    {
+      "rank": 24,
+      "title": "The zero-cost fallacy: open-source software in the agentic era",
+      "url": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
+      "score": 136,
+      "comments": 105,
+      "author": "backlit4034"
     },
     {
       "rank": 25,
-      "title": "What will be left for us to work on?",
-      "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
-      "score": 86,
-      "comments": 91,
-      "author": "randomwalker"
+      "title": "LinkedIn is a cesspool of scammers and identity theft",
+      "url": "https://news.ycombinator.com/item?id=48916375",
+      "score": 11,
+      "comments": 5,
+      "author": "lbpdev"
     },
     {
       "rank": 26,
-      "title": "Ancient Roman Board Game",
-      "url": "https://ludus-coriovalli.web.app/",
-      "score": 111,
-      "comments": 43,
-      "author": "nobody9999"
+      "title": "The Estranged Worlds of J. G. Ballard",
+      "url": "https://lareviewofbooks.org/article/jg-ballard-illuminated-man-christopher-priest-nina-allan/",
+      "score": 51,
+      "comments": 9,
+      "author": "Caiero"
     },
     {
       "rank": 27,
-      "title": "Show HN: YouTube Guitar Tab Parser",
-      "url": "https://github.com/marcelpanse/youtube-guitar-tab-parser",
-      "score": 94,
-      "comments": 58,
-      "author": "neogenix"
+      "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
+      "url": "https://github.com/juggler-ai/juggler",
+      "score": 212,
+      "comments": 92,
+      "author": "julesrms"
     },
     {
       "rank": 28,
-      "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
-      "url": "https://github.com/jbwinters/jacquard-lang",
-      "score": 75,
-      "comments": 42,
-      "author": "jbwinters"
+      "title": "Are we offloading too much of our thinking to AI?",
+      "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+      "score": 426,
+      "comments": 409,
+      "author": "yenniejun111"
     },
     {
       "rank": 29,
-      "title": "A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
-      "url": "https://arxiv.org/abs/2607.01418",
-      "score": 51,
-      "comments": 28,
-      "author": "softwaredoug"
+      "title": "Your 'app' could have been a webpage (so I fixed it for you)",
+      "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
+      "score": 773,
+      "comments": 467,
+      "author": "MrVandemar"
     },
     {
       "rank": 30,
-      "title": "TFTP Honey Pot Results",
-      "url": "https://bruceediger.com/posts/tftp-honeypot-results/",
-      "score": 71,
-      "comments": 33,
-      "author": "speckx"
+      "title": "Guardian Angels: LLM Personalization for Productivity and Security",
+      "url": "https://gwern.net/guardian-angel",
+      "score": 80,
+      "comments": 13,
+      "author": "andsoitis"
     }
   ]
 }

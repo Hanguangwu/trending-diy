@@ -1,0 +1,442 @@
+{
+  "date": "2026-07-16",
+  "updatedAt": "2026-07-16T06:12:48.832Z",
+  "github": {
+    "updatedAt": "2026-07-16T06:12:46.344Z",
+    "repos": [
+      {
+        "rank": 1,
+        "author": "OpenCut-app",
+        "name": "OpenCut",
+        "fullName": "OpenCut-app/OpenCut",
+        "url": "https://github.com/OpenCut-app/OpenCut",
+        "description": "The open-source CapCut alternative",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 72541,
+        "forks": 7398,
+        "builtBy": [
+          {
+            "username": "mazeincoding",
+            "avatar": "https://avatars.githubusercontent.com/u/167211895?s=40&40&v=4"
+          },
+          {
+            "username": "izadoesdev",
+            "avatar": "https://avatars.githubusercontent.com/u/59828082?s=40&40&v=4"
+          },
+          {
+            "username": "anwarulislam",
+            "avatar": "https://avatars.githubusercontent.com/u/26295990?s=40&40&v=4"
+          },
+          {
+            "username": "khanguyen74",
+            "avatar": "https://avatars.githubusercontent.com/u/50540913?s=40&40&v=4"
+          },
+          {
+            "username": "DevloperAmanSingh",
+            "avatar": "https://avatars.githubusercontent.com/u/80804989?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "author": "Nutlope",
+        "name": "hallmark",
+        "fullName": "Nutlope/hallmark",
+        "url": "https://github.com/Nutlope/hallmark",
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "language": "CSS",
+        "languageColor": "#663399",
+        "starsToday": 0,
+        "totalStars": 9246,
+        "forks": 470,
+        "builtBy": [
+          {
+            "username": "Luffixos",
+            "avatar": "https://avatars.githubusercontent.com/u/154055839?s=40&40&v=4"
+          },
+          {
+            "username": "Nutlope",
+            "avatar": "https://avatars.githubusercontent.com/u/63742054?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "riccardogiorato",
+            "avatar": "https://avatars.githubusercontent.com/u/4527364?s=40&40&v=4"
+          },
+          {
+            "username": "JaySmith502",
+            "avatar": "https://avatars.githubusercontent.com/u/8827236?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "author": "mattpocock",
+        "name": "skills",
+        "fullName": "mattpocock/skills",
+        "url": "https://github.com/mattpocock/skills",
+        "description": "Skills for Real Engineers. Straight from my .claude directory.",
+        "language": "Shell",
+        "languageColor": "#89e051",
+        "starsToday": 0,
+        "totalStars": 172763,
+        "forks": 14834,
+        "builtBy": [
+          {
+            "username": "mattpocock",
+            "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "gabimoncha",
+            "avatar": "https://avatars.githubusercontent.com/u/39256258?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "author": "moeru-ai",
+        "name": "airi",
+        "fullName": "moeru-ai/airi",
+        "url": "https://github.com/moeru-ai/airi",
+        "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 42634,
+        "forks": 4257,
+        "builtBy": [
+          {
+            "username": "nekomeowww",
+            "avatar": "https://avatars.githubusercontent.com/u/11081491?s=40&40&v=4"
+          },
+          {
+            "username": "luoling8192",
+            "avatar": "https://avatars.githubusercontent.com/u/44741987?s=40&40&v=4"
+          },
+          {
+            "username": "shinohara-rin",
+            "avatar": "https://avatars.githubusercontent.com/u/25588514?s=40&40&v=4"
+          },
+          {
+            "username": "sumimakito",
+            "avatar": "https://avatars.githubusercontent.com/u/5277268?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "author": "Dicklesworthstone",
+        "name": "destructive_command_guard",
+        "fullName": "Dicklesworthstone/destructive_command_guard",
+        "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+        "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 4858,
+        "forks": 182,
+        "builtBy": [
+          {
+            "username": "Dicklesworthstone",
+            "avatar": "https://avatars.githubusercontent.com/u/35050222?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "codex",
+            "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "author": "HKUDS",
+        "name": "Vibe-Trading",
+        "fullName": "HKUDS/Vibe-Trading",
+        "url": "https://github.com/HKUDS/Vibe-Trading",
+        "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 23888,
+        "forks": 4059,
+        "builtBy": [
+          {
+            "username": "warren618",
+            "avatar": "https://avatars.githubusercontent.com/u/127300695?s=40&40&v=4"
+          },
+          {
+            "username": "shadowinlife",
+            "avatar": "https://avatars.githubusercontent.com/u/2840631?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "Elfsa-Miranda",
+            "avatar": "https://avatars.githubusercontent.com/u/230687636?s=40&40&v=4"
+          },
+          {
+            "username": "Teerapat-Vatpitak",
+            "avatar": "https://avatars.githubusercontent.com/u/155278130?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "author": "openinterpreter",
+        "name": "openinterpreter",
+        "fullName": "openinterpreter/openinterpreter",
+        "url": "https://github.com/openinterpreter/openinterpreter",
+        "description": "A coding agent for low-cost models",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 65626,
+        "forks": 5659,
+        "builtBy": [
+          {
+            "username": "jif-oai",
+            "avatar": "https://avatars.githubusercontent.com/u/230027070?s=40&40&v=4"
+          },
+          {
+            "username": "bolinfest",
+            "avatar": "https://avatars.githubusercontent.com/u/655869?s=40&40&v=4"
+          },
+          {
+            "username": "aibrahim-oai",
+            "avatar": "https://avatars.githubusercontent.com/u/219906144?s=40&40&v=4"
+          },
+          {
+            "username": "pakrym-oai",
+            "avatar": "https://avatars.githubusercontent.com/u/204937752?s=40&40&v=4"
+          },
+          {
+            "username": "etraut-openai",
+            "avatar": "https://avatars.githubusercontent.com/u/223546144?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "author": "HKUDS",
+        "name": "DeepTutor",
+        "fullName": "HKUDS/DeepTutor",
+        "url": "https://github.com/HKUDS/DeepTutor",
+        "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 26459,
+        "forks": 3581,
+        "builtBy": [
+          {
+            "username": "pancacake",
+            "avatar": "https://avatars.githubusercontent.com/u/150592536?s=40&40&v=4"
+          },
+          {
+            "username": "Pinkllow",
+            "avatar": "https://avatars.githubusercontent.com/u/272976591?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "tusharkhatriofficial",
+            "avatar": "https://avatars.githubusercontent.com/u/64004539?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "author": "HenryNdubuaku",
+        "name": "maths-cs-ai-compendium",
+        "fullName": "HenryNdubuaku/maths-cs-ai-compendium",
+        "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+        "description": "Become a cracked AI/ML Research Engineer",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 6049,
+        "forks": 751,
+        "builtBy": [
+          {
+            "username": "HenryNdubuaku",
+            "avatar": "https://avatars.githubusercontent.com/u/26547576?s=40&40&v=4"
+          },
+          {
+            "username": "KDachev4",
+            "avatar": "https://avatars.githubusercontent.com/u/68513852?s=40&40&v=4"
+          },
+          {
+            "username": "shmWorks",
+            "avatar": "https://avatars.githubusercontent.com/u/76952202?s=40&40&v=4"
+          },
+          {
+            "username": "nitturkaryash",
+            "avatar": "https://avatars.githubusercontent.com/u/100251269?s=40&40&v=4"
+          },
+          {
+            "username": "cipherians",
+            "avatar": "https://avatars.githubusercontent.com/u/177683696?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "author": "Shubhamsaboo",
+        "name": "awesome-llm-apps",
+        "fullName": "Shubhamsaboo/awesome-llm-apps",
+        "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+        "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 122130,
+        "forks": 18022,
+        "builtBy": [
+          {
+            "username": "Shubhamsaboo",
+            "avatar": "https://avatars.githubusercontent.com/u/31396011?s=40&40&v=4"
+          },
+          {
+            "username": "Madhuvod",
+            "avatar": "https://avatars.githubusercontent.com/u/124294538?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "onestardao",
+            "avatar": "https://avatars.githubusercontent.com/u/212544643?s=40&40&v=4"
+          },
+          {
+            "username": "libw0430",
+            "avatar": "https://avatars.githubusercontent.com/u/102198332?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 11,
+        "author": "coreyhaines31",
+        "name": "marketingskills",
+        "fullName": "coreyhaines31/marketingskills",
+        "url": "https://github.com/coreyhaines31/marketingskills",
+        "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 39927,
+        "forks": 6329,
+        "builtBy": [
+          {
+            "username": "coreyhaines31",
+            "avatar": "https://avatars.githubusercontent.com/u/34802794?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "njcameron",
+            "avatar": "https://avatars.githubusercontent.com/u/1101879?s=40&40&v=4"
+          },
+          {
+            "username": "Jiliac",
+            "avatar": "https://avatars.githubusercontent.com/u/5956866?s=40&40&v=4"
+          },
+          {
+            "username": "basseko",
+            "avatar": "https://avatars.githubusercontent.com/u/20099808?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 12,
+        "author": "YimMenu",
+        "name": "YimMenuV2",
+        "fullName": "YimMenu/YimMenuV2",
+        "url": "https://github.com/YimMenu/YimMenuV2",
+        "description": "Experimental menu for GTA 5: Enhanced",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "starsToday": 0,
+        "totalStars": 1458,
+        "forks": 356,
+        "builtBy": [
+          {
+            "username": "maybegreat48",
+            "avatar": "https://avatars.githubusercontent.com/u/96936658?s=40&40&v=4"
+          },
+          {
+            "username": "ShinyWasabi",
+            "avatar": "https://avatars.githubusercontent.com/u/121949966?s=40&40&v=4"
+          },
+          {
+            "username": "playday3008",
+            "avatar": "https://avatars.githubusercontent.com/u/18056374?s=40&40&v=4"
+          },
+          {
+            "username": "Mr-X-GTA",
+            "avatar": "https://avatars.githubusercontent.com/u/110748953?s=40&40&v=4"
+          },
+          {
+            "username": "Deadlineem",
+            "avatar": "https://avatars.githubusercontent.com/u/24372625?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 13,
+        "author": "hasaneyldrm",
+        "name": "exercises-dataset",
+        "fullName": "hasaneyldrm/exercises-dataset",
+        "url": "https://github.com/hasaneyldrm/exercises-dataset",
+        "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+        "language": "HTML",
+        "languageColor": "#e34c26",
+        "starsToday": 0,
+        "totalStars": 14540,
+        "forks": 1745,
+        "builtBy": [
+          {
+            "username": "hasaneyldrm",
+            "avatar": "https://avatars.githubusercontent.com/u/28005450?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "anderboski",
+            "avatar": "https://avatars.githubusercontent.com/u/44262177?s=40&40&v=4"
+          },
+          {
+            "username": "wacko-io",
+            "avatar": "https://avatars.githubusercontent.com/u/120308299?s=40&40&v=4"
+          },
+          {
+            "username": "alfredo0592",
+            "avatar": "https://avatars.githubusercontent.com/u/157413099?s=40&40&v=4"
+          }
+        ]
+      }
+    ]
+  },
+  "productHunt": null,
+  "hackerNews": null
+}

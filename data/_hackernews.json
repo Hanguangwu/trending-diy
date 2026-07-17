@@ -1,245 +1,237 @@
 {
-  "updatedAt": "2026-07-16T06:12:48.824Z",
+  "updatedAt": "2026-07-17T06:11:23.318Z",
   "stories": [
     {
       "rank": 1,
-      "title": "The lost joy of music piracy",
-      "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
-      "score": 60,
-      "comments": 9,
-      "author": "mcgin"
+      "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
+      "url": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
+      "score": 63,
+      "comments": 32,
+      "author": "divbzero"
     },
     {
       "rank": 2,
-      "title": "If you want to create a button from scratch, you must first create the universe",
-      "url": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
-      "score": 57,
-      "comments": 12,
-      "author": "treve"
+      "title": "Kimi K3: Open Frontier Intelligence",
+      "url": "https://www.kimi.com/blog/kimi-k3",
+      "score": 1436,
+      "comments": 865,
+      "author": "vincent_s"
     },
     {
       "rank": 3,
-      "title": "Inkling: Our Open-Weights Model",
-      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-      "score": 858,
-      "comments": 214,
-      "author": "vimarsh6739"
-    },
-    {
-      "rank": 4,
-      "title": "Stop saying that AI is just a tool and it only matters how it is used",
-      "url": "https://www.frank.computer/blog/2025/05/just-a-tool.html",
-      "score": 28,
-      "comments": 13,
-      "author": "cratermoon"
-    },
-    {
-      "rank": 5,
-      "title": "SQLite should have (Rust-style) editions",
-      "url": "https://mort.coffee/home/sqlite-editions/",
-      "score": 200,
-      "comments": 77,
-      "author": "gnyeki"
-    },
-    {
-      "rank": 6,
-      "title": "Bluesky Trademarks ATProto",
-      "url": "https://atproto.com/blog/at-protocol-trademark",
-      "score": 63,
-      "comments": 24,
-      "author": "chaosharmonic"
-    },
-    {
-      "rank": 7,
-      "title": "Making 768 servers look like 1",
-      "url": "https://planetscale.com/blog/making-768-servers-look-like-1",
-      "score": 35,
-      "comments": 7,
-      "author": "hisamafahri"
-    },
-    {
-      "rank": 8,
-      "title": "Grok Build is open source",
-      "url": "https://github.com/xai-org/grok-build",
-      "score": 370,
-      "comments": 401,
-      "author": "skp1995"
-    },
-    {
-      "rank": 9,
-      "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
-      "url": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html",
-      "score": 31,
-      "comments": 2,
-      "author": "gslin"
-    },
-    {
-      "rank": 10,
-      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
-      "score": 148,
-      "comments": 54,
-      "author": "bilsbie"
-    },
-    {
-      "rank": 11,
-      "title": "DJB Netstrings (1997)",
-      "url": "https://cr.yp.to/proto/netstrings.txt",
-      "score": 4,
-      "comments": 2,
-      "author": "signa11"
-    },
-    {
-      "rank": 12,
-      "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
-      "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
-      "score": 412,
-      "comments": 223,
-      "author": "rvz"
-    },
-    {
-      "rank": 13,
-      "title": "G# – A modern .NET language with Go, Kotlin, and Swift ergonomics",
-      "url": "https://davidobando.github.io/gsharp/",
-      "score": 75,
-      "comments": 34,
-      "author": "serial_dev"
-    },
-    {
-      "rank": 14,
-      "title": "High-Bandwidth Flash offers efficient storage for model weights",
-      "url": "https://spectrum.ieee.org/high-bandwidth-flash",
-      "score": 28,
-      "comments": 9,
-      "author": "Gaishan"
-    },
-    {
-      "rank": 15,
-      "title": "Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers",
-      "url": "https://arxiv.org/abs/2607.11859",
-      "score": 19,
-      "comments": 2,
-      "author": "Jimmc414"
-    },
-    {
-      "rank": 16,
-      "title": "My Throw Decides My Aim",
-      "url": "https://thegustafson.com/blog/my-throw-decides-my-aim",
-      "score": 12,
-      "comments": 2,
-      "author": "usernotfoundrn"
-    },
-    {
-      "rank": 17,
-      "title": "I also filed the corners off my MacBook",
-      "url": "https://www.brt.fyi/posts/mac-book-filing/",
-      "score": 108,
-      "comments": 21,
-      "author": "maxbrt"
-    },
-    {
-      "rank": 18,
-      "title": "The Last Picture Show: A Conversation with George Lucas",
-      "url": "https://a-rabbitsfoot.com/editorial/confessions/the-last-picture-show-a-conversation-with-george-lucas/",
-      "score": 11,
-      "comments": 2,
-      "author": "Michelangelo11"
-    },
-    {
-      "rank": 19,
-      "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
-      "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
-      "score": 269,
-      "comments": 174,
-      "author": "neomindryan"
-    },
-    {
-      "rank": 20,
-      "title": "Launch HN: Coasty (YC S26) – An API for computer-use agents",
-      "url": "https://coasty.ai/docs",
-      "score": 31,
-      "comments": 7,
-      "author": "nkov47"
-    },
-    {
-      "rank": 21,
-      "title": "LLM Networking with MikroTik",
-      "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
-      "score": 69,
-      "comments": 32,
+      "title": "An Engineer's Guide to USB Typе-С (2024)",
+      "url": "https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029",
+      "score": 97,
+      "comments": 1,
       "author": "gregsadetsky"
     },
     {
-      "rank": 22,
-      "title": "Command Line Interface Guidelines",
-      "url": "https://clig.dev/",
-      "score": 107,
-      "comments": 21,
-      "author": "subset"
+      "rank": 4,
+      "title": "GrapheneOS recommended for domestic abuse victims",
+      "url": "https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/",
+      "score": 68,
+      "comments": 38,
+      "author": "aussieguy1234"
     },
     {
-      "rank": 23,
-      "title": "Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)",
-      "url": "https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials",
-      "score": 50,
-      "comments": 12,
-      "author": "andsoitis"
+      "rank": 5,
+      "title": "Microsoft Comic Chat is now open source",
+      "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+      "score": 618,
+      "comments": 138,
+      "author": "jervant"
     },
     {
-      "rank": 24,
-      "title": "Job queues are deceptively tricky",
-      "url": "https://typesanitizer.com/blog/job-queues.html",
-      "score": 59,
-      "comments": 14,
+      "rank": 6,
+      "title": "Pebble Mega Update – July 2026",
+      "url": "https://repebble.com/blog/pebble-mega-update-july-2026",
+      "score": 25,
+      "comments": 0,
+      "author": "crazysaem"
+    },
+    {
+      "rank": 7,
+      "title": "Decoy Font",
+      "url": "https://www.mixfont.com/experiments/decoy-font",
+      "score": 486,
+      "comments": 115,
+      "author": "ray__"
+    },
+    {
+      "rank": 8,
+      "title": "LM Studio Bionic: the AI agent for open models",
+      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+      "score": 208,
+      "comments": 73,
+      "author": "minimaxir"
+    },
+    {
+      "rank": 9,
+      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+      "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+      "score": 211,
+      "comments": 240,
+      "author": "hershyb_"
+    },
+    {
+      "rank": 10,
+      "title": "The Little Book of Reinforcement Learning",
+      "url": "https://github.com/alxndrTL/little-book-rl/",
+      "score": 97,
+      "comments": 11,
+      "author": "mustaphah"
+    },
+    {
+      "rank": 11,
+      "title": "Solod: Go can be a better C",
+      "url": "https://solod.dev",
+      "score": 92,
+      "comments": 27,
+      "author": "koeng"
+    },
+    {
+      "rank": 12,
+      "title": "NotebookLM is now Gemini Notebook",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+      "score": 283,
+      "comments": 143,
+      "author": "xnx"
+    },
+    {
+      "rank": 13,
+      "title": "M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive",
+      "score": 52,
+      "comments": 23,
+      "author": "hnburnsy"
+    },
+    {
+      "rank": 14,
+      "title": "How Our Rust-to-Zig Rewrite Is Going",
+      "url": "https://rtfeldman.com/rust-to-zig",
+      "score": 472,
+      "comments": 247,
+      "author": "jorangreef"
+    },
+    {
+      "rank": 15,
+      "title": "Mathematics of Data Science",
+      "url": "https://arxiv.org/abs/2607.11938",
+      "score": 132,
+      "comments": 3,
+      "author": "Anon84"
+    },
+    {
+      "rank": 16,
+      "title": "Old Icons",
+      "url": "https://leancrew.com/all-this/2026/07/old-icons/",
+      "score": 27,
+      "comments": 6,
+      "author": "zdw"
+    },
+    {
+      "rank": 17,
+      "title": "UIUC AI Teaching Assistant",
+      "url": "https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc",
+      "score": 10,
+      "comments": 0,
+      "author": "teleforce"
+    },
+    {
+      "rank": 18,
+      "title": "Simulating everything, sort of: The promise and limits of world models",
+      "url": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
+      "score": 25,
+      "comments": 1,
+      "author": "LorenDB"
+    },
+    {
+      "rank": 19,
+      "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+      "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+      "score": 179,
+      "comments": 122,
+      "author": "uneven9434"
+    },
+    {
+      "rank": 20,
+      "title": "Immersive Linear Algebra Book with Interactive Figures (2015)",
+      "url": "https://immersivemath.com/ila/",
+      "score": 192,
+      "comments": 26,
+      "author": "srean"
+    },
+    {
+      "rank": 21,
+      "title": "Starlink from 1984",
+      "url": "https://nemanjatrifunovic.substack.com/p/starlink-from-1984",
+      "score": 6,
+      "comments": 0,
       "author": "ingve"
     },
     {
+      "rank": 22,
+      "title": "Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone",
+      "url": "https://www.science.org/doi/10.1126/science.aea9708",
+      "score": 86,
+      "comments": 25,
+      "author": "anyonecancode"
+    },
+    {
+      "rank": 23,
+      "title": "'Likweli': A new monkey species discovered in the Congo Basin",
+      "url": "https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin",
+      "score": 68,
+      "comments": 12,
+      "author": "gmays"
+    },
+    {
+      "rank": 24,
+      "title": "The human-in-the-loop is tired",
+      "url": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
+      "score": 137,
+      "comments": 71,
+      "author": "haritha1313"
+    },
+    {
       "rank": 25,
-      "title": "CatchCat – Pokémon Go for Cats, IRL",
-      "url": "https://www.catchcat.lol/",
-      "score": 38,
-      "comments": 7,
-      "author": "marojejian"
+      "title": "Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning",
+      "url": "https://arxiv.org/abs/2607.12395",
+      "score": 47,
+      "comments": 15,
+      "author": "binyu"
     },
     {
       "rank": 26,
-      "title": "Rebuilding My Homelab with Compose, Ruby, IPv6, and No Kubernetes",
-      "url": "https://www.petekeen.net/homelab-resolved/",
-      "score": 7,
-      "comments": 4,
-      "author": "zrail"
+      "title": "Pseudpocalypse",
+      "url": "https://dynomight.net/pseudpocalypse/",
+      "score": 106,
+      "comments": 63,
+      "author": "surprisetalk"
     },
     {
       "rank": 27,
-      "title": "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency",
-      "url": "https://pmbanugo.me/blog/why-async-await-complect-concurrency",
-      "score": 34,
-      "comments": 32,
-      "author": "LAC-Tech"
+      "title": "Show HN: Clx – Compile Lua to Native Executables Through C++20",
+      "url": "https://github.com/samyeyo/clx",
+      "score": 105,
+      "comments": 11,
+      "author": "_samt_"
     },
     {
       "rank": 28,
-      "title": "Open Source, Free Tier Capable Whispr Using Cloudflare AI",
-      "url": "https://github.com/PrestigePvP/Voicebox",
-      "score": 10,
-      "comments": 4,
-      "author": "TreDub"
+      "title": "CD sales growth outpaced vinyl in the first half of 2026",
+      "url": "https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/",
+      "score": 84,
+      "comments": 99,
+      "author": "speckx"
     },
     {
       "rank": 29,
-      "title": "Show HN: Firefox in WebAssembly",
-      "url": "https://developer.puter.com/labs/firefox-wasm/",
-      "score": 176,
-      "comments": 90,
-      "author": "coolelectronics"
-    },
-    {
-      "rank": 30,
-      "title": "Show HN: One More Letter",
-      "url": "https://playonemoreletter.com/",
-      "score": 61,
-      "comments": 41,
-      "author": "hmate9"
+      "title": "Abstracting Effects with Continuations",
+      "url": "https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/",
+      "score": 56,
+      "comments": 2,
+      "author": "crowdhailer"
     }
   ]
 }

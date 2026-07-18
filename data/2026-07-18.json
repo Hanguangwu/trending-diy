@@ -1,0 +1,477 @@
+{
+  "date": "2026-07-18",
+  "updatedAt": "2026-07-18T06:00:16.932Z",
+  "github": {
+    "updatedAt": "2026-07-18T06:00:13.999Z",
+    "repos": [
+      {
+        "rank": 1,
+        "author": "codecrafters-io",
+        "name": "build-your-own-x",
+        "fullName": "codecrafters-io/build-your-own-x",
+        "url": "https://github.com/codecrafters-io/build-your-own-x",
+        "description": "Master programming by recreating your favorite technologies from scratch.",
+        "language": "Markdown",
+        "languageColor": "#083fa1",
+        "starsToday": 0,
+        "totalStars": 527611,
+        "forks": 49923,
+        "builtBy": [
+          {
+            "username": "danistefanovic",
+            "avatar": "https://avatars.githubusercontent.com/u/1736595?s=40&40&v=4"
+          },
+          {
+            "username": "rohitpaulk",
+            "avatar": "https://avatars.githubusercontent.com/u/3893573?s=40&40&v=4"
+          },
+          {
+            "username": "sarupbanskota",
+            "avatar": "https://avatars.githubusercontent.com/u/3149580?s=40&40&v=4"
+          },
+          {
+            "username": "fake-rookie",
+            "avatar": "https://avatars.githubusercontent.com/u/61480354?s=40&40&v=4"
+          },
+          {
+            "username": "bauripalash",
+            "avatar": "https://avatars.githubusercontent.com/u/16154204?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "author": "PostHog",
+        "name": "posthog",
+        "fullName": "PostHog/posthog",
+        "url": "https://github.com/PostHog/posthog",
+        "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 36267,
+        "forks": 3010,
+        "builtBy": [
+          {
+            "username": "pauldambra",
+            "avatar": "https://avatars.githubusercontent.com/u/984817?s=40&40&v=4"
+          },
+          {
+            "username": "Twixes",
+            "avatar": "https://avatars.githubusercontent.com/u/4550621?s=40&40&v=4"
+          },
+          {
+            "username": "mariusandra",
+            "avatar": "https://avatars.githubusercontent.com/u/53387?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "author": "HenryNdubuaku",
+        "name": "maths-cs-ai-compendium",
+        "fullName": "HenryNdubuaku/maths-cs-ai-compendium",
+        "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+        "description": "Become a cracked AI/ML Research Engineer",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 6730,
+        "forks": 812,
+        "builtBy": [
+          {
+            "username": "HenryNdubuaku",
+            "avatar": "https://avatars.githubusercontent.com/u/26547576?s=40&40&v=4"
+          },
+          {
+            "username": "KDachev4",
+            "avatar": "https://avatars.githubusercontent.com/u/68513852?s=40&40&v=4"
+          },
+          {
+            "username": "shmWorks",
+            "avatar": "https://avatars.githubusercontent.com/u/76952202?s=40&40&v=4"
+          },
+          {
+            "username": "nitturkaryash",
+            "avatar": "https://avatars.githubusercontent.com/u/100251269?s=40&40&v=4"
+          },
+          {
+            "username": "MeGaurav4",
+            "avatar": "https://avatars.githubusercontent.com/u/160158213?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "author": "Nutlope",
+        "name": "hallmark",
+        "fullName": "Nutlope/hallmark",
+        "url": "https://github.com/Nutlope/hallmark",
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "language": "CSS",
+        "languageColor": "#663399",
+        "starsToday": 0,
+        "totalStars": 12246,
+        "forks": 610,
+        "builtBy": [
+          {
+            "username": "Luffixos",
+            "avatar": "https://avatars.githubusercontent.com/u/154055839?s=40&40&v=4"
+          },
+          {
+            "username": "Nutlope",
+            "avatar": "https://avatars.githubusercontent.com/u/63742054?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "riccardogiorato",
+            "avatar": "https://avatars.githubusercontent.com/u/4527364?s=40&40&v=4"
+          },
+          {
+            "username": "JaySmith502",
+            "avatar": "https://avatars.githubusercontent.com/u/8827236?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "author": "github",
+        "name": "copilot-sdk",
+        "fullName": "github/copilot-sdk",
+        "url": "https://github.com/github/copilot-sdk",
+        "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "starsToday": 0,
+        "totalStars": 9826,
+        "forks": 1335,
+        "builtBy": [
+          {
+            "username": "stephentoub",
+            "avatar": "https://avatars.githubusercontent.com/u/2642209?s=40&40&v=4"
+          },
+          {
+            "username": "SteveSandersonMS",
+            "avatar": "https://avatars.githubusercontent.com/u/1101362?s=40&40&v=4"
+          },
+          {
+            "username": "edburns",
+            "avatar": "https://avatars.githubusercontent.com/u/75821?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "author": "anthropics",
+        "name": "cwc-workshops",
+        "fullName": "anthropics/cwc-workshops",
+        "url": "https://github.com/anthropics/cwc-workshops",
+        "description": "",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 1632,
+        "forks": 490,
+        "builtBy": [
+          {
+            "username": "michael-cohen-io",
+            "avatar": "https://avatars.githubusercontent.com/u/293203?s=40&40&v=4"
+          },
+          {
+            "username": "jeffcurry-ant",
+            "avatar": "https://avatars.githubusercontent.com/u/270788884?s=40&40&v=4"
+          },
+          {
+            "username": "mroknich",
+            "avatar": "https://avatars.githubusercontent.com/u/7988094?s=40&40&v=4"
+          },
+          {
+            "username": "felixfbecker",
+            "avatar": "https://avatars.githubusercontent.com/u/10532611?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "author": "PrismML-Eng",
+        "name": "Bonsai-demo",
+        "fullName": "PrismML-Eng/Bonsai-demo",
+        "url": "https://github.com/PrismML-Eng/Bonsai-demo",
+        "description": "Bonsai Demo",
+        "language": "Shell",
+        "languageColor": "#89e051",
+        "starsToday": 0,
+        "totalStars": 1746,
+        "forks": 169,
+        "builtBy": [
+          {
+            "username": "khosravipasha",
+            "avatar": "https://avatars.githubusercontent.com/u/2780093?s=40&40&v=4"
+          },
+          {
+            "username": "Copilot",
+            "avatar": "https://avatars.githubusercontent.com/in/1143301?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "bheyfitch",
+            "avatar": "https://avatars.githubusercontent.com/u/136202469?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "author": "protocolbuffers",
+        "name": "protobuf",
+        "fullName": "protocolbuffers/protobuf",
+        "url": "https://github.com/protocolbuffers/protobuf",
+        "description": "Protocol Buffers - Google's data interchange format",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "starsToday": 0,
+        "totalStars": 71559,
+        "forks": 16193,
+        "builtBy": [
+          {
+            "username": "protobuf-github-bot",
+            "avatar": "https://avatars.githubusercontent.com/u/106703886?s=40&40&v=4"
+          },
+          {
+            "username": "haberman",
+            "avatar": "https://avatars.githubusercontent.com/u/1270?s=40&40&v=4"
+          },
+          {
+            "username": "protobuf-team-bot",
+            "avatar": "https://avatars.githubusercontent.com/u/105450428?s=40&40&v=4"
+          },
+          {
+            "username": "mkruskal-google",
+            "avatar": "https://avatars.githubusercontent.com/u/62662355?s=40&40&v=4"
+          },
+          {
+            "username": "xfxyjwf",
+            "avatar": "https://avatars.githubusercontent.com/u/8551050?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "author": "tirth8205",
+        "name": "code-review-graph",
+        "fullName": "tirth8205/code-review-graph",
+        "url": "https://github.com/tirth8205/code-review-graph",
+        "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 19852,
+        "forks": 2111,
+        "builtBy": [
+          {
+            "username": "tirth8205",
+            "avatar": "https://avatars.githubusercontent.com/u/68604113?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "michael-denyer",
+            "avatar": "https://avatars.githubusercontent.com/u/97485362?s=40&40&v=4"
+          },
+          {
+            "username": "gzenz",
+            "avatar": "https://avatars.githubusercontent.com/u/91069374?s=40&40&v=4"
+          },
+          {
+            "username": "Minidoracat",
+            "avatar": "https://avatars.githubusercontent.com/u/11269639?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "author": "docusealco",
+        "name": "docuseal",
+        "fullName": "docusealco/docuseal",
+        "url": "https://github.com/docusealco/docuseal",
+        "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+        "language": "Ruby",
+        "languageColor": "#701516",
+        "starsToday": 0,
+        "totalStars": 17916,
+        "forks": 1773,
+        "builtBy": [
+          {
+            "username": "omohokcoj",
+            "avatar": "https://avatars.githubusercontent.com/u/5418788?s=40&40&v=4"
+          },
+          {
+            "username": "AlexBTurchyn",
+            "avatar": "https://avatars.githubusercontent.com/u/1176367?s=40&40&v=4"
+          },
+          {
+            "username": "jbenguira",
+            "avatar": "https://avatars.githubusercontent.com/u/1835561?s=40&40&v=4"
+          },
+          {
+            "username": "imchairmanm",
+            "avatar": "https://avatars.githubusercontent.com/u/3957147?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 11,
+        "author": "openinterpreter",
+        "name": "openinterpreter",
+        "fullName": "openinterpreter/openinterpreter",
+        "url": "https://github.com/openinterpreter/openinterpreter",
+        "description": "A coding agent for open models like Kimi K3",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 66480,
+        "forks": 5712,
+        "builtBy": [
+          {
+            "username": "jif-oai",
+            "avatar": "https://avatars.githubusercontent.com/u/230027070?s=40&40&v=4"
+          },
+          {
+            "username": "bolinfest",
+            "avatar": "https://avatars.githubusercontent.com/u/655869?s=40&40&v=4"
+          },
+          {
+            "username": "aibrahim-oai",
+            "avatar": "https://avatars.githubusercontent.com/u/219906144?s=40&40&v=4"
+          },
+          {
+            "username": "pakrym-oai",
+            "avatar": "https://avatars.githubusercontent.com/u/204937752?s=40&40&v=4"
+          },
+          {
+            "username": "etraut-openai",
+            "avatar": "https://avatars.githubusercontent.com/u/223546144?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 12,
+        "author": "RyanCodrai",
+        "name": "turbovec",
+        "fullName": "RyanCodrai/turbovec",
+        "url": "https://github.com/RyanCodrai/turbovec",
+        "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 13393,
+        "forks": 1181,
+        "builtBy": [
+          {
+            "username": "RyanCodrai",
+            "avatar": "https://avatars.githubusercontent.com/u/10856497?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "faysou",
+            "avatar": "https://avatars.githubusercontent.com/u/893862?s=40&40&v=4"
+          },
+          {
+            "username": "nicolas-geysse",
+            "avatar": "https://avatars.githubusercontent.com/u/8360521?s=40&40&v=4"
+          },
+          {
+            "username": "Pringled",
+            "avatar": "https://avatars.githubusercontent.com/u/12988240?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 13,
+        "author": "HKUDS",
+        "name": "DeepTutor",
+        "fullName": "HKUDS/DeepTutor",
+        "url": "https://github.com/HKUDS/DeepTutor",
+        "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 27456,
+        "forks": 3653,
+        "builtBy": [
+          {
+            "username": "pancacake",
+            "avatar": "https://avatars.githubusercontent.com/u/150592536?s=40&40&v=4"
+          },
+          {
+            "username": "Pinkllow",
+            "avatar": "https://avatars.githubusercontent.com/u/272976591?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "tusharkhatriofficial",
+            "avatar": "https://avatars.githubusercontent.com/u/64004539?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 14,
+        "author": "OpenCut-app",
+        "name": "OpenCut",
+        "fullName": "OpenCut-app/OpenCut",
+        "url": "https://github.com/OpenCut-app/OpenCut",
+        "description": "The open-source CapCut alternative",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 75036,
+        "forks": 7558,
+        "builtBy": [
+          {
+            "username": "mazeincoding",
+            "avatar": "https://avatars.githubusercontent.com/u/167211895?s=40&40&v=4"
+          },
+          {
+            "username": "izadoesdev",
+            "avatar": "https://avatars.githubusercontent.com/u/59828082?s=40&40&v=4"
+          },
+          {
+            "username": "anwarulislam",
+            "avatar": "https://avatars.githubusercontent.com/u/26295990?s=40&40&v=4"
+          },
+          {
+            "username": "khanguyen74",
+            "avatar": "https://avatars.githubusercontent.com/u/50540913?s=40&40&v=4"
+          },
+          {
+            "username": "DevloperAmanSingh",
+            "avatar": "https://avatars.githubusercontent.com/u/80804989?s=40&40&v=4"
+          }
+        ]
+      }
+    ]
+  },
+  "productHunt": null,
+  "hackerNews": null
+}

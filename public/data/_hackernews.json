@@ -1,237 +1,237 @@
 {
-  "updatedAt": "2026-07-17T06:11:23.318Z",
+  "updatedAt": "2026-07-18T06:00:16.924Z",
   "stories": [
     {
       "rank": 1,
-      "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
-      "url": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
-      "score": 63,
-      "comments": 32,
-      "author": "divbzero"
+      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+      "score": 434,
+      "comments": 284,
+      "author": "gnabgib"
     },
     {
       "rank": 2,
-      "title": "Kimi K3: Open Frontier Intelligence",
-      "url": "https://www.kimi.com/blog/kimi-k3",
-      "score": 1436,
-      "comments": 865,
-      "author": "vincent_s"
+      "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+      "url": "https://news.ycombinator.com/item?id=48945241",
+      "score": 1121,
+      "comments": 663,
+      "author": "nprateem"
     },
     {
       "rank": 3,
-      "title": "An Engineer's Guide to USB Typе-С (2024)",
-      "url": "https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029",
-      "score": 97,
-      "comments": 1,
-      "author": "gregsadetsky"
+      "title": "Thanks HN for 15 years of support and helping me find my life's work",
+      "url": "https://news.ycombinator.com/item?id=48949551",
+      "score": 485,
+      "comments": 49,
+      "author": "nicholasjbs"
     },
     {
       "rank": 4,
-      "title": "GrapheneOS recommended for domestic abuse victims",
-      "url": "https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/",
-      "score": 68,
-      "comments": 38,
-      "author": "aussieguy1234"
+      "title": "Reviving a 15-year-old netbook with Arch Linux",
+      "url": "https://parksb.github.io/en/article/41.html",
+      "score": 41,
+      "comments": 18,
+      "author": "parksb"
     },
     {
       "rank": 5,
-      "title": "Microsoft Comic Chat is now open source",
-      "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
-      "score": 618,
-      "comments": 138,
-      "author": "jervant"
+      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+      "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+      "score": 415,
+      "comments": 251,
+      "author": "neversaydie"
     },
     {
       "rank": 6,
-      "title": "Pebble Mega Update – July 2026",
-      "url": "https://repebble.com/blog/pebble-mega-update-july-2026",
-      "score": 25,
-      "comments": 0,
-      "author": "crazysaem"
+      "title": "The Zilog Z80 has turned 50",
+      "url": "https://goliath32.com/blog/z80.html",
+      "score": 196,
+      "comments": 61,
+      "author": "st_goliath"
     },
     {
       "rank": 7,
-      "title": "Decoy Font",
-      "url": "https://www.mixfont.com/experiments/decoy-font",
-      "score": 486,
-      "comments": 115,
-      "author": "ray__"
+      "title": "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
+      "url": "https://moonstone.sh/",
+      "score": 35,
+      "comments": 9,
+      "author": "ksymph"
     },
     {
       "rank": 8,
-      "title": "LM Studio Bionic: the AI agent for open models",
-      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-      "score": 208,
-      "comments": 73,
-      "author": "minimaxir"
+      "title": "I Started a \"Dirt Notebook\"",
+      "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
+      "score": 38,
+      "comments": 29,
+      "author": "herbertl"
     },
     {
       "rank": 9,
-      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-      "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-      "score": 211,
-      "comments": 240,
-      "author": "hershyb_"
+      "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
+      "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
+      "score": 74,
+      "comments": 18,
+      "author": "BadChemical"
     },
     {
       "rank": 10,
-      "title": "The Little Book of Reinforcement Learning",
-      "url": "https://github.com/alxndrTL/little-book-rl/",
-      "score": 97,
-      "comments": 11,
-      "author": "mustaphah"
-    },
-    {
-      "rank": 11,
-      "title": "Solod: Go can be a better C",
-      "url": "https://solod.dev",
-      "score": 92,
-      "comments": 27,
-      "author": "koeng"
-    },
-    {
-      "rank": 12,
-      "title": "NotebookLM is now Gemini Notebook",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
-      "score": 283,
-      "comments": 143,
-      "author": "xnx"
-    },
-    {
-      "rank": 13,
-      "title": "M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive",
-      "score": 52,
-      "comments": 23,
-      "author": "hnburnsy"
-    },
-    {
-      "rank": 14,
-      "title": "How Our Rust-to-Zig Rewrite Is Going",
-      "url": "https://rtfeldman.com/rust-to-zig",
-      "score": 472,
-      "comments": 247,
-      "author": "jorangreef"
-    },
-    {
-      "rank": 15,
-      "title": "Mathematics of Data Science",
-      "url": "https://arxiv.org/abs/2607.11938",
-      "score": 132,
-      "comments": 3,
-      "author": "Anon84"
-    },
-    {
-      "rank": 16,
-      "title": "Old Icons",
-      "url": "https://leancrew.com/all-this/2026/07/old-icons/",
-      "score": 27,
-      "comments": 6,
-      "author": "zdw"
-    },
-    {
-      "rank": 17,
-      "title": "UIUC AI Teaching Assistant",
-      "url": "https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc",
-      "score": 10,
-      "comments": 0,
-      "author": "teleforce"
-    },
-    {
-      "rank": 18,
-      "title": "Simulating everything, sort of: The promise and limits of world models",
-      "url": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
-      "score": 25,
-      "comments": 1,
-      "author": "LorenDB"
-    },
-    {
-      "rank": 19,
-      "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
-      "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
-      "score": 179,
-      "comments": 122,
-      "author": "uneven9434"
-    },
-    {
-      "rank": 20,
-      "title": "Immersive Linear Algebra Book with Interactive Figures (2015)",
-      "url": "https://immersivemath.com/ila/",
-      "score": 192,
-      "comments": 26,
-      "author": "srean"
-    },
-    {
-      "rank": 21,
-      "title": "Starlink from 1984",
-      "url": "https://nemanjatrifunovic.substack.com/p/starlink-from-1984",
-      "score": 6,
-      "comments": 0,
-      "author": "ingve"
-    },
-    {
-      "rank": 22,
-      "title": "Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone",
-      "url": "https://www.science.org/doi/10.1126/science.aea9708",
-      "score": 86,
-      "comments": 25,
-      "author": "anyonecancode"
-    },
-    {
-      "rank": 23,
-      "title": "'Likweli': A new monkey species discovered in the Congo Basin",
-      "url": "https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin",
-      "score": 68,
-      "comments": 12,
-      "author": "gmays"
-    },
-    {
-      "rank": 24,
-      "title": "The human-in-the-loop is tired",
-      "url": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
-      "score": 137,
-      "comments": 71,
-      "author": "haritha1313"
-    },
-    {
-      "rank": 25,
-      "title": "Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning",
-      "url": "https://arxiv.org/abs/2607.12395",
-      "score": 47,
-      "comments": 15,
-      "author": "binyu"
-    },
-    {
-      "rank": 26,
-      "title": "Pseudpocalypse",
-      "url": "https://dynomight.net/pseudpocalypse/",
-      "score": 106,
-      "comments": 63,
+      "title": "Learning a few things about running SQLite",
+      "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+      "score": 206,
+      "comments": 52,
       "author": "surprisetalk"
     },
     {
+      "rank": 11,
+      "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
+      "url": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
+      "score": 60,
+      "comments": 6,
+      "author": "andsoitis"
+    },
+    {
+      "rank": 12,
+      "title": "Regressive JPEGs",
+      "url": "https://maurycyz.com/projects/bad_jpeg/",
+      "score": 15,
+      "comments": 0,
+      "author": "vitaut"
+    },
+    {
+      "rank": 13,
+      "title": "Shipping OpenStrike: A Counter-Strike-Shaped FPS on a 2004 Handheld",
+      "url": "https://pocketjs.dev/blog/shipping-openstrike/",
+      "score": 26,
+      "comments": 12,
+      "author": "itvision"
+    },
+    {
+      "rank": 14,
+      "title": "Vāgdhenu: A Sanskrit Chanting TTS System",
+      "url": "https://prathosh.in/vagdhenu/",
+      "score": 125,
+      "comments": 24,
+      "author": "subinalex"
+    },
+    {
+      "rank": 15,
+      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+      "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
+      "score": 305,
+      "comments": 165,
+      "author": "droidjj"
+    },
+    {
+      "rank": 17,
+      "title": "Stenchill: 3D Printable Solder Paste Stencil Generator",
+      "url": "https://www.stenchill.com/en/",
+      "score": 28,
+      "comments": 5,
+      "author": "radeeyate"
+    },
+    {
+      "rank": 18,
+      "title": "An Update on Igalia's Layer Based SVG Engine in WebKit (Reducing Layer Overhead)",
+      "url": "https://blogs.igalia.com/nzimmermann/posts/2026-07-14-lbse-conditional-layers/",
+      "score": 29,
+      "comments": 1,
+      "author": "bkardell"
+    },
+    {
+      "rank": 19,
+      "title": "Open Book Touch: open-source e-reader",
+      "url": "https://www.crowdsupply.com/oddly-specific-objects/open-book-touch",
+      "score": 85,
+      "comments": 25,
+      "author": "surprisetalk"
+    },
+    {
+      "rank": 20,
+      "title": "Static search trees: 40x faster than binary search (2024)",
+      "url": "https://curiouscoding.nl/posts/static-search-tree/",
+      "score": 83,
+      "comments": 3,
+      "author": "lalitmaganti"
+    },
+    {
+      "rank": 21,
+      "title": "Mac gaming is finally getting the overpowered upgrade it deserves",
+      "url": "https://www.macworld.com/article/3189951/apples-latest-game-porting-toolkit-beta-changed-how-i-think-about-mac-gaming.html",
+      "score": 28,
+      "comments": 17,
+      "author": "kristianp"
+    },
+    {
+      "rank": 22,
+      "title": "Lego building instructions through time",
+      "url": "https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time",
+      "score": 93,
+      "comments": 19,
+      "author": "NaOH"
+    },
+    {
+      "rank": 23,
+      "title": "Painting the sides of railroad rails white to reduce derailment",
+      "url": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
+      "score": 72,
+      "comments": 40,
+      "author": "zdw"
+    },
+    {
+      "rank": 24,
+      "title": "Battery packs: Let's talk about crates, baby",
+      "url": "https://smallcultfollowing.com/babysteps/blog/2026/07/15/battery-packs/",
+      "score": 5,
+      "comments": 2,
+      "author": "MeetingsBrowser"
+    },
+    {
+      "rank": 25,
+      "title": "Frank Lloyd Wright’s first home",
+      "url": "https://www.architecturaldigest.com/story/frank-lloyd-wright-home-and-studio-everything-you-need-to-know",
+      "score": 95,
+      "comments": 47,
+      "author": "NaOH"
+    },
+    {
+      "rank": 26,
+      "title": "The state of open source AI",
+      "url": "https://stateofopensource.ai/",
+      "score": 407,
+      "comments": 297,
+      "author": "rellem"
+    },
+    {
       "rank": 27,
-      "title": "Show HN: Clx – Compile Lua to Native Executables Through C++20",
-      "url": "https://github.com/samyeyo/clx",
-      "score": 105,
-      "comments": 11,
-      "author": "_samt_"
+      "title": "Show HN: A zoomable timeline of 4M Wikipedia events",
+      "url": "https://app.everything.diena.co/",
+      "score": 74,
+      "comments": 30,
+      "author": "lortex"
     },
     {
       "rank": 28,
-      "title": "CD sales growth outpaced vinyl in the first half of 2026",
-      "url": "https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/",
-      "score": 84,
-      "comments": 99,
-      "author": "speckx"
+      "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
+      "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
+      "score": 160,
+      "comments": 87,
+      "author": "hmm37"
     },
     {
       "rank": 29,
-      "title": "Abstracting Effects with Continuations",
-      "url": "https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/",
-      "score": 56,
-      "comments": 2,
-      "author": "crowdhailer"
+      "title": "Three ways people respond to a problem (other than solving it)",
+      "url": "https://improvesomething.today/responses-to-problems/",
+      "score": 219,
+      "comments": 120,
+      "author": "surprisetalk"
+    },
+    {
+      "rank": 30,
+      "title": "Show HN: Watch bots interact with an SSH honeypot in real time",
+      "url": "https://honeypotlive.cc/",
+      "score": 151,
+      "comments": 55,
+      "author": "tusksm"
     }
   ]
 }

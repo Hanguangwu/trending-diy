@@ -1,0 +1,352 @@
+{
+  "date": "2026-07-19",
+  "updatedAt": "2026-07-19T06:26:11.694Z",
+  "github": {
+    "updatedAt": "2026-07-19T06:26:10.134Z",
+    "repos": [
+      {
+        "rank": 1,
+        "author": "Robbyant",
+        "name": "lingbot-map",
+        "fullName": "Robbyant/lingbot-map",
+        "url": "https://github.com/Robbyant/lingbot-map",
+        "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 13118,
+        "forks": 1361,
+        "builtBy": [
+          {
+            "username": "LinZhuoChen",
+            "avatar": "https://avatars.githubusercontent.com/u/32637882?s=40&40&v=4"
+          },
+          {
+            "username": "justimyhxu",
+            "avatar": "https://avatars.githubusercontent.com/u/29980330?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "author": "apache",
+        "name": "ossie",
+        "fullName": "apache/ossie",
+        "url": "https://github.com/apache/ossie",
+        "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 1318,
+        "forks": 156,
+        "builtBy": [
+          {
+            "username": "khush-bhatia",
+            "avatar": "https://avatars.githubusercontent.com/u/11509354?s=40&40&v=4"
+          },
+          {
+            "username": "kurtStirewalt",
+            "avatar": "https://avatars.githubusercontent.com/u/5403609?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "karanasher",
+            "avatar": "https://avatars.githubusercontent.com/u/10433441?s=40&40&v=4"
+          },
+          {
+            "username": "sfc-gh-kbhatia",
+            "avatar": "https://avatars.githubusercontent.com/u/65572406?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "author": "PostHog",
+        "name": "posthog",
+        "fullName": "PostHog/posthog",
+        "url": "https://github.com/PostHog/posthog",
+        "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 36675,
+        "forks": 3034,
+        "builtBy": [
+          {
+            "username": "pauldambra",
+            "avatar": "https://avatars.githubusercontent.com/u/984817?s=40&40&v=4"
+          },
+          {
+            "username": "Twixes",
+            "avatar": "https://avatars.githubusercontent.com/u/4550621?s=40&40&v=4"
+          },
+          {
+            "username": "mariusandra",
+            "avatar": "https://avatars.githubusercontent.com/u/53387?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "author": "ibelick",
+        "name": "ui-skills",
+        "fullName": "ibelick/ui-skills",
+        "url": "https://github.com/ibelick/ui-skills",
+        "description": "Skills for Design Engineers",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 5166,
+        "forks": 222,
+        "builtBy": [
+          {
+            "username": "ibelick",
+            "avatar": "https://avatars.githubusercontent.com/u/14288396?s=40&40&v=4"
+          },
+          {
+            "username": "fernandezbaptiste",
+            "avatar": "https://avatars.githubusercontent.com/u/83458751?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "saadeghi",
+            "avatar": "https://avatars.githubusercontent.com/u/7342023?s=40&40&v=4"
+          },
+          {
+            "username": "arifszn",
+            "avatar": "https://avatars.githubusercontent.com/u/45073703?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "author": "rohitg00",
+        "name": "ai-engineering-from-scratch",
+        "fullName": "rohitg00/ai-engineering-from-scratch",
+        "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+        "description": "Learn it. Build it. Ship it for others.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 39221,
+        "forks": 6562,
+        "builtBy": [
+          {
+            "username": "rohitg00",
+            "avatar": "https://avatars.githubusercontent.com/u/48523873?s=40&40&v=4"
+          },
+          {
+            "username": "abhinav-m22",
+            "avatar": "https://avatars.githubusercontent.com/u/113239388?s=40&40&v=4"
+          },
+          {
+            "username": "thereisnotime",
+            "avatar": "https://avatars.githubusercontent.com/u/37583483?s=40&40&v=4"
+          },
+          {
+            "username": "pzy0006",
+            "avatar": "https://avatars.githubusercontent.com/u/42953002?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "author": "tirth8205",
+        "name": "code-review-graph",
+        "fullName": "tirth8205/code-review-graph",
+        "url": "https://github.com/tirth8205/code-review-graph",
+        "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 20303,
+        "forks": 2131,
+        "builtBy": [
+          {
+            "username": "tirth8205",
+            "avatar": "https://avatars.githubusercontent.com/u/68604113?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "gzenz",
+            "avatar": "https://avatars.githubusercontent.com/u/91069374?s=40&40&v=4"
+          },
+          {
+            "username": "jaissebastian",
+            "avatar": "https://avatars.githubusercontent.com/u/171774615?s=40&40&v=4"
+          },
+          {
+            "username": "michael-denyer",
+            "avatar": "https://avatars.githubusercontent.com/u/97485362?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "author": "elder-plinius",
+        "name": "G0DM0D3",
+        "fullName": "elder-plinius/G0DM0D3",
+        "url": "https://github.com/elder-plinius/G0DM0D3",
+        "description": "LIBERATED AI CHAT",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 9570,
+        "forks": 2260,
+        "builtBy": [
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "elder-plinius",
+            "avatar": "https://avatars.githubusercontent.com/u/133052465?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "author": "lyogavin",
+        "name": "airllm",
+        "fullName": "lyogavin/airllm",
+        "url": "https://github.com/lyogavin/airllm",
+        "description": "AirLLM 70B inference with single 4GB GPU",
+        "language": "Jupyter Notebook",
+        "languageColor": "#DA5B0B",
+        "starsToday": 0,
+        "totalStars": 23413,
+        "forks": 2661,
+        "builtBy": [
+          {
+            "username": "lyogavin",
+            "avatar": "https://avatars.githubusercontent.com/u/1113905?s=40&40&v=4"
+          },
+          {
+            "username": "cursoragent",
+            "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&40&v=4"
+          },
+          {
+            "username": "eltociear",
+            "avatar": "https://avatars.githubusercontent.com/u/22633385?s=40&40&v=4"
+          },
+          {
+            "username": "NavodPeiris",
+            "avatar": "https://avatars.githubusercontent.com/u/69672640?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "author": "KnockOutEZ",
+        "name": "wigolo",
+        "fullName": "KnockOutEZ/wigolo",
+        "url": "https://github.com/KnockOutEZ/wigolo",
+        "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 1363,
+        "forks": 90,
+        "builtBy": [
+          {
+            "username": "KnockOutEZ",
+            "avatar": "https://avatars.githubusercontent.com/u/70368615?s=40&40&v=4"
+          },
+          {
+            "username": "YoshiTabletopGamer",
+            "avatar": "https://avatars.githubusercontent.com/u/88633614?s=40&40&v=4"
+          },
+          {
+            "username": "gitcommit90",
+            "avatar": "https://avatars.githubusercontent.com/u/294273268?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "author": "codecrafters-io",
+        "name": "build-your-own-x",
+        "fullName": "codecrafters-io/build-your-own-x",
+        "url": "https://github.com/codecrafters-io/build-your-own-x",
+        "description": "Master programming by recreating your favorite technologies from scratch.",
+        "language": "Markdown",
+        "languageColor": "#083fa1",
+        "starsToday": 0,
+        "totalStars": 528427,
+        "forks": 50001,
+        "builtBy": [
+          {
+            "username": "danistefanovic",
+            "avatar": "https://avatars.githubusercontent.com/u/1736595?s=40&40&v=4"
+          },
+          {
+            "username": "rohitpaulk",
+            "avatar": "https://avatars.githubusercontent.com/u/3893573?s=40&40&v=4"
+          },
+          {
+            "username": "sarupbanskota",
+            "avatar": "https://avatars.githubusercontent.com/u/3149580?s=40&40&v=4"
+          },
+          {
+            "username": "fake-rookie",
+            "avatar": "https://avatars.githubusercontent.com/u/61480354?s=40&40&v=4"
+          },
+          {
+            "username": "bauripalash",
+            "avatar": "https://avatars.githubusercontent.com/u/16154204?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 11,
+        "author": "MoonshotAI",
+        "name": "kimi-cli",
+        "fullName": "MoonshotAI/kimi-cli",
+        "url": "https://github.com/MoonshotAI/kimi-cli",
+        "description": "Kimi Code CLI is your next CLI agent.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 9576,
+        "forks": 1168,
+        "builtBy": [
+          {
+            "username": "stdrc",
+            "avatar": "https://avatars.githubusercontent.com/u/5317095?s=40&40&v=4"
+          },
+          {
+            "username": "RealKai42",
+            "avatar": "https://avatars.githubusercontent.com/u/44634134?s=40&40&v=4"
+          },
+          {
+            "username": "xxchan",
+            "avatar": "https://avatars.githubusercontent.com/u/37948597?s=40&40&v=4"
+          },
+          {
+            "username": "n-WN",
+            "avatar": "https://avatars.githubusercontent.com/u/30841158?s=40&40&v=4"
+          }
+        ]
+      }
+    ]
+  },
+  "productHunt": null,
+  "hackerNews": null
+}

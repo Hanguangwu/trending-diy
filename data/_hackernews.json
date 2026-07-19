@@ -1,237 +1,245 @@
 {
-  "updatedAt": "2026-07-18T06:00:16.924Z",
+  "updatedAt": "2026-07-19T06:26:11.686Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-      "score": 434,
-      "comments": 284,
-      "author": "gnabgib"
+      "title": "Transcribe.cpp",
+      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+      "score": 334,
+      "comments": 54,
+      "author": "sebjones"
     },
     {
       "rank": 2,
-      "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
-      "url": "https://news.ycombinator.com/item?id=48945241",
-      "score": 1121,
-      "comments": 663,
-      "author": "nprateem"
+      "title": "Speech Recognition and TTS in less than 500kb",
+      "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+      "score": 388,
+      "comments": 40,
+      "author": "petewarden"
     },
     {
       "rank": 3,
-      "title": "Thanks HN for 15 years of support and helping me find my life's work",
-      "url": "https://news.ycombinator.com/item?id=48949551",
-      "score": 485,
-      "comments": 49,
-      "author": "nicholasjbs"
+      "title": "Better and Cheaper Than IPTV",
+      "url": "https://github.com/stupside/castor",
+      "score": 123,
+      "comments": 34,
+      "author": "xonery"
     },
     {
       "rank": 4,
-      "title": "Reviving a 15-year-old netbook with Arch Linux",
-      "url": "https://parksb.github.io/en/article/41.html",
-      "score": 41,
-      "comments": 18,
-      "author": "parksb"
+      "title": "FDA approves new kind of cholesterol pill",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol",
+      "score": 58,
+      "comments": 33,
+      "author": "mgh2"
     },
     {
       "rank": 5,
-      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
-      "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
-      "score": 415,
-      "comments": 251,
-      "author": "neversaydie"
+      "title": "Mathematicians still don't know the fastest way to multiply numbers",
+      "url": "https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/",
+      "score": 60,
+      "comments": 38,
+      "author": "beardyw"
     },
     {
       "rank": 6,
-      "title": "The Zilog Z80 has turned 50",
-      "url": "https://goliath32.com/blog/z80.html",
-      "score": 196,
-      "comments": 61,
-      "author": "st_goliath"
+      "title": "Classic Amiga titles, free to download",
+      "url": "https://amigafreeware.downer.tech/",
+      "score": 96,
+      "comments": 11,
+      "author": "doener"
     },
     {
       "rank": 7,
-      "title": "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
-      "url": "https://moonstone.sh/",
-      "score": 35,
-      "comments": 9,
-      "author": "ksymph"
+      "title": "If You Build It, They Will Come",
+      "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
+      "score": 353,
+      "comments": 126,
+      "author": "barry-cotter"
     },
     {
       "rank": 8,
-      "title": "I Started a \"Dirt Notebook\"",
-      "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
-      "score": 38,
-      "comments": 29,
-      "author": "herbertl"
+      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+      "score": 542,
+      "comments": 345,
+      "author": "mbustamanter"
     },
     {
       "rank": 9,
-      "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
-      "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
-      "score": 74,
-      "comments": 18,
-      "author": "BadChemical"
+      "title": "Making Software: How to make a font",
+      "url": "https://www.makingsoftware.com/chapters/how-to-make-a-font",
+      "score": 14,
+      "comments": 2,
+      "author": "Garbage"
     },
     {
       "rank": 10,
-      "title": "Learning a few things about running SQLite",
-      "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
-      "score": 206,
-      "comments": 52,
-      "author": "surprisetalk"
-    },
-    {
-      "rank": 11,
-      "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
-      "url": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
-      "score": 60,
-      "comments": 6,
-      "author": "andsoitis"
-    },
-    {
-      "rank": 12,
-      "title": "Regressive JPEGs",
-      "url": "https://maurycyz.com/projects/bad_jpeg/",
-      "score": 15,
-      "comments": 0,
-      "author": "vitaut"
-    },
-    {
-      "rank": 13,
-      "title": "Shipping OpenStrike: A Counter-Strike-Shaped FPS on a 2004 Handheld",
-      "url": "https://pocketjs.dev/blog/shipping-openstrike/",
-      "score": 26,
-      "comments": 12,
-      "author": "itvision"
-    },
-    {
-      "rank": 14,
-      "title": "Vāgdhenu: A Sanskrit Chanting TTS System",
-      "url": "https://prathosh.in/vagdhenu/",
-      "score": 125,
-      "comments": 24,
-      "author": "subinalex"
-    },
-    {
-      "rank": 15,
-      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
-      "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
-      "score": 305,
-      "comments": 165,
-      "author": "droidjj"
-    },
-    {
-      "rank": 17,
-      "title": "Stenchill: 3D Printable Solder Paste Stencil Generator",
-      "url": "https://www.stenchill.com/en/",
-      "score": 28,
+      "title": "A Visual Catalog of Retro Macintosh Software",
+      "url": "https://www.marciot.com/mac68k-visual-catalog/",
+      "score": 25,
       "comments": 5,
-      "author": "radeeyate"
-    },
-    {
-      "rank": 18,
-      "title": "An Update on Igalia's Layer Based SVG Engine in WebKit (Reducing Layer Overhead)",
-      "url": "https://blogs.igalia.com/nzimmermann/posts/2026-07-14-lbse-conditional-layers/",
-      "score": 29,
-      "comments": 1,
-      "author": "bkardell"
-    },
-    {
-      "rank": 19,
-      "title": "Open Book Touch: open-source e-reader",
-      "url": "https://www.crowdsupply.com/oddly-specific-objects/open-book-touch",
-      "score": 85,
-      "comments": 25,
-      "author": "surprisetalk"
-    },
-    {
-      "rank": 20,
-      "title": "Static search trees: 40x faster than binary search (2024)",
-      "url": "https://curiouscoding.nl/posts/static-search-tree/",
-      "score": 83,
-      "comments": 3,
-      "author": "lalitmaganti"
-    },
-    {
-      "rank": 21,
-      "title": "Mac gaming is finally getting the overpowered upgrade it deserves",
-      "url": "https://www.macworld.com/article/3189951/apples-latest-game-porting-toolkit-beta-changed-how-i-think-about-mac-gaming.html",
-      "score": 28,
-      "comments": 17,
-      "author": "kristianp"
-    },
-    {
-      "rank": 22,
-      "title": "Lego building instructions through time",
-      "url": "https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time",
-      "score": 93,
-      "comments": 19,
-      "author": "NaOH"
-    },
-    {
-      "rank": 23,
-      "title": "Painting the sides of railroad rails white to reduce derailment",
-      "url": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
-      "score": 72,
-      "comments": 40,
       "author": "zdw"
     },
     {
-      "rank": 24,
-      "title": "Battery packs: Let's talk about crates, baby",
-      "url": "https://smallcultfollowing.com/babysteps/blog/2026/07/15/battery-packs/",
-      "score": 5,
-      "comments": 2,
-      "author": "MeetingsBrowser"
+      "rank": 11,
+      "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
+      "url": "https://www.neatnik.net/hardcore-indieweb",
+      "score": 128,
+      "comments": 84,
+      "author": "cdrnsf"
     },
     {
-      "rank": 25,
-      "title": "Frank Lloyd Wright’s first home",
-      "url": "https://www.architecturaldigest.com/story/frank-lloyd-wright-home-and-studio-everything-you-need-to-know",
-      "score": 95,
-      "comments": 47,
-      "author": "NaOH"
+      "rank": 12,
+      "title": "Scrying the AMD GFX1250 LLVM Tea Leaves",
+      "url": "https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea",
+      "score": 4,
+      "comments": 0,
+      "author": "mfiguiere"
     },
     {
-      "rank": 26,
-      "title": "The state of open source AI",
-      "url": "https://stateofopensource.ai/",
-      "score": 407,
-      "comments": 297,
-      "author": "rellem"
-    },
-    {
-      "rank": 27,
-      "title": "Show HN: A zoomable timeline of 4M Wikipedia events",
-      "url": "https://app.everything.diena.co/",
-      "score": 74,
-      "comments": 30,
-      "author": "lortex"
-    },
-    {
-      "rank": 28,
-      "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
-      "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
-      "score": 160,
-      "comments": 87,
-      "author": "hmm37"
-    },
-    {
-      "rank": 29,
-      "title": "Three ways people respond to a problem (other than solving it)",
-      "url": "https://improvesomething.today/responses-to-problems/",
-      "score": 219,
-      "comments": 120,
+      "rank": 13,
+      "title": "I'm Making Strandfall, a Solarpunk Orienteering Larp",
+      "url": "https://mssv.net/2026/04/29/im-making-strandfall-a-solarpunk-orienteering-larp/",
+      "score": 131,
+      "comments": 18,
       "author": "surprisetalk"
     },
     {
+      "rank": 14,
+      "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+      "score": 397,
+      "comments": 178,
+      "author": "gnabgib"
+    },
+    {
+      "rank": 15,
+      "title": "AI Mania Is Eviscerating Global Decision-Making",
+      "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
+      "score": 138,
+      "comments": 54,
+      "author": "subset"
+    },
+    {
+      "rank": 16,
+      "title": "Deepsec",
+      "url": "https://github.com/vercel-labs/deepsec",
+      "score": 15,
+      "comments": 0,
+      "author": "handfuloflight"
+    },
+    {
+      "rank": 17,
+      "title": "I built a browser-based P2P file transfer tool using WebRTC",
+      "url": "https://airdows.com/",
+      "score": 12,
+      "comments": 9,
+      "author": "SamOkampo"
+    },
+    {
+      "rank": 18,
+      "title": "Is this the end of the once-mighty GoPro?",
+      "url": "https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/",
+      "score": 211,
+      "comments": 452,
+      "author": "aanet"
+    },
+    {
+      "rank": 19,
+      "title": "Co-evolution of self-replication and function in a digital primordial soup",
+      "url": "https://arxiv.org/abs/2607.09211",
+      "score": 55,
+      "comments": 7,
+      "author": "vicgalle_"
+    },
+    {
+      "rank": 20,
+      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+      "score": 233,
+      "comments": 111,
+      "author": "couAUIA"
+    },
+    {
+      "rank": 21,
+      "title": "Parsoid",
+      "url": "https://www.mediawiki.org/wiki/Parsoid",
+      "score": 16,
+      "comments": 0,
+      "author": "debo_"
+    },
+    {
+      "rank": 22,
+      "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+      "url": "https://ykdojo.github.io/claude-controls-mac/",
+      "score": 214,
+      "comments": 140,
+      "author": "ykev"
+    },
+    {
+      "rank": 23,
+      "title": "Developing an Intuitive Sense of Scale",
+      "url": "https://magworld.pw",
+      "score": 19,
+      "comments": 3,
+      "author": "vismit2000"
+    },
+    {
+      "rank": 24,
+      "title": "Gleam Is Now on Tangled",
+      "url": "https://tangled.org/gleam.run/gleam",
+      "score": 226,
+      "comments": 142,
+      "author": "nerdypepper"
+    },
+    {
+      "rank": 25,
+      "title": "Elixir-lang.org has a new design",
+      "url": "https://elixir-lang.org/",
+      "score": 211,
+      "comments": 121,
+      "author": "bbg2401"
+    },
+    {
+      "rank": 26,
+      "title": "LG monitors silently install software through Windows Update without consent",
+      "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
+      "score": 1084,
+      "comments": 550,
+      "author": "baranul"
+    },
+    {
+      "rank": 27,
+      "title": "Show HN: Q3Edit – Edit and play Quake 3 maps in the browser",
+      "url": "https://q3edit.com",
+      "score": 80,
+      "comments": 16,
+      "author": "drdator"
+    },
+    {
+      "rank": 28,
+      "title": "A Second-Grade Teacher Revived a Beloved Video Game",
+      "url": "https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html",
+      "score": 85,
+      "comments": 28,
+      "author": "danso"
+    },
+    {
+      "rank": 29,
+      "title": "Codex Resets",
+      "url": "https://codex-resets.com/",
+      "score": 126,
+      "comments": 95,
+      "author": "denysvitali"
+    },
+    {
       "rank": 30,
-      "title": "Show HN: Watch bots interact with an SSH honeypot in real time",
-      "url": "https://honeypotlive.cc/",
-      "score": 151,
-      "comments": 55,
-      "author": "tusksm"
+      "title": "Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf]",
+      "url": "https://www.tug.org/tug2026/preprints/lode-realtime.pdf",
+      "score": 50,
+      "comments": 11,
+      "author": "amichail"
     }
   ]
 }

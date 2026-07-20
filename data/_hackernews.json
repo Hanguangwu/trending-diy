@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-07-19T06:26:11.686Z",
+  "updatedAt": "2026-07-20T06:41:29.716Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Transcribe.cpp",
-      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-      "score": 334,
-      "comments": 54,
-      "author": "sebjones"
+      "title": "LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
+      "url": "https://github.com/Saivineeth147/lora-speedrun",
+      "score": 22,
+      "comments": 0,
+      "author": "Vineeth147"
     },
     {
       "rank": 2,
-      "title": "Speech Recognition and TTS in less than 500kb",
-      "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
-      "score": 388,
-      "comments": 40,
-      "author": "petewarden"
+      "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+      "url": "https://news.ycombinator.com/item?id=48968606",
+      "score": 2037,
+      "comments": 213,
+      "author": "section33"
     },
     {
       "rank": 3,
-      "title": "Better and Cheaper Than IPTV",
-      "url": "https://github.com/stupside/castor",
-      "score": 123,
-      "comments": 34,
-      "author": "xonery"
+      "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
+      "url": "https://github.com/hgaiser/moonshine",
+      "score": 103,
+      "comments": 48,
+      "author": "wertyk"
     },
     {
       "rank": 4,
-      "title": "FDA approves new kind of cholesterol pill",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol",
-      "score": 58,
-      "comments": 33,
-      "author": "mgh2"
+      "title": "Xiaomi-Robotics-1",
+      "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
+      "score": 21,
+      "comments": 4,
+      "author": "ilreb"
     },
     {
       "rank": 5,
-      "title": "Mathematicians still don't know the fastest way to multiply numbers",
-      "url": "https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/",
-      "score": 60,
-      "comments": 38,
-      "author": "beardyw"
+      "title": "Claude Code uses Bun written in Rust now",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "score": 472,
+      "comments": 629,
+      "author": "tosh"
     },
     {
       "rank": 6,
-      "title": "Classic Amiga titles, free to download",
-      "url": "https://amigafreeware.downer.tech/",
-      "score": 96,
-      "comments": 11,
-      "author": "doener"
+      "title": "Korg PS-3300 is back",
+      "url": "https://www.korg.co.uk/blogs/updates/ps3300",
+      "score": 26,
+      "comments": 26,
+      "author": "Lio"
     },
     {
       "rank": 7,
-      "title": "If You Build It, They Will Come",
-      "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
-      "score": 353,
-      "comments": 126,
-      "author": "barry-cotter"
+      "title": "Orion Browser by Kagi",
+      "url": "https://orionbrowser.com/",
+      "score": 154,
+      "comments": 94,
+      "author": "sebjones"
     },
     {
       "rank": 8,
-      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-      "score": 542,
-      "comments": 345,
-      "author": "mbustamanter"
+      "title": "Power companies are using eminent domain to seize land for data centers",
+      "url": "https://fortune.com/2026/07/19/data-center-eminent-domain-public-use/",
+      "score": 66,
+      "comments": 19,
+      "author": "1vuio0pswjnm7"
     },
     {
       "rank": 9,
-      "title": "Making Software: How to make a font",
-      "url": "https://www.makingsoftware.com/chapters/how-to-make-a-font",
-      "score": 14,
-      "comments": 2,
-      "author": "Garbage"
+      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+      "score": 461,
+      "comments": 209,
+      "author": "chipweinberger"
     },
     {
       "rank": 10,
-      "title": "A Visual Catalog of Retro Macintosh Software",
-      "url": "https://www.marciot.com/mac68k-visual-catalog/",
-      "score": 25,
-      "comments": 5,
-      "author": "zdw"
+      "title": "Self-Powered Trailers Promise Leaner Freight Runs",
+      "url": "https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization",
+      "score": 11,
+      "comments": 3,
+      "author": "rbanffy"
     },
     {
       "rank": 11,
-      "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
-      "url": "https://www.neatnik.net/hardcore-indieweb",
-      "score": 128,
-      "comments": 84,
-      "author": "cdrnsf"
+      "title": "The Zen of Parallel Programming",
+      "url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
+      "score": 147,
+      "comments": 17,
+      "author": "edgar_ortega"
     },
     {
       "rank": 12,
-      "title": "Scrying the AMD GFX1250 LLVM Tea Leaves",
-      "url": "https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea",
-      "score": 4,
-      "comments": 0,
-      "author": "mfiguiere"
+      "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+      "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+      "score": 256,
+      "comments": 140,
+      "author": "loubbrad"
     },
     {
       "rank": 13,
-      "title": "I'm Making Strandfall, a Solarpunk Orienteering Larp",
-      "url": "https://mssv.net/2026/04/29/im-making-strandfall-a-solarpunk-orienteering-larp/",
-      "score": 131,
-      "comments": 18,
-      "author": "surprisetalk"
+      "title": "Minecraft: Java Edition now uses SDL3",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+      "score": 293,
+      "comments": 200,
+      "author": "ObviouslyFlamer"
     },
     {
       "rank": 14,
-      "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-      "score": 397,
-      "comments": 178,
-      "author": "gnabgib"
+      "title": "Who Is America's Homer?",
+      "url": "https://www.plough.com/articles/who-is-americas-homer",
+      "score": 62,
+      "comments": 152,
+      "author": "samclemens"
     },
     {
       "rank": 15,
-      "title": "AI Mania Is Eviscerating Global Decision-Making",
-      "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
-      "score": 138,
-      "comments": 54,
-      "author": "subset"
+      "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
+      "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
+      "score": 148,
+      "comments": 106,
+      "author": "teleforce"
     },
     {
       "rank": 16,
-      "title": "Deepsec",
-      "url": "https://github.com/vercel-labs/deepsec",
-      "score": 15,
-      "comments": 0,
-      "author": "handfuloflight"
+      "title": "11,700 Free Photos from John Margolies' Archive of Americana Architecture",
+      "url": "https://www.openculture.com/2026/07/free-photos-from-john-margolies-archive-of-americana-architecture.html",
+      "score": 49,
+      "comments": 2,
+      "author": "gslin"
     },
     {
       "rank": 17,
-      "title": "I built a browser-based P2P file transfer tool using WebRTC",
-      "url": "https://airdows.com/",
-      "score": 12,
+      "title": "Biggest Probabilistic Computer Turns Noise into Answers",
+      "url": "https://spectrum.ieee.org/biggest-probabilistic-computer",
+      "score": 63,
       "comments": 9,
-      "author": "SamOkampo"
+      "author": "rbanffy"
     },
     {
       "rank": 18,
-      "title": "Is this the end of the once-mighty GoPro?",
-      "url": "https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/",
-      "score": 211,
-      "comments": 452,
-      "author": "aanet"
+      "title": "Qwen 3.8",
+      "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+      "score": 846,
+      "comments": 579,
+      "author": "nh43215rgb"
     },
     {
       "rank": 19,
-      "title": "Co-evolution of self-replication and function in a digital primordial soup",
-      "url": "https://arxiv.org/abs/2607.09211",
-      "score": 55,
-      "comments": 7,
-      "author": "vicgalle_"
+      "title": "HomeLab #1: MikroTik as a Home Router",
+      "url": "https://justsomebody.dev/blog/mikrotik-home-router",
+      "score": 92,
+      "comments": 83,
+      "author": "rafal_opilowski"
     },
     {
       "rank": 20,
-      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
-      "score": 233,
-      "comments": 111,
-      "author": "couAUIA"
+      "title": "A new Intel Itanium (IA-64) emulator that boots Windows",
+      "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
+      "score": 71,
+      "comments": 62,
+      "author": "jandeboevrie"
     },
     {
       "rank": 21,
-      "title": "Parsoid",
-      "url": "https://www.mediawiki.org/wiki/Parsoid",
-      "score": 16,
+      "title": "Talk: The Art of Braiding Algorithms",
+      "url": "https://pgadey.ca/notes/talk-relatorium-2026/",
+      "score": 36,
       "comments": 0,
-      "author": "debo_"
+      "author": "surprisetalk"
     },
     {
       "rank": 22,
-      "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-      "url": "https://ykdojo.github.io/claude-controls-mac/",
-      "score": 214,
-      "comments": 140,
-      "author": "ykev"
+      "title": "How proprietary formats have become Microsoft’s main tool for lock-in",
+      "url": "https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/",
+      "score": 20,
+      "comments": 1,
+      "author": "cube00"
     },
     {
       "rank": 23,
-      "title": "Developing an Intuitive Sense of Scale",
-      "url": "https://magworld.pw",
-      "score": 19,
-      "comments": 3,
-      "author": "vismit2000"
+      "title": "I joined the IndieWeb, here's what I learned",
+      "url": "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/",
+      "score": 185,
+      "comments": 92,
+      "author": "andros"
     },
     {
       "rank": 24,
-      "title": "Gleam Is Now on Tangled",
-      "url": "https://tangled.org/gleam.run/gleam",
-      "score": 226,
-      "comments": 142,
-      "author": "nerdypepper"
+      "title": "C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)",
+      "url": "https://retrogamecoders.com/c64-basic-dungeon-part8/",
+      "score": 68,
+      "comments": 4,
+      "author": "ibobev"
     },
     {
       "rank": 25,
-      "title": "Elixir-lang.org has a new design",
-      "url": "https://elixir-lang.org/",
-      "score": 211,
-      "comments": 121,
-      "author": "bbg2401"
+      "title": "HMD Touch 4G",
+      "url": "https://www.hmd.com/en_int/hmd-touch-4g",
+      "score": 69,
+      "comments": 69,
+      "author": "thisislife2"
     },
     {
       "rank": 26,
-      "title": "LG monitors silently install software through Windows Update without consent",
-      "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
-      "score": 1084,
-      "comments": 550,
-      "author": "baranul"
+      "title": "I burned all my tokens researching how to save tokens",
+      "url": "https://quesma.com/blog/custom-deep-research-pipeline/",
+      "score": 121,
+      "comments": 154,
+      "author": "bkotrys"
     },
     {
       "rank": 27,
-      "title": "Show HN: Q3Edit – Edit and play Quake 3 maps in the browser",
-      "url": "https://q3edit.com",
-      "score": 80,
-      "comments": 16,
-      "author": "drdator"
+      "title": "Cagire: Live Coding in Forth",
+      "url": "https://cagire.raphaelforment.fr",
+      "score": 89,
+      "comments": 11,
+      "author": "surprisetalk"
     },
     {
       "rank": 28,
-      "title": "A Second-Grade Teacher Revived a Beloved Video Game",
-      "url": "https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html",
-      "score": 85,
-      "comments": 28,
-      "author": "danso"
+      "title": "Dupes took over the world",
+      "url": "https://www.vox.com/podcasts/493930/dupe-culture-fender-ugg-quince-tiktok-amazon-online-shopping",
+      "score": 81,
+      "comments": 74,
+      "author": "gumby"
     },
     {
       "rank": 29,
-      "title": "Codex Resets",
-      "url": "https://codex-resets.com/",
-      "score": 126,
-      "comments": 95,
-      "author": "denysvitali"
+      "title": "Terence McKenna's Mega Bad Trip (2025)",
+      "url": "https://psychedelics.community/cultural-icons/terence-mckennas-mega-bad-trip",
+      "score": 86,
+      "comments": 77,
+      "author": "Dimmiwoah"
     },
     {
       "rank": 30,
-      "title": "Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf]",
-      "url": "https://www.tug.org/tug2026/preprints/lode-realtime.pdf",
-      "score": 50,
-      "comments": 11,
-      "author": "amichail"
+      "title": "Ise Jingu and the Pyramid of Enabling Technologies (2021)",
+      "url": "https://www.scopeofwork.net/ise-jingu-and-the-pyramid-of-enabling-technologies/",
+      "score": 13,
+      "comments": 4,
+      "author": "NaOH"
     }
   ]
 }

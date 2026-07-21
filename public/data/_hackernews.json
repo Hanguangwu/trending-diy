@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-07-20T06:41:29.716Z",
+  "updatedAt": "2026-07-21T06:24:10.248Z",
   "stories": [
     {
       "rank": 1,
-      "title": "LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
-      "url": "https://github.com/Saivineeth147/lora-speedrun",
-      "score": 22,
-      "comments": 0,
-      "author": "Vineeth147"
+      "title": "Incremental – A library for incremental computations",
+      "url": "https://github.com/janestreet/incremental",
+      "score": 94,
+      "comments": 17,
+      "author": "handfuloflight"
     },
     {
       "rank": 2,
-      "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
-      "url": "https://news.ycombinator.com/item?id=48968606",
-      "score": 2037,
-      "comments": 213,
-      "author": "section33"
+      "title": "Who's afraid of Chinese models?",
+      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+      "score": 504,
+      "comments": 343,
+      "author": "mfiguiere"
     },
     {
       "rank": 3,
-      "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
-      "url": "https://github.com/hgaiser/moonshine",
-      "score": 103,
-      "comments": 48,
-      "author": "wertyk"
+      "title": "Running Doom on Our Custom CPU and Going Viral",
+      "url": "https://www.armaangomes.com/blogs/doom/",
+      "score": 34,
+      "comments": 3,
+      "author": "arghunter"
     },
     {
       "rank": 4,
-      "title": "Xiaomi-Robotics-1",
-      "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
-      "score": 21,
-      "comments": 4,
-      "author": "ilreb"
+      "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
+      "url": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
+      "score": 22,
+      "comments": 12,
+      "author": "sudo_cowsay"
     },
     {
       "rank": 5,
-      "title": "Claude Code uses Bun written in Rust now",
-      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-      "score": 472,
-      "comments": 629,
-      "author": "tosh"
+      "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+      "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+      "score": 152,
+      "comments": 42,
+      "author": "NordStreamYacht"
     },
     {
       "rank": 6,
-      "title": "Korg PS-3300 is back",
-      "url": "https://www.korg.co.uk/blogs/updates/ps3300",
-      "score": 26,
-      "comments": 26,
-      "author": "Lio"
+      "title": "Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts",
+      "url": "https://exsitu.app/map",
+      "score": 15,
+      "comments": 2,
+      "author": "hbyel"
     },
     {
       "rank": 7,
-      "title": "Orion Browser by Kagi",
-      "url": "https://orionbrowser.com/",
-      "score": 154,
-      "comments": 94,
-      "author": "sebjones"
+      "title": "Kimi Work",
+      "url": "https://www.kimi.com/products/kimi-work",
+      "score": 489,
+      "comments": 209,
+      "author": "ms7892"
     },
     {
       "rank": 8,
-      "title": "Power companies are using eminent domain to seize land for data centers",
-      "url": "https://fortune.com/2026/07/19/data-center-eminent-domain-public-use/",
-      "score": 66,
-      "comments": 19,
-      "author": "1vuio0pswjnm7"
+      "title": "Jelly UI: Soft-body physics for native HTML form controls",
+      "url": "https://jelly-ui.com/",
+      "score": 425,
+      "comments": 144,
+      "author": "baldvinmar"
     },
     {
       "rank": 9,
-      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-      "score": 461,
-      "comments": 209,
-      "author": "chipweinberger"
+      "title": "Human mathematicians are being outcounterexampled",
+      "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+      "score": 296,
+      "comments": 106,
+      "author": "artninja1988"
     },
     {
       "rank": 10,
-      "title": "Self-Powered Trailers Promise Leaner Freight Runs",
-      "url": "https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization",
-      "score": 11,
-      "comments": 3,
-      "author": "rbanffy"
+      "title": "Nativ: Run frontier open models locally on your Mac",
+      "url": "https://blaizzy.github.io/nativ/",
+      "score": 241,
+      "comments": 84,
+      "author": "aratahikaru5"
     },
     {
       "rank": 11,
-      "title": "The Zen of Parallel Programming",
-      "url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
-      "score": 147,
-      "comments": 17,
-      "author": "edgar_ortega"
+      "title": "Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public",
+      "url": "https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country",
+      "score": 305,
+      "comments": 57,
+      "author": "StatsAreFun"
     },
     {
       "rank": 12,
-      "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
-      "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
-      "score": 256,
-      "comments": 140,
-      "author": "loubbrad"
+      "title": "Jellyfin founder Andrew leaves team",
+      "url": "https://forum.jellyfin.org/t-project-leadership-changes",
+      "score": 203,
+      "comments": 134,
+      "author": "swat535"
     },
     {
       "rank": 13,
-      "title": "Minecraft: Java Edition now uses SDL3",
-      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
-      "score": 293,
-      "comments": 200,
-      "author": "ObviouslyFlamer"
+      "title": "The Rise of Grocery Tourism",
+      "url": "https://thefreemanmag.substack.com/p/the-rise-of-grocery-tourism",
+      "score": 5,
+      "comments": 0,
+      "author": "paulpauper"
     },
     {
       "rank": 14,
-      "title": "Who Is America's Homer?",
-      "url": "https://www.plough.com/articles/who-is-americas-homer",
-      "score": 62,
-      "comments": 152,
-      "author": "samclemens"
+      "title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
+      "url": "https://vincentwoo.com/3d/grace_cathedral/",
+      "score": 137,
+      "comments": 27,
+      "author": "akanet"
     },
     {
       "rank": 15,
-      "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
-      "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
-      "score": 148,
-      "comments": 106,
-      "author": "teleforce"
+      "title": "I wrote an bash enumerator because I was sick of xargs",
+      "url": "https://numerlab.org/2025/07/20/bashumerate-enumerator/",
+      "score": 108,
+      "comments": 82,
+      "author": "wallach-game"
     },
     {
       "rank": 16,
-      "title": "11,700 Free Photos from John Margolies' Archive of Americana Architecture",
-      "url": "https://www.openculture.com/2026/07/free-photos-from-john-margolies-archive-of-americana-architecture.html",
-      "score": 49,
-      "comments": 2,
-      "author": "gslin"
+      "title": "Agent swarms and the new model economics",
+      "url": "https://cursor.com/blog/agent-swarm-model-economics",
+      "score": 170,
+      "comments": 79,
+      "author": "jlaneve"
     },
     {
       "rank": 17,
-      "title": "Biggest Probabilistic Computer Turns Noise into Answers",
-      "url": "https://spectrum.ieee.org/biggest-probabilistic-computer",
-      "score": 63,
-      "comments": 9,
-      "author": "rbanffy"
+      "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
+      "url": "https://news.ycombinator.com/item?id=48981136",
+      "score": 80,
+      "comments": 84,
+      "author": "alexsouthmayd"
     },
     {
       "rank": 18,
-      "title": "Qwen 3.8",
-      "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-      "score": 846,
-      "comments": 579,
-      "author": "nh43215rgb"
+      "title": "Flight Planning with Little Navmap",
+      "url": "https://tech.marksblogg.com/little-navmap-flight-planning.html",
+      "score": 10,
+      "comments": 1,
+      "author": "marklit"
     },
     {
       "rank": 19,
-      "title": "HomeLab #1: MikroTik as a Home Router",
-      "url": "https://justsomebody.dev/blog/mikrotik-home-router",
-      "score": 92,
-      "comments": 83,
-      "author": "rafal_opilowski"
+      "title": "Reverse-engineering is cheap now",
+      "url": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/",
+      "score": 21,
+      "comments": 12,
+      "author": "edward"
     },
     {
       "rank": 20,
-      "title": "A new Intel Itanium (IA-64) emulator that boots Windows",
-      "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
-      "score": 71,
-      "comments": 62,
-      "author": "jandeboevrie"
+      "title": "China’s open-weights AI strategy is winning",
+      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+      "score": 1050,
+      "comments": 818,
+      "author": "benwerd"
     },
     {
       "rank": 21,
-      "title": "Talk: The Art of Braiding Algorithms",
-      "url": "https://pgadey.ca/notes/talk-relatorium-2026/",
-      "score": 36,
-      "comments": 0,
-      "author": "surprisetalk"
+      "title": "Zoom is now Chrome only",
+      "url": "https://zoom.us/test",
+      "score": 4,
+      "comments": 4,
+      "author": "asdfsa32"
     },
     {
       "rank": 22,
-      "title": "How proprietary formats have become Microsoft’s main tool for lock-in",
-      "url": "https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/",
-      "score": 20,
-      "comments": 1,
-      "author": "cube00"
+      "title": "The Power of Awareness: Overcoming Surveillance Capitalism",
+      "url": "https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/",
+      "score": 82,
+      "comments": 11,
+      "author": "trinsic2"
     },
     {
       "rank": 23,
-      "title": "I joined the IndieWeb, here's what I learned",
-      "url": "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/",
-      "score": 185,
-      "comments": 92,
-      "author": "andros"
+      "title": "You only need the frontier model for one single edit",
+      "url": "https://stencil.so/blog/prewalk",
+      "score": 108,
+      "comments": 31,
+      "author": "jxmorris12"
     },
     {
       "rank": 24,
-      "title": "C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)",
-      "url": "https://retrogamecoders.com/c64-basic-dungeon-part8/",
-      "score": 68,
-      "comments": 4,
-      "author": "ibobev"
+      "title": "My two year old taught me constraint solving",
+      "url": "https://thecomputersciencebook.com/posts/how-my-2yo-taught-me-constraint-solving/",
+      "score": 59,
+      "comments": 22,
+      "author": "bambataa"
     },
     {
       "rank": 25,
-      "title": "HMD Touch 4G",
-      "url": "https://www.hmd.com/en_int/hmd-touch-4g",
-      "score": 69,
-      "comments": 69,
-      "author": "thisislife2"
+      "title": "The Psychology of Software Teams",
+      "url": "https://www.routledge.com/The-Psychology-of-Software-Teams/Hicks/p/book/9781032963389",
+      "score": 73,
+      "comments": 17,
+      "author": "dcre"
     },
     {
       "rank": 26,
-      "title": "I burned all my tokens researching how to save tokens",
-      "url": "https://quesma.com/blog/custom-deep-research-pipeline/",
-      "score": 121,
-      "comments": 154,
-      "author": "bkotrys"
+      "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)",
+      "url": "https://nothings.org/gamedev/ssao/",
+      "score": 161,
+      "comments": 66,
+      "author": "firephox"
     },
     {
       "rank": 27,
-      "title": "Cagire: Live Coding in Forth",
-      "url": "https://cagire.raphaelforment.fr",
-      "score": 89,
-      "comments": 11,
-      "author": "surprisetalk"
+      "title": "A PHP server that can handle 10x as many concurrent requests as Nginx+PHP-fpm",
+      "url": "https://github.com/Qbix/webserver/blob/main/README.md",
+      "score": 9,
+      "comments": 1,
+      "author": "EGreg"
     },
     {
       "rank": 28,
-      "title": "Dupes took over the world",
-      "url": "https://www.vox.com/podcasts/493930/dupe-culture-fender-ugg-quince-tiktok-amazon-online-shopping",
-      "score": 81,
-      "comments": 74,
-      "author": "gumby"
+      "title": "Perfection is not over-engineering",
+      "url": "https://var0.xyz/posts/perfection-is-not-over-engineering.html",
+      "score": 225,
+      "comments": 95,
+      "author": "var0xyz"
     },
     {
       "rank": 29,
-      "title": "Terence McKenna's Mega Bad Trip (2025)",
-      "url": "https://psychedelics.community/cultural-icons/terence-mckennas-mega-bad-trip",
-      "score": 86,
-      "comments": 77,
-      "author": "Dimmiwoah"
+      "title": "Hacker wipes Romania's land registry database",
+      "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+      "score": 620,
+      "comments": 344,
+      "author": "speckx"
     },
     {
       "rank": 30,
-      "title": "Ise Jingu and the Pyramid of Enabling Technologies (2021)",
-      "url": "https://www.scopeofwork.net/ise-jingu-and-the-pyramid-of-enabling-technologies/",
-      "score": 13,
-      "comments": 4,
-      "author": "NaOH"
+      "title": "Shinjuku Station in 3D",
+      "url": "https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/",
+      "score": 193,
+      "comments": 39,
+      "author": "Gecko4072"
     }
   ]
 }

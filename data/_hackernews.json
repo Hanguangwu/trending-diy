@@ -1,245 +1,237 @@
 {
-  "updatedAt": "2026-07-21T06:24:10.248Z",
+  "updatedAt": "2026-07-22T06:24:10.937Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Incremental – A library for incremental computations",
-      "url": "https://github.com/janestreet/incremental",
-      "score": 94,
-      "comments": 17,
-      "author": "handfuloflight"
-    },
-    {
-      "rank": 2,
-      "title": "Who's afraid of Chinese models?",
-      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-      "score": 504,
-      "comments": 343,
+      "title": "OpenAI and Hugging Face address security incident during model evaluation",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+      "score": 959,
+      "comments": 655,
       "author": "mfiguiere"
     },
     {
+      "rank": 2,
+      "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+      "url": "https://fireworks.ai/blog/kimik3-fable",
+      "score": 499,
+      "comments": 280,
+      "author": "piotrgrabowski"
+    },
+    {
       "rank": 3,
-      "title": "Running Doom on Our Custom CPU and Going Viral",
-      "url": "https://www.armaangomes.com/blogs/doom/",
-      "score": 34,
-      "comments": 3,
-      "author": "arghunter"
+      "title": "Kimi K3: second only to Fable 5 on AA-Briefcase",
+      "url": "https://artificialanalysis.ai/articles/kimi-k3-agentic-knowledge-benchmark",
+      "score": 41,
+      "comments": 2,
+      "author": "wertyk"
     },
     {
       "rank": 4,
-      "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
-      "url": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
-      "score": 22,
-      "comments": 12,
-      "author": "sudo_cowsay"
+      "title": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "score": 18,
+      "comments": 3,
+      "author": "noteness"
     },
     {
       "rank": 5,
-      "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-      "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
-      "score": 152,
-      "comments": 42,
-      "author": "NordStreamYacht"
+      "title": "LG to ban residential proxies from smart TV apps",
+      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+      "score": 185,
+      "comments": 140,
+      "author": "DemiGuru"
     },
     {
       "rank": 6,
-      "title": "Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts",
-      "url": "https://exsitu.app/map",
-      "score": 15,
-      "comments": 2,
-      "author": "hbyel"
+      "title": "Advertise in ChatGPT",
+      "url": "https://ads.openai.com/",
+      "score": 600,
+      "comments": 435,
+      "author": "montecarl"
     },
     {
       "rank": 7,
-      "title": "Kimi Work",
-      "url": "https://www.kimi.com/products/kimi-work",
-      "score": 489,
-      "comments": 209,
-      "author": "ms7892"
+      "title": "FreeInk: Open ecosystem for e-readers",
+      "url": "https://freeink.org/",
+      "score": 491,
+      "comments": 113,
+      "author": "FriedPickles"
     },
     {
       "rank": 8,
-      "title": "Jelly UI: Soft-body physics for native HTML form controls",
-      "url": "https://jelly-ui.com/",
-      "score": 425,
-      "comments": 144,
-      "author": "baldvinmar"
+      "title": "Late.sh – a command-line Clubhouse for computer people",
+      "url": "https://late.sh/",
+      "score": 68,
+      "comments": 19,
+      "author": "itherseed"
     },
     {
       "rank": 9,
-      "title": "Human mathematicians are being outcounterexampled",
-      "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
-      "score": 296,
-      "comments": 106,
-      "author": "artninja1988"
+      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+      "score": 656,
+      "comments": 512,
+      "author": "logickkk1"
     },
     {
       "rank": 10,
-      "title": "Nativ: Run frontier open models locally on your Mac",
-      "url": "https://blaizzy.github.io/nativ/",
-      "score": 241,
-      "comments": 84,
-      "author": "aratahikaru5"
+      "title": "A digestion of the Jacobian conjecture counterexample",
+      "url": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
+      "score": 232,
+      "comments": 77,
+      "author": "jeremyscanvic"
     },
     {
       "rank": 11,
-      "title": "Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public",
-      "url": "https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country",
-      "score": 305,
-      "comments": 57,
-      "author": "StatsAreFun"
+      "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+      "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+      "score": 262,
+      "comments": 190,
+      "author": "BeetleB"
     },
     {
       "rank": 12,
-      "title": "Jellyfin founder Andrew leaves team",
-      "url": "https://forum.jellyfin.org/t-project-leadership-changes",
-      "score": 203,
-      "comments": 134,
-      "author": "swat535"
+      "title": "Ten Steps Towards Happiness (2015)",
+      "url": "http://hintjens.com/blog:99",
+      "score": 93,
+      "comments": 22,
+      "author": "emerongi"
     },
     {
       "rank": 13,
-      "title": "The Rise of Grocery Tourism",
-      "url": "https://thefreemanmag.substack.com/p/the-rise-of-grocery-tourism",
-      "score": 5,
-      "comments": 0,
-      "author": "paulpauper"
+      "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+      "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+      "score": 165,
+      "comments": 56,
+      "author": "hershyb_"
     },
     {
       "rank": 14,
-      "title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
-      "url": "https://vincentwoo.com/3d/grace_cathedral/",
-      "score": 137,
-      "comments": 27,
-      "author": "akanet"
-    },
-    {
-      "rank": 15,
-      "title": "I wrote an bash enumerator because I was sick of xargs",
-      "url": "https://numerlab.org/2025/07/20/bashumerate-enumerator/",
-      "score": 108,
-      "comments": 82,
-      "author": "wallach-game"
-    },
-    {
-      "rank": 16,
-      "title": "Agent swarms and the new model economics",
-      "url": "https://cursor.com/blog/agent-swarm-model-economics",
-      "score": 170,
-      "comments": 79,
-      "author": "jlaneve"
-    },
-    {
-      "rank": 17,
-      "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
-      "url": "https://news.ycombinator.com/item?id=48981136",
-      "score": 80,
-      "comments": 84,
-      "author": "alexsouthmayd"
-    },
-    {
-      "rank": 18,
-      "title": "Flight Planning with Little Navmap",
-      "url": "https://tech.marksblogg.com/little-navmap-flight-planning.html",
-      "score": 10,
-      "comments": 1,
-      "author": "marklit"
-    },
-    {
-      "rank": 19,
-      "title": "Reverse-engineering is cheap now",
-      "url": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/",
-      "score": 21,
-      "comments": 12,
-      "author": "edward"
-    },
-    {
-      "rank": 20,
-      "title": "China’s open-weights AI strategy is winning",
-      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-      "score": 1050,
-      "comments": 818,
-      "author": "benwerd"
-    },
-    {
-      "rank": 21,
-      "title": "Zoom is now Chrome only",
-      "url": "https://zoom.us/test",
-      "score": 4,
-      "comments": 4,
-      "author": "asdfsa32"
-    },
-    {
-      "rank": 22,
-      "title": "The Power of Awareness: Overcoming Surveillance Capitalism",
-      "url": "https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/",
-      "score": 82,
-      "comments": 11,
-      "author": "trinsic2"
-    },
-    {
-      "rank": 23,
-      "title": "You only need the frontier model for one single edit",
-      "url": "https://stencil.so/blog/prewalk",
-      "score": 108,
-      "comments": 31,
-      "author": "jxmorris12"
-    },
-    {
-      "rank": 24,
-      "title": "My two year old taught me constraint solving",
-      "url": "https://thecomputersciencebook.com/posts/how-my-2yo-taught-me-constraint-solving/",
-      "score": 59,
-      "comments": 22,
-      "author": "bambataa"
-    },
-    {
-      "rank": 25,
-      "title": "The Psychology of Software Teams",
-      "url": "https://www.routledge.com/The-Psychology-of-Software-Teams/Hicks/p/book/9781032963389",
-      "score": 73,
-      "comments": 17,
-      "author": "dcre"
-    },
-    {
-      "rank": 26,
-      "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)",
-      "url": "https://nothings.org/gamedev/ssao/",
-      "score": 161,
-      "comments": 66,
-      "author": "firephox"
-    },
-    {
-      "rank": 27,
-      "title": "A PHP server that can handle 10x as many concurrent requests as Nginx+PHP-fpm",
-      "url": "https://github.com/Qbix/webserver/blob/main/README.md",
-      "score": 9,
-      "comments": 1,
-      "author": "EGreg"
-    },
-    {
-      "rank": 28,
-      "title": "Perfection is not over-engineering",
-      "url": "https://var0.xyz/posts/perfection-is-not-over-engineering.html",
-      "score": 225,
-      "comments": 95,
-      "author": "var0xyz"
-    },
-    {
-      "rank": 29,
-      "title": "Hacker wipes Romania's land registry database",
-      "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
-      "score": 620,
-      "comments": 344,
+      "title": "Long presumed dead, a thriving coral reef is discovered in West Africa",
+      "url": "https://e360.yale.edu/digest/benin-coral-reef",
+      "score": 332,
+      "comments": 69,
       "author": "speckx"
     },
     {
+      "rank": 15,
+      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+      "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+      "score": 294,
+      "comments": 250,
+      "author": "ryanmerket"
+    },
+    {
+      "rank": 16,
+      "title": "Apple defeats liability for not scanning iCloud for CSAM",
+      "url": "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
+      "score": 397,
+      "comments": 363,
+      "author": "speckx"
+    },
+    {
+      "rank": 17,
+      "title": "Show HN: ReadKinetic – a free, local-first speed reader for your own books",
+      "url": "https://www.readkinetic.com/app/",
+      "score": 6,
+      "comments": 1,
+      "author": "SamuraiLion"
+    },
+    {
+      "rank": 18,
+      "title": "It's a shame what's happened to radio",
+      "url": "https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/",
+      "score": 75,
+      "comments": 67,
+      "author": "sonicrocketman"
+    },
+    {
+      "rank": 19,
+      "title": "Show HN: A new kind of FPS aim trainer",
+      "url": "https://openaim.pramit.gg/",
+      "score": 3,
+      "comments": 0,
+      "author": "pmazumder"
+    },
+    {
+      "rank": 20,
+      "title": "Ask HN: US Equivalent of Anabin?",
+      "url": "https://news.ycombinator.com/item?id=48904202",
+      "score": 7,
+      "comments": 3,
+      "author": "xqb64"
+    },
+    {
+      "rank": 21,
+      "title": "Map of the world's great castles and fortresses",
+      "url": "https://thecastlemap.com/",
+      "score": 227,
+      "comments": 153,
+      "author": "marklit"
+    },
+    {
+      "rank": 22,
+      "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
+      "url": "https://ai.google.dev/gemini-api/docs/latest-model",
+      "score": 65,
+      "comments": 21,
+      "author": "greatgib"
+    },
+    {
+      "rank": 23,
+      "title": "Laguna S 2.1",
+      "url": "https://poolside.ai/blog/introducing-laguna-s-2-1",
+      "score": 278,
+      "comments": 50,
+      "author": "rexledesma"
+    },
+    {
+      "rank": 24,
+      "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
+      "url": "https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling",
+      "score": 482,
+      "comments": 80,
+      "author": "healsdata"
+    },
+    {
+      "rank": 25,
+      "title": "Pico W firmware creates driverless USB WiFi bridge (Layer-2)",
+      "url": "https://www.cnx-software.com/2026/07/16/pico-usb-wifi-converts-the-raspberry-pi-pico-w-into-a-driverless-usb-wifi-adapter/",
+      "score": 31,
+      "comments": 2,
+      "author": "whiteblossom"
+    },
+    {
+      "rank": 26,
+      "title": "The Birth of Prolog (1996)",
+      "url": "https://dl.acm.org/doi/10.1145/234286.1057820",
+      "score": 90,
+      "comments": 7,
+      "author": "Jtsummers"
+    },
+    {
+      "rank": 27,
+      "title": "Show HN: Justif – Knuth-Plass justification and microtypography for the web",
+      "url": "https://justif.lyall.co/",
+      "score": 128,
+      "comments": 22,
+      "author": "lyall"
+    },
+    {
+      "rank": 29,
+      "title": "Roblox Officially Supports GrapheneOS",
+      "url": "https://en.help.roblox.com/hc/en-us/articles/49648939984916-Android-Remote-Attestation",
+      "score": 161,
+      "comments": 33,
+      "author": "Cider9986"
+    },
+    {
       "rank": 30,
-      "title": "Shinjuku Station in 3D",
-      "url": "https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/",
-      "score": 193,
-      "comments": 39,
-      "author": "Gecko4072"
+      "title": "My USB Drive Has a Hidden Encrypted Vault",
+      "url": "https://rootkitlabs.com/2026/06/22/I%27m-Building-a-Secure-USB-Drive/",
+      "score": 209,
+      "comments": 111,
+      "author": "machinehum"
     }
   ]
 }

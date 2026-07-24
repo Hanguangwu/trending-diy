@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-07-23T06:26:17.318Z",
+  "updatedAt": "2026-07-24T06:21:28.431Z",
   "stories": [
     {
       "rank": 1,
-      "title": "git's –end-of-options Flag",
-      "url": "https://nesbitt.io/2026/07/21/end-of-options.html",
-      "score": 80,
-      "comments": 31,
-      "author": "Erenay09"
+      "title": "Writing by hand is good for your brain",
+      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+      "score": 1178,
+      "comments": 546,
+      "author": "dwwoelfel"
     },
     {
       "rank": 2,
-      "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
-      "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-      "score": 764,
-      "comments": 455,
-      "author": "gmays"
+      "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
+      "url": "https://news.ycombinator.com/item?id=49026810",
+      "score": 323,
+      "comments": 161,
+      "author": "adam_rida"
     },
     {
       "rank": 3,
-      "title": "Quality non-fiction books are the antithesis of AI slop",
-      "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
-      "score": 280,
-      "comments": 98,
-      "author": "benbreen"
+      "title": "The Beam Engine",
+      "url": "https://glinscott.github.io/beam-engine/",
+      "score": 262,
+      "comments": 69,
+      "author": "glinscott"
     },
     {
       "rank": 4,
-      "title": "GigaToken: ~1000x faster Language model tokenization",
-      "url": "https://github.com/marcelroed/gigatoken/",
-      "score": 448,
-      "comments": 95,
-      "author": "syrusakbary"
+      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+      "score": 848,
+      "comments": 723,
+      "author": "theanonymousone"
     },
     {
       "rank": 5,
-      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-      "url": "https://bento.page/slides/",
-      "score": 750,
-      "comments": 168,
-      "author": "starfallg"
+      "title": "What happened to TheNumbers.com",
+      "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+      "score": 341,
+      "comments": 148,
+      "author": "nickthegreek"
     },
     {
       "rank": 6,
-      "title": "Everyone should know SIMD",
-      "url": "https://mitchellh.com/writing/everyone-should-know-simd",
-      "score": 349,
-      "comments": 112,
-      "author": "WadeGrimridge"
+      "title": "What else do people draw on gradient.horse?",
+      "url": "https://rybakov.com/blog/what_else_do_people_draw_on_gradient-copy.horse/",
+      "score": 94,
+      "comments": 12,
+      "author": "spython"
     },
     {
       "rank": 7,
-      "title": "Are AI labs pelicanmaxxing?",
-      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
-      "score": 468,
-      "comments": 181,
-      "author": "dcastm"
+      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+      "score": 254,
+      "comments": 191,
+      "author": "dhorthy"
     },
     {
       "rank": 8,
-      "title": "ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS)",
-      "url": "https://github.com/exlee/ascdraw",
-      "score": 30,
-      "comments": 4,
-      "author": "xlii"
+      "title": "98.css",
+      "url": "https://jdan.github.io/98.css/#status-bar",
+      "score": 401,
+      "comments": 91,
+      "author": "lopespm"
     },
     {
       "rank": 9,
-      "title": "Making ASCII Art in Vim",
-      "url": "https://alexyang.dev/vim-ascii-art/",
-      "score": 41,
-      "comments": 3,
-      "author": "evakhoury"
+      "title": "Software rendering in 500 lines of bare C++",
+      "url": "https://haqr.eu/tinyrenderer/",
+      "score": 271,
+      "comments": 52,
+      "author": "mpweiher"
     },
     {
       "rank": 10,
-      "title": "Restructuring GitHub's bug bounty program",
-      "url": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
-      "score": 32,
-      "comments": 14,
-      "author": "soheilpro"
+      "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
+      "url": "https://learnopengl.com/",
+      "score": 214,
+      "comments": 109,
+      "author": "ibobev"
     },
     {
       "rank": 11,
-      "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
-      "url": "https://github.com/cactus-compute/cactus-hybrid",
-      "score": 108,
-      "comments": 14,
-      "author": "HenryNdubuaku"
+      "title": "Quickly rewrite Git repository history",
+      "url": "https://github.com/newren/git-filter-repo",
+      "score": 11,
+      "comments": 0,
+      "author": "modinfo"
     },
     {
       "rank": 12,
-      "title": "Medici family mystery may be solved after more than 400 years",
-      "url": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
-      "score": 104,
-      "comments": 27,
-      "author": "effects"
+      "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
+      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+      "score": 216,
+      "comments": 236,
+      "author": "r2sk5t"
     },
     {
       "rank": 13,
-      "title": "So Reddit has decided that plain HTML is unsafe",
-      "url": "https://www.cole-k.com/2026/07/21/reddit/",
-      "score": 378,
-      "comments": 387,
-      "author": "montroser"
+      "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "score": 138,
+      "comments": 21,
+      "author": "harrisontin"
     },
     {
       "rank": 14,
-      "title": "John C. Dvorak has died",
-      "url": "https://twitter.com/na_announce/status/2079952538040672302",
-      "score": 687,
-      "comments": 220,
-      "author": "coleca"
+      "title": "Building on ATProto",
+      "url": "https://lukekanies.com/writing/building-on-atproto/",
+      "score": 146,
+      "comments": 69,
+      "author": "speckx"
     },
     {
       "rank": 15,
-      "title": "Malleable Computing, Emacs, and You",
-      "url": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
-      "score": 89,
-      "comments": 25,
-      "author": "kickingvegas"
+      "title": "Freeze-Casting",
+      "url": "https://en.wikipedia.org/wiki/Freeze-casting",
+      "score": 20,
+      "comments": 4,
+      "author": "soupspaces"
     },
     {
       "rank": 16,
-      "title": "The startup's Postgres survival guide",
-      "url": "https://hatchet.run/blog/postgres-survival-guide",
-      "score": 369,
-      "comments": 182,
-      "author": "abelanger"
+      "title": "Why Sony can't bring back its classic Walkman models",
+      "url": "https://obsoletesony.substack.com/p/why-sony-cant-bring-back-classic-walkman",
+      "score": 74,
+      "comments": 65,
+      "author": "speckx"
     },
     {
       "rank": 17,
-      "title": "Fairphone 6 wide camera experimental Linux support",
-      "url": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
-      "score": 103,
-      "comments": 16,
-      "author": "helonaut"
+      "title": "I regret migrating to Codeberg",
+      "url": "https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/",
+      "score": 184,
+      "comments": 116,
+      "author": "boramalper"
     },
     {
       "rank": 18,
-      "title": "Making",
-      "url": "https://beej.us/blog/data/ai-making/",
-      "score": 322,
-      "comments": 122,
-      "author": "erikschoster"
+      "title": "Astronomers may have found the first exomoon",
+      "url": "https://www.eso.org/public/news/eso2610/",
+      "score": 207,
+      "comments": 76,
+      "author": "MarcoDewey"
     },
     {
       "rank": 19,
-      "title": "Nobody knows what a used GPU cluster is worth",
-      "url": "https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster",
-      "score": 207,
-      "comments": 188,
-      "author": "rbanffy"
+      "title": "Fields Medals 2026",
+      "url": "https://www.mathunion.org/imu-awards/fields-medal/fields-medals-2026",
+      "score": 156,
+      "comments": 82,
+      "author": "nill0"
     },
     {
       "rank": 20,
-      "title": "Local AI that finds sensitive files on your Mac before attackers do",
-      "url": "https://www.vaultsort.com/guardian",
-      "score": 4,
-      "comments": 0,
-      "author": "VaultSort"
+      "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
+      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
+      "score": 464,
+      "comments": 371,
+      "author": "abhisek"
     },
     {
       "rank": 21,
-      "title": "Businesses with ugly AI menu redesigns",
-      "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
-      "score": 235,
-      "comments": 165,
-      "author": "speckx"
+      "title": "Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents",
+      "url": "https://news.ycombinator.com/item?id=49024620",
+      "score": 71,
+      "comments": 53,
+      "author": "louis030195"
     },
     {
       "rank": 22,
-      "title": "Why malloc always does more than I asked for?",
-      "url": "https://ssenthilnathan3.github.io/blog/malloc/",
-      "score": 8,
-      "comments": 3,
-      "author": "nathaah3"
+      "title": "The Visual 6502",
+      "url": "http://visual6502.org/JSSim/index.html",
+      "score": 80,
+      "comments": 20,
+      "author": "infiniteregrets"
     },
     {
       "rank": 23,
-      "title": "Petals: Run LLMs at home, BitTorrent-style",
-      "url": "https://petals.dev/",
-      "score": 92,
-      "comments": 29,
-      "author": "snorbleck"
+      "title": "Modula-3 History Collection on Computer History Museum",
+      "url": "https://softwarepreservation.computerhistory.org/modula3/",
+      "score": 15,
+      "comments": 0,
+      "author": "pjmlp"
     },
     {
       "rank": 24,
-      "title": "All 253 Patterns from Christopher Alexander's a Pattern Language Summarized",
-      "url": "https://claytondorge.com/patterns-list",
-      "score": 59,
-      "comments": 7,
-      "author": "toomuchtodo"
+      "title": "A solid-state “atomic channel” for separating rare earth elements",
+      "url": "https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements",
+      "score": 84,
+      "comments": 23,
+      "author": "MarcoDewey"
     },
     {
       "rank": 25,
-      "title": "Clarity didn't work, trying mysterianism (2012)",
-      "url": "https://gwern.net/doc/fiction/science-fiction/2012-10-03-yvain-thewhisperingearring.html",
-      "score": 64,
-      "comments": 31,
-      "author": "dboon"
+      "title": "For most US drivers, EVs offer emissions benefits and cost savings",
+      "url": "https://news.mit.edu/2026/us-drivers-electric-vehicles-offer-emissions-benefits-cost-savings-0512",
+      "score": 8,
+      "comments": 1,
+      "author": "robin_reala"
     },
     {
       "rank": 26,
-      "title": "Any text-to-SQL benchmark should address difficulties of real-world data stores",
-      "url": "https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/",
-      "score": 46,
-      "comments": 15,
-      "author": "shenli3514"
+      "title": "The arguments against open source AI are bad",
+      "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
+      "score": 248,
+      "comments": 170,
+      "author": "jjfoooo4"
     },
     {
       "rank": 27,
-      "title": "Codeberg Bans Cryptocurrency Projects",
-      "url": "https://codeberg.org/Codeberg/org/pulls/1254",
-      "score": 220,
-      "comments": 290,
-      "author": "intunderflow"
-    },
-    {
-      "rank": 28,
-      "title": "What Rose Petals Teach Us about Induction",
-      "url": "https://www.oranlooney.com/post/rose-petals/",
-      "score": 30,
-      "comments": 3,
-      "author": "olooney"
-    },
-    {
-      "rank": 29,
-      "title": "Back to Kagi",
-      "url": "https://blog.melashri.net/micro/back-to-kagi/",
-      "score": 238,
-      "comments": 186,
+      "title": "Mourning Dan Williams",
+      "url": "https://lwn.net/Articles/1084545/",
+      "score": 57,
+      "comments": 1,
       "author": "speckx"
     },
     {
+      "rank": 28,
+      "title": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
+      "url": "https://github.com/onecli/onecli",
+      "score": 88,
+      "comments": 29,
+      "author": "Jonathanfishner"
+    },
+    {
+      "rank": 29,
+      "title": "Couple pay >$800k for a gene-editing therapy for their daughter. She died.",
+      "url": "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public",
+      "score": 303,
+      "comments": 175,
+      "author": "Shortness8"
+    },
+    {
       "rank": 30,
-      "title": "Honey Bee Colony Monitoring via Audio IoT Sensors, Tensorgrams and RNNs",
-      "url": "https://arxiv.org/abs/2607.20386",
-      "score": 14,
+      "title": "Show HN: A factory simulator game built on Spreadsheets",
+      "url": "https://www.logisheets.com/?craft=factory-simulator",
+      "score": 12,
       "comments": 0,
-      "author": "StatsAreFun"
+      "author": "JeremyHe"
     }
   ]
 }

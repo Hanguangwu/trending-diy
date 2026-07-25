@@ -1,0 +1,539 @@
+{
+  "date": "2026-07-25",
+  "updatedAt": "2026-07-25T06:12:02.159Z",
+  "github": {
+    "updatedAt": "2026-07-25T06:12:00.195Z",
+    "repos": [
+      {
+        "rank": 1,
+        "author": "block",
+        "name": "buzz",
+        "fullName": "block/buzz",
+        "url": "https://github.com/block/buzz",
+        "description": "A hive mind communication platform",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 10387,
+        "forks": 822,
+        "builtBy": [
+          {
+            "username": "wesbillman",
+            "avatar": "https://avatars.githubusercontent.com/u/51647?s=40&40&v=4"
+          },
+          {
+            "username": "wpfleger96",
+            "avatar": "https://avatars.githubusercontent.com/u/15384764?s=40&40&v=4"
+          },
+          {
+            "username": "tlongwell-block",
+            "avatar": "https://avatars.githubusercontent.com/u/109685178?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "klopez4212",
+            "avatar": "https://avatars.githubusercontent.com/u/7863796?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "author": "koala73",
+        "name": "worldmonitor",
+        "fullName": "koala73/worldmonitor",
+        "url": "https://github.com/koala73/worldmonitor",
+        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 73537,
+        "forks": 11029,
+        "builtBy": [
+          {
+            "username": "koala73",
+            "avatar": "https://avatars.githubusercontent.com/u/996596?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "SebastienMelki",
+            "avatar": "https://avatars.githubusercontent.com/u/5787993?s=40&40&v=4"
+          },
+          {
+            "username": "NewCoder3294",
+            "avatar": "https://avatars.githubusercontent.com/u/168879994?s=40&40&v=4"
+          },
+          {
+            "username": "lspassos1",
+            "avatar": "https://avatars.githubusercontent.com/u/220533488?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "author": "ComposioHQ",
+        "name": "awesome-claude-skills",
+        "fullName": "ComposioHQ/awesome-claude-skills",
+        "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 70190,
+        "forks": 7912,
+        "builtBy": [
+          {
+            "username": "Prat011",
+            "avatar": "https://avatars.githubusercontent.com/u/67639393?s=40&40&v=4"
+          },
+          {
+            "username": "sohamganatra",
+            "avatar": "https://avatars.githubusercontent.com/u/7982102?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "sanjay3290",
+            "avatar": "https://avatars.githubusercontent.com/u/24948667?s=40&40&v=4"
+          },
+          {
+            "username": "mellson",
+            "avatar": "https://avatars.githubusercontent.com/u/167574?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "author": "Pumpkin-MC",
+        "name": "Pumpkin",
+        "fullName": "Pumpkin-MC/Pumpkin",
+        "url": "https://github.com/Pumpkin-MC/Pumpkin",
+        "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 9412,
+        "forks": 634,
+        "builtBy": [
+          {
+            "username": "Snowiiii",
+            "avatar": "https://avatars.githubusercontent.com/u/71594357?s=40&40&v=4"
+          },
+          {
+            "username": "kralverde",
+            "avatar": "https://avatars.githubusercontent.com/u/80051564?s=40&40&v=4"
+          },
+          {
+            "username": "Bryntet",
+            "avatar": "https://avatars.githubusercontent.com/u/39092238?s=40&40&v=4"
+          },
+          {
+            "username": "lukas0008",
+            "avatar": "https://avatars.githubusercontent.com/u/70709598?s=40&40&v=4"
+          },
+          {
+            "username": "Purdze",
+            "avatar": "https://avatars.githubusercontent.com/u/29306641?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "author": "shiyu-coder",
+        "name": "Kronos",
+        "fullName": "shiyu-coder/Kronos",
+        "url": "https://github.com/shiyu-coder/Kronos",
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 33564,
+        "forks": 5683,
+        "builtBy": [
+          {
+            "username": "shiyu-coder",
+            "avatar": "https://avatars.githubusercontent.com/u/65760973?s=40&40&v=4"
+          },
+          {
+            "username": "Luciferbobo",
+            "avatar": "https://avatars.githubusercontent.com/u/54936491?s=40&40&v=4"
+          },
+          {
+            "username": "CharlesJ-ABu",
+            "avatar": "https://avatars.githubusercontent.com/u/18326516?s=40&40&v=4"
+          },
+          {
+            "username": "AnMakc",
+            "avatar": "https://avatars.githubusercontent.com/u/1777564?s=40&40&v=4"
+          },
+          {
+            "username": "randyy179",
+            "avatar": "https://avatars.githubusercontent.com/u/129808685?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "author": "Automattic",
+        "name": "harper",
+        "fullName": "Automattic/harper",
+        "url": "https://github.com/Automattic/harper",
+        "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 13108,
+        "forks": 485,
+        "builtBy": [
+          {
+            "username": "elijah-potter",
+            "avatar": "https://avatars.githubusercontent.com/u/17440968?s=40&40&v=4"
+          },
+          {
+            "username": "hippietrail",
+            "avatar": "https://avatars.githubusercontent.com/u/533619?s=40&40&v=4"
+          },
+          {
+            "username": "grantlemons",
+            "avatar": "https://avatars.githubusercontent.com/u/9543284?s=40&40&v=4"
+          },
+          {
+            "username": "mcecode",
+            "avatar": "https://avatars.githubusercontent.com/u/65783406?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "author": "likec4",
+        "name": "likec4",
+        "fullName": "likec4/likec4",
+        "url": "https://github.com/likec4/likec4",
+        "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 5077,
+        "forks": 335,
+        "builtBy": [
+          {
+            "username": "davydkov",
+            "avatar": "https://avatars.githubusercontent.com/u/824903?s=40&40&v=4"
+          },
+          {
+            "username": "sraphaz",
+            "avatar": "https://avatars.githubusercontent.com/u/16965571?s=40&40&v=4"
+          },
+          {
+            "username": "cursoragent",
+            "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&40&v=4"
+          },
+          {
+            "username": "pavelpykhtin",
+            "avatar": "https://avatars.githubusercontent.com/u/14885777?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "author": "citrolabs",
+        "name": "ego-lite",
+        "fullName": "citrolabs/ego-lite",
+        "url": "https://github.com/citrolabs/ego-lite",
+        "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 2809,
+        "forks": 135,
+        "builtBy": [
+          {
+            "username": "section9-lab",
+            "avatar": "https://avatars.githubusercontent.com/u/22140958?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "WUXM5",
+            "avatar": "https://avatars.githubusercontent.com/u/77671587?s=40&40&v=4"
+          },
+          {
+            "username": "aute",
+            "avatar": "https://avatars.githubusercontent.com/u/17873165?s=40&40&v=4"
+          },
+          {
+            "username": "braxtonROSE4",
+            "avatar": "https://avatars.githubusercontent.com/u/84236270?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "author": "yorukot",
+        "name": "superfile",
+        "fullName": "yorukot/superfile",
+        "url": "https://github.com/yorukot/superfile",
+        "description": "Pretty fancy and modern terminal file manager",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "starsToday": 0,
+        "totalStars": 19697,
+        "forks": 602,
+        "builtBy": [
+          {
+            "username": "yorukot",
+            "avatar": "https://avatars.githubusercontent.com/u/107802416?s=40&40&v=4"
+          },
+          {
+            "username": "lazysegtree",
+            "avatar": "https://avatars.githubusercontent.com/u/59679977?s=40&40&v=4"
+          },
+          {
+            "username": "nonepork",
+            "avatar": "https://avatars.githubusercontent.com/u/59335048?s=40&40&v=4"
+          },
+          {
+            "username": "AnshumanNeon",
+            "avatar": "https://avatars.githubusercontent.com/u/110094421?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "author": "ruvnet",
+        "name": "RuView",
+        "fullName": "ruvnet/RuView",
+        "url": "https://github.com/ruvnet/RuView",
+        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 86054,
+        "forks": 11459,
+        "builtBy": [
+          {
+            "username": "ruvnet",
+            "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "fr4iser90",
+            "avatar": "https://avatars.githubusercontent.com/u/123288736?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 11,
+        "author": "CoreBunch",
+        "name": "Instatic",
+        "fullName": "CoreBunch/Instatic",
+        "url": "https://github.com/CoreBunch/Instatic",
+        "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 4371,
+        "forks": 415,
+        "builtBy": [
+          {
+            "username": "DavidBabinec",
+            "avatar": "https://avatars.githubusercontent.com/u/49069339?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "RemiAsselin42",
+            "avatar": "https://avatars.githubusercontent.com/u/139657357?s=40&40&v=4"
+          },
+          {
+            "username": "hrq-chiuchi",
+            "avatar": "https://avatars.githubusercontent.com/u/227859002?s=40&40&v=4"
+          },
+          {
+            "username": "mvanhorn",
+            "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 12,
+        "author": "chrislgarry",
+        "name": "Apollo-11",
+        "fullName": "chrislgarry/Apollo-11",
+        "url": "https://github.com/chrislgarry/Apollo-11",
+        "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+        "language": "Assembly",
+        "languageColor": "#6E4C13",
+        "starsToday": 0,
+        "totalStars": 71440,
+        "forks": 7933,
+        "builtBy": [
+          {
+            "username": "wopian",
+            "avatar": "https://avatars.githubusercontent.com/u/3440094?s=40&40&v=4"
+          },
+          {
+            "username": "chrislgarry",
+            "avatar": "https://avatars.githubusercontent.com/u/2200898?s=40&40&v=4"
+          },
+          {
+            "username": "dwiyatci",
+            "avatar": "https://avatars.githubusercontent.com/u/4405796?s=40&40&v=4"
+          },
+          {
+            "username": "proudindiv",
+            "avatar": "https://avatars.githubusercontent.com/u/7218387?s=40&40&v=4"
+          },
+          {
+            "username": "oldmud0",
+            "avatar": "https://avatars.githubusercontent.com/u/5247009?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 13,
+        "author": "mattpocock",
+        "name": "skills",
+        "fullName": "mattpocock/skills",
+        "url": "https://github.com/mattpocock/skills",
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "languageColor": "#89e051",
+        "starsToday": 0,
+        "totalStars": 187140,
+        "forks": 16070,
+        "builtBy": [
+          {
+            "username": "mattpocock",
+            "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "gabimoncha",
+            "avatar": "https://avatars.githubusercontent.com/u/39256258?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 14,
+        "author": "Lordog",
+        "name": "dive-into-llms",
+        "fullName": "Lordog/dive-into-llms",
+        "url": "https://github.com/Lordog/dive-into-llms",
+        "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+        "language": "Jupyter Notebook",
+        "languageColor": "#DA5B0B",
+        "starsToday": 0,
+        "totalStars": 45114,
+        "forks": 5395,
+        "builtBy": [
+          {
+            "username": "Lordog",
+            "avatar": "https://avatars.githubusercontent.com/u/59903352?s=40&40&v=4"
+          },
+          {
+            "username": "cooelf",
+            "avatar": "https://avatars.githubusercontent.com/u/7037265?s=40&40&v=4"
+          },
+          {
+            "username": "zwhe99",
+            "avatar": "https://avatars.githubusercontent.com/u/33388552?s=40&40&v=4"
+          },
+          {
+            "username": "dongdongzhaoUP",
+            "avatar": "https://avatars.githubusercontent.com/u/45898026?s=40&40&v=4"
+          },
+          {
+            "username": "scofield7419",
+            "avatar": "https://avatars.githubusercontent.com/u/18722770?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 15,
+        "author": "diegosouzapw",
+        "name": "OmniRoute",
+        "fullName": "diegosouzapw/OmniRoute",
+        "url": "https://github.com/diegosouzapw/OmniRoute",
+        "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 29154,
+        "forks": 3807,
+        "builtBy": [
+          {
+            "username": "diegosouzapw",
+            "avatar": "https://avatars.githubusercontent.com/u/8016841?s=40&40&v=4"
+          },
+          {
+            "username": "oyi77",
+            "avatar": "https://avatars.githubusercontent.com/u/14921983?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "rdself",
+            "avatar": "https://avatars.githubusercontent.com/u/55005611?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 16,
+        "author": "OtterMind",
+        "name": "Chat2DB",
+        "fullName": "OtterMind/Chat2DB",
+        "url": "https://github.com/OtterMind/Chat2DB",
+        "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "starsToday": 0,
+        "totalStars": 26408,
+        "forks": 2884,
+        "builtBy": [
+          {
+            "username": "shanhexi",
+            "avatar": "https://avatars.githubusercontent.com/u/86969353?s=40&40&v=4"
+          },
+          {
+            "username": "Chat2DB-Pro",
+            "avatar": "https://avatars.githubusercontent.com/u/22975773?s=40&40&v=4"
+          },
+          {
+            "username": "JerryFan626",
+            "avatar": "https://avatars.githubusercontent.com/u/7688101?s=40&40&v=4"
+          },
+          {
+            "username": "chat2db-jerry",
+            "avatar": "https://avatars.githubusercontent.com/u/137198536?s=40&40&v=4"
+          },
+          {
+            "username": "robinji0",
+            "avatar": "https://avatars.githubusercontent.com/u/137188352?s=40&40&v=4"
+          }
+        ]
+      }
+    ]
+  },
+  "productHunt": null,
+  "hackerNews": null
+}

@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-07-24T06:21:28.431Z",
+  "updatedAt": "2026-07-25T06:12:02.154Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Writing by hand is good for your brain",
-      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-      "score": 1178,
-      "comments": 546,
-      "author": "dwwoelfel"
+      "title": "Claude Opus 5",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "score": 1443,
+      "comments": 791,
+      "author": "alvis"
     },
     {
       "rank": 2,
-      "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
-      "url": "https://news.ycombinator.com/item?id=49026810",
-      "score": 323,
-      "comments": 161,
-      "author": "adam_rida"
+      "title": "GC and Exceptions in Wasmtime",
+      "url": "https://bytecodealliance.org/articles/wasmtime-gc",
+      "score": 35,
+      "comments": 0,
+      "author": "phickey"
     },
     {
       "rank": 3,
-      "title": "The Beam Engine",
-      "url": "https://glinscott.github.io/beam-engine/",
-      "score": 262,
-      "comments": 69,
-      "author": "glinscott"
+      "title": "Postgres LISTEN/NOTIFY actually scales",
+      "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+      "score": 268,
+      "comments": 48,
+      "author": "KraftyOne"
     },
     {
       "rank": 4,
-      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-      "score": 848,
-      "comments": 723,
-      "author": "theanonymousone"
+      "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+      "url": "https://artificialanalysis.ai/models",
+      "score": 224,
+      "comments": 132,
+      "author": "aarondong"
     },
     {
       "rank": 5,
-      "title": "What happened to TheNumbers.com",
-      "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-      "score": 341,
-      "comments": 148,
-      "author": "nickthegreek"
+      "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
+      "url": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
+      "score": 15,
+      "comments": 0,
+      "author": "walrus01"
     },
     {
       "rank": 6,
-      "title": "What else do people draw on gradient.horse?",
-      "url": "https://rybakov.com/blog/what_else_do_people_draw_on_gradient-copy.horse/",
-      "score": 94,
-      "comments": 12,
-      "author": "spython"
+      "title": "India's first privately-developed rocket reaches orbit on debut launch",
+      "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+      "score": 559,
+      "comments": 163,
+      "author": "sohkamyung"
     },
     {
       "rank": 7,
-      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
-      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
-      "score": 254,
-      "comments": 191,
-      "author": "dhorthy"
+      "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall",
+      "url": "https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc",
+      "score": 160,
+      "comments": 52,
+      "author": "JumpCrisscross"
     },
     {
       "rank": 8,
-      "title": "98.css",
-      "url": "https://jdan.github.io/98.css/#status-bar",
-      "score": 401,
-      "comments": 91,
-      "author": "lopespm"
+      "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
+      "url": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
+      "score": 38,
+      "comments": 10,
+      "author": "agnishom"
     },
     {
       "rank": 9,
-      "title": "Software rendering in 500 lines of bare C++",
-      "url": "https://haqr.eu/tinyrenderer/",
-      "score": 271,
-      "comments": 52,
-      "author": "mpweiher"
+      "title": "My security camera shipped a GitHub admin token in its login page",
+      "url": "https://hhh.hn/hanwha-github-token/",
+      "score": 550,
+      "comments": 186,
+      "author": "hhh"
     },
     {
       "rank": 10,
-      "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
-      "url": "https://learnopengl.com/",
-      "score": 214,
-      "comments": 109,
-      "author": "ibobev"
+      "title": "If coding has been solved, why does software keep getting worse?",
+      "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+      "score": 686,
+      "comments": 517,
+      "author": "pchm"
     },
     {
       "rank": 11,
-      "title": "Quickly rewrite Git repository history",
-      "url": "https://github.com/newren/git-filter-repo",
-      "score": 11,
-      "comments": 0,
-      "author": "modinfo"
+      "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
+      "url": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
+      "score": 71,
+      "comments": 10,
+      "author": "hhs"
     },
     {
       "rank": 12,
-      "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
-      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-      "score": 216,
-      "comments": 236,
-      "author": "r2sk5t"
+      "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
+      "url": "https://globaloilnetwork.staffinganalytics.io/",
+      "score": 144,
+      "comments": 75,
+      "author": "eliotho"
     },
     {
       "rank": 13,
-      "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
-      "url": "https://github.com/palmier-io/palmier-pro",
-      "score": 138,
-      "comments": 21,
-      "author": "harrisontin"
+      "title": "Designing an Ethernet Switch ASIC",
+      "url": "https://essenceia.github.io/projects/ethernet_switch_asic/",
+      "score": 157,
+      "comments": 42,
+      "author": "random__duck"
     },
     {
       "rank": 14,
-      "title": "Building on ATProto",
-      "url": "https://lukekanies.com/writing/building-on-atproto/",
-      "score": 146,
-      "comments": 69,
-      "author": "speckx"
+      "title": "An old patent inspired the new \"Y-zipper\", a three-sided fastener",
+      "url": "https://news.mit.edu/2026/three-sided-y-zipper-design-0504",
+      "score": 164,
+      "comments": 35,
+      "author": "crescit_eundo"
     },
     {
       "rank": 15,
-      "title": "Freeze-Casting",
-      "url": "https://en.wikipedia.org/wiki/Freeze-casting",
-      "score": 20,
-      "comments": 4,
-      "author": "soupspaces"
+      "title": "Re: Bye Bye Gravatar",
+      "url": "https://unattributed.cc/re-bye-bye-gravatar",
+      "score": 32,
+      "comments": 12,
+      "author": "surprisetalk"
     },
     {
       "rank": 16,
-      "title": "Why Sony can't bring back its classic Walkman models",
-      "url": "https://obsoletesony.substack.com/p/why-sony-cant-bring-back-classic-walkman",
-      "score": 74,
-      "comments": 65,
-      "author": "speckx"
+      "title": "Kimi K3 exploited the latest Redis server",
+      "url": "https://twitter.com/fried_rice/status/2080059356322918777",
+      "score": 187,
+      "comments": 50,
+      "author": "Alifatisk"
     },
     {
       "rank": 17,
-      "title": "I regret migrating to Codeberg",
-      "url": "https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/",
-      "score": 184,
-      "comments": 116,
-      "author": "boramalper"
+      "title": "Firefox Containers Preview",
+      "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
+      "score": 279,
+      "comments": 93,
+      "author": "twapi"
     },
     {
       "rank": 18,
-      "title": "Astronomers may have found the first exomoon",
-      "url": "https://www.eso.org/public/news/eso2610/",
-      "score": 207,
-      "comments": 76,
-      "author": "MarcoDewey"
+      "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+      "score": 573,
+      "comments": 255,
+      "author": "louiereederson"
     },
     {
       "rank": 19,
-      "title": "Fields Medals 2026",
-      "url": "https://www.mathunion.org/imu-awards/fields-medal/fields-medals-2026",
-      "score": 156,
-      "comments": 82,
-      "author": "nill0"
+      "title": "A concrete explanation of how a cache works",
+      "url": "https://parksb.github.io/en/article/29.html",
+      "score": 19,
+      "comments": 2,
+      "author": "parksb"
     },
     {
       "rank": 20,
-      "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
-      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
-      "score": 464,
-      "comments": 371,
-      "author": "abhisek"
+      "title": "Half-Life 2 running natively on HaikuOS",
+      "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
+      "score": 288,
+      "comments": 54,
+      "author": "m0do1"
     },
     {
       "rank": 21,
-      "title": "Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents",
-      "url": "https://news.ycombinator.com/item?id=49024620",
-      "score": 71,
-      "comments": 53,
-      "author": "louis030195"
+      "title": "Don't Take the Black Pill [video]",
+      "url": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
+      "score": 156,
+      "comments": 133,
+      "author": "signa11"
     },
     {
       "rank": 22,
-      "title": "The Visual 6502",
-      "url": "http://visual6502.org/JSSim/index.html",
-      "score": 80,
-      "comments": 20,
-      "author": "infiniteregrets"
+      "title": "Fil-C: Garbage In, Memory Safety Out [video]",
+      "url": "https://www.youtube.com/watch?v=5F-2Y1LPRek",
+      "score": 126,
+      "comments": 111,
+      "author": "Bootvis"
     },
     {
       "rank": 23,
-      "title": "Modula-3 History Collection on Computer History Museum",
-      "url": "https://softwarepreservation.computerhistory.org/modula3/",
-      "score": 15,
-      "comments": 0,
-      "author": "pjmlp"
+      "title": "IRGC claims it destroyed Amazon's Bahrain data center",
+      "url": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
+      "score": 277,
+      "comments": 345,
+      "author": "thisislife2"
     },
     {
       "rank": 24,
-      "title": "A solid-state “atomic channel” for separating rare earth elements",
-      "url": "https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements",
-      "score": 84,
-      "comments": 23,
-      "author": "MarcoDewey"
+      "title": "Book Corners: Community map of neighborhood book exchange spots",
+      "url": "https://www.bookcorners.org",
+      "score": 5,
+      "comments": 0,
+      "author": "NaOH"
     },
     {
       "rank": 25,
-      "title": "For most US drivers, EVs offer emissions benefits and cost savings",
-      "url": "https://news.mit.edu/2026/us-drivers-electric-vehicles-offer-emissions-benefits-cost-savings-0512",
-      "score": 8,
-      "comments": 1,
+      "title": "Future euro banknote design proposals",
+      "url": "https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/all-design-proposals.en.html",
+      "score": 161,
+      "comments": 133,
       "author": "robin_reala"
     },
     {
       "rank": 26,
-      "title": "The arguments against open source AI are bad",
-      "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
-      "score": 248,
-      "comments": 170,
-      "author": "jjfoooo4"
+      "title": "Marimo now runs in PyCharm",
+      "url": "https://marimo.io/blog/pycharm",
+      "score": 91,
+      "comments": 23,
+      "author": "cantdutchthis"
     },
     {
       "rank": 27,
-      "title": "Mourning Dan Williams",
-      "url": "https://lwn.net/Articles/1084545/",
-      "score": 57,
-      "comments": 1,
-      "author": "speckx"
+      "title": "The case for MUDs in modern times (2018)",
+      "url": "https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times",
+      "score": 91,
+      "comments": 73,
+      "author": "bw86"
     },
     {
       "rank": 28,
-      "title": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
-      "url": "https://github.com/onecli/onecli",
-      "score": 88,
-      "comments": 29,
-      "author": "Jonathanfishner"
+      "title": "Unitree As2-W",
+      "url": "https://www.unitree.com/As2-W/",
+      "score": 114,
+      "comments": 48,
+      "author": "MehrdadKhnzd"
     },
     {
       "rank": 29,
-      "title": "Couple pay >$800k for a gene-editing therapy for their daughter. She died.",
-      "url": "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public",
-      "score": 303,
-      "comments": 175,
-      "author": "Shortness8"
+      "title": "Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey",
+      "url": "https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece",
+      "score": 437,
+      "comments": 321,
+      "author": "rootkea"
     },
     {
       "rank": 30,
-      "title": "Show HN: A factory simulator game built on Spreadsheets",
-      "url": "https://www.logisheets.com/?craft=factory-simulator",
-      "score": 12,
-      "comments": 0,
-      "author": "JeremyHe"
+      "title": "Buz – A fork of Bun using modern Zig, with sub-1s incremental builds",
+      "url": "https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891",
+      "score": 253,
+      "comments": 170,
+      "author": "kristoff_it"
     }
   ]
 }

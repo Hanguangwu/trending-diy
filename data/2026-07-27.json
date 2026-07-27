@@ -1,0 +1,590 @@
+{
+  "date": "2026-07-27",
+  "updatedAt": "2026-07-27T06:58:04.690Z",
+  "github": {
+    "updatedAt": "2026-07-27T06:58:03.225Z",
+    "repos": [
+      {
+        "rank": 1,
+        "author": "permissionlesstech",
+        "name": "bitchat",
+        "fullName": "permissionlesstech/bitchat",
+        "url": "https://github.com/permissionlesstech/bitchat",
+        "description": "bluetooth mesh chat, IRC vibes",
+        "language": "Swift",
+        "languageColor": "#F05138",
+        "starsToday": 0,
+        "totalStars": 30945,
+        "forks": 4841,
+        "builtBy": [
+          {
+            "username": "jackjackbits",
+            "avatar": "https://avatars.githubusercontent.com/u/212554440?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "qalandarov",
+            "avatar": "https://avatars.githubusercontent.com/u/2553451?s=40&40&v=4"
+          },
+          {
+            "username": "actions-user",
+            "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&40&v=4"
+          },
+          {
+            "username": "callebtc",
+            "avatar": "https://avatars.githubusercontent.com/u/93376500?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "author": "citrolabs",
+        "name": "ego-lite",
+        "fullName": "citrolabs/ego-lite",
+        "url": "https://github.com/citrolabs/ego-lite",
+        "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 5010,
+        "forks": 240,
+        "builtBy": [
+          {
+            "username": "section9-lab",
+            "avatar": "https://avatars.githubusercontent.com/u/22140958?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "WUXM5",
+            "avatar": "https://avatars.githubusercontent.com/u/77671587?s=40&40&v=4"
+          },
+          {
+            "username": "aute",
+            "avatar": "https://avatars.githubusercontent.com/u/17873165?s=40&40&v=4"
+          },
+          {
+            "username": "braxtonROSE4",
+            "avatar": "https://avatars.githubusercontent.com/u/84236270?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "author": "block",
+        "name": "buzz",
+        "fullName": "block/buzz",
+        "url": "https://github.com/block/buzz",
+        "description": "A hive mind communication platform",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 13738,
+        "forks": 1137,
+        "builtBy": [
+          {
+            "username": "wesbillman",
+            "avatar": "https://avatars.githubusercontent.com/u/51647?s=40&40&v=4"
+          },
+          {
+            "username": "wpfleger96",
+            "avatar": "https://avatars.githubusercontent.com/u/15384764?s=40&40&v=4"
+          },
+          {
+            "username": "tlongwell-block",
+            "avatar": "https://avatars.githubusercontent.com/u/109685178?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "klopez4212",
+            "avatar": "https://avatars.githubusercontent.com/u/7863796?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "author": "pingdotgg",
+        "name": "t3code",
+        "fullName": "pingdotgg/t3code",
+        "url": "https://github.com/pingdotgg/t3code",
+        "description": "",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 15147,
+        "forks": 3315,
+        "builtBy": [
+          {
+            "username": "juliusmarminge",
+            "avatar": "https://avatars.githubusercontent.com/u/51714798?s=40&40&v=4"
+          },
+          {
+            "username": "codex",
+            "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&40&v=4"
+          },
+          {
+            "username": "t3dotgg",
+            "avatar": "https://avatars.githubusercontent.com/u/6751787?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "cursoragent",
+            "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "author": "CoreBunch",
+        "name": "Instatic",
+        "fullName": "CoreBunch/Instatic",
+        "url": "https://github.com/CoreBunch/Instatic",
+        "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 5862,
+        "forks": 525,
+        "builtBy": [
+          {
+            "username": "DavidBabinec",
+            "avatar": "https://avatars.githubusercontent.com/u/49069339?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "RemiAsselin42",
+            "avatar": "https://avatars.githubusercontent.com/u/139657357?s=40&40&v=4"
+          },
+          {
+            "username": "hrq-chiuchi",
+            "avatar": "https://avatars.githubusercontent.com/u/227859002?s=40&40&v=4"
+          },
+          {
+            "username": "mvanhorn",
+            "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "author": "yorukot",
+        "name": "superfile",
+        "fullName": "yorukot/superfile",
+        "url": "https://github.com/yorukot/superfile",
+        "description": "Pretty fancy and modern terminal file manager",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "starsToday": 0,
+        "totalStars": 20411,
+        "forks": 642,
+        "builtBy": [
+          {
+            "username": "yorukot",
+            "avatar": "https://avatars.githubusercontent.com/u/107802416?s=40&40&v=4"
+          },
+          {
+            "username": "lazysegtree",
+            "avatar": "https://avatars.githubusercontent.com/u/59679977?s=40&40&v=4"
+          },
+          {
+            "username": "nonepork",
+            "avatar": "https://avatars.githubusercontent.com/u/59335048?s=40&40&v=4"
+          },
+          {
+            "username": "AnshumanNeon",
+            "avatar": "https://avatars.githubusercontent.com/u/110094421?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "author": "nodejs",
+        "name": "node",
+        "fullName": "nodejs/node",
+        "url": "https://github.com/nodejs/node",
+        "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 118523,
+        "forks": 36182,
+        "builtBy": [
+          {
+            "username": "Trott",
+            "avatar": "https://avatars.githubusercontent.com/u/718899?s=40&40&v=4"
+          },
+          {
+            "username": "ry",
+            "avatar": "https://avatars.githubusercontent.com/u/80?s=40&40&v=4"
+          },
+          {
+            "username": "bnoordhuis",
+            "avatar": "https://avatars.githubusercontent.com/u/275871?s=40&40&v=4"
+          },
+          {
+            "username": "addaleax",
+            "avatar": "https://avatars.githubusercontent.com/u/899444?s=40&40&v=4"
+          },
+          {
+            "username": "isaacs",
+            "avatar": "https://avatars.githubusercontent.com/u/9287?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "author": "OtterMind",
+        "name": "Chat2DB",
+        "fullName": "OtterMind/Chat2DB",
+        "url": "https://github.com/OtterMind/Chat2DB",
+        "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "starsToday": 0,
+        "totalStars": 27277,
+        "forks": 2947,
+        "builtBy": [
+          {
+            "username": "shanhexi",
+            "avatar": "https://avatars.githubusercontent.com/u/86969353?s=40&40&v=4"
+          },
+          {
+            "username": "Chat2DB-Pro",
+            "avatar": "https://avatars.githubusercontent.com/u/22975773?s=40&40&v=4"
+          },
+          {
+            "username": "JerryFan626",
+            "avatar": "https://avatars.githubusercontent.com/u/7688101?s=40&40&v=4"
+          },
+          {
+            "username": "chat2db-jerry",
+            "avatar": "https://avatars.githubusercontent.com/u/137198536?s=40&40&v=4"
+          },
+          {
+            "username": "robinji0",
+            "avatar": "https://avatars.githubusercontent.com/u/137188352?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "author": "pbakaus",
+        "name": "impeccable",
+        "fullName": "pbakaus/impeccable",
+        "url": "https://github.com/pbakaus/impeccable",
+        "description": "The design language that makes your AI harness better at design.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 50916,
+        "forks": 2998,
+        "builtBy": [
+          {
+            "username": "pbakaus",
+            "avatar": "https://avatars.githubusercontent.com/u/43004?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "abdulwahabone",
+            "avatar": "https://avatars.githubusercontent.com/u/32850166?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "author": "shiyu-coder",
+        "name": "Kronos",
+        "fullName": "shiyu-coder/Kronos",
+        "url": "https://github.com/shiyu-coder/Kronos",
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 34284,
+        "forks": 5769,
+        "builtBy": [
+          {
+            "username": "shiyu-coder",
+            "avatar": "https://avatars.githubusercontent.com/u/65760973?s=40&40&v=4"
+          },
+          {
+            "username": "Luciferbobo",
+            "avatar": "https://avatars.githubusercontent.com/u/54936491?s=40&40&v=4"
+          },
+          {
+            "username": "CharlesJ-ABu",
+            "avatar": "https://avatars.githubusercontent.com/u/18326516?s=40&40&v=4"
+          },
+          {
+            "username": "AnMakc",
+            "avatar": "https://avatars.githubusercontent.com/u/1777564?s=40&40&v=4"
+          },
+          {
+            "username": "randyy179",
+            "avatar": "https://avatars.githubusercontent.com/u/129808685?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 11,
+        "author": "alibaba",
+        "name": "open-code-review",
+        "fullName": "alibaba/open-code-review",
+        "url": "https://github.com/alibaba/open-code-review",
+        "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "starsToday": 0,
+        "totalStars": 14152,
+        "forks": 958,
+        "builtBy": [
+          {
+            "username": "lizhengfeng101",
+            "avatar": "https://avatars.githubusercontent.com/u/254839944?s=40&40&v=4"
+          },
+          {
+            "username": "chethanuk",
+            "avatar": "https://avatars.githubusercontent.com/u/16241795?s=40&40&v=4"
+          },
+          {
+            "username": "stay-foolish-forever",
+            "avatar": "https://avatars.githubusercontent.com/u/61303077?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "MuoDoo",
+            "avatar": "https://avatars.githubusercontent.com/u/36472129?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 12,
+        "author": "andrewyng",
+        "name": "aisuite",
+        "fullName": "andrewyng/aisuite",
+        "url": "https://github.com/andrewyng/aisuite",
+        "description": "Simple, unified interface to multiple Generative AI providers",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 15462,
+        "forks": 1637,
+        "builtBy": [
+          {
+            "username": "rohitprasad15",
+            "avatar": "https://avatars.githubusercontent.com/u/1796239?s=40&40&v=4"
+          },
+          {
+            "username": "drp8226",
+            "avatar": "https://avatars.githubusercontent.com/u/291557675?s=40&40&v=4"
+          },
+          {
+            "username": "ksolo",
+            "avatar": "https://avatars.githubusercontent.com/u/103829?s=40&40&v=4"
+          },
+          {
+            "username": "standsleeping",
+            "avatar": "https://avatars.githubusercontent.com/u/5633095?s=40&40&v=4"
+          },
+          {
+            "username": "tavinashb",
+            "avatar": "https://avatars.githubusercontent.com/u/7972024?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 13,
+        "author": "anthropics",
+        "name": "claude-cookbooks",
+        "fullName": "anthropics/claude-cookbooks",
+        "url": "https://github.com/anthropics/claude-cookbooks",
+        "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+        "language": "Jupyter Notebook",
+        "languageColor": "#DA5B0B",
+        "starsToday": 0,
+        "totalStars": 50363,
+        "forks": 5929,
+        "builtBy": [
+          {
+            "username": "zealoushacker",
+            "avatar": "https://avatars.githubusercontent.com/u/346275?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "alexalbertt",
+            "avatar": "https://avatars.githubusercontent.com/u/34638987?s=40&40&v=4"
+          },
+          {
+            "username": "PedramNavid",
+            "avatar": "https://avatars.githubusercontent.com/u/1045990?s=40&40&v=4"
+          },
+          {
+            "username": "saflamini",
+            "avatar": "https://avatars.githubusercontent.com/u/43142465?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 14,
+        "author": "Pumpkin-MC",
+        "name": "Pumpkin",
+        "fullName": "Pumpkin-MC/Pumpkin",
+        "url": "https://github.com/Pumpkin-MC/Pumpkin",
+        "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 10110,
+        "forks": 675,
+        "builtBy": [
+          {
+            "username": "Snowiiii",
+            "avatar": "https://avatars.githubusercontent.com/u/71594357?s=40&40&v=4"
+          },
+          {
+            "username": "kralverde",
+            "avatar": "https://avatars.githubusercontent.com/u/80051564?s=40&40&v=4"
+          },
+          {
+            "username": "Bryntet",
+            "avatar": "https://avatars.githubusercontent.com/u/39092238?s=40&40&v=4"
+          },
+          {
+            "username": "lukas0008",
+            "avatar": "https://avatars.githubusercontent.com/u/70709598?s=40&40&v=4"
+          },
+          {
+            "username": "Purdze",
+            "avatar": "https://avatars.githubusercontent.com/u/29306641?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 15,
+        "author": "permissionlesstech",
+        "name": "bitchat-android",
+        "fullName": "permissionlesstech/bitchat-android",
+        "url": "https://github.com/permissionlesstech/bitchat-android",
+        "description": "bluetooth mesh chat, IRC vibes",
+        "language": "Kotlin",
+        "languageColor": "#A97BFF",
+        "starsToday": 0,
+        "totalStars": 6832,
+        "forks": 1634,
+        "builtBy": [
+          {
+            "username": "callebtc",
+            "avatar": "https://avatars.githubusercontent.com/u/93376500?s=40&40&v=4"
+          },
+          {
+            "username": "actions-user",
+            "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&40&v=4"
+          },
+          {
+            "username": "a1denvalu3",
+            "avatar": "https://avatars.githubusercontent.com/u/43107113?s=40&40&v=4"
+          },
+          {
+            "username": "moehamade",
+            "avatar": "https://avatars.githubusercontent.com/u/69801237?s=40&40&v=4"
+          },
+          {
+            "username": "yet300",
+            "avatar": "https://avatars.githubusercontent.com/u/96379204?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 16,
+        "author": "jenkinsci",
+        "name": "jenkins",
+        "fullName": "jenkinsci/jenkins",
+        "url": "https://github.com/jenkinsci/jenkins",
+        "description": "Jenkins automation server",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "starsToday": 0,
+        "totalStars": 25762,
+        "forks": 9659,
+        "builtBy": [
+          {
+            "username": "kohsuke",
+            "avatar": "https://avatars.githubusercontent.com/u/50003?s=40&40&v=4"
+          },
+          {
+            "username": "jglick",
+            "avatar": "https://avatars.githubusercontent.com/u/154109?s=40&40&v=4"
+          },
+          {
+            "username": "daniel-beck",
+            "avatar": "https://avatars.githubusercontent.com/u/1831569?s=40&40&v=4"
+          },
+          {
+            "username": "oleg-nenashev",
+            "avatar": "https://avatars.githubusercontent.com/u/3000480?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 17,
+        "author": "amnezia-vpn",
+        "name": "amnezia-client",
+        "fullName": "amnezia-vpn/amnezia-client",
+        "url": "https://github.com/amnezia-vpn/amnezia-client",
+        "description": "Amnezia VPN Client (Desktop+Mobile)",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "starsToday": 0,
+        "totalStars": 13455,
+        "forks": 1012,
+        "builtBy": [
+          {
+            "username": "pokamest",
+            "avatar": "https://avatars.githubusercontent.com/u/23482029?s=40&40&v=4"
+          },
+          {
+            "username": "Nethius",
+            "avatar": "https://avatars.githubusercontent.com/u/15364855?s=40&40&v=4"
+          },
+          {
+            "username": "albexk",
+            "avatar": "https://avatars.githubusercontent.com/u/141177744?s=40&40&v=4"
+          },
+          {
+            "username": "outspace",
+            "avatar": "https://avatars.githubusercontent.com/u/5472761?s=40&40&v=4"
+          },
+          {
+            "username": "vkamn",
+            "avatar": "https://avatars.githubusercontent.com/u/226339429?s=40&40&v=4"
+          }
+        ]
+      }
+    ]
+  },
+  "productHunt": null,
+  "hackerNews": null
+}

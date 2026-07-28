@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-07-27T06:58:04.683Z",
+  "updatedAt": "2026-07-28T06:21:38.131Z",
   "stories": [
     {
       "rank": 1,
-      "title": "PGSimCity - How PostgreSQL Works",
-      "url": "https://nikolays.github.io/PGSimCity/",
-      "score": 435,
-      "comments": 45,
-      "author": "jonbaer"
+      "title": "Our position on open-weights models",
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "score": 720,
+      "comments": 1018,
+      "author": "surprisetalk"
     },
     {
       "rank": 2,
-      "title": "Show HN: Physically accurate black hole you can put in your room",
-      "url": "https://blackhole.plav.in",
-      "score": 232,
-      "comments": 67,
-      "author": "aplavin"
+      "title": "Using an open model feels surprisingly good",
+      "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
+      "score": 201,
+      "comments": 66,
+      "author": "msaltz"
     },
     {
       "rank": 3,
-      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
-      "url": "https://beyondloom.com/decker/",
-      "score": 287,
-      "comments": 72,
-      "author": "tosh"
+      "title": "Neutrino-1 8B",
+      "url": "https://www.fermionresearch.com/models/neutrino-8b/",
+      "score": 27,
+      "comments": 3,
+      "author": "handfuloflight"
     },
     {
       "rank": 4,
-      "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
-      "url": "https://github.com/vercel-labs/scriptc",
-      "score": 119,
-      "comments": 43,
-      "author": "maxloh"
+      "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+      "url": "https://fermisense.com/when-machines-take-the-wheel/",
+      "score": 109,
+      "comments": 33,
+      "author": "ilreb"
     },
     {
       "rank": 5,
-      "title": "French firefighters face 'pyrocumulonimbus' for first time",
-      "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
-      "score": 299,
-      "comments": 184,
-      "author": "saaaaaam"
+      "title": "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts",
+      "url": "https://arsastronomica.com/",
+      "score": 13,
+      "comments": 0,
+      "author": "sweisman"
     },
     {
       "rank": 6,
-      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
-      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
-      "score": 553,
-      "comments": 385,
-      "author": "eecc"
+      "title": "Why do we think we understand the world more than we actually do?",
+      "url": "https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth",
+      "score": 31,
+      "comments": 21,
+      "author": "rramadass"
     },
     {
       "rank": 7,
-      "title": "We have proof automation now",
-      "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
-      "score": 143,
-      "comments": 32,
-      "author": "zdw"
+      "title": "Benchmarking Opus 5 on SlopCodeBench",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+      "score": 223,
+      "comments": 52,
+      "author": "dhorthy"
     },
     {
       "rank": 8,
-      "title": "I wanted a clock that never needed setting. Things escalated",
-      "url": "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/",
-      "score": 83,
-      "comments": 78,
-      "author": "lee_ars"
+      "title": "RTX 2080 Ti Memory Upgrade to 22 GB",
+      "url": "https://gpusolutions.net/rbservices/graphics-card-upgrade/",
+      "score": 77,
+      "comments": 43,
+      "author": "wslh"
     },
     {
       "rank": 9,
-      "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
-      "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
-      "score": 415,
-      "comments": 140,
-      "author": "rcy"
+      "title": "PyTorch: A Reference Language",
+      "url": "https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/",
+      "score": 11,
+      "comments": 0,
+      "author": "matt_d"
     },
     {
       "rank": 10,
-      "title": "Introduction to Data-Oriented Design [pdf]",
-      "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
-      "score": 156,
-      "comments": 41,
-      "author": "tosh"
+      "title": "EYG: A Programming Language for Humans",
+      "url": "https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/",
+      "score": 51,
+      "comments": 21,
+      "author": "crowdhailer"
     },
     {
       "rank": 11,
-      "title": "Fonts In Use – Find out where a font is used",
-      "url": "https://fontsinuse.com/",
-      "score": 46,
-      "comments": 3,
-      "author": "open_"
+      "title": "Watching Go's new garbage collector move through the heap",
+      "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
+      "score": 196,
+      "comments": 20,
+      "author": "matheusmoreira"
     },
     {
       "rank": 12,
-      "title": "Why care about programming languages",
-      "url": "https://ebellani.github.io/blog/2026/why-care-about-programming-languages/",
-      "score": 18,
-      "comments": 16,
-      "author": "b-man"
+      "title": "Show HN: Yap – OSS on-device voice dictation for macOS with no model to download",
+      "url": "https://github.com/FrigadeHQ/yap",
+      "score": 48,
+      "comments": 12,
+      "author": "pancomplex"
     },
     {
       "rank": 13,
-      "title": "Simulate cassette tape audio profiles using FFmpeg",
-      "url": "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
-      "score": 110,
-      "comments": 43,
-      "author": "xterminal"
+      "title": "Astronauts describe persistent 'observer' sensation after 6 month missions",
+      "url": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
+      "score": 160,
+      "comments": 80,
+      "author": "zdw"
     },
     {
       "rank": 14,
-      "title": "Design is compromise",
-      "url": "https://stephango.com/design-is-compromise",
-      "score": 233,
-      "comments": 79,
-      "author": "ankitg12"
+      "title": "Vehicle Motion Cues",
+      "url": "https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios",
+      "score": 52,
+      "comments": 24,
+      "author": "Austin_Conlon"
     },
     {
       "rank": 15,
-      "title": "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
-      "url": "https://github.com/gmrandazzo/CheapSecurity",
-      "score": 124,
-      "comments": 26,
-      "author": "zeldone"
+      "title": "DConf 2026 in London",
+      "url": "https://dconf.org/2026/index.html",
+      "score": 70,
+      "comments": 30,
+      "author": "teleforce"
     },
     {
       "rank": 16,
-      "title": "The Usefulness of Useless Knowledge (1939) [pdf]",
-      "url": "https://faculty.lsu.edu/kharms/files/flexner_1939.pdf",
-      "score": 57,
-      "comments": 3,
-      "author": "jxmorris12"
+      "title": "The age of token efficiency, the age of libraries",
+      "url": "https://golemui.com/blog/the-age-of-token-efficiency/",
+      "score": 14,
+      "comments": 0,
+      "author": "handfuloflight"
     },
     {
       "rank": 17,
-      "title": "How to write English prose (2023)",
-      "url": "https://thelampmagazine.com/blog/how-to-write-english-prose",
-      "score": 110,
-      "comments": 52,
-      "author": "geneticdrifts"
+      "title": "C/C++ projects packaged for Zig",
+      "url": "https://github.com/allyourcodebase",
+      "score": 45,
+      "comments": 25,
+      "author": "jcbhmr"
     },
     {
       "rank": 18,
-      "title": "EU Fines Google $1.02B for Favoring Its Own Services",
-      "url": "https://www.wsj.com/tech/google-fined-1-02-billion-under-eus-tech-antitrust-rules-7e8ae1fb",
-      "score": 13,
-      "comments": 4,
-      "author": "1vuio0pswjnm7"
+      "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
+      "url": "https://www.rise-reforming.com",
+      "score": 66,
+      "comments": 30,
+      "author": "george_rose25"
     },
     {
       "rank": 19,
-      "title": "Go Analysis Framework: modular static analysis by go team",
-      "url": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
-      "score": 198,
-      "comments": 54,
-      "author": "AbuAssar"
+      "title": "Kimi K3 Now Available via Telnyx Inference API",
+      "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
+      "score": 44,
+      "comments": 14,
+      "author": "fionaattelnyx"
     },
     {
       "rank": 20,
-      "title": "Show HN: Reverse Minesweeper",
-      "url": "https://sunflowersgame.com/",
-      "score": 195,
-      "comments": 63,
-      "author": "pompomsheep"
+      "title": "An Uncomplicated Man – A review of The Odyssey, directed by Christopher Nolan",
+      "url": "https://www.lrb.co.uk/the-paper/v48/n14/emily-wilson/an-uncomplicated-man",
+      "score": 32,
+      "comments": 9,
+      "author": "andsoitis"
     },
     {
       "rank": 21,
-      "title": "The New AI Superpowers: Focus and Followthrough",
-      "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
-      "score": 189,
-      "comments": 57,
-      "author": "mooreds"
+      "title": "Three Theses on the Literacy Crisis",
+      "url": "https://trevoraleo.substack.com/p/three-theses-on-the-literacy-crisis",
+      "score": 40,
+      "comments": 27,
+      "author": "samclemens"
     },
     {
       "rank": 22,
-      "title": "The relay market powering token resellers and fraud",
-      "url": "https://vectoral.com/blog/token-relay-market",
-      "score": 185,
-      "comments": 110,
-      "author": "mlenhard"
+      "title": "Glue bonds to nonstick surfaces and wipes clean with ethanol",
+      "url": "https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07",
+      "score": 167,
+      "comments": 95,
+      "author": "gmays"
     },
     {
       "rank": 23,
-      "title": "Teaching Kids Forth",
-      "url": "https://gracefulliberty.com/articles/teaching-kids-forth/",
-      "score": 75,
-      "comments": 22,
-      "author": "rbanffy"
+      "title": "Ray tracing massive amounts of animated geometry using tetrahedral cages",
+      "url": "https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/",
+      "score": 94,
+      "comments": 12,
+      "author": "LorenDB"
     },
     {
       "rank": 24,
-      "title": "Kill The Cookie Banner",
-      "url": "https://killthecookiebanner.eu/",
-      "score": 933,
-      "comments": 445,
-      "author": "rapnie"
+      "title": "Some combinatorial applications of spacefilling curves",
+      "url": "https://www2.isye.gatech.edu/~jjb/research/mow/mow.html",
+      "score": 36,
+      "comments": 1,
+      "author": "shraiwi"
     },
     {
       "rank": 25,
-      "title": "How to Block Some of the Bots",
-      "url": "https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/",
-      "score": 97,
-      "comments": 113,
-      "author": "Bender"
+      "title": "Show HN: A 6M-token movable window on a single 46GB GPU",
+      "url": "https://arxiv.org/abs/2607.23806",
+      "score": 4,
+      "comments": 1,
+      "author": "Wetime"
     },
     {
       "rank": 26,
-      "title": "Plasma Tunnels Reveal How Dying Satellites Fall to Earth",
-      "url": "https://spectrum.ieee.org/space-debris-atmosphere-burn-up",
-      "score": 56,
-      "comments": 32,
-      "author": "marc__1"
+      "title": "A Dying Art: The last of the morticians",
+      "url": "https://harpers.org/archive/2026/08/a-dying-art-john-semley-mortuary-sciences-competition/",
+      "score": 19,
+      "comments": 1,
+      "author": "Petiver"
     },
     {
       "rank": 27,
-      "title": "I learned PCB design, 3D printing and C just to listen to music",
-      "url": "https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/",
-      "score": 199,
-      "comments": 41,
-      "author": "interfeco"
+      "title": "Self-contained highly-portable Python distributions",
+      "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
+      "score": 133,
+      "comments": 29,
+      "author": "jcbhmr"
     },
     {
       "rank": 28,
-      "title": "History of John Backus's functional programming project (draft)",
-      "url": "https://softwarepreservation.computerhistory.org/FP/",
-      "score": 23,
-      "comments": 1,
-      "author": "cwbuilds"
+      "title": "Securing Services with Rootless Containers",
+      "url": "https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/",
+      "score": 86,
+      "comments": 26,
+      "author": "speckx"
     },
     {
       "rank": 29,
-      "title": "The Zen of Parallel Programming: The Posture of a Kernel",
-      "url": "https://smolnero.com/posts/the-zen-of-parallel-programming-the-posture-of-a-kernel",
-      "score": 3,
-      "comments": 0,
-      "author": "edgar_ortega"
+      "title": "The Burau representation of the braid group is faithful for n = 4",
+      "url": "https://arxiv.org/abs/2607.05283",
+      "score": 29,
+      "comments": 10,
+      "author": "wglb"
     },
     {
       "rank": 30,
-      "title": "Some more things about Django I've been enjoying",
-      "url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
-      "score": 151,
-      "comments": 92,
-      "author": "surprisetalk"
+      "title": "The computer that helped win World War II",
+      "url": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
+      "score": 193,
+      "comments": 76,
+      "author": "baruchel"
     }
   ]
 }

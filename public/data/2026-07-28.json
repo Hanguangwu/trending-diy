@@ -1,0 +1,492 @@
+{
+  "date": "2026-07-28",
+  "updatedAt": "2026-07-28T06:21:38.139Z",
+  "github": {
+    "updatedAt": "2026-07-28T06:21:36.456Z",
+    "repos": [
+      {
+        "rank": 1,
+        "author": "permissionlesstech",
+        "name": "bitchat",
+        "fullName": "permissionlesstech/bitchat",
+        "url": "https://github.com/permissionlesstech/bitchat",
+        "description": "bluetooth mesh chat, IRC vibes",
+        "language": "Swift",
+        "languageColor": "#F05138",
+        "starsToday": 0,
+        "totalStars": 32586,
+        "forks": 5105,
+        "builtBy": [
+          {
+            "username": "jackjackbits",
+            "avatar": "https://avatars.githubusercontent.com/u/212554440?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "qalandarov",
+            "avatar": "https://avatars.githubusercontent.com/u/2553451?s=40&40&v=4"
+          },
+          {
+            "username": "actions-user",
+            "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&40&v=4"
+          },
+          {
+            "username": "callebtc",
+            "avatar": "https://avatars.githubusercontent.com/u/93376500?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "author": "amnezia-vpn",
+        "name": "amnezia-client",
+        "fullName": "amnezia-vpn/amnezia-client",
+        "url": "https://github.com/amnezia-vpn/amnezia-client",
+        "description": "Amnezia VPN Client (Desktop+Mobile)",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "starsToday": 0,
+        "totalStars": 13981,
+        "forks": 1039,
+        "builtBy": [
+          {
+            "username": "pokamest",
+            "avatar": "https://avatars.githubusercontent.com/u/23482029?s=40&40&v=4"
+          },
+          {
+            "username": "Nethius",
+            "avatar": "https://avatars.githubusercontent.com/u/15364855?s=40&40&v=4"
+          },
+          {
+            "username": "albexk",
+            "avatar": "https://avatars.githubusercontent.com/u/141177744?s=40&40&v=4"
+          },
+          {
+            "username": "outspace",
+            "avatar": "https://avatars.githubusercontent.com/u/5472761?s=40&40&v=4"
+          },
+          {
+            "username": "vkamn",
+            "avatar": "https://avatars.githubusercontent.com/u/226339429?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "author": "moeru-ai",
+        "name": "airi",
+        "fullName": "moeru-ai/airi",
+        "url": "https://github.com/moeru-ai/airi",
+        "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 44255,
+        "forks": 4413,
+        "builtBy": [
+          {
+            "username": "nekomeowww",
+            "avatar": "https://avatars.githubusercontent.com/u/11081491?s=40&40&v=4"
+          },
+          {
+            "username": "luoling8192",
+            "avatar": "https://avatars.githubusercontent.com/u/44741987?s=40&40&v=4"
+          },
+          {
+            "username": "shinohara-rin",
+            "avatar": "https://avatars.githubusercontent.com/u/25588514?s=40&40&v=4"
+          },
+          {
+            "username": "sumimakito",
+            "avatar": "https://avatars.githubusercontent.com/u/5277268?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "author": "opengeos",
+        "name": "GeoLibre",
+        "fullName": "opengeos/GeoLibre",
+        "url": "https://github.com/opengeos/GeoLibre",
+        "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 2889,
+        "forks": 365,
+        "builtBy": [
+          {
+            "username": "giswqs",
+            "avatar": "https://avatars.githubusercontent.com/u/5016453?s=40&40&v=4"
+          },
+          {
+            "username": "amir-rezaei",
+            "avatar": "https://avatars.githubusercontent.com/u/31731671?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "author": "yorukot",
+        "name": "superfile",
+        "fullName": "yorukot/superfile",
+        "url": "https://github.com/yorukot/superfile",
+        "description": "Pretty fancy and modern terminal file manager",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "starsToday": 0,
+        "totalStars": 21053,
+        "forks": 675,
+        "builtBy": [
+          {
+            "username": "yorukot",
+            "avatar": "https://avatars.githubusercontent.com/u/107802416?s=40&40&v=4"
+          },
+          {
+            "username": "lazysegtree",
+            "avatar": "https://avatars.githubusercontent.com/u/59679977?s=40&40&v=4"
+          },
+          {
+            "username": "nonepork",
+            "avatar": "https://avatars.githubusercontent.com/u/59335048?s=40&40&v=4"
+          },
+          {
+            "username": "AnshumanNeon",
+            "avatar": "https://avatars.githubusercontent.com/u/110094421?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "author": "NanmiCoder",
+        "name": "MediaCrawler",
+        "fullName": "NanmiCoder/MediaCrawler",
+        "url": "https://github.com/NanmiCoder/MediaCrawler",
+        "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 58507,
+        "forks": 11627,
+        "builtBy": [
+          {
+            "username": "NanmiCoder",
+            "avatar": "https://avatars.githubusercontent.com/u/47178017?s=40&40&v=4"
+          },
+          {
+            "username": "2513502304",
+            "avatar": "https://avatars.githubusercontent.com/u/129171955?s=40&40&v=4"
+          },
+          {
+            "username": "gaoxiaobei",
+            "avatar": "https://avatars.githubusercontent.com/u/99178334?s=40&40&v=4"
+          },
+          {
+            "username": "persist-1",
+            "avatar": "https://avatars.githubusercontent.com/u/206997360?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "author": "pbakaus",
+        "name": "impeccable",
+        "fullName": "pbakaus/impeccable",
+        "url": "https://github.com/pbakaus/impeccable",
+        "description": "The design language that makes your AI harness better at design.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 51792,
+        "forks": 3047,
+        "builtBy": [
+          {
+            "username": "pbakaus",
+            "avatar": "https://avatars.githubusercontent.com/u/43004?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "abdulwahabone",
+            "avatar": "https://avatars.githubusercontent.com/u/32850166?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "author": "shiyu-coder",
+        "name": "Kronos",
+        "fullName": "shiyu-coder/Kronos",
+        "url": "https://github.com/shiyu-coder/Kronos",
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 34655,
+        "forks": 5805,
+        "builtBy": [
+          {
+            "username": "shiyu-coder",
+            "avatar": "https://avatars.githubusercontent.com/u/65760973?s=40&40&v=4"
+          },
+          {
+            "username": "Luciferbobo",
+            "avatar": "https://avatars.githubusercontent.com/u/54936491?s=40&40&v=4"
+          },
+          {
+            "username": "CharlesJ-ABu",
+            "avatar": "https://avatars.githubusercontent.com/u/18326516?s=40&40&v=4"
+          },
+          {
+            "username": "AnMakc",
+            "avatar": "https://avatars.githubusercontent.com/u/1777564?s=40&40&v=4"
+          },
+          {
+            "username": "randyy179",
+            "avatar": "https://avatars.githubusercontent.com/u/129808685?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "author": "alibaba",
+        "name": "open-code-review",
+        "fullName": "alibaba/open-code-review",
+        "url": "https://github.com/alibaba/open-code-review",
+        "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "starsToday": 0,
+        "totalStars": 15115,
+        "forks": 1019,
+        "builtBy": [
+          {
+            "username": "lizhengfeng101",
+            "avatar": "https://avatars.githubusercontent.com/u/254839944?s=40&40&v=4"
+          },
+          {
+            "username": "chethanuk",
+            "avatar": "https://avatars.githubusercontent.com/u/16241795?s=40&40&v=4"
+          },
+          {
+            "username": "stay-foolish-forever",
+            "avatar": "https://avatars.githubusercontent.com/u/61303077?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "MuoDoo",
+            "avatar": "https://avatars.githubusercontent.com/u/36472129?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "author": "jenkinsci",
+        "name": "jenkins",
+        "fullName": "jenkinsci/jenkins",
+        "url": "https://github.com/jenkinsci/jenkins",
+        "description": "Jenkins automation server",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "starsToday": 0,
+        "totalStars": 25927,
+        "forks": 9677,
+        "builtBy": [
+          {
+            "username": "kohsuke",
+            "avatar": "https://avatars.githubusercontent.com/u/50003?s=40&40&v=4"
+          },
+          {
+            "username": "jglick",
+            "avatar": "https://avatars.githubusercontent.com/u/154109?s=40&40&v=4"
+          },
+          {
+            "username": "daniel-beck",
+            "avatar": "https://avatars.githubusercontent.com/u/1831569?s=40&40&v=4"
+          },
+          {
+            "username": "oleg-nenashev",
+            "avatar": "https://avatars.githubusercontent.com/u/3000480?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 11,
+        "author": "bradautomates",
+        "name": "claude-video",
+        "fullName": "bradautomates/claude-video",
+        "url": "https://github.com/bradautomates/claude-video",
+        "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 11353,
+        "forks": 1154,
+        "builtBy": [
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "bradautomates",
+            "avatar": "https://avatars.githubusercontent.com/u/186665980?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 12,
+        "author": "vudovn",
+        "name": "ag-kit",
+        "fullName": "vudovn/ag-kit",
+        "url": "https://github.com/vudovn/ag-kit",
+        "description": "",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 8020,
+        "forks": 1512,
+        "builtBy": [
+          {
+            "username": "vudovn",
+            "avatar": "https://avatars.githubusercontent.com/u/116963762?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "saineox",
+            "avatar": "https://avatars.githubusercontent.com/u/36266507?s=40&40&v=4"
+          },
+          {
+            "username": "lucasgab2230",
+            "avatar": "https://avatars.githubusercontent.com/u/195384212?s=40&40&v=4"
+          },
+          {
+            "username": "JoKenPo",
+            "avatar": "https://avatars.githubusercontent.com/u/3427820?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 13,
+        "author": "apache",
+        "name": "cassandra",
+        "fullName": "apache/cassandra",
+        "url": "https://github.com/apache/cassandra",
+        "description": "Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "starsToday": 0,
+        "totalStars": 10004,
+        "forks": 4004,
+        "builtBy": [
+          {
+            "username": "jbellis",
+            "avatar": "https://avatars.githubusercontent.com/u/42158?s=40&40&v=4"
+          },
+          {
+            "username": "driftx",
+            "avatar": "https://avatars.githubusercontent.com/u/44895?s=40&40&v=4"
+          },
+          {
+            "username": "pcmanus",
+            "avatar": "https://avatars.githubusercontent.com/u/479957?s=40&40&v=4"
+          },
+          {
+            "username": "iamaleksey",
+            "avatar": "https://avatars.githubusercontent.com/u/10309?s=40&40&v=4"
+          },
+          {
+            "username": "krummas",
+            "avatar": "https://avatars.githubusercontent.com/u/162997?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 14,
+        "author": "mvanhorn",
+        "name": "last30days-skill",
+        "fullName": "mvanhorn/last30days-skill",
+        "url": "https://github.com/mvanhorn/last30days-skill",
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 54327,
+        "forks": 4701,
+        "builtBy": [
+          {
+            "username": "mvanhorn",
+            "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&40&v=4"
+          },
+          {
+            "username": "tmchow",
+            "avatar": "https://avatars.githubusercontent.com/u/517103?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "23241a6749",
+            "avatar": "https://avatars.githubusercontent.com/u/146319052?s=40&40&v=4"
+          },
+          {
+            "username": "j-sperling",
+            "avatar": "https://avatars.githubusercontent.com/u/17969723?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 15,
+        "author": "ocornut",
+        "name": "imgui",
+        "fullName": "ocornut/imgui",
+        "url": "https://github.com/ocornut/imgui",
+        "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "starsToday": 0,
+        "totalStars": 75256,
+        "forks": 11970,
+        "builtBy": [
+          {
+            "username": "ocornut",
+            "avatar": "https://avatars.githubusercontent.com/u/8225057?s=40&40&v=4"
+          },
+          {
+            "username": "rokups",
+            "avatar": "https://avatars.githubusercontent.com/u/19151258?s=40&40&v=4"
+          },
+          {
+            "username": "thedmd",
+            "avatar": "https://avatars.githubusercontent.com/u/1197433?s=40&40&v=4"
+          },
+          {
+            "username": "cfillion",
+            "avatar": "https://avatars.githubusercontent.com/u/4297676?s=40&40&v=4"
+          },
+          {
+            "username": "bkaradzic",
+            "avatar": "https://avatars.githubusercontent.com/u/814772?s=40&40&v=4"
+          }
+        ]
+      }
+    ]
+  },
+  "productHunt": null,
+  "hackerNews": null
+}

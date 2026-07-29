@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-07-28T06:21:38.131Z",
+  "updatedAt": "2026-07-29T06:26:34.354Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Our position on open-weights models",
-      "url": "https://www.anthropic.com/news/position-open-weights-models",
-      "score": 720,
-      "comments": 1018,
-      "author": "surprisetalk"
+      "title": "More Tailscale tricks for your jailbroken Kindle",
+      "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+      "score": 64,
+      "comments": 7,
+      "author": "Error6571"
     },
     {
       "rank": 2,
-      "title": "Using an open model feels surprisingly good",
-      "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
-      "score": 201,
-      "comments": 66,
-      "author": "msaltz"
-    },
-    {
-      "rank": 3,
-      "title": "Neutrino-1 8B",
-      "url": "https://www.fermionresearch.com/models/neutrino-8b/",
-      "score": 27,
-      "comments": 3,
-      "author": "handfuloflight"
-    },
-    {
-      "rank": 4,
-      "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
-      "url": "https://fermisense.com/when-machines-take-the-wheel/",
-      "score": 109,
-      "comments": 33,
-      "author": "ilreb"
-    },
-    {
-      "rank": 5,
-      "title": "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts",
-      "url": "https://arsastronomica.com/",
-      "score": 13,
-      "comments": 0,
-      "author": "sweisman"
-    },
-    {
-      "rank": 6,
-      "title": "Why do we think we understand the world more than we actually do?",
-      "url": "https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth",
-      "score": 31,
-      "comments": 21,
-      "author": "rramadass"
-    },
-    {
-      "rank": 7,
-      "title": "Benchmarking Opus 5 on SlopCodeBench",
-      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
-      "score": 223,
-      "comments": 52,
-      "author": "dhorthy"
-    },
-    {
-      "rank": 8,
-      "title": "RTX 2080 Ti Memory Upgrade to 22 GB",
-      "url": "https://gpusolutions.net/rbservices/graphics-card-upgrade/",
-      "score": 77,
-      "comments": 43,
-      "author": "wslh"
-    },
-    {
-      "rank": 9,
-      "title": "PyTorch: A Reference Language",
-      "url": "https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/",
-      "score": 11,
-      "comments": 0,
-      "author": "matt_d"
-    },
-    {
-      "rank": 10,
-      "title": "EYG: A Programming Language for Humans",
-      "url": "https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/",
-      "score": 51,
-      "comments": 21,
-      "author": "crowdhailer"
-    },
-    {
-      "rank": 11,
-      "title": "Watching Go's new garbage collector move through the heap",
-      "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
-      "score": 196,
-      "comments": 20,
-      "author": "matheusmoreira"
-    },
-    {
-      "rank": 12,
-      "title": "Show HN: Yap – OSS on-device voice dictation for macOS with no model to download",
-      "url": "https://github.com/FrigadeHQ/yap",
-      "score": 48,
-      "comments": 12,
-      "author": "pancomplex"
-    },
-    {
-      "rank": 13,
-      "title": "Astronauts describe persistent 'observer' sensation after 6 month missions",
-      "url": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
-      "score": 160,
-      "comments": 80,
+      "title": "User Interfaces of the Demo Scene",
+      "url": "https://www.datagubbe.se/scenegui/",
+      "score": 60,
+      "comments": 8,
       "author": "zdw"
     },
     {
-      "rank": 14,
-      "title": "Vehicle Motion Cues",
-      "url": "https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios",
-      "score": 52,
-      "comments": 24,
-      "author": "Austin_Conlon"
+      "rank": 3,
+      "title": "Codex Security",
+      "url": "https://github.com/openai/codex-security",
+      "score": 452,
+      "comments": 140,
+      "author": "bakigul"
     },
     {
-      "rank": 15,
-      "title": "DConf 2026 in London",
-      "url": "https://dconf.org/2026/index.html",
-      "score": 70,
-      "comments": 30,
-      "author": "teleforce"
+      "rank": 4,
+      "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+      "url": "https://learnvector.ai/",
+      "score": 141,
+      "comments": 70,
+      "author": "ajhai"
     },
     {
-      "rank": 16,
-      "title": "The age of token efficiency, the age of libraries",
-      "url": "https://golemui.com/blog/the-age-of-token-efficiency/",
-      "score": 14,
+      "rank": 5,
+      "title": "Cracking Windows Open: Porting RADV to Win32",
+      "url": "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html",
+      "score": 25,
+      "comments": 1,
+      "author": "zdw"
+    },
+    {
+      "rank": 6,
+      "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
+      "url": "https://transformer-transformer.github.io/",
+      "score": 31,
       "comments": 0,
-      "author": "handfuloflight"
+      "author": "ilreb"
     },
     {
-      "rank": 17,
-      "title": "C/C++ projects packaged for Zig",
-      "url": "https://github.com/allyourcodebase",
-      "score": 45,
-      "comments": 25,
-      "author": "jcbhmr"
+      "rank": 7,
+      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+      "url": "https://github.com/twalichiewicz/HNewhere",
+      "score": 233,
+      "comments": 64,
+      "author": "twalichiewicz"
     },
     {
-      "rank": 18,
-      "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
-      "url": "https://www.rise-reforming.com",
-      "score": 66,
-      "comments": 30,
-      "author": "george_rose25"
-    },
-    {
-      "rank": 19,
-      "title": "Kimi K3 Now Available via Telnyx Inference API",
-      "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
-      "score": 44,
-      "comments": 14,
-      "author": "fionaattelnyx"
-    },
-    {
-      "rank": 20,
-      "title": "An Uncomplicated Man – A review of The Odyssey, directed by Christopher Nolan",
-      "url": "https://www.lrb.co.uk/the-paper/v48/n14/emily-wilson/an-uncomplicated-man",
-      "score": 32,
-      "comments": 9,
-      "author": "andsoitis"
-    },
-    {
-      "rank": 21,
-      "title": "Three Theses on the Literacy Crisis",
-      "url": "https://trevoraleo.substack.com/p/three-theses-on-the-literacy-crisis",
-      "score": 40,
-      "comments": 27,
-      "author": "samclemens"
-    },
-    {
-      "rank": 22,
-      "title": "Glue bonds to nonstick surfaces and wipes clean with ethanol",
-      "url": "https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07",
-      "score": 167,
-      "comments": 95,
-      "author": "gmays"
-    },
-    {
-      "rank": 23,
-      "title": "Ray tracing massive amounts of animated geometry using tetrahedral cages",
-      "url": "https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/",
-      "score": 94,
-      "comments": 12,
-      "author": "LorenDB"
-    },
-    {
-      "rank": 24,
-      "title": "Some combinatorial applications of spacefilling curves",
-      "url": "https://www2.isye.gatech.edu/~jjb/research/mow/mow.html",
-      "score": 36,
-      "comments": 1,
-      "author": "shraiwi"
-    },
-    {
-      "rank": 25,
-      "title": "Show HN: A 6M-token movable window on a single 46GB GPU",
-      "url": "https://arxiv.org/abs/2607.23806",
-      "score": 4,
-      "comments": 1,
-      "author": "Wetime"
-    },
-    {
-      "rank": 26,
-      "title": "A Dying Art: The last of the morticians",
-      "url": "https://harpers.org/archive/2026/08/a-dying-art-john-semley-mortuary-sciences-competition/",
-      "score": 19,
-      "comments": 1,
-      "author": "Petiver"
-    },
-    {
-      "rank": 27,
-      "title": "Self-contained highly-portable Python distributions",
-      "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
-      "score": 133,
-      "comments": 29,
-      "author": "jcbhmr"
-    },
-    {
-      "rank": 28,
-      "title": "Securing Services with Rootless Containers",
-      "url": "https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/",
-      "score": 86,
-      "comments": 26,
+      "rank": 8,
+      "title": "Substack writers, you need a website",
+      "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+      "score": 486,
+      "comments": 231,
       "author": "speckx"
     },
     {
+      "rank": 9,
+      "title": "Half-Life ported to Mac OS 9",
+      "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
+      "score": 206,
+      "comments": 99,
+      "author": "freediver"
+    },
+    {
+      "rank": 10,
+      "title": "Truth is not a direction: a Tarski attack on LLM probes",
+      "url": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
+      "score": 69,
+      "comments": 24,
+      "author": "abelaer"
+    },
+    {
+      "rank": 11,
+      "title": "Multiple Mouse Cursors in Wayland",
+      "url": "https://blinry.org/multi-seat-wayland/",
+      "score": 85,
+      "comments": 51,
+      "author": "marvinborner"
+    },
+    {
+      "rank": 12,
+      "title": "Hubble: Open-source notetaking app for you and your agents",
+      "url": "https://www.hubble.md/",
+      "score": 86,
+      "comments": 24,
+      "author": "handfuloflight"
+    },
+    {
+      "rank": 13,
+      "title": "ReFrame – The EPaper Camera",
+      "url": "https://reframe.camera/",
+      "score": 82,
+      "comments": 19,
+      "author": "phil294"
+    },
+    {
+      "rank": 14,
+      "title": "Teach yourself programming in ten years (1998)",
+      "url": "https://www.norvig.com/21-days.html",
+      "score": 99,
+      "comments": 47,
+      "author": "vinhnx"
+    },
+    {
+      "rank": 15,
+      "title": "Kimi K3 Architecture Overview and Notes",
+      "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+      "score": 372,
+      "comments": 64,
+      "author": "ModelForge"
+    },
+    {
+      "rank": 16,
+      "title": "Steel Bank Common Lisp version 2.6.7",
+      "url": "https://sbcl.org/all-news.html?2.6.7",
+      "score": 220,
+      "comments": 92,
+      "author": "tmtvl"
+    },
+    {
+      "rank": 17,
+      "title": "Beyond Greece and Rome",
+      "url": "https://aeon.co/essays/uncovering-a-global-ancient-history-beyond-greece-and-rome",
+      "score": 25,
+      "comments": 16,
+      "author": "diodorus"
+    },
+    {
+      "rank": 18,
+      "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
+      "url": "https://www.slow-journalism.com/",
+      "score": 272,
+      "comments": 159,
+      "author": "speerer"
+    },
+    {
+      "rank": 19,
+      "title": "Log is non-monotonic in PHP and Lua",
+      "url": "https://purplesyringa.moe/blog/log-is-non-monotonic-in-php-and-lua/",
+      "score": 30,
+      "comments": 18,
+      "author": "ibobev"
+    },
+    {
+      "rank": 20,
+      "title": "Hooray for the Sockets Interface",
+      "url": "https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/",
+      "score": 20,
+      "comments": 15,
+      "author": "jruohonen"
+    },
+    {
+      "rank": 21,
+      "title": "60 Years Ago, a Submerged Submarine Circled the Globe for the First Time (2020)",
+      "url": "https://www.popularmechanics.com/military/weapons/a32009109/operation-sandblast-sumbarine-circumnavigation/",
+      "score": 5,
+      "comments": 2,
+      "author": "baud147258"
+    },
+    {
+      "rank": 22,
+      "title": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
+      "url": "https://www.apple.com/shop/iphone/iphone-upgrade-program",
+      "score": 160,
+      "comments": 306,
+      "author": "lkurtz"
+    },
+    {
+      "rank": 23,
+      "title": "Zig's Incremental Compilation Internals",
+      "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
+      "score": 220,
+      "comments": 156,
+      "author": "garyhtou"
+    },
+    {
+      "rank": 24,
+      "title": "Interview with Boris Cherny [video]",
+      "url": "https://www.youtube.com/watch?v=qyPCVqFUyDo",
+      "score": 48,
+      "comments": 54,
+      "author": "knighthacker"
+    },
+    {
+      "rank": 25,
+      "title": "Una GPS smart watch – Repairable, USB-C charging, developer-friendly",
+      "url": "https://unawatch.com/",
+      "score": 171,
+      "comments": 112,
+      "author": "pimterry"
+    },
+    {
+      "rank": 26,
+      "title": "Now is the time to give LLMs access to the ACM digital library",
+      "url": "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
+      "score": 141,
+      "comments": 117,
+      "author": "rbanffy"
+    },
+    {
+      "rank": 27,
+      "title": "Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects",
+      "url": "https://github.com/jagg-ix/zil-lean",
+      "score": 11,
+      "comments": 2,
+      "author": "kbradero"
+    },
+    {
+      "rank": 28,
+      "title": "Discovering Cryptographic Weaknesses with Claude",
+      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+      "score": 201,
+      "comments": 139,
+      "author": "gslin"
+    },
+    {
       "rank": 29,
-      "title": "The Burau representation of the braid group is faithful for n = 4",
-      "url": "https://arxiv.org/abs/2607.05283",
-      "score": 29,
-      "comments": 10,
-      "author": "wglb"
+      "title": "Lightweight Spring Boot Monitoring Without Prometheus and Grafana",
+      "url": "https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html",
+      "score": 21,
+      "comments": 2,
+      "author": "ejboy"
     },
     {
       "rank": 30,
-      "title": "The computer that helped win World War II",
-      "url": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
-      "score": 193,
-      "comments": 76,
-      "author": "baruchel"
+      "title": "The Fabled Flatbreads of Uzbekistan (2015)",
+      "url": "https://www.aramcoworld.com/articles/2015/the-fabled-flatbreads-of-uzbekistan",
+      "score": 94,
+      "comments": 70,
+      "author": "jxub"
     }
   ]
 }

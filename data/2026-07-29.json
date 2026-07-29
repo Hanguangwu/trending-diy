@@ -1,0 +1,402 @@
+{
+  "date": "2026-07-29",
+  "updatedAt": "2026-07-29T06:26:34.362Z",
+  "github": {
+    "updatedAt": "2026-07-29T06:26:31.974Z",
+    "repos": [
+      {
+        "rank": 1,
+        "author": "pascalorg",
+        "name": "editor",
+        "fullName": "pascalorg/editor",
+        "url": "https://github.com/pascalorg/editor",
+        "description": "Create and share 3D architectural projects.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 18979,
+        "forks": 2544,
+        "builtBy": [
+          {
+            "username": "wass08",
+            "avatar": "https://avatars.githubusercontent.com/u/6551176?s=40&40&v=4"
+          },
+          {
+            "username": "Aymericr",
+            "avatar": "https://avatars.githubusercontent.com/u/4444492?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "sudhir9297",
+            "avatar": "https://avatars.githubusercontent.com/u/19578447?s=40&40&v=4"
+          },
+          {
+            "username": "open-pascal",
+            "avatar": "https://avatars.githubusercontent.com/u/271033448?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "author": "jenkinsci",
+        "name": "jenkins",
+        "fullName": "jenkinsci/jenkins",
+        "url": "https://github.com/jenkinsci/jenkins",
+        "description": "Jenkins automation server",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "starsToday": 0,
+        "totalStars": 26142,
+        "forks": 9694,
+        "builtBy": [
+          {
+            "username": "kohsuke",
+            "avatar": "https://avatars.githubusercontent.com/u/50003?s=40&40&v=4"
+          },
+          {
+            "username": "jglick",
+            "avatar": "https://avatars.githubusercontent.com/u/154109?s=40&40&v=4"
+          },
+          {
+            "username": "daniel-beck",
+            "avatar": "https://avatars.githubusercontent.com/u/1831569?s=40&40&v=4"
+          },
+          {
+            "username": "oleg-nenashev",
+            "avatar": "https://avatars.githubusercontent.com/u/3000480?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "author": "moeru-ai",
+        "name": "airi",
+        "fullName": "moeru-ai/airi",
+        "url": "https://github.com/moeru-ai/airi",
+        "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 44957,
+        "forks": 4459,
+        "builtBy": [
+          {
+            "username": "nekomeowww",
+            "avatar": "https://avatars.githubusercontent.com/u/11081491?s=40&40&v=4"
+          },
+          {
+            "username": "luoling8192",
+            "avatar": "https://avatars.githubusercontent.com/u/44741987?s=40&40&v=4"
+          },
+          {
+            "username": "shinohara-rin",
+            "avatar": "https://avatars.githubusercontent.com/u/25588514?s=40&40&v=4"
+          },
+          {
+            "username": "sumimakito",
+            "avatar": "https://avatars.githubusercontent.com/u/5277268?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "author": "andrewyng",
+        "name": "aisuite",
+        "fullName": "andrewyng/aisuite",
+        "url": "https://github.com/andrewyng/aisuite",
+        "description": "Simple, unified interface to multiple Generative AI providers",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 15748,
+        "forks": 1658,
+        "builtBy": [
+          {
+            "username": "rohitprasad15",
+            "avatar": "https://avatars.githubusercontent.com/u/1796239?s=40&40&v=4"
+          },
+          {
+            "username": "drp8226",
+            "avatar": "https://avatars.githubusercontent.com/u/291557675?s=40&40&v=4"
+          },
+          {
+            "username": "ksolo",
+            "avatar": "https://avatars.githubusercontent.com/u/103829?s=40&40&v=4"
+          },
+          {
+            "username": "standsleeping",
+            "avatar": "https://avatars.githubusercontent.com/u/5633095?s=40&40&v=4"
+          },
+          {
+            "username": "tavinashb",
+            "avatar": "https://avatars.githubusercontent.com/u/7972024?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "author": "affaan-m",
+        "name": "ECC",
+        "fullName": "affaan-m/ECC",
+        "url": "https://github.com/affaan-m/ECC",
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 235040,
+        "forks": 35809,
+        "builtBy": [
+          {
+            "username": "affaan-m",
+            "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "pangerlkr",
+            "avatar": "https://avatars.githubusercontent.com/u/73515951?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "author": "hello245m",
+        "name": "free-stockdb",
+        "fullName": "hello245m/free-stockdb",
+        "url": "https://github.com/hello245m/free-stockdb",
+        "description": "面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。",
+        "language": "HTML",
+        "languageColor": "#e34c26",
+        "starsToday": 0,
+        "totalStars": 1487,
+        "forks": 220,
+        "builtBy": [
+          {
+            "username": "hello245m",
+            "avatar": "https://avatars.githubusercontent.com/u/72144633?s=40&40&v=4"
+          },
+          {
+            "username": "cursoragent",
+            "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&40&v=4"
+          },
+          {
+            "username": "AudreyEthan",
+            "avatar": "https://avatars.githubusercontent.com/u/277227100?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "author": "huggingface",
+        "name": "speech-to-speech",
+        "fullName": "huggingface/speech-to-speech",
+        "url": "https://github.com/huggingface/speech-to-speech",
+        "description": "Build local voice agents with open-source models",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 7439,
+        "forks": 968,
+        "builtBy": [
+          {
+            "username": "andimarafioti",
+            "avatar": "https://avatars.githubusercontent.com/u/9143109?s=40&40&v=4"
+          },
+          {
+            "username": "eustlb",
+            "avatar": "https://avatars.githubusercontent.com/u/94853470?s=40&40&v=4"
+          },
+          {
+            "username": "A-Mahla",
+            "avatar": "https://avatars.githubusercontent.com/u/89754740?s=40&40&v=4"
+          },
+          {
+            "username": "ylacombe",
+            "avatar": "https://avatars.githubusercontent.com/u/52246514?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "author": "virgiliojr94",
+        "name": "book-to-skill",
+        "fullName": "virgiliojr94/book-to-skill",
+        "url": "https://github.com/virgiliojr94/book-to-skill",
+        "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 11795,
+        "forks": 1366,
+        "builtBy": [
+          {
+            "username": "virgiliojr94",
+            "avatar": "https://avatars.githubusercontent.com/u/23645449?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "dex0shubham",
+            "avatar": "https://avatars.githubusercontent.com/u/183437397?s=40&40&v=4"
+          },
+          {
+            "username": "Marcelluxx",
+            "avatar": "https://avatars.githubusercontent.com/u/38981901?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "author": "opengeos",
+        "name": "GeoLibre",
+        "fullName": "opengeos/GeoLibre",
+        "url": "https://github.com/opengeos/GeoLibre",
+        "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 3554,
+        "forks": 401,
+        "builtBy": [
+          {
+            "username": "giswqs",
+            "avatar": "https://avatars.githubusercontent.com/u/5016453?s=40&40&v=4"
+          },
+          {
+            "username": "amir-rezaei",
+            "avatar": "https://avatars.githubusercontent.com/u/31731671?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "author": "paperswithbacktest",
+        "name": "awesome-systematic-trading",
+        "fullName": "paperswithbacktest/awesome-systematic-trading",
+        "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+        "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 9879,
+        "forks": 1309,
+        "builtBy": [
+          {
+            "username": "edarchimbaud",
+            "avatar": "https://avatars.githubusercontent.com/u/13941363?s=40&40&v=4"
+          },
+          {
+            "username": "jamesmunro",
+            "avatar": "https://avatars.githubusercontent.com/u/283605?s=40&40&v=4"
+          },
+          {
+            "username": "ss18",
+            "avatar": "https://avatars.githubusercontent.com/u/832917?s=40&40&v=4"
+          },
+          {
+            "username": "leftys",
+            "avatar": "https://avatars.githubusercontent.com/u/1970226?s=40&40&v=4"
+          },
+          {
+            "username": "iamjinlei",
+            "avatar": "https://avatars.githubusercontent.com/u/6463139?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 11,
+        "author": "microsoft",
+        "name": "agent-governance-toolkit",
+        "fullName": "microsoft/agent-governance-toolkit",
+        "url": "https://github.com/microsoft/agent-governance-toolkit",
+        "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 5340,
+        "forks": 840,
+        "builtBy": [
+          {
+            "username": "imran-siddique",
+            "avatar": "https://avatars.githubusercontent.com/u/45405841?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "finnoybu",
+            "avatar": "https://avatars.githubusercontent.com/u/21694570?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 12,
+        "author": "yorukot",
+        "name": "superfile",
+        "fullName": "yorukot/superfile",
+        "url": "https://github.com/yorukot/superfile",
+        "description": "Pretty fancy and modern terminal file manager",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "starsToday": 0,
+        "totalStars": 21647,
+        "forks": 704,
+        "builtBy": [
+          {
+            "username": "yorukot",
+            "avatar": "https://avatars.githubusercontent.com/u/107802416?s=40&40&v=4"
+          },
+          {
+            "username": "lazysegtree",
+            "avatar": "https://avatars.githubusercontent.com/u/59679977?s=40&40&v=4"
+          },
+          {
+            "username": "nonepork",
+            "avatar": "https://avatars.githubusercontent.com/u/59335048?s=40&40&v=4"
+          },
+          {
+            "username": "AnshumanNeon",
+            "avatar": "https://avatars.githubusercontent.com/u/110094421?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 13,
+        "author": "bradautomates",
+        "name": "claude-video",
+        "fullName": "bradautomates/claude-video",
+        "url": "https://github.com/bradautomates/claude-video",
+        "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 12323,
+        "forks": 1228,
+        "builtBy": [
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "bradautomates",
+            "avatar": "https://avatars.githubusercontent.com/u/186665980?s=40&40&v=4"
+          }
+        ]
+      }
+    ]
+  },
+  "productHunt": null,
+  "hackerNews": null
+}

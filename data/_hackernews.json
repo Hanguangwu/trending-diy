@@ -1,237 +1,237 @@
 {
-  "updatedAt": "2026-07-30T06:22:38.747Z",
+  "updatedAt": "2026-07-31T06:39:41.648Z",
   "stories": [
     {
       "rank": 1,
-      "title": "AI's top startups are barely publishing their research",
-      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-      "score": 344,
-      "comments": 192,
-      "author": "YeGoblynQueenne"
+      "title": "The session you cannot take with you",
+      "url": "https://earendil.com/posts/session-portability/",
+      "score": 88,
+      "comments": 10,
+      "author": "apitman"
     },
     {
       "rank": 2,
-      "title": "The coolest use for the Vision Pro",
-      "url": "https://christianselig.com/2026/07/vision-pro-house/",
-      "score": 541,
-      "comments": 225,
-      "author": "robbiet480"
+      "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
+      "url": "https://github.com/openjdk/jdk/pull/31120",
+      "score": 20,
+      "comments": 4,
+      "author": "mfiguiere"
     },
     {
       "rank": 3,
-      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-      "url": "https://github.com/drumih/turbo-fieldfare",
-      "score": 727,
-      "comments": 253,
-      "author": "gitpusher42"
+      "title": "Stacked PRs are now live on GitHub",
+      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+      "score": 582,
+      "comments": 195,
+      "author": "tomzorz"
     },
     {
       "rank": 4,
-      "title": "Superlogical",
-      "url": "https://www.superlogical.com/",
-      "score": 617,
-      "comments": 385,
-      "author": "yan"
+      "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+      "url": "https://github.com/AminBlg/SimpleEnglish",
+      "score": 283,
+      "comments": 101,
+      "author": "navs"
     },
     {
       "rank": 5,
-      "title": "LLM Honeypot",
-      "url": "https://llm2human.pages.dev/",
-      "score": 151,
-      "comments": 48,
-      "author": "8thom"
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "score": 531,
+      "comments": 423,
+      "author": "ai2027"
     },
     {
       "rank": 6,
-      "title": "The Productivity Mirage",
-      "url": "https://frantic.im/mirage/",
-      "score": 156,
-      "comments": 50,
-      "author": "msephton"
+      "title": "Where USB Memory Sticks are Born (2013)",
+      "url": "https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/",
+      "score": 27,
+      "comments": 2,
+      "author": "jacquesm"
     },
     {
       "rank": 7,
-      "title": "Keychron announces first open-source firmware for gaming mice",
-      "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
-      "score": 342,
-      "comments": 140,
-      "author": "JLO64"
+      "title": "I flagged two research papers for fake authors and both were accepted as orals",
+      "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
+      "score": 152,
+      "comments": 63,
+      "author": "volumes94"
     },
     {
       "rank": 8,
-      "title": "The Cold Email",
-      "url": "https://zachholman.com/posts/cold-email",
-      "score": 159,
-      "comments": 62,
-      "author": "holman"
+      "title": "Read this before you buy that TV streaming stick",
+      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "score": 671,
+      "comments": 384,
+      "author": "speckx"
     },
     {
       "rank": 9,
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
-      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "score": 345,
-      "comments": 199,
-      "author": "artninja1988"
+      "title": "The Religion of Speed",
+      "url": "https://graybeard.ing/the-religion-of-speed/",
+      "score": 88,
+      "comments": 29,
+      "author": "MobiusHorizons"
     },
     {
       "rank": 10,
-      "title": "Logic for Programmers",
-      "url": "https://logicforprogrammers.com/",
-      "score": 61,
-      "comments": 3,
-      "author": "_doctor_love"
+      "title": "A California aquifer may have crossed the point of no return",
+      "url": "https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return",
+      "score": 123,
+      "comments": 95,
+      "author": "Jimmc414"
     },
     {
       "rank": 11,
-      "title": "1,741 \"informed\" consents with one click? GDPR complaint filed",
-      "url": "https://noyb.eu/en/1741-informed-consents-one-click-gdpr-complaint-against-dictcc-filed",
-      "score": 31,
-      "comments": 3,
-      "author": "dotcoma"
-    },
-    {
-      "rank": 12,
-      "title": "NSF pilots 4-year PhDs with industry research placements",
-      "url": "https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four",
-      "score": 65,
-      "comments": 66,
-      "author": "osnium123"
-    },
-    {
-      "rank": 13,
-      "title": "A.I. companies are recruiting electricians and carpenters by the thousands",
-      "url": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
-      "score": 260,
-      "comments": 321,
-      "author": "thm"
-    },
-    {
-      "rank": 14,
-      "title": "Kimi K3-256k",
-      "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
-      "score": 399,
-      "comments": 116,
-      "author": "monneyboi"
-    },
-    {
-      "rank": 15,
-      "title": "Angels in Coptic Magic I: Introduction",
-      "url": "https://www.coptic-magic.phil.uni-wuerzburg.de/index.php/2026/01/16/angels-in-coptic-magic-i-introduction/",
-      "score": 32,
-      "comments": 2,
-      "author": "jruohonen"
-    },
-    {
-      "rank": 16,
-      "title": "Turning a dumb AC unit smart (without losing my security deposit)",
-      "url": "https://prilik.com/blog/post/automating-ac-nyc/",
-      "score": 142,
-      "comments": 113,
-      "author": "austinallegro"
-    },
-    {
-      "rank": 17,
-      "title": "Show HN: CheapFoodMap – A map of good meals under $10",
-      "url": "https://cheapfoodmap.com/",
-      "score": 174,
-      "comments": 182,
-      "author": "jaep1"
-    },
-    {
-      "rank": 18,
-      "title": "Kuna: Decompiler Development in the Age of Coding Agents",
-      "url": "https://noelo.org/blog/kuna-release/",
-      "score": 19,
-      "comments": 4,
-      "author": "matt_d"
-    },
-    {
-      "rank": 19,
-      "title": "Some thoughts about Anthropic's new cryptanalysis results",
-      "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
-      "score": 134,
-      "comments": 69,
-      "author": "supermatou"
-    },
-    {
-      "rank": 20,
-      "title": "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)",
-      "url": "https://archive.org/details/mancomputerbyjoh0000john",
-      "score": 39,
-      "comments": 11,
-      "author": "MilnerRoute"
-    },
-    {
-      "rank": 21,
-      "title": "Recursive Filters: SMA, EMA, Low‑Pass, and a Tiny Kalman",
-      "url": "https://www.staszewski.xyz/blog/recursive-filters/",
-      "score": 30,
-      "comments": 7,
-      "author": "kamilstaszewski"
-    },
-    {
-      "rank": 22,
-      "title": "The Rust on ESP Book",
-      "url": "https://docs.espressif.com/projects/rust/book/",
-      "score": 144,
-      "comments": 15,
-      "author": "AlexeyBrin"
-    },
-    {
-      "rank": 23,
-      "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
-      "url": "https://usetokenless.com/",
-      "score": 58,
-      "comments": 50,
-      "author": "rohaga"
-    },
-    {
-      "rank": 24,
-      "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
-      "url": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
-      "score": 75,
-      "comments": 40,
-      "author": "cl42"
-    },
-    {
-      "rank": 26,
-      "title": "Refactoring cuisine: how an Iraqi stew sailed to Singapore",
-      "url": "https://iza.ac/posts/2026/07/the-journey-of-bamya/",
-      "score": 46,
-      "comments": 12,
-      "author": "infinitewalk"
-    },
-    {
-      "rank": 27,
-      "title": "A Trampoline",
-      "url": "https://dogdogfish.com/blog/2026/07/29/a-trampoline/",
-      "score": 90,
-      "comments": 50,
-      "author": "matthewsharpe3"
-    },
-    {
-      "rank": 28,
-      "title": "The Royal Order of Operations",
-      "url": "https://ken.fyi/ooo",
-      "score": 3,
-      "comments": 0,
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "score": 164,
+      "comments": 115,
       "author": "surprisetalk"
     },
     {
-      "rank": 29,
-      "title": "Hamburg's Stadtpark: A Park Built to Be Used",
-      "url": "https://alsterrunde.com/hamburgs-stadtpark-a-park-built-to-be-used/",
-      "score": 134,
-      "comments": 30,
-      "author": "mertbio"
+      "rank": 12,
+      "title": "The AI Aesthetic",
+      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+      "score": 266,
+      "comments": 119,
+      "author": "montroser"
     },
     {
-      "rank": 30,
-      "title": "Show HN: A local merge queue for parallel Claude Code agents",
-      "url": "https://github.com/funador/claude-code-merge-queue",
-      "score": 27,
-      "comments": 8,
-      "author": "funador"
+      "rank": 13,
+      "title": "The American Grilled Cheese Sandwich Essay (2024)",
+      "url": "https://buttondown.com/theswordandthesandwich/archive/the-best-american-grilled-cheese-sandwich-essay/",
+      "score": 41,
+      "comments": 31,
+      "author": "NaOH"
+    },
+    {
+      "rank": 14,
+      "title": "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",
+      "url": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
+      "score": 200,
+      "comments": 118,
+      "author": "ibobev"
+    },
+    {
+      "rank": 15,
+      "title": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",
+      "url": "https://rune.build/blog/rune-1-1-release",
+      "score": 74,
+      "comments": 24,
+      "author": "ernestrc"
+    },
+    {
+      "rank": 16,
+      "title": "CodePen 2.0",
+      "url": "https://chriscoyier.net/2026/07/30/codepen-2-0/",
+      "score": 157,
+      "comments": 44,
+      "author": "robin_reala"
+    },
+    {
+      "rank": 17,
+      "title": "The Economic Benefit of Refactoring",
+      "url": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
+      "score": 227,
+      "comments": 90,
+      "author": "javaeeeee"
+    },
+    {
+      "rank": 18,
+      "title": "Show HN: What should the GUI for AI agents look like?",
+      "url": "https://marbleos.com/demo",
+      "score": 6,
+      "comments": 0,
+      "author": "akbabu"
+    },
+    {
+      "rank": 19,
+      "title": "Bad Apple but It's Traceroute",
+      "url": "https://jssfr.de/2026-07-27-bad-apple-but-traceroute.html",
+      "score": 91,
+      "comments": 22,
+      "author": "jssfr"
+    },
+    {
+      "rank": 20,
+      "title": "UEFA and its national associations will not participate in FIFA competitions",
+      "url": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
+      "score": 925,
+      "comments": 502,
+      "author": "dickfickling"
+    },
+    {
+      "rank": 21,
+      "title": "GCC steering committee announces AI policy",
+      "url": "https://lwn.net/Articles/1086041/",
+      "score": 274,
+      "comments": 310,
+      "author": "arto"
+    },
+    {
+      "rank": 22,
+      "title": "Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal",
+      "url": "https://github.com/MemoireMorte/Memo-1",
+      "score": 65,
+      "comments": 7,
+      "author": "sciences44"
+    },
+    {
+      "rank": 23,
+      "title": "Saber-toothed cats became inbred–and struggled to move–before they went extinct",
+      "url": "https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct",
+      "score": 46,
+      "comments": 16,
+      "author": "gmays"
+    },
+    {
+      "rank": 24,
+      "title": "The mean means nothing: data visualization to debug a latency problem",
+      "url": "https://fzakaria.com/2026/07/27/the-mean-means-nothing",
+      "score": 5,
+      "comments": 0,
+      "author": "fanf2"
+    },
+    {
+      "rank": 25,
+      "title": "The lost civic life of movie rental stores",
+      "url": "https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/",
+      "score": 156,
+      "comments": 205,
+      "author": "facundo_olano"
+    },
+    {
+      "rank": 26,
+      "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+      "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+      "score": 111,
+      "comments": 63,
+      "author": "cgorlla"
+    },
+    {
+      "rank": 27,
+      "title": "Advancing the price-performance frontier with GPT‑5.6",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+      "score": 547,
+      "comments": 355,
+      "author": "tedsanders"
+    },
+    {
+      "rank": 28,
+      "title": "Why is everyone trying to build a solid-state battery?",
+      "url": "https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a",
+      "score": 185,
+      "comments": 237,
+      "author": "crescit_eundo"
+    },
+    {
+      "rank": 29,
+      "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
+      "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
+      "score": 347,
+      "comments": 202,
+      "author": "Areibman"
     }
   ]
 }

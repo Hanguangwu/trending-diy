@@ -1,0 +1,508 @@
+{
+  "date": "2026-08-03",
+  "updatedAt": "2026-08-03T06:54:52.222Z",
+  "github": {
+    "updatedAt": "2026-08-03T06:54:50.900Z",
+    "repos": [
+      {
+        "rank": 1,
+        "author": "microsoft",
+        "name": "AI-For-Beginners",
+        "fullName": "microsoft/AI-For-Beginners",
+        "url": "https://github.com/microsoft/AI-For-Beginners",
+        "description": "12 Weeks, 24 Lessons, AI for All!",
+        "language": "Jupyter Notebook",
+        "languageColor": "#DA5B0B",
+        "starsToday": 0,
+        "totalStars": 59738,
+        "forks": 11712,
+        "builtBy": [
+          {
+            "username": "leestott",
+            "avatar": "https://avatars.githubusercontent.com/u/2511341?s=40&40&v=4"
+          },
+          {
+            "username": "skytin1004",
+            "avatar": "https://avatars.githubusercontent.com/u/99078115?s=40&40&v=4"
+          },
+          {
+            "username": "jlooper",
+            "avatar": "https://avatars.githubusercontent.com/u/1450004?s=40&40&v=4"
+          },
+          {
+            "username": "shwars",
+            "avatar": "https://avatars.githubusercontent.com/u/2892110?s=40&40&v=4"
+          },
+          {
+            "username": "BethanyJep",
+            "avatar": "https://avatars.githubusercontent.com/u/44121227?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "author": "usekaneo",
+        "name": "kaneo",
+        "fullName": "usekaneo/kaneo",
+        "url": "https://github.com/usekaneo/kaneo",
+        "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 6372,
+        "forks": 527,
+        "builtBy": [
+          {
+            "username": "andrejsshell",
+            "avatar": "https://avatars.githubusercontent.com/u/44305048?s=40&40&v=4"
+          },
+          {
+            "username": "tinsever",
+            "avatar": "https://avatars.githubusercontent.com/u/176929823?s=40&40&v=4"
+          },
+          {
+            "username": "randoneering",
+            "avatar": "https://avatars.githubusercontent.com/u/127273550?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "author": "lyogavin",
+        "name": "airllm",
+        "fullName": "lyogavin/airllm",
+        "url": "https://github.com/lyogavin/airllm",
+        "description": "AirLLM 70B inference with single 4GB GPU",
+        "language": "Jupyter Notebook",
+        "languageColor": "#DA5B0B",
+        "starsToday": 0,
+        "totalStars": 25969,
+        "forks": 2903,
+        "builtBy": [
+          {
+            "username": "lyogavin",
+            "avatar": "https://avatars.githubusercontent.com/u/1113905?s=40&40&v=4"
+          },
+          {
+            "username": "cursoragent",
+            "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&40&v=4"
+          },
+          {
+            "username": "eltociear",
+            "avatar": "https://avatars.githubusercontent.com/u/22633385?s=40&40&v=4"
+          },
+          {
+            "username": "NavodPeiris",
+            "avatar": "https://avatars.githubusercontent.com/u/69672640?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "author": "iv-org",
+        "name": "invidious",
+        "fullName": "iv-org/invidious",
+        "url": "https://github.com/iv-org/invidious",
+        "description": "Invidious is an alternative front-end to YouTube",
+        "language": "Crystal",
+        "languageColor": "#000100",
+        "starsToday": 0,
+        "totalStars": 22071,
+        "forks": 2464,
+        "builtBy": [
+          {
+            "username": "omarroth",
+            "avatar": "https://avatars.githubusercontent.com/u/14208607?s=40&40&v=4"
+          },
+          {
+            "username": "SamantazFox",
+            "avatar": "https://avatars.githubusercontent.com/u/52980486?s=40&40&v=4"
+          },
+          {
+            "username": "weblate",
+            "avatar": "https://avatars.githubusercontent.com/u/1607653?s=40&40&v=4"
+          },
+          {
+            "username": "syeopite",
+            "avatar": "https://avatars.githubusercontent.com/u/70992037?s=40&40&v=4"
+          },
+          {
+            "username": "TheFrenchGhosty",
+            "avatar": "https://avatars.githubusercontent.com/u/47571719?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "author": "codecrafters-io",
+        "name": "build-your-own-x",
+        "fullName": "codecrafters-io/build-your-own-x",
+        "url": "https://github.com/codecrafters-io/build-your-own-x",
+        "description": "Master programming by recreating your favorite technologies from scratch.",
+        "language": "Markdown",
+        "languageColor": "#083fa1",
+        "starsToday": 0,
+        "totalStars": 535200,
+        "forks": 50581,
+        "builtBy": [
+          {
+            "username": "danistefanovic",
+            "avatar": "https://avatars.githubusercontent.com/u/1736595?s=40&40&v=4"
+          },
+          {
+            "username": "rohitpaulk",
+            "avatar": "https://avatars.githubusercontent.com/u/3893573?s=40&40&v=4"
+          },
+          {
+            "username": "sarupbanskota",
+            "avatar": "https://avatars.githubusercontent.com/u/3149580?s=40&40&v=4"
+          },
+          {
+            "username": "fake-rookie",
+            "avatar": "https://avatars.githubusercontent.com/u/61480354?s=40&40&v=4"
+          },
+          {
+            "username": "bauripalash",
+            "avatar": "https://avatars.githubusercontent.com/u/16154204?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "author": "zhaoxuya520",
+        "name": "reverse-skill",
+        "fullName": "zhaoxuya520/reverse-skill",
+        "url": "https://github.com/zhaoxuya520/reverse-skill",
+        "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+        "language": "PowerShell",
+        "languageColor": "#012456",
+        "starsToday": 0,
+        "totalStars": 14292,
+        "forks": 2108,
+        "builtBy": [
+          {
+            "username": "zhaoxuya520",
+            "avatar": "https://avatars.githubusercontent.com/u/147215175?s=40&40&v=4"
+          },
+          {
+            "username": "sakukir",
+            "avatar": "https://avatars.githubusercontent.com/u/140924318?s=40&40&v=4"
+          },
+          {
+            "username": "zhaoxuya",
+            "avatar": "https://avatars.githubusercontent.com/u/32364788?s=40&40&v=4"
+          },
+          {
+            "username": "dhicoc",
+            "avatar": "https://avatars.githubusercontent.com/u/94750419?s=40&40&v=4"
+          },
+          {
+            "username": "doublecurry",
+            "avatar": "https://avatars.githubusercontent.com/u/30251656?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "author": "different-ai",
+        "name": "openwork",
+        "fullName": "different-ai/openwork",
+        "url": "https://github.com/different-ai/openwork",
+        "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 20502,
+        "forks": 2102,
+        "builtBy": [
+          {
+            "username": "benjaminshafii",
+            "avatar": "https://avatars.githubusercontent.com/u/11430621?s=40&40&v=4"
+          },
+          {
+            "username": "src-opn",
+            "avatar": "https://avatars.githubusercontent.com/u/270187002?s=40&40&v=4"
+          },
+          {
+            "username": "jcllobet",
+            "avatar": "https://avatars.githubusercontent.com/u/22689750?s=40&40&v=4"
+          },
+          {
+            "username": "release-bot",
+            "avatar": "https://avatars.githubusercontent.com/u/6581690?s=40&40&v=4"
+          },
+          {
+            "username": "actions-user",
+            "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "author": "microsoft",
+        "name": "generative-ai-for-beginners",
+        "fullName": "microsoft/generative-ai-for-beginners",
+        "url": "https://github.com/microsoft/generative-ai-for-beginners",
+        "description": "21 Lessons, Get Started Building with Generative AI",
+        "language": "Jupyter Notebook",
+        "languageColor": "#DA5B0B",
+        "starsToday": 0,
+        "totalStars": 115025,
+        "forks": 61338,
+        "builtBy": [
+          {
+            "username": "skytin1004",
+            "avatar": "https://avatars.githubusercontent.com/u/99078115?s=40&40&v=4"
+          },
+          {
+            "username": "koreyspace",
+            "avatar": "https://avatars.githubusercontent.com/u/7462909?s=40&40&v=4"
+          },
+          {
+            "username": "leestott",
+            "avatar": "https://avatars.githubusercontent.com/u/2511341?s=40&40&v=4"
+          },
+          {
+            "username": "john0isaac",
+            "avatar": "https://avatars.githubusercontent.com/u/64026625?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "author": "Panniantong",
+        "name": "Agent-Reach",
+        "fullName": "Panniantong/Agent-Reach",
+        "url": "https://github.com/Panniantong/Agent-Reach",
+        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 65056,
+        "forks": 5379,
+        "builtBy": [
+          {
+            "username": "Panniantong",
+            "avatar": "https://avatars.githubusercontent.com/u/73925474?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "nyxst4ck",
+            "avatar": "https://avatars.githubusercontent.com/u/289980115?s=40&40&v=4"
+          },
+          {
+            "username": "kadaliao",
+            "avatar": "https://avatars.githubusercontent.com/u/7401626?s=40&40&v=4"
+          },
+          {
+            "username": "hymansun",
+            "avatar": "https://avatars.githubusercontent.com/u/10735997?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "author": "TencentCloud",
+        "name": "TencentDB-Agent-Memory",
+        "fullName": "TencentCloud/TencentDB-Agent-Memory",
+        "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+        "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 11426,
+        "forks": 1079,
+        "builtBy": [
+          {
+            "username": "Maxwell-Code07",
+            "avatar": "https://avatars.githubusercontent.com/u/95488710?s=40&40&v=4"
+          },
+          {
+            "username": "Yuntong8888",
+            "avatar": "https://avatars.githubusercontent.com/u/277734672?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 11,
+        "author": "mvanhorn",
+        "name": "last30days-skill",
+        "fullName": "mvanhorn/last30days-skill",
+        "url": "https://github.com/mvanhorn/last30days-skill",
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 57004,
+        "forks": 4991,
+        "builtBy": [
+          {
+            "username": "mvanhorn",
+            "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&40&v=4"
+          },
+          {
+            "username": "tmchow",
+            "avatar": "https://avatars.githubusercontent.com/u/517103?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "23241a6749",
+            "avatar": "https://avatars.githubusercontent.com/u/146319052?s=40&40&v=4"
+          },
+          {
+            "username": "j-sperling",
+            "avatar": "https://avatars.githubusercontent.com/u/17969723?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 12,
+        "author": "NomaDamas",
+        "name": "k-skill",
+        "fullName": "NomaDamas/k-skill",
+        "url": "https://github.com/NomaDamas/k-skill",
+        "description": "한국인을 위한 스킬 모음집 - 에이전트를 한국인으로",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 6937,
+        "forks": 814,
+        "builtBy": [
+          {
+            "username": "vkehfdl1",
+            "avatar": "https://avatars.githubusercontent.com/u/28955029?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "taeyoung1005",
+            "avatar": "https://avatars.githubusercontent.com/u/105529609?s=40&40&v=4"
+          },
+          {
+            "username": "Mineru98",
+            "avatar": "https://avatars.githubusercontent.com/u/15326932?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 13,
+        "author": "HarbourMasters",
+        "name": "Lighthouse",
+        "fullName": "HarbourMasters/Lighthouse",
+        "url": "https://github.com/HarbourMasters/Lighthouse",
+        "description": "",
+        "language": "C",
+        "languageColor": "#555555",
+        "starsToday": 0,
+        "totalStars": 259,
+        "forks": 20,
+        "builtBy": [
+          {
+            "username": "Caladius",
+            "avatar": "https://avatars.githubusercontent.com/u/8377717?s=40&40&v=4"
+          },
+          {
+            "username": "JeodC",
+            "avatar": "https://avatars.githubusercontent.com/u/47716344?s=40&40&v=4"
+          },
+          {
+            "username": "scorched11",
+            "avatar": "https://avatars.githubusercontent.com/u/226412922?s=40&40&v=4"
+          },
+          {
+            "username": "Malkierian",
+            "avatar": "https://avatars.githubusercontent.com/u/774771?s=40&40&v=4"
+          },
+          {
+            "username": "Fredomato",
+            "avatar": "https://avatars.githubusercontent.com/u/86324131?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 14,
+        "author": "antirez",
+        "name": "ds4",
+        "fullName": "antirez/ds4",
+        "url": "https://github.com/antirez/ds4",
+        "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
+        "language": "C",
+        "languageColor": "#555555",
+        "starsToday": 0,
+        "totalStars": 20116,
+        "forks": 1783,
+        "builtBy": [
+          {
+            "username": "antirez",
+            "avatar": "https://avatars.githubusercontent.com/u/65632?s=40&40&v=4"
+          },
+          {
+            "username": "mitsuhiko",
+            "avatar": "https://avatars.githubusercontent.com/u/7396?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "jackygurui",
+            "avatar": "https://avatars.githubusercontent.com/u/2514975?s=40&40&v=4"
+          },
+          {
+            "username": "cv",
+            "avatar": "https://avatars.githubusercontent.com/u/5445?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 15,
+        "author": "esengine",
+        "name": "DeepSeek-Reasonix",
+        "fullName": "esengine/DeepSeek-Reasonix",
+        "url": "https://github.com/esengine/DeepSeek-Reasonix",
+        "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "starsToday": 0,
+        "totalStars": 29366,
+        "forks": 1892,
+        "builtBy": [
+          {
+            "username": "SivanCola",
+            "avatar": "https://avatars.githubusercontent.com/u/32437197?s=40&40&v=4"
+          },
+          {
+            "username": "esengine",
+            "avatar": "https://avatars.githubusercontent.com/u/18465053?s=40&40&v=4"
+          },
+          {
+            "username": "ttmouse",
+            "avatar": "https://avatars.githubusercontent.com/u/8982044?s=40&40&v=4"
+          },
+          {
+            "username": "lifu963",
+            "avatar": "https://avatars.githubusercontent.com/u/56394323?s=40&40&v=4"
+          },
+          {
+            "username": "cursoragent",
+            "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&40&v=4"
+          }
+        ]
+      }
+    ]
+  },
+  "productHunt": null,
+  "hackerNews": null
+}

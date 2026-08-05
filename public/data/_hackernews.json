@@ -1,245 +1,237 @@
 {
-  "updatedAt": "2026-08-04T06:22:54.361Z",
+  "updatedAt": "2026-08-05T06:23:06.974Z",
   "stories": [
     {
       "rank": 1,
-      "title": "LLMs reward expertise",
-      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
-      "score": 719,
-      "comments": 303,
-      "author": "MaxMussio"
+      "title": "Stateless MCP has recaptured my interest",
+      "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
+      "score": 75,
+      "comments": 35,
+      "author": "tosh"
     },
     {
       "rank": 2,
-      "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
-      "url": "https://github.com/leonickson1/Swiftlet",
-      "score": 97,
-      "comments": 28,
-      "author": "leonickson"
+      "title": "Eight Myths on Software Engineering and GenAI",
+      "url": "https://queue.acm.org/detail.cfm?id=3807963",
+      "score": 165,
+      "comments": 113,
+      "author": "tchalla"
     },
     {
       "rank": 3,
-      "title": "Amazonian civilization had estimated 3M people in 3% of forest area",
-      "url": "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
-      "score": 107,
-      "comments": 68,
-      "author": "marojejian"
+      "title": "Pi's Minimalism Is Its Advantage",
+      "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+      "score": 244,
+      "comments": 95,
+      "author": "luispa"
     },
     {
       "rank": 4,
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics/",
-      "score": 510,
-      "comments": 781,
-      "author": "milkshakes"
+      "title": "The Golden Age of British Ice Cream",
+      "url": "https://www.vittlesmagazine.com/p/the-golden-age-of-british-ice-cream",
+      "score": 19,
+      "comments": 4,
+      "author": "bryanrasmussen"
     },
     {
       "rank": 5,
-      "title": "Devtools must be open source",
-      "url": "https://blog.exe.dev/devtools-must-be-open-source",
-      "score": 562,
-      "comments": 195,
-      "author": "bryanmikaelian"
+      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+      "url": "https://mistral.ai/news/shieldstral/",
+      "score": 363,
+      "comments": 91,
+      "author": "riadsila"
     },
     {
       "rank": 6,
-      "title": "Ask HN: Who is hiring? (August 2026)",
-      "url": "https://news.ycombinator.com/item?id=49156683",
-      "score": 150,
-      "comments": 135,
-      "author": "whoishiring"
+      "title": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
+      "url": "https://arxiv.org/abs/2603.04221",
+      "score": 64,
+      "comments": 43,
+      "author": "teleforce"
     },
     {
       "rank": 7,
-      "title": "Apple is getting this wrong",
-      "url": "https://openai.com/index/apple-is-getting-this-wrong/",
-      "score": 46,
-      "comments": 22,
-      "author": "meetpateltech"
+      "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+      "url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+      "score": 80,
+      "comments": 11,
+      "author": "lapcat"
     },
     {
       "rank": 8,
-      "title": "There Will Come Soft Rains (1950) [pdf]",
-      "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
-      "score": 104,
-      "comments": 38,
-      "author": "pmg101"
+      "title": "Why is it all in the kernel?",
+      "url": "https://lawrencecpaulson.github.io//2026/07/30/Collatz.html",
+      "score": 16,
+      "comments": 4,
+      "author": "ibobev"
     },
     {
       "rank": 9,
-      "title": "Smaller, faster, safer: running Kimi and GLM at scale",
-      "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
-      "score": 192,
-      "comments": 45,
-      "author": "ascorbic"
+      "title": "Rio-vt and librio: Rio's terminal engine, now embeddable",
+      "url": "https://rioterm.com/blog/2026/07/27/rio-vt-and-librio",
+      "score": 16,
+      "comments": 4,
+      "author": "vinhnx"
     },
     {
       "rank": 10,
-      "title": "IPC-7351B Electronic Component Zero Orientation [pdf] (2010)",
-      "url": "https://scancad.net/wp-content/uploads/2019/02/zero-orientation-cad-libaray.pdf",
-      "score": 11,
-      "comments": 3,
-      "author": "gregsadetsky"
+      "title": "The sale of Electronic Arts has been finalized",
+      "url": "https://www.bbc.com/news/articles/cjejyl34345o",
+      "score": 51,
+      "comments": 21,
+      "author": "1659447091"
     },
     {
       "rank": 11,
-      "title": "Ask HN: Who wants to be hired? (August 2026)",
-      "url": "https://news.ycombinator.com/item?id=49156682",
-      "score": 99,
-      "comments": 228,
-      "author": "whoishiring"
+      "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+      "url": "https://arxiv.org/abs/2607.29377",
+      "score": 6,
+      "comments": 1,
+      "author": "theanonymousone"
     },
     {
       "rank": 12,
-      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-      "score": 450,
-      "comments": 364,
-      "author": "mpweiher"
+      "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+      "url": "https://toneyalexander.github.io/inclusive-color-space/",
+      "score": 495,
+      "comments": 91,
+      "author": "automatoney"
     },
     {
       "rank": 13,
-      "title": "Nobody checked which state IBM's flagship quantum chemistry results compute",
-      "url": "https://zenodo.org/records/21359923",
-      "score": 8,
-      "comments": 3,
-      "author": "purestatelabs"
+      "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
+      "url": "https://techascent.com/blog/just-ducking-around.html",
+      "score": 77,
+      "comments": 11,
+      "author": "sourdecor"
     },
     {
       "rank": 14,
-      "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
-      "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
-      "score": 284,
-      "comments": 85,
-      "author": "vblanco"
+      "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+      "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
+      "score": 1205,
+      "comments": 67,
+      "author": "jdcampolargo"
     },
     {
       "rank": 15,
-      "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
-      "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
-      "score": 151,
-      "comments": 39,
-      "author": "roryirvine"
+      "title": "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone",
+      "url": "https://deepgrove.ai/maple-preview",
+      "score": 88,
+      "comments": 25,
+      "author": "edwardbzhang"
     },
     {
       "rank": 16,
-      "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
-      "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
-      "score": 296,
-      "comments": 63,
-      "author": "nikolay_sivko"
+      "title": "Bugtraq is back",
+      "url": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/",
+      "score": 37,
+      "comments": 7,
+      "author": "bashtoni"
     },
     {
       "rank": 17,
-      "title": "Windows XP 2002 for the Itanium: Unbridled rage",
-      "url": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
-      "score": 84,
-      "comments": 45,
-      "author": "jandeboevrie"
+      "title": "libexpat now funded by the City of Munich for up to 6 months",
+      "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
+      "score": 236,
+      "comments": 30,
+      "author": "spyc"
     },
     {
       "rank": 18,
-      "title": "200 Milliseconds",
-      "url": "https://200ms.thenodebook.com",
-      "score": 249,
-      "comments": 69,
-      "author": "dimitarpanov"
+      "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+      "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+      "score": 190,
+      "comments": 147,
+      "author": "bookofjoe"
     },
     {
       "rank": 19,
-      "title": "Twenty Years of Pandoc",
-      "url": "https://pandoc.org/twenty-years-of-pandoc.html",
-      "score": 184,
-      "comments": 21,
-      "author": "fiddlosopher"
+      "title": "An SLM trained on $8 ESP32-S3",
+      "url": "https://github.com/Carloscodix/qapla",
+      "score": 13,
+      "comments": 4,
+      "author": "pavelai"
     },
     {
       "rank": 20,
-      "title": "How Hollywood stopped making movies in Hollywood",
-      "url": "https://www.statsignificant.com/p/how-hollywood-stopped-making-movies",
-      "score": 186,
-      "comments": 224,
-      "author": "speckx"
+      "title": "We finally learned to center a div, then browsers added sidebars",
+      "url": "https://seg6.space/posts/center-div/",
+      "score": 102,
+      "comments": 87,
+      "author": "seg6"
     },
     {
       "rank": 21,
-      "title": "Replacing the Kobo Libra H2O Battery",
-      "url": "https://ei3lh.eu/2025/11/20/replacing-the-kobo-libra-h2o-battery/",
-      "score": 64,
-      "comments": 19,
-      "author": "austinallegro"
+      "title": "Video2NAND – Abusing video codecs for great computational power",
+      "url": "https://sharedobject.blog/posts/vp8-combinatorial-logic/",
+      "score": 52,
+      "comments": 10,
+      "author": "firer"
     },
     {
       "rank": 22,
-      "title": "ZX Spectrum System Tour: Text Mode",
-      "url": "https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/",
-      "score": 39,
-      "comments": 0,
-      "author": "rbanffy"
+      "title": "Waymo in Dallas",
+      "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
+      "score": 280,
+      "comments": 470,
+      "author": "xnx"
     },
     {
       "rank": 23,
-      "title": "Why did we wait so long for the bicycle? (2019)",
-      "url": "https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle",
-      "score": 25,
-      "comments": 16,
-      "author": "frozenseven"
+      "title": "Flowise is shutting down",
+      "url": "https://flowiseai.com/sunset",
+      "score": 38,
+      "comments": 17,
+      "author": "llmgraph"
     },
     {
       "rank": 24,
-      "title": "Bonsai: Janestreet's UI Library",
-      "url": "https://github.com/janestreet/bonsai",
-      "score": 329,
-      "comments": 139,
-      "author": "KolmogorovComp"
+      "title": "Godox Transparent Viewfinder Camera C100",
+      "url": "https://www.godox.com/product-e/C100.html",
+      "score": 24,
+      "comments": 14,
+      "author": "routeroff"
     },
     {
       "rank": 25,
-      "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
-      "url": "https://hoplite.sh",
-      "score": 66,
-      "comments": 51,
-      "author": "BenceRed"
+      "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
+      "url": "https://twitter.com/gwern/status/2084739205071343837",
+      "score": 246,
+      "comments": 151,
+      "author": "mattsterett"
     },
     {
       "rank": 26,
-      "title": "Decades-old fish sauce at abandoned factory in Canada finally being removed",
-      "url": "https://defector.com/abandoned-fish-sauce-canada-interview",
-      "score": 230,
-      "comments": 241,
-      "author": "ohjeez"
+      "title": "There Will Come Soft Rains (1950) [pdf]",
+      "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+      "score": 373,
+      "comments": 392,
+      "author": "pmg101"
     },
     {
       "rank": 27,
-      "title": "AirLLM 70B inference with single 4GB GPU",
-      "url": "https://github.com/lyogavin/airllm",
-      "score": 208,
-      "comments": 76,
-      "author": "Anon84"
+      "title": "Don't stop early: Case-folding source code at memory speed",
+      "url": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
+      "score": 63,
+      "comments": 23,
+      "author": "sbulaev"
     },
     {
       "rank": 28,
-      "title": "The Myth, the Mythos, and the Man",
-      "url": "https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/",
-      "score": 12,
-      "comments": 1,
-      "author": "sanj"
+      "title": "Show HN: SIMD Viterbi Decoder in Rust",
+      "url": "https://github.com/brian-armstrong/fec",
+      "score": 37,
+      "comments": 3,
+      "author": "brian-armstrong"
     },
     {
       "rank": 29,
-      "title": "More German than many Germans",
-      "url": "https://mertbulan.com/more-german-than-many-germans/",
-      "score": 468,
-      "comments": 326,
-      "author": "mertbio"
-    },
-    {
-      "rank": 30,
-      "title": "Massively Parallel Postgres Backups",
-      "url": "https://planetscale.com/blog/massively-parallel-postgres-backups",
-      "score": 102,
-      "comments": 12,
-      "author": "ksec"
+      "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+      "url": "https://arxiv.org/abs/2602.16763",
+      "score": 90,
+      "comments": 93,
+      "author": "doppp"
     }
   ]
 }

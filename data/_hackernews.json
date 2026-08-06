@@ -1,237 +1,245 @@
 {
-  "updatedAt": "2026-08-05T06:23:06.974Z",
+  "updatedAt": "2026-08-06T06:24:48.117Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Stateless MCP has recaptured my interest",
-      "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
-      "score": 75,
-      "comments": 35,
-      "author": "tosh"
+      "title": "Discovery Loop",
+      "url": "https://www.discoveryloop.com/",
+      "score": 684,
+      "comments": 422,
+      "author": "xtreak29"
     },
     {
       "rank": 2,
-      "title": "Eight Myths on Software Engineering and GenAI",
-      "url": "https://queue.acm.org/detail.cfm?id=3807963",
-      "score": 165,
-      "comments": 113,
-      "author": "tchalla"
+      "title": "Nashville uses eminent domain to block data center near zoo",
+      "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
+      "score": 192,
+      "comments": 211,
+      "author": "mapping365"
     },
     {
       "rank": 3,
-      "title": "Pi's Minimalism Is Its Advantage",
-      "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-      "score": 244,
-      "comments": 95,
-      "author": "luispa"
+      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+      "score": 591,
+      "comments": 653,
+      "author": "colesantiago"
     },
     {
       "rank": 4,
-      "title": "The Golden Age of British Ice Cream",
-      "url": "https://www.vittlesmagazine.com/p/the-golden-age-of-british-ice-cream",
-      "score": 19,
-      "comments": 4,
-      "author": "bryanrasmussen"
+      "title": "Zed DeltaDB",
+      "url": "https://zed.dev/deltadb",
+      "score": 366,
+      "comments": 198,
+      "author": "ahamez"
     },
     {
       "rank": 5,
-      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-      "url": "https://mistral.ai/news/shieldstral/",
-      "score": 363,
-      "comments": 91,
-      "author": "riadsila"
+      "title": "Branchless Rust: Making a Filter 4x Faster by Removing an If",
+      "url": "https://www.greyblake.com/blog/branchless-rust/",
+      "score": 107,
+      "comments": 24,
+      "author": "greyblake"
     },
     {
       "rank": 6,
-      "title": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
-      "url": "https://arxiv.org/abs/2603.04221",
-      "score": 64,
-      "comments": 43,
-      "author": "teleforce"
+      "title": "The title cards in Blade Runner are amazing",
+      "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+      "score": 219,
+      "comments": 96,
+      "author": "ExMachina73"
     },
     {
       "rank": 7,
-      "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
-      "url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
-      "score": 80,
-      "comments": 11,
-      "author": "lapcat"
+      "title": "Quantego: A Family of Lego Models of IBM Quantum Computers",
+      "url": "https://quantego.org/",
+      "score": 14,
+      "comments": 2,
+      "author": "rbanffy"
     },
     {
       "rank": 8,
-      "title": "Why is it all in the kernel?",
-      "url": "https://lawrencecpaulson.github.io//2026/07/30/Collatz.html",
-      "score": 16,
-      "comments": 4,
-      "author": "ibobev"
+      "title": "Muse Code and Muse Spark 1.2",
+      "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+      "score": 228,
+      "comments": 132,
+      "author": "paulkrush"
     },
     {
       "rank": 9,
-      "title": "Rio-vt and librio: Rio's terminal engine, now embeddable",
-      "url": "https://rioterm.com/blog/2026/07/27/rio-vt-and-librio",
-      "score": 16,
-      "comments": 4,
-      "author": "vinhnx"
+      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+      "score": 276,
+      "comments": 68,
+      "author": "moonikakiss"
     },
     {
       "rank": 10,
-      "title": "The sale of Electronic Arts has been finalized",
-      "url": "https://www.bbc.com/news/articles/cjejyl34345o",
-      "score": 51,
-      "comments": 21,
-      "author": "1659447091"
+      "title": "Born Against, or why hobby programming communities are against LLM usage",
+      "url": "https://blog.fogus.me/llm/born-against.html",
+      "score": 207,
+      "comments": 191,
+      "author": "lladnar"
     },
     {
       "rank": 11,
-      "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
-      "url": "https://arxiv.org/abs/2607.29377",
-      "score": 6,
-      "comments": 1,
-      "author": "theanonymousone"
+      "title": "Prime Agent: A self-improving RLM agent",
+      "url": "https://www.primeintellect.ai/blog/prime-agent",
+      "score": 155,
+      "comments": 26,
+      "author": "Xeophon"
     },
     {
       "rank": 12,
-      "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
-      "url": "https://toneyalexander.github.io/inclusive-color-space/",
-      "score": 495,
-      "comments": 91,
-      "author": "automatoney"
+      "title": "Cloudflare OS: an open platform for agents, apps, and work",
+      "url": "https://blog.cloudflare.com/cloudflare-os/",
+      "score": 528,
+      "comments": 257,
+      "author": "speckx"
     },
     {
       "rank": 13,
-      "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
-      "url": "https://techascent.com/blog/just-ducking-around.html",
-      "score": 77,
-      "comments": 11,
-      "author": "sourdecor"
+      "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+      "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+      "score": 203,
+      "comments": 79,
+      "author": "hackerBanana"
     },
     {
       "rank": 14,
-      "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
-      "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
-      "score": 1205,
-      "comments": 67,
-      "author": "jdcampolargo"
+      "title": "Show HN: Wallfacer – A terminal session manager for Claude Code, and more",
+      "url": "https://github.com/pradipta/wallfacer",
+      "score": 12,
+      "comments": 5,
+      "author": "pradiptasarma"
     },
     {
       "rank": 15,
-      "title": "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone",
-      "url": "https://deepgrove.ai/maple-preview",
-      "score": 88,
-      "comments": 25,
-      "author": "edwardbzhang"
+      "title": "GNU Hurd News 2026-Q2",
+      "url": "https://www.gnu.org/software/hurd/news/2026-q2.html",
+      "score": 164,
+      "comments": 106,
+      "author": "plaguna"
     },
     {
       "rank": 16,
-      "title": "Bugtraq is back",
-      "url": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/",
-      "score": 37,
-      "comments": 7,
-      "author": "bashtoni"
+      "title": "NVIDIA’s Vera Whitepaper Has a Thread Loose",
+      "url": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
+      "score": 113,
+      "comments": 17,
+      "author": "pella"
     },
     {
       "rank": 17,
-      "title": "libexpat now funded by the City of Munich for up to 6 months",
-      "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
-      "score": 236,
-      "comments": 30,
-      "author": "spyc"
+      "title": "Decimen Optical Transfer: fountain-coded QR file transfer",
+      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
+      "score": 6,
+      "comments": 1,
+      "author": "ksec"
     },
     {
       "rank": 18,
-      "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
-      "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
-      "score": 190,
-      "comments": 147,
-      "author": "bookofjoe"
+      "title": "I'll be stepping back from leading product for X",
+      "url": "https://twitter.com/nikitabier/status/2085105586966827343/",
+      "score": 109,
+      "comments": 178,
+      "author": "DearAll"
     },
     {
       "rank": 19,
-      "title": "An SLM trained on $8 ESP32-S3",
-      "url": "https://github.com/Carloscodix/qapla",
-      "score": 13,
-      "comments": 4,
-      "author": "pavelai"
+      "title": "Celld: Self-hosted, distributed Durable Objects",
+      "url": "https://github.com/denoland/celld",
+      "score": 188,
+      "comments": 30,
+      "author": "calvinfo"
     },
     {
       "rank": 20,
-      "title": "We finally learned to center a div, then browsers added sidebars",
-      "url": "https://seg6.space/posts/center-div/",
-      "score": 102,
-      "comments": 87,
-      "author": "seg6"
+      "title": "I'm switching my phone from Android to Linux",
+      "url": "https://runarcn.no/android-to-linux/",
+      "score": 270,
+      "comments": 236,
+      "author": "speckx"
     },
     {
       "rank": 21,
-      "title": "Video2NAND – Abusing video codecs for great computational power",
-      "url": "https://sharedobject.blog/posts/vp8-combinatorial-logic/",
-      "score": 52,
-      "comments": 10,
-      "author": "firer"
+      "title": "Ship Safe, an open source security scanner for coding agents",
+      "url": "https://github.com/asamassekou10/ship-safe",
+      "score": 5,
+      "comments": 2,
+      "author": "asamassekou"
     },
     {
       "rank": 22,
-      "title": "Waymo in Dallas",
-      "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
-      "score": 280,
-      "comments": 470,
-      "author": "xnx"
+      "title": "Position: LLMs Can't Jump",
+      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
+      "score": 263,
+      "comments": 179,
+      "author": "theanonymousone"
     },
     {
       "rank": 23,
-      "title": "Flowise is shutting down",
-      "url": "https://flowiseai.com/sunset",
-      "score": 38,
-      "comments": 17,
-      "author": "llmgraph"
+      "title": "Goodhart's Law Comes for Every Benchmark You Trust",
+      "url": "https://cacm.acm.org/blogcacm/goodharts-law-comes-for-every-benchmark-you-trust/",
+      "score": 81,
+      "comments": 33,
+      "author": "pseudolus"
     },
     {
       "rank": 24,
-      "title": "Godox Transparent Viewfinder Camera C100",
-      "url": "https://www.godox.com/product-e/C100.html",
-      "score": 24,
-      "comments": 14,
-      "author": "routeroff"
+      "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
+      "url": "https://arxiv.org/abs/2510.01395",
+      "score": 98,
+      "comments": 62,
+      "author": "robin_reala"
     },
     {
       "rank": 25,
-      "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
-      "url": "https://twitter.com/gwern/status/2084739205071343837",
-      "score": 246,
-      "comments": 151,
-      "author": "mattsterett"
+      "title": "Exact, parallel 2D Delaunay triangulation for int32 coordinates",
+      "url": "https://github.com/morishuz/delaunay32",
+      "score": 50,
+      "comments": 7,
+      "author": "oryx1729"
     },
     {
       "rank": 26,
-      "title": "There Will Come Soft Rains (1950) [pdf]",
-      "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
-      "score": 373,
-      "comments": 392,
-      "author": "pmg101"
+      "title": "Discovery of a multicomponent alloy forged by the Hiroshima atomic blast",
+      "url": "https://www.science.org/doi/10.1126/sciadv.aeg8299",
+      "score": 123,
+      "comments": 55,
+      "author": "_____k"
     },
     {
       "rank": 27,
-      "title": "Don't stop early: Case-folding source code at memory speed",
-      "url": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
-      "score": 63,
-      "comments": 23,
-      "author": "sbulaev"
+      "title": "The Origins of Vintage Comics Part 1",
+      "url": "https://www.truegrittexturesupply.com/blogs/news/origins-of-the-vintage-comics-aesthetic-part-1",
+      "score": 25,
+      "comments": 2,
+      "author": "Michelangelo11"
     },
     {
       "rank": 28,
-      "title": "Show HN: SIMD Viterbi Decoder in Rust",
-      "url": "https://github.com/brian-armstrong/fec",
-      "score": 37,
-      "comments": 3,
-      "author": "brian-armstrong"
+      "title": "The Entropy of a Markov Chain",
+      "url": "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain",
+      "score": 120,
+      "comments": 10,
+      "author": "surprisetalk"
     },
     {
       "rank": 29,
-      "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
-      "url": "https://arxiv.org/abs/2602.16763",
-      "score": 90,
-      "comments": 93,
-      "author": "doppp"
+      "title": "The Valley of Webhooks",
+      "url": "https://weli.dev/blog/the-valley-of-webhooks/",
+      "score": 183,
+      "comments": 82,
+      "author": "weli"
+    },
+    {
+      "rank": 30,
+      "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
+      "url": "https://www.hyperprobe.co",
+      "score": 51,
+      "comments": 40,
+      "author": "shailendraht"
     }
   ]
 }

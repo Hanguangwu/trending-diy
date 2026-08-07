@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-08-06T06:24:48.117Z",
+  "updatedAt": "2026-08-07T05:35:51.263Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Discovery Loop",
-      "url": "https://www.discoveryloop.com/",
-      "score": 684,
-      "comments": 422,
-      "author": "xtreak29"
+      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "score": 509,
+      "comments": 391,
+      "author": "itvision"
     },
     {
       "rank": 2,
-      "title": "Nashville uses eminent domain to block data center near zoo",
-      "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
-      "score": 192,
-      "comments": 211,
-      "author": "mapping365"
-    },
-    {
-      "rank": 3,
-      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
-      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-      "score": 591,
-      "comments": 653,
-      "author": "colesantiago"
-    },
-    {
-      "rank": 4,
-      "title": "Zed DeltaDB",
-      "url": "https://zed.dev/deltadb",
-      "score": 366,
-      "comments": 198,
-      "author": "ahamez"
-    },
-    {
-      "rank": 5,
-      "title": "Branchless Rust: Making a Filter 4x Faster by Removing an If",
-      "url": "https://www.greyblake.com/blog/branchless-rust/",
-      "score": 107,
-      "comments": 24,
-      "author": "greyblake"
-    },
-    {
-      "rank": 6,
-      "title": "The title cards in Blade Runner are amazing",
-      "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
-      "score": 219,
-      "comments": 96,
-      "author": "ExMachina73"
-    },
-    {
-      "rank": 7,
-      "title": "Quantego: A Family of Lego Models of IBM Quantum Computers",
-      "url": "https://quantego.org/",
-      "score": 14,
-      "comments": 2,
-      "author": "rbanffy"
-    },
-    {
-      "rank": 8,
-      "title": "Muse Code and Muse Spark 1.2",
-      "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
-      "score": 228,
-      "comments": 132,
-      "author": "paulkrush"
-    },
-    {
-      "rank": 9,
-      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
-      "score": 276,
-      "comments": 68,
-      "author": "moonikakiss"
-    },
-    {
-      "rank": 10,
-      "title": "Born Against, or why hobby programming communities are against LLM usage",
-      "url": "https://blog.fogus.me/llm/born-against.html",
-      "score": 207,
-      "comments": 191,
-      "author": "lladnar"
-    },
-    {
-      "rank": 11,
-      "title": "Prime Agent: A self-improving RLM agent",
-      "url": "https://www.primeintellect.ai/blog/prime-agent",
-      "score": 155,
-      "comments": 26,
-      "author": "Xeophon"
-    },
-    {
-      "rank": 12,
-      "title": "Cloudflare OS: an open platform for agents, apps, and work",
-      "url": "https://blog.cloudflare.com/cloudflare-os/",
-      "score": 528,
-      "comments": 257,
-      "author": "speckx"
-    },
-    {
-      "rank": 13,
-      "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
-      "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
-      "score": 203,
-      "comments": 79,
-      "author": "hackerBanana"
-    },
-    {
-      "rank": 14,
-      "title": "Show HN: Wallfacer – A terminal session manager for Claude Code, and more",
-      "url": "https://github.com/pradipta/wallfacer",
-      "score": 12,
-      "comments": 5,
-      "author": "pradiptasarma"
-    },
-    {
-      "rank": 15,
-      "title": "GNU Hurd News 2026-Q2",
-      "url": "https://www.gnu.org/software/hurd/news/2026-q2.html",
-      "score": 164,
-      "comments": 106,
-      "author": "plaguna"
-    },
-    {
-      "rank": 16,
-      "title": "NVIDIA’s Vera Whitepaper Has a Thread Loose",
-      "url": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
-      "score": 113,
-      "comments": 17,
-      "author": "pella"
-    },
-    {
-      "rank": 17,
-      "title": "Decimen Optical Transfer: fountain-coded QR file transfer",
-      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
-      "score": 6,
-      "comments": 1,
-      "author": "ksec"
-    },
-    {
-      "rank": 18,
-      "title": "I'll be stepping back from leading product for X",
-      "url": "https://twitter.com/nikitabier/status/2085105586966827343/",
-      "score": 109,
-      "comments": 178,
-      "author": "DearAll"
-    },
-    {
-      "rank": 19,
-      "title": "Celld: Self-hosted, distributed Durable Objects",
-      "url": "https://github.com/denoland/celld",
-      "score": 188,
-      "comments": 30,
-      "author": "calvinfo"
-    },
-    {
-      "rank": 20,
-      "title": "I'm switching my phone from Android to Linux",
-      "url": "https://runarcn.no/android-to-linux/",
-      "score": 270,
-      "comments": 236,
-      "author": "speckx"
-    },
-    {
-      "rank": 21,
-      "title": "Ship Safe, an open source security scanner for coding agents",
-      "url": "https://github.com/asamassekou10/ship-safe",
-      "score": 5,
-      "comments": 2,
-      "author": "asamassekou"
-    },
-    {
-      "rank": 22,
-      "title": "Position: LLMs Can't Jump",
-      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
-      "score": 263,
-      "comments": 179,
+      "title": "Mario Meets Pareto",
+      "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+      "score": 957,
+      "comments": 151,
       "author": "theanonymousone"
     },
     {
+      "rank": 3,
+      "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
+      "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
+      "score": 188,
+      "comments": 39,
+      "author": "neversaydie"
+    },
+    {
+      "rank": 4,
+      "title": "Taste Is All That's Left",
+      "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+      "score": 306,
+      "comments": 234,
+      "author": "tsak"
+    },
+    {
+      "rank": 5,
+      "title": "Hackers Stalked Me by Hijacking a Smartwatch for Kids",
+      "url": "https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/",
+      "score": 46,
+      "comments": 29,
+      "author": "worik"
+    },
+    {
+      "rank": 6,
+      "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+      "score": 83,
+      "comments": 14,
+      "author": "Audiophilip"
+    },
+    {
+      "rank": 7,
+      "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+      "score": 196,
+      "comments": 145,
+      "author": "tedsanders"
+    },
+    {
+      "rank": 8,
+      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+      "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+      "score": 116,
+      "comments": 19,
+      "author": "gnabgib"
+    },
+    {
+      "rank": 9,
+      "title": "GitHub Actions and Pages are experiencing degraded availability",
+      "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+      "score": 367,
+      "comments": 297,
+      "author": "Footkerchief"
+    },
+    {
+      "rank": 10,
+      "title": "Almost no skill required to cook a steak",
+      "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+      "score": 312,
+      "comments": 352,
+      "author": "yusyd"
+    },
+    {
+      "rank": 11,
+      "title": "Atomic Clocks",
+      "url": "https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work",
+      "score": 8,
+      "comments": 1,
+      "author": "teleforce"
+    },
+    {
+      "rank": 12,
+      "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
+      "url": "https://provenmetal.com",
+      "score": 193,
+      "comments": 139,
+      "author": "willcarkner"
+    },
+    {
+      "rank": 13,
+      "title": "Herdr is joining Y Combinator. The runtime stays open",
+      "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
+      "score": 176,
+      "comments": 118,
+      "author": "collinmanderson"
+    },
+    {
+      "rank": 14,
+      "title": "Retired man plants trees on forgotten land, now it's Sao Paulo's largest park",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/in-2003-a-retired-man-planted-trees-on-forgotten-land-alone-20-years-later-it-had-become-one-of-sao-paulos-largest-urban-forests/articleshow/132761848.cms",
+      "score": 64,
+      "comments": 20,
+      "author": "rmason"
+    },
+    {
+      "rank": 15,
+      "title": "Why Estonians invite strangers into their back gardens each summer",
+      "url": "https://www.bbc.com/travel/article/20260731-why-estonians-invite-strangers-into-their-backyards-each-summer",
+      "score": 37,
+      "comments": 9,
+      "author": "koolhead17"
+    },
+    {
+      "rank": 16,
+      "title": "Meta Ordered to Pay $942M to Address Harm to Kids from Social Media",
+      "url": "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7",
+      "score": 144,
+      "comments": 84,
+      "author": "boplicity"
+    },
+    {
+      "rank": 17,
+      "title": "I stopped trusting USB-C cable labels and started testing them",
+      "url": "https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/",
+      "score": 122,
+      "comments": 101,
+      "author": "baranul"
+    },
+    {
+      "rank": 18,
+      "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+      "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+      "score": 275,
+      "comments": 197,
+      "author": "Wirbelwind"
+    },
+    {
+      "rank": 19,
+      "title": "STV: A full-motion video codec for the Atari ST",
+      "url": "https://medium.com/@jonas.eschenburg/stv-a-video-codec-for-the-atari-st-6e46355c50e4",
+      "score": 34,
+      "comments": 4,
+      "author": "indyjo"
+    },
+    {
+      "rank": 20,
+      "title": "My phone detects going on a run as “someone snatching my phone and running off”",
+      "url": "https://mastodon.gamedev.place/@rygorous/117047697255584965",
+      "score": 107,
+      "comments": 200,
+      "author": "luu"
+    },
+    {
+      "rank": 21,
+      "title": "Learn how chips are made with this Rollercoaster Tycoon-inspired animation",
+      "url": "https://laurentiugabriel.github.io/ChipTycoon/",
+      "score": 125,
+      "comments": 24,
+      "author": "laurentiurad"
+    },
+    {
+      "rank": 22,
+      "title": "Quake – 30th Anniversary Update",
+      "url": "https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update",
+      "score": 254,
+      "comments": 125,
+      "author": "dsubburam"
+    },
+    {
       "rank": 23,
-      "title": "Goodhart's Law Comes for Every Benchmark You Trust",
-      "url": "https://cacm.acm.org/blogcacm/goodharts-law-comes-for-every-benchmark-you-trust/",
-      "score": 81,
-      "comments": 33,
-      "author": "pseudolus"
+      "title": "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",
+      "url": "https://github.com/CopilotKit/channels-sdk",
+      "score": 97,
+      "comments": 20,
+      "author": "davidmckayv"
     },
     {
       "rank": 24,
-      "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
-      "url": "https://arxiv.org/abs/2510.01395",
-      "score": 98,
-      "comments": 62,
-      "author": "robin_reala"
+      "title": "Can you reverse engineer an ASIC?",
+      "url": "https://blog.janestreet.com/can-you-reverse-engineer-an-asic/",
+      "score": 79,
+      "comments": 48,
+      "author": "bschne"
     },
     {
       "rank": 25,
-      "title": "Exact, parallel 2D Delaunay triangulation for int32 coordinates",
-      "url": "https://github.com/morishuz/delaunay32",
-      "score": 50,
-      "comments": 7,
-      "author": "oryx1729"
-    },
-    {
-      "rank": 26,
-      "title": "Discovery of a multicomponent alloy forged by the Hiroshima atomic blast",
-      "url": "https://www.science.org/doi/10.1126/sciadv.aeg8299",
-      "score": 123,
-      "comments": 55,
-      "author": "_____k"
-    },
-    {
-      "rank": 27,
-      "title": "The Origins of Vintage Comics Part 1",
-      "url": "https://www.truegrittexturesupply.com/blogs/news/origins-of-the-vintage-comics-aesthetic-part-1",
-      "score": 25,
-      "comments": 2,
-      "author": "Michelangelo11"
-    },
-    {
-      "rank": 28,
-      "title": "The Entropy of a Markov Chain",
-      "url": "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain",
-      "score": 120,
-      "comments": 10,
+      "title": "The Sylvester–Gallai Theorem",
+      "url": "https://www.futilitycloset.com/2026/07/26/the-sylvester-gallai-theorem/",
+      "score": 26,
+      "comments": 22,
       "author": "surprisetalk"
     },
     {
+      "rank": 26,
+      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+      "url": "https://www.aleksagordic.com/blog/vllm",
+      "score": 83,
+      "comments": 4,
+      "author": "sebg"
+    },
+    {
+      "rank": 27,
+      "title": "The simple elegance of the integrated timing belt loopback fastener",
+      "url": "https://danielmangum.com/posts/integrated-timing-belt-loopback-fastener/",
+      "score": 109,
+      "comments": 22,
+      "author": "hasheddan"
+    },
+    {
+      "rank": 28,
+      "title": "Pareto Front",
+      "url": "https://en.wikipedia.org/wiki/Pareto_front",
+      "score": 233,
+      "comments": 96,
+      "author": "binyu"
+    },
+    {
       "rank": 29,
-      "title": "The Valley of Webhooks",
-      "url": "https://weli.dev/blog/the-valley-of-webhooks/",
-      "score": 183,
-      "comments": 82,
-      "author": "weli"
+      "title": "Building Progressively Enhanced Forms Using htmx",
+      "url": "https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/",
+      "score": 74,
+      "comments": 11,
+      "author": "mpweiher"
     },
     {
       "rank": 30,
-      "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
-      "url": "https://www.hyperprobe.co",
-      "score": 51,
-      "comments": 40,
-      "author": "shailendraht"
+      "title": "Learning to fly FPV drones with AI flight coach",
+      "url": "https://blog.divyendusingh.com/p/learning-to-fly-fpv-drones-with-ai",
+      "score": 7,
+      "comments": 6,
+      "author": "divyenduz"
     }
   ]
 }

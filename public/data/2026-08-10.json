@@ -1,0 +1,407 @@
+{
+  "date": "2026-08-10",
+  "updatedAt": "2026-08-10T05:20:34.137Z",
+  "github": {
+    "updatedAt": "2026-08-10T05:20:31.689Z",
+    "repos": [
+      {
+        "rank": 1,
+        "author": "PrimeIntellect-ai",
+        "name": "prime-agent",
+        "fullName": "PrimeIntellect-ai/prime-agent",
+        "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+        "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 11706,
+        "forks": 1194,
+        "builtBy": [
+          {
+            "username": "kevinjosethomas",
+            "avatar": "https://avatars.githubusercontent.com/u/46242684?s=40&40&v=4"
+          },
+          {
+            "username": "snimu",
+            "avatar": "https://avatars.githubusercontent.com/u/110109193?s=40&40&v=4"
+          },
+          {
+            "username": "sethkarten",
+            "avatar": "https://avatars.githubusercontent.com/u/32787133?s=40&40&v=4"
+          },
+          {
+            "username": "alexzhang13",
+            "avatar": "https://avatars.githubusercontent.com/u/13501287?s=40&40&v=4"
+          },
+          {
+            "username": "samsja",
+            "avatar": "https://avatars.githubusercontent.com/u/55492238?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "author": "vitali87",
+        "name": "code-graph-rag",
+        "fullName": "vitali87/code-graph-rag",
+        "url": "https://github.com/vitali87/code-graph-rag",
+        "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 3153,
+        "forks": 527,
+        "builtBy": [
+          {
+            "username": "vitali87",
+            "avatar": "https://avatars.githubusercontent.com/u/22404335?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "ZuebeyirEser",
+            "avatar": "https://avatars.githubusercontent.com/u/140069682?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "author": "msitarzewski",
+        "name": "agency-agents",
+        "fullName": "msitarzewski/agency-agents",
+        "url": "https://github.com/msitarzewski/agency-agents",
+        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "language": "Shell",
+        "languageColor": "#89e051",
+        "starsToday": 0,
+        "totalStars": 141048,
+        "forks": 23021,
+        "builtBy": [
+          {
+            "username": "msitarzewski",
+            "avatar": "https://avatars.githubusercontent.com/u/1972242?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "epowelljr",
+            "avatar": "https://avatars.githubusercontent.com/u/7342666?s=40&40&v=4"
+          },
+          {
+            "username": "4shil",
+            "avatar": "https://avatars.githubusercontent.com/u/166588383?s=40&40&v=4"
+          },
+          {
+            "username": "Hotragn",
+            "avatar": "https://avatars.githubusercontent.com/u/103170876?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "author": "pranshuparmar",
+        "name": "witr",
+        "fullName": "pranshuparmar/witr",
+        "url": "https://github.com/pranshuparmar/witr",
+        "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "starsToday": 0,
+        "totalStars": 20868,
+        "forks": 732,
+        "builtBy": [
+          {
+            "username": "pranshuparmar",
+            "avatar": "https://avatars.githubusercontent.com/u/4262592?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "chojs23",
+            "avatar": "https://avatars.githubusercontent.com/u/55792153?s=40&40&v=4"
+          },
+          {
+            "username": "gaod",
+            "avatar": "https://avatars.githubusercontent.com/u/78291?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "author": "google-deepmind",
+        "name": "weathernext",
+        "fullName": "google-deepmind/weathernext",
+        "url": "https://github.com/google-deepmind/weathernext",
+        "description": "",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 7148,
+        "forks": 942,
+        "builtBy": [
+          {
+            "username": "alvarosg",
+            "avatar": "https://avatars.githubusercontent.com/u/12649253?s=40&40&v=4"
+          },
+          {
+            "username": "andrewlkd",
+            "avatar": "https://avatars.githubusercontent.com/u/60822006?s=40&40&v=4"
+          },
+          {
+            "username": "mjwillson",
+            "avatar": "https://avatars.githubusercontent.com/u/4502?s=40&40&v=4"
+          },
+          {
+            "username": "voctav",
+            "avatar": "https://avatars.githubusercontent.com/u/1809626?s=40&40&v=4"
+          },
+          {
+            "username": "danielsuo",
+            "avatar": "https://avatars.githubusercontent.com/u/2692566?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "author": "addyosmani",
+        "name": "agent-skills",
+        "fullName": "addyosmani/agent-skills",
+        "url": "https://github.com/addyosmani/agent-skills",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 85291,
+        "forks": 9176,
+        "builtBy": [
+          {
+            "username": "addyosmani",
+            "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&40&v=4"
+          },
+          {
+            "username": "nucliweb",
+            "avatar": "https://avatars.githubusercontent.com/u/1307927?s=40&40&v=4"
+          },
+          {
+            "username": "federicobartoli",
+            "avatar": "https://avatars.githubusercontent.com/u/27234034?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "Liyuk",
+            "avatar": "https://avatars.githubusercontent.com/u/5470381?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "author": "ZhuLinsen",
+        "name": "daily_stock_analysis",
+        "fullName": "ZhuLinsen/daily_stock_analysis",
+        "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+        "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 61386,
+        "forks": 52059,
+        "builtBy": [
+          {
+            "username": "ZhuLinsen",
+            "avatar": "https://avatars.githubusercontent.com/u/42829555?s=40&40&v=4"
+          },
+          {
+            "username": "massif-01",
+            "avatar": "https://avatars.githubusercontent.com/u/176381099?s=40&40&v=4"
+          },
+          {
+            "username": "freesme",
+            "avatar": "https://avatars.githubusercontent.com/u/56824280?s=40&40&v=4"
+          },
+          {
+            "username": "Activer007",
+            "avatar": "https://avatars.githubusercontent.com/u/30621586?s=40&40&v=4"
+          },
+          {
+            "username": "birdxs",
+            "avatar": "https://avatars.githubusercontent.com/u/36181736?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "author": "goauthentik",
+        "name": "authentik",
+        "fullName": "goauthentik/authentik",
+        "url": "https://github.com/goauthentik/authentik",
+        "description": "The authentication glue you need.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 24356,
+        "forks": 1861,
+        "builtBy": [
+          {
+            "username": "BeryJu",
+            "avatar": "https://avatars.githubusercontent.com/u/1932513?s=40&40&v=4"
+          },
+          {
+            "username": "rissson",
+            "avatar": "https://avatars.githubusercontent.com/u/18313093?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "author": "google",
+        "name": "skills",
+        "fullName": "google/skills",
+        "url": "https://github.com/google/skills",
+        "description": "Agent Skills for Google products and technologies",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 17346,
+        "forks": 1398,
+        "builtBy": [
+          {
+            "username": "cloud-ix-copybara",
+            "avatar": "https://avatars.githubusercontent.com/u/277152880?s=40&40&v=4"
+          },
+          {
+            "username": "holtskinner",
+            "avatar": "https://avatars.githubusercontent.com/u/13262395?s=40&40&v=4"
+          },
+          {
+            "username": "martinvarelaj",
+            "avatar": "https://avatars.githubusercontent.com/u/52255361?s=40&40&v=4"
+          },
+          {
+            "username": "helloeve",
+            "avatar": "https://avatars.githubusercontent.com/u/2510012?s=40&40&v=4"
+          },
+          {
+            "username": "jsondai",
+            "avatar": "https://avatars.githubusercontent.com/u/44714045?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "author": "Comfy-Org",
+        "name": "ComfyUI",
+        "fullName": "Comfy-Org/ComfyUI",
+        "url": "https://github.com/Comfy-Org/ComfyUI",
+        "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 125718,
+        "forks": 14854,
+        "builtBy": [
+          {
+            "username": "comfyanonymous",
+            "avatar": "https://avatars.githubusercontent.com/u/121283862?s=40&40&v=4"
+          },
+          {
+            "username": "bigcat88",
+            "avatar": "https://avatars.githubusercontent.com/u/13381981?s=40&40&v=4"
+          },
+          {
+            "username": "pythongosssss",
+            "avatar": "https://avatars.githubusercontent.com/u/125205205?s=40&40&v=4"
+          },
+          {
+            "username": "comfyui-wiki",
+            "avatar": "https://avatars.githubusercontent.com/u/192523189?s=40&40&v=4"
+          },
+          {
+            "username": "rattus128",
+            "avatar": "https://avatars.githubusercontent.com/u/46076784?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 11,
+        "author": "harveyai",
+        "name": "harvey-labs",
+        "fullName": "harveyai/harvey-labs",
+        "url": "https://github.com/harveyai/harvey-labs",
+        "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 881,
+        "forks": 180,
+        "builtBy": [
+          {
+            "username": "spencerp",
+            "avatar": "https://avatars.githubusercontent.com/u/1254056?s=40&40&v=4"
+          },
+          {
+            "username": "JulioPereyra93",
+            "avatar": "https://avatars.githubusercontent.com/u/119368867?s=40&40&v=4"
+          },
+          {
+            "username": "ngrupen",
+            "avatar": "https://avatars.githubusercontent.com/u/7979515?s=40&40&v=4"
+          },
+          {
+            "username": "calvinqi",
+            "avatar": "https://avatars.githubusercontent.com/u/13633268?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 12,
+        "author": "pingdotgg",
+        "name": "t3code",
+        "fullName": "pingdotgg/t3code",
+        "url": "https://github.com/pingdotgg/t3code",
+        "description": "",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 17744,
+        "forks": 4022,
+        "builtBy": [
+          {
+            "username": "juliusmarminge",
+            "avatar": "https://avatars.githubusercontent.com/u/51714798?s=40&40&v=4"
+          },
+          {
+            "username": "codex",
+            "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&40&v=4"
+          },
+          {
+            "username": "t3dotgg",
+            "avatar": "https://avatars.githubusercontent.com/u/6751787?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "cursoragent",
+            "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&40&v=4"
+          }
+        ]
+      }
+    ]
+  },
+  "productHunt": null,
+  "hackerNews": null
+}

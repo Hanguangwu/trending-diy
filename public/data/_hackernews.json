@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-08-10T05:20:34.130Z",
+  "updatedAt": "2026-08-11T05:01:31.564Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Auto mode is now the default in Claude Code",
-      "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-      "score": 64,
-      "comments": 21,
-      "author": "sbehere"
+      "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
+      "url": "https://github.com/antirez/h3.c",
+      "score": 123,
+      "comments": 14,
+      "author": "swyx"
     },
     {
       "rank": 2,
-      "title": "What Happened to HackerOne?",
-      "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
-      "score": 132,
-      "comments": 39,
-      "author": "hipparchus"
+      "title": "Chicken Scheme 6.0",
+      "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
+      "score": 109,
+      "comments": 13,
+      "author": "eatonphil"
     },
     {
       "rank": 3,
-      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
-      "url": "https://www.whodunnitai.com/",
-      "score": 26,
-      "comments": 2,
-      "author": "MrRowTheBoat"
+      "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
+      "url": "https://everycube.alen.is/",
+      "score": 129,
+      "comments": 29,
+      "author": "Alen123"
     },
     {
       "rank": 4,
-      "title": "How I use LLMs to learn complex topics",
-      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-      "score": 532,
-      "comments": 305,
-      "author": "laurentiurad"
+      "title": "Recycle – Floppydisks",
+      "url": "https://www.floppydisk.com/recycle",
+      "score": 33,
+      "comments": 9,
+      "author": "calvinmorrison"
     },
     {
       "rank": 5,
-      "title": "Turn satellite imagery into a paper globe you fold yourself",
-      "url": "https://foldingglobes.com/",
-      "score": 23,
-      "comments": 4,
-      "author": "dango2506"
+      "title": "The “mechanical miracle” that ruined Mark Twain’s life",
+      "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
+      "score": 86,
+      "comments": 33,
+      "author": "benbreen"
     },
     {
       "rank": 6,
-      "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
-      "url": "https://github.com/shinyquagsire23/Klepton",
-      "score": 19,
-      "comments": 0,
-      "author": "LorenDB"
+      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "url": "https://cactuscompute.com/needle",
+      "score": 239,
+      "comments": 97,
+      "author": "HenryNdubuaku"
     },
     {
       "rank": 7,
-      "title": "Long-Run Effects of H-1B Immigration on the U.S. Economy (July 2026)",
-      "url": "https://www.nber.org/papers/w35560",
-      "score": 32,
-      "comments": 7,
-      "author": "ryzvonusef"
+      "title": "Hyperspace",
+      "url": "https://hypercritical.co/hyperspace/",
+      "score": 30,
+      "comments": 17,
+      "author": "swyx"
     },
     {
       "rank": 8,
-      "title": "How We Pushed CDC into Postgres",
-      "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
-      "score": 60,
-      "comments": 6,
-      "author": "craigkerstiens"
+      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+      "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+      "score": 433,
+      "comments": 417,
+      "author": "root-parent"
     },
     {
       "rank": 9,
-      "title": "Taxi drivers rarely die of Alzheimer's",
-      "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
-      "score": 232,
-      "comments": 173,
-      "author": "jader201"
+      "title": "Rust SIMD on the GPU",
+      "url": "https://www.vectorware.com/blog/simd-on-gpu/",
+      "score": 157,
+      "comments": 71,
+      "author": "sagacity"
     },
     {
       "rank": 10,
-      "title": "Ask HN: What are you working on? (August 2026)",
-      "url": "https://news.ycombinator.com/item?id=49233423",
-      "score": 211,
-      "comments": 746,
-      "author": "david927"
+      "title": "Stowaway – Take the window seat on any plane or satellite overhead",
+      "url": "https://stowaway.live/",
+      "score": 188,
+      "comments": 18,
+      "author": "thunderbong"
     },
     {
       "rank": 11,
-      "title": "Picophysics: Single file physics for games on platforms like N64, PSX, DC",
-      "url": "https://gitlab.com/Kazade/picophysics",
-      "score": 38,
-      "comments": 10,
-      "author": "klaussilveira"
+      "title": "Sonic Pi v5",
+      "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
+      "score": 335,
+      "comments": 83,
+      "author": "samaaron"
     },
     {
       "rank": 12,
-      "title": "ATProto for Distributed Systems Engineers",
-      "url": "https://atproto.com/articles/atproto-for-distsys-engineers",
-      "score": 38,
-      "comments": 6,
-      "author": "LelouBil"
+      "title": "World Train Map – 1247 train routes around the world",
+      "url": "https://worldtrainmap.com/",
+      "score": 81,
+      "comments": 27,
+      "author": "Flightmussy"
     },
     {
       "rank": 13,
-      "title": "Tuxedo No. 2 – Cocktail recipes",
-      "url": "https://tuxedono2.com",
-      "score": 73,
+      "title": "Publishing Schematics Before “Open Source” Was a Word",
+      "url": "https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704",
+      "score": 79,
       "comments": 18,
-      "author": "smartmic"
+      "author": "extralongdivisi"
     },
     {
       "rank": 14,
-      "title": "Cool URIs Don't Change (1998)",
-      "url": "https://www.w3.org/Provider/Style/URI",
-      "score": 214,
-      "comments": 52,
-      "author": "Klaster_1"
+      "title": "Confessions of a Long-Distance Sailor",
+      "url": "https://arachnoid.com/lutusp/sailbook.html",
+      "score": 82,
+      "comments": 20,
+      "author": "AntiRush"
     },
     {
       "rank": 15,
-      "title": "Nearest Pint",
-      "url": "https://knowwhereconsulting.co.uk/maps/pubs/",
-      "score": 8,
-      "comments": 0,
-      "author": "bookofjoe"
+      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+      "score": 1074,
+      "comments": 590,
+      "author": "riordan"
     },
     {
       "rank": 16,
-      "title": "\"The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes\" (1892)",
-      "url": "https://publicdomainreview.org/collection/marnameh/",
-      "score": 46,
-      "comments": 5,
-      "author": "Thevet"
+      "title": "Squeak 6.1",
+      "url": "https://squeak.org/release_notes/6.1/",
+      "score": 243,
+      "comments": 122,
+      "author": "fniephaus"
     },
     {
       "rank": 17,
-      "title": "The tragedy of the commons, AI edition",
-      "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-      "score": 97,
-      "comments": 54,
-      "author": "simonpure"
+      "title": "Humanising LLM Outputs Is Dumb",
+      "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
+      "score": 185,
+      "comments": 113,
+      "author": "kuberwastaken"
     },
     {
       "rank": 18,
-      "title": "New Zealand lost its music media, and what we're building to replace it",
-      "url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
-      "score": 96,
-      "comments": 57,
-      "author": "berghoffer"
+      "title": "LFM2.5 2.6B model competitive with 4x larger models",
+      "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
+      "score": 5,
+      "comments": 0,
+      "author": "nateb2022"
     },
     {
       "rank": 19,
-      "title": "Everything you do is being recorded",
-      "url": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
-      "score": 248,
-      "comments": 200,
-      "author": "ike_usawa"
+      "title": "What's the best programming language for coding agents?",
+      "url": "http://danluu.com/pl-tokens/",
+      "score": 102,
+      "comments": 70,
+      "author": "chaychoong"
     },
     {
       "rank": 20,
-      "title": "Andrew Wiles on proving Fermat’s Last Theorem (1995) [video]",
-      "url": "https://www.youtube.com/watch?v=GS7CxAtV5Ks",
-      "score": 43,
-      "comments": 33,
-      "author": "jackdoe"
+      "title": "Exploiting System Management Mode with a very long interrupt",
+      "url": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
+      "score": 145,
+      "comments": 54,
+      "author": "WhiteDawn"
     },
     {
       "rank": 21,
-      "title": "The Ambition Project",
-      "url": "https://www.betonit.ai/p/the-ambition-project",
-      "score": 24,
-      "comments": 1,
-      "author": "herbertl"
+      "title": "Updated GPG Key for Signing Firefox and Thunderbird Releases",
+      "url": "https://blog.mozilla.org/security/2026/08/10/updated-gpg-key-for-signing-firefox-and-thunderbird-releases/",
+      "score": 13,
+      "comments": 3,
+      "author": "csmantle"
     },
     {
       "rank": 22,
-      "title": "Japanese court overturns Red RAW video patent",
-      "url": "https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/",
-      "score": 77,
-      "comments": 12,
-      "author": "anigbrowl"
+      "title": "Why My Father Is Wrong: A Defense of Guitar Hero",
+      "url": "https://whatever.scalzi.com/2026/08/10/why-my-father-is-wrong-a-defense-of-guitar-hero/",
+      "score": 17,
+      "comments": 3,
+      "author": "Tomte"
     },
     {
       "rank": 23,
-      "title": "OpenChamber: An Agentic Development Environment",
-      "url": "https://openchamber.dev/",
-      "score": 128,
-      "comments": 71,
-      "author": "hexomancer"
+      "title": "The Story of Mac: A Just-So Story",
+      "url": "https://gigamonkeys.com/book/macros-defining-your-own",
+      "score": 22,
+      "comments": 2,
+      "author": "kscarlet"
     },
     {
       "rank": 24,
-      "title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
-      "url": "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html",
-      "score": 444,
-      "comments": 367,
-      "author": "akyuu"
+      "title": "Choral: Choreographic Programming for Java",
+      "url": "https://www.choral-lang.org/",
+      "score": 11,
+      "comments": 1,
+      "author": "dplyukhin"
     },
     {
       "rank": 25,
-      "title": "The German Mittelstand",
-      "url": "https://kieranvelasquez.substack.com/p/on-the-german-mittelstand",
-      "score": 23,
-      "comments": 6,
-      "author": "Michelangelo11"
+      "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
+      "url": "https://www.stoaexchange.com",
+      "score": 71,
+      "comments": 45,
+      "author": "erenberke"
     },
     {
       "rank": 26,
-      "title": "Reviving a four year old reMarkable 2",
-      "url": "https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html",
-      "score": 137,
-      "comments": 91,
-      "author": "oskrim"
+      "title": "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
+      "url": "https://ethw.org/Milestones:Parametron,_1954",
+      "score": 207,
+      "comments": 50,
+      "author": "xeonmc"
     },
     {
       "rank": 27,
-      "title": "How Golden Is Silence, Actually?",
-      "url": "https://www.newyorker.com/magazine/2026/08/10/silence-kate-mcloughlin-book-review",
-      "score": 54,
-      "comments": 26,
-      "author": "tintinnabula"
+      "title": "Ask HN: In your experience, what are sound conventions for e-ink UI development?",
+      "url": "https://news.ycombinator.com/item?id=49213660",
+      "score": 168,
+      "comments": 54,
+      "author": "BoxOfRain"
     },
     {
       "rank": 28,
-      "title": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
-      "url": "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32",
-      "score": 111,
-      "comments": 16,
-      "author": "Rochus"
+      "title": "50k Boat Names",
+      "url": "https://www.beautifulpublicdata.com/boat-names/",
+      "score": 171,
+      "comments": 106,
+      "author": "jonathanmkeegan"
     },
     {
       "rank": 29,
-      "title": "Touring the Consensus, Six Months In",
-      "url": "https://theconsensus.dev/blog/2026/08/05/touring-the-consensus-six-months-in.html",
-      "score": 20,
-      "comments": 0,
-      "author": "tosh"
+      "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "url": "https://openai.com/index/responsible-ai-infrastructure-texas/",
+      "score": 103,
+      "comments": 188,
+      "author": "hackerBanana"
     },
     {
       "rank": 30,
-      "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)",
-      "url": "https://halfhill.com/byte/1998-12_alpha.html",
-      "score": 92,
-      "comments": 75,
-      "author": "Lammy"
+      "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
+      "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
+      "score": 130,
+      "comments": 16,
+      "author": "sshh12"
     }
   ]
 }

@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-08-11T05:01:31.564Z",
+  "updatedAt": "2026-08-12T05:26:55.642Z",
   "stories": [
     {
       "rank": 1,
-      "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
-      "url": "https://github.com/antirez/h3.c",
-      "score": 123,
-      "comments": 14,
-      "author": "swyx"
+      "title": "Compression is prediction",
+      "url": "https://ngrok.com/blog/compression-is-prediction",
+      "score": 398,
+      "comments": 158,
+      "author": "nikolay"
     },
     {
       "rank": 2,
-      "title": "Chicken Scheme 6.0",
-      "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
-      "score": 109,
+      "title": "The hardest working font in Manhattan (2025)",
+      "url": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
+      "score": 87,
       "comments": 13,
-      "author": "eatonphil"
+      "author": "dcminter"
     },
     {
       "rank": 3,
-      "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
-      "url": "https://everycube.alen.is/",
-      "score": 129,
-      "comments": 29,
-      "author": "Alen123"
+      "title": "The lifesaving secret hidden inside a horseshoe crab's blue blood",
+      "url": "https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/",
+      "score": 48,
+      "comments": 12,
+      "author": "andsoitis"
     },
     {
       "rank": 4,
-      "title": "Recycle – Floppydisks",
-      "url": "https://www.floppydisk.com/recycle",
-      "score": 33,
-      "comments": 9,
-      "author": "calvinmorrison"
+      "title": "WorldClaw Agentic 3D open-world generation at scale",
+      "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+      "score": 177,
+      "comments": 54,
+      "author": "EwanG"
     },
     {
       "rank": 5,
-      "title": "The “mechanical miracle” that ruined Mark Twain’s life",
-      "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
-      "score": 86,
-      "comments": 33,
-      "author": "benbreen"
+      "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
+      "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+      "score": 204,
+      "comments": 109,
+      "author": "droidjj"
     },
     {
       "rank": 6,
-      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-      "url": "https://cactuscompute.com/needle",
-      "score": 239,
-      "comments": 97,
-      "author": "HenryNdubuaku"
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "url": "https://stolen-thoughts.com/",
+      "score": 567,
+      "comments": 248,
+      "author": "quantumgarbage"
     },
     {
       "rank": 7,
-      "title": "Hyperspace",
-      "url": "https://hypercritical.co/hyperspace/",
-      "score": 30,
-      "comments": 17,
-      "author": "swyx"
+      "title": "Mojo 1.0",
+      "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+      "score": 341,
+      "comments": 161,
+      "author": "dayanruben"
     },
     {
       "rank": 8,
-      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-      "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-      "score": 433,
-      "comments": 417,
-      "author": "root-parent"
+      "title": "The Human Is the Loop",
+      "url": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
+      "score": 36,
+      "comments": 8,
+      "author": "burnto"
     },
     {
       "rank": 9,
-      "title": "Rust SIMD on the GPU",
-      "url": "https://www.vectorware.com/blog/simd-on-gpu/",
-      "score": 157,
-      "comments": 71,
-      "author": "sagacity"
+      "title": "Dropbox, loved by the masses, a shareholder dead end",
+      "url": "https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/",
+      "score": 9,
+      "comments": 0,
+      "author": "Taikhoom10"
     },
     {
       "rank": 10,
-      "title": "Stowaway – Take the window seat on any plane or satellite overhead",
-      "url": "https://stowaway.live/",
-      "score": 188,
-      "comments": 18,
-      "author": "thunderbong"
+      "title": "OpenAI’s head of ethics leaves less than a year after joining",
+      "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+      "score": 357,
+      "comments": 370,
+      "author": "ilamont"
     },
     {
       "rank": 11,
-      "title": "Sonic Pi v5",
-      "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
-      "score": 335,
-      "comments": 83,
-      "author": "samaaron"
+      "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+      "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+      "score": 100,
+      "comments": 21,
+      "author": "Anon84"
     },
     {
       "rank": 12,
-      "title": "World Train Map – 1247 train routes around the world",
-      "url": "https://worldtrainmap.com/",
-      "score": 81,
-      "comments": 27,
-      "author": "Flightmussy"
+      "title": "New Bedford police officer accused of using Flock cameras to track ex-partner",
+      "url": "https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/",
+      "score": 124,
+      "comments": 61,
+      "author": "newsomix9xl"
     },
     {
       "rank": 13,
-      "title": "Publishing Schematics Before “Open Source” Was a Word",
-      "url": "https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704",
-      "score": 79,
-      "comments": 18,
-      "author": "extralongdivisi"
+      "title": "Neutrinos from Deep Inside Earth Provide a New Picture of the Mantle",
+      "url": "https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/",
+      "score": 24,
+      "comments": 1,
+      "author": "rbanffy"
     },
     {
       "rank": 14,
-      "title": "Confessions of a Long-Distance Sailor",
-      "url": "https://arachnoid.com/lutusp/sailbook.html",
-      "score": 82,
-      "comments": 20,
-      "author": "AntiRush"
+      "title": "Grok Bot",
+      "url": "https://x.ai/bot",
+      "score": 214,
+      "comments": 175,
+      "author": "rvz"
     },
     {
       "rank": 15,
-      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
-      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-      "score": 1074,
-      "comments": 590,
-      "author": "riordan"
+      "title": "Making holograms with a pen plotter",
+      "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
+      "score": 137,
+      "comments": 14,
+      "author": "DemiGuru"
     },
     {
       "rank": 16,
-      "title": "Squeak 6.1",
-      "url": "https://squeak.org/release_notes/6.1/",
-      "score": 243,
-      "comments": 122,
-      "author": "fniephaus"
+      "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
+      "url": "https://photosynthesis.camera",
+      "score": 241,
+      "comments": 237,
+      "author": "sajomes"
     },
     {
       "rank": 17,
-      "title": "Humanising LLM Outputs Is Dumb",
-      "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
-      "score": 185,
-      "comments": 113,
-      "author": "kuberwastaken"
+      "title": "Flatworms, Ion Channels, and Burning Mouths",
+      "url": "https://www.science.org/content/blog-post/flatworms-ion-channels-and-burning-mouths",
+      "score": 15,
+      "comments": 1,
+      "author": "surprisetalk"
     },
     {
       "rank": 18,
-      "title": "LFM2.5 2.6B model competitive with 4x larger models",
-      "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
-      "score": 5,
+      "title": "Show HN: Tamron Lens Utility Alternative on Linux",
+      "url": "https://github.com/yikerman/tamron-lens-control",
+      "score": 47,
       "comments": 0,
-      "author": "nateb2022"
+      "author": "xiaoyu2006"
     },
     {
       "rank": 19,
-      "title": "What's the best programming language for coding agents?",
-      "url": "http://danluu.com/pl-tokens/",
-      "score": 102,
-      "comments": 70,
-      "author": "chaychoong"
+      "title": "Show HN: Line9 – A Mermaid rendering engine with its own layout",
+      "url": "https://line9.ai/diagram",
+      "score": 49,
+      "comments": 12,
+      "author": "jumpalongjim"
     },
     {
       "rank": 20,
-      "title": "Exploiting System Management Mode with a very long interrupt",
-      "url": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
-      "score": 145,
-      "comments": 54,
-      "author": "WhiteDawn"
+      "title": "Show HN: Find stale, orphaned, deleted-but-retrievable RAG vectors",
+      "url": "https://github.com/rimironenko/rag-staleness-check",
+      "score": 4,
+      "comments": 0,
+      "author": "rimironenko"
     },
     {
       "rank": 21,
-      "title": "Updated GPG Key for Signing Firefox and Thunderbird Releases",
-      "url": "https://blog.mozilla.org/security/2026/08/10/updated-gpg-key-for-signing-firefox-and-thunderbird-releases/",
-      "score": 13,
-      "comments": 3,
-      "author": "csmantle"
+      "title": "Go is an ideal language for AI-assisted software engineering",
+      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+      "score": 319,
+      "comments": 372,
+      "author": "0xedb"
     },
     {
       "rank": 22,
-      "title": "Why My Father Is Wrong: A Defense of Guitar Hero",
-      "url": "https://whatever.scalzi.com/2026/08/10/why-my-father-is-wrong-a-defense-of-guitar-hero/",
-      "score": 17,
-      "comments": 3,
-      "author": "Tomte"
+      "title": "Jolt: Clojure compiler implemented with Chez Scheme",
+      "url": "https://jolt-lang.github.io",
+      "score": 173,
+      "comments": 61,
+      "author": "mark_l_watson"
     },
     {
       "rank": 23,
-      "title": "The Story of Mac: A Just-So Story",
-      "url": "https://gigamonkeys.com/book/macros-defining-your-own",
-      "score": 22,
-      "comments": 2,
-      "author": "kscarlet"
+      "title": "England set to be one of the first countries to eliminate hepatitis C",
+      "url": "https://www.bbc.com/news/articles/c75gk620r22o",
+      "score": 507,
+      "comments": 371,
+      "author": "stevekemp"
     },
     {
       "rank": 24,
-      "title": "Choral: Choreographic Programming for Java",
-      "url": "https://www.choral-lang.org/",
-      "score": 11,
-      "comments": 1,
-      "author": "dplyukhin"
+      "title": "London Underground begins scanning passengers' faces",
+      "url": "https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/",
+      "score": 272,
+      "comments": 275,
+      "author": "BlueBerry2001"
     },
     {
       "rank": 25,
-      "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
-      "url": "https://www.stoaexchange.com",
-      "score": 71,
-      "comments": 45,
-      "author": "erenberke"
+      "title": "How we used to get jobs: A newspaper classifieds story",
+      "url": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
+      "score": 127,
+      "comments": 99,
+      "author": "speckx"
     },
     {
       "rank": 26,
-      "title": "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
-      "url": "https://ethw.org/Milestones:Parametron,_1954",
-      "score": 207,
-      "comments": 50,
-      "author": "xeonmc"
+      "title": "Nvidia's Risky Business",
+      "url": "https://stratechery.com/2026/nvidias-risky-business/",
+      "score": 321,
+      "comments": 151,
+      "author": "jonbaer"
     },
     {
       "rank": 27,
-      "title": "Ask HN: In your experience, what are sound conventions for e-ink UI development?",
-      "url": "https://news.ycombinator.com/item?id=49213660",
-      "score": 168,
-      "comments": 54,
-      "author": "BoxOfRain"
+      "title": "pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries",
+      "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026",
+      "score": 47,
+      "comments": 4,
+      "author": "saisrirampur"
     },
     {
       "rank": 28,
-      "title": "50k Boat Names",
-      "url": "https://www.beautifulpublicdata.com/boat-names/",
-      "score": 171,
-      "comments": 106,
-      "author": "jonathanmkeegan"
+      "title": "CSS properties you should know for better text designs",
+      "url": "https://master.dev/blog/typographic-css-tricks/",
+      "score": 97,
+      "comments": 11,
+      "author": "ibobev"
     },
     {
       "rank": 29,
-      "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "url": "https://openai.com/index/responsible-ai-infrastructure-texas/",
-      "score": 103,
-      "comments": 188,
-      "author": "hackerBanana"
+      "title": "Manus will return to operating as an independent company",
+      "url": "https://manus.im/blog/a-note-to-our-users",
+      "score": 146,
+      "comments": 70,
+      "author": "thm"
     },
     {
       "rank": 30,
-      "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
-      "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
-      "score": 130,
-      "comments": 16,
-      "author": "sshh12"
+      "title": "Emergent Introspective Awareness in Large Language Models",
+      "url": "https://arxiv.org/abs/2601.01828",
+      "score": 45,
+      "comments": 22,
+      "author": "doener"
     }
   ]
 }

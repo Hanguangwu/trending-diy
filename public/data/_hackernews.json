@@ -1,237 +1,245 @@
 {
-  "updatedAt": "2026-08-13T05:36:41.573Z",
+  "updatedAt": "2026-08-14T05:27:58.792Z",
   "stories": [
     {
       "rank": 1,
-      "title": "DeepSeek V4 Pro 0813",
-      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-      "score": 833,
-      "comments": 330,
-      "author": "explosion-s"
+      "title": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities",
+      "url": "https://z.ai/blog/glm-5.3",
+      "score": 23,
+      "comments": 1,
+      "author": "pella"
     },
     {
       "rank": 2,
-      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
-      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "score": 917,
-      "comments": 177,
-      "author": "ropbear"
+      "title": "Gemini 3.7 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "score": 719,
+      "comments": 393,
+      "author": "thisisauserid"
     },
     {
       "rank": 3,
-      "title": "Delta",
-      "url": "https://zed.dev/blog/introducing-delta",
-      "score": 474,
-      "comments": 163,
-      "author": "khy"
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+      "score": 508,
+      "comments": 210,
+      "author": "pr337h4m"
     },
     {
       "rank": 4,
-      "title": "Qwen3.8-2.4T",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-      "score": 558,
-      "comments": 128,
-      "author": "Philpax"
+      "title": "Hello, me. It's been a while",
+      "url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
+      "score": 96,
+      "comments": 48,
+      "author": "somesoftdev"
     },
     {
       "rank": 5,
-      "title": "Principia Mathematica is modern and insightful",
-      "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
-      "score": 104,
-      "comments": 46,
-      "author": "matt_d"
+      "title": "Bluesky Protocol Services",
+      "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+      "score": 121,
+      "comments": 22,
+      "author": "danabramov"
     },
     {
       "rank": 6,
-      "title": "Antiqua–Fraktur dispute",
-      "url": "https://en.wikipedia.org/wiki/Antiqua%E2%80%93Fraktur_dispute",
-      "score": 38,
-      "comments": 3,
-      "author": "buzzy_hacker"
+      "title": "DeepSeek Harness developer preview",
+      "url": "https://deepseek.com/harness/en/",
+      "score": 604,
+      "comments": 255,
+      "author": "bjin"
     },
     {
       "rank": 7,
-      "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
-      "url": "https://sharktastica.co.uk/articles/pc-fxt-45",
-      "score": 57,
-      "comments": 18,
-      "author": "tart-lemonade"
+      "title": "Spaghettifying DRAM",
+      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+      "score": 548,
+      "comments": 150,
+      "author": "matt_d"
     },
     {
       "rank": 8,
-      "title": "2026 Eclipse Webcams",
-      "url": "https://jonty.github.io/2026_eclipse_webcams/",
-      "score": 467,
-      "comments": 127,
-      "author": "zoenolan"
+      "title": "NP-overrated",
+      "url": "https://gruhn.me/blog/2026-08-13/",
+      "score": 183,
+      "comments": 113,
+      "author": "theanonymousone"
     },
     {
       "rank": 9,
-      "title": "Build Wide, Ship Narrow",
-      "url": "https://adapt.com/blog/build-wide-ship-narrow",
-      "score": 68,
-      "comments": 13,
-      "author": "ashumz"
+      "title": "Mistral OCR 4.1",
+      "url": "https://docs.mistral.ai/models/ocr-4-1",
+      "score": 284,
+      "comments": 113,
+      "author": "spelk"
     },
     {
       "rank": 10,
-      "title": "Why Target Common Lisp for Code Generation?",
-      "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
-      "score": 68,
-      "comments": 53,
-      "author": "oumua_don17"
+      "title": "Understanding is the new bottleneck",
+      "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+      "score": 260,
+      "comments": 143,
+      "author": "sebg"
     },
     {
       "rank": 11,
-      "title": "Tim King, AmigaDOS developer, has died",
-      "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
-      "score": 249,
-      "comments": 31,
-      "author": "doener"
+      "title": "Choose Boring Technology (2015)",
+      "url": "https://mcfunley.com/choose-boring-technology",
+      "score": 299,
+      "comments": 147,
+      "author": "tosh"
     },
     {
       "rank": 12,
-      "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
-      "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
-      "score": 172,
-      "comments": 117,
-      "author": "redbell"
+      "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
+      "url": "https://donkeybas.com/",
+      "score": 210,
+      "comments": 96,
+      "author": "jkrauska"
     },
     {
       "rank": 13,
-      "title": "Grok 4.6",
-      "url": "https://x.ai/news/grok-4-6",
-      "score": 480,
-      "comments": 444,
-      "author": "iLuddite"
+      "title": "The Legend of the Novell NE2000 [video]",
+      "url": "https://www.youtube.com/watch?v=nNXzQ7V1S_k",
+      "score": 26,
+      "comments": 6,
+      "author": "voxadam"
     },
     {
       "rank": 14,
-      "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
-      "url": "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html",
-      "score": 378,
-      "comments": 495,
-      "author": "Markoff"
+      "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
+      "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
+      "score": 279,
+      "comments": 164,
+      "author": "vinayakborkar"
     },
     {
       "rank": 15,
-      "title": "From rubber boots to Copa: When MicroProse Soccer revolutionized football",
-      "url": "https://spillhistorie.no/2026/08/08/fra-gummistovler-til-copa-da-microprose-soccer-revolusjonerte-fotballen/",
-      "score": 7,
+      "title": "How do you sell a CPU design when the instruction set is free?",
+      "url": "https://www.siliconimist.com/p/credibility-is-the-barrier-to-entry",
+      "score": 10,
       "comments": 0,
-      "author": "TMWNN"
+      "author": "johncole"
     },
     {
       "rank": 16,
-      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-      "url": "https://discoveredmaterials.com/research/",
-      "score": 130,
-      "comments": 28,
-      "author": "advaith08"
+      "title": "How Compaction Works in Pi",
+      "url": "https://earendil.com/posts/compaction-in-pi/",
+      "score": 135,
+      "comments": 52,
+      "author": "tosh"
     },
     {
       "rank": 17,
-      "title": "Thanks to social media, canned sardines are a scarcity on the supermarket shelf",
-      "url": "https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/",
-      "score": 84,
-      "comments": 101,
-      "author": "carabiner"
+      "title": "Blog about things you don't understand yet",
+      "url": "https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/",
+      "score": 58,
+      "comments": 27,
+      "author": "gfysfm"
     },
     {
       "rank": 18,
-      "title": "Why tiny JPEGs look different in Chrome",
-      "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
-      "score": 282,
-      "comments": 61,
-      "author": "gutechh"
+      "title": "Finite State Machines in Forth (1994)",
+      "url": "https://www.forth.org/literature/noble.html",
+      "score": 65,
+      "comments": 2,
+      "author": "ofalkaed"
     },
     {
       "rank": 19,
-      "title": "Probabilistic Estimation for Localizing a Radioactive Source in an Urban Setting",
-      "url": "https://repository.lib.ncsu.edu/items/451b001d-e63a-4968-866d-3fb3a599b1e7",
-      "score": 20,
-      "comments": 18,
-      "author": "toomuchtodo"
+      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+      "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+      "score": 88,
+      "comments": 49,
+      "author": "malshe"
     },
     {
       "rank": 20,
-      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-      "url": "https://knownagents.com/insights",
-      "score": 258,
-      "comments": 191,
-      "author": "gavinhking"
+      "title": "Where did the old web go? We followed 657,607 links to find out",
+      "url": "https://0.mk/blog/link-rot",
+      "score": 149,
+      "comments": 140,
+      "author": "tdx"
     },
     {
       "rank": 21,
-      "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
-      "url": "https://www.ballet.dev/",
-      "score": 28,
-      "comments": 5,
-      "author": "danielkimber"
+      "title": "Cave of the Crystals",
+      "url": "https://en.wikipedia.org/wiki/Cave_of_the_Crystals",
+      "score": 16,
+      "comments": 1,
+      "author": "ColinWright"
     },
     {
       "rank": 22,
-      "title": "Pixel Watch 5",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
-      "score": 122,
-      "comments": 238,
-      "author": "ortusdux"
+      "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
+      "url": "https://github.com/systemd/systemd/issues/40262",
+      "score": 173,
+      "comments": 112,
+      "author": "ValdikSS"
     },
     {
       "rank": 23,
-      "title": "Shade Map",
-      "url": "https://shademap.app",
-      "score": 172,
-      "comments": 45,
-      "author": "fredley"
+      "title": "How Gödel's Proof Works (2020)",
+      "url": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
+      "score": 89,
+      "comments": 39,
+      "author": "tzury"
     },
     {
       "rank": 24,
-      "title": "Lovable raises $400M Series C",
-      "url": "https://lovable.dev/blog/series-c",
-      "score": 117,
-      "comments": 115,
-      "author": "thoughtpeddler"
+      "title": "An ambiguity in c89 which will never be fixed",
+      "url": "https://sebsite.pw/w/20260810-c89ambiguity.html",
+      "score": 48,
+      "comments": 14,
+      "author": "runningmike"
     },
     {
       "rank": 25,
-      "title": "AI is removing the middle class of software engineering?",
-      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-      "score": 813,
-      "comments": 740,
-      "author": "florianherrengt"
+      "title": "Ordinary Abundance",
+      "url": "https://ordinaryabundance.com/",
+      "score": 259,
+      "comments": 133,
+      "author": "yen223"
     },
     {
       "rank": 26,
-      "title": "Process as a Proxy for Motivation",
-      "url": "https://bengodfrey.dev/blog/process/",
-      "score": 47,
-      "comments": 15,
-      "author": "sudo-bendg"
+      "title": "How a device finds encrypted DNS by itself",
+      "url": "https://blog.dundns.eu/posts/ddr-encrypted-dns-discovery/",
+      "score": 25,
+      "comments": 5,
+      "author": "majorchord"
     },
     {
       "rank": 27,
-      "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
-      "url": "https://woxi.ad-si.com",
-      "score": 274,
-      "comments": 40,
-      "author": "adius"
+      "title": "Kubernetes on Oxide: How customer needs shaped our integrations",
+      "url": "https://oxide.computer/blog/kubernetes-on-oxide",
+      "score": 173,
+      "comments": 75,
+      "author": "stevehipwell"
+    },
+    {
+      "rank": 28,
+      "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
+      "url": "https://www.codewithbullet.com",
+      "score": 92,
+      "comments": 66,
+      "author": "adi1"
     },
     {
       "rank": 29,
-      "title": "Breaking the WAL",
-      "url": "https://antithesis.com/blog/2026/wal-reset-bug/",
-      "score": 80,
-      "comments": 41,
-      "author": "wwilson"
+      "title": "AI At Home Part 1: A Box Of Scraps",
+      "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+      "score": 110,
+      "comments": 51,
+      "author": "timmmmmmay"
     },
     {
       "rank": 30,
-      "title": "License plate reader searches should require a warrant",
-      "url": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
-      "score": 568,
-      "comments": 336,
-      "author": "apwheele"
+      "title": "Choosing an AI model: one prompt, 11 models, different results",
+      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+      "score": 188,
+      "comments": 77,
+      "author": "toddmorey"
     }
   ]
 }

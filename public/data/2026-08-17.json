@@ -1,0 +1,252 @@
+{
+  "date": "2026-08-17",
+  "updatedAt": "2026-08-17T04:35:21.299Z",
+  "github": {
+    "updatedAt": "2026-08-17T04:35:18.633Z",
+    "repos": [
+      {
+        "rank": 1,
+        "author": "cordiverse",
+        "name": "cordis",
+        "fullName": "cordiverse/cordis",
+        "url": "https://github.com/cordiverse/cordis",
+        "description": "Meta-Framework of Spatiotemporal Composability",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 5022,
+        "forks": 271,
+        "builtBy": [
+          {
+            "username": "shigma",
+            "avatar": "https://avatars.githubusercontent.com/u/33423008?s=40&40&v=4"
+          },
+          {
+            "username": "Hieuzest",
+            "avatar": "https://avatars.githubusercontent.com/u/16983883?s=40&40&v=4"
+          },
+          {
+            "username": "undefined-moe",
+            "avatar": "https://avatars.githubusercontent.com/u/29992205?s=40&40&v=4"
+          },
+          {
+            "username": "CyanChanges",
+            "avatar": "https://avatars.githubusercontent.com/u/68551684?s=40&40&v=4"
+          },
+          {
+            "username": "imccyu",
+            "avatar": "https://avatars.githubusercontent.com/u/276526105?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "author": "basecamp",
+        "name": "omarchy",
+        "fullName": "basecamp/omarchy",
+        "url": "https://github.com/basecamp/omarchy",
+        "description": "Beautiful, Modern & Opinionated Linux",
+        "language": "Shell",
+        "languageColor": "#89e051",
+        "starsToday": 0,
+        "totalStars": 25536,
+        "forks": 2601,
+        "builtBy": [
+          {
+            "username": "dhh",
+            "avatar": "https://avatars.githubusercontent.com/u/2741?s=40&40&v=4"
+          },
+          {
+            "username": "ryanrhughes",
+            "avatar": "https://avatars.githubusercontent.com/u/1630358?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "tahayvr",
+            "avatar": "https://avatars.githubusercontent.com/u/77543049?s=40&40&v=4"
+          },
+          {
+            "username": "pomartel",
+            "avatar": "https://avatars.githubusercontent.com/u/26983?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "author": "unslothai",
+        "name": "unsloth",
+        "fullName": "unslothai/unsloth",
+        "url": "https://github.com/unslothai/unsloth",
+        "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 72741,
+        "forks": 6556,
+        "builtBy": [
+          {
+            "username": "danielhanchen",
+            "avatar": "https://avatars.githubusercontent.com/u/23090290?s=40&40&v=4"
+          },
+          {
+            "username": "shimmyshimmer",
+            "avatar": "https://avatars.githubusercontent.com/u/107991372?s=40&40&v=4"
+          },
+          {
+            "username": "wasimysaid",
+            "avatar": "https://avatars.githubusercontent.com/u/112766706?s=40&40&v=4"
+          },
+          {
+            "username": "Datta0",
+            "avatar": "https://avatars.githubusercontent.com/u/39181234?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "author": "OpenCut-app",
+        "name": "OpenCut",
+        "fullName": "OpenCut-app/OpenCut",
+        "url": "https://github.com/OpenCut-app/OpenCut",
+        "description": "The open-source CapCut alternative",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 84045,
+        "forks": 8298,
+        "builtBy": [
+          {
+            "username": "mazeincoding",
+            "avatar": "https://avatars.githubusercontent.com/u/167211895?s=40&40&v=4"
+          },
+          {
+            "username": "izadoesdev",
+            "avatar": "https://avatars.githubusercontent.com/u/59828082?s=40&40&v=4"
+          },
+          {
+            "username": "anwarulislam",
+            "avatar": "https://avatars.githubusercontent.com/u/26295990?s=40&40&v=4"
+          },
+          {
+            "username": "khanguyen74",
+            "avatar": "https://avatars.githubusercontent.com/u/50540913?s=40&40&v=4"
+          },
+          {
+            "username": "DevloperAmanSingh",
+            "avatar": "https://avatars.githubusercontent.com/u/80804989?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "author": "public-apis",
+        "name": "public-apis",
+        "fullName": "public-apis/public-apis",
+        "url": "https://github.com/public-apis/public-apis",
+        "description": "A collective list of free APIs",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 462090,
+        "forks": 51038,
+        "builtBy": [
+          {
+            "username": "matheusfelipeog",
+            "avatar": "https://avatars.githubusercontent.com/u/50463866?s=40&40&v=4"
+          },
+          {
+            "username": "davemachado",
+            "avatar": "https://avatars.githubusercontent.com/u/15134885?s=40&40&v=4"
+          },
+          {
+            "username": "ArindamOSS",
+            "avatar": "https://avatars.githubusercontent.com/u/278394627?s=40&40&v=4"
+          },
+          {
+            "username": "pawelborkar",
+            "avatar": "https://avatars.githubusercontent.com/u/36134699?s=40&40&v=4"
+          },
+          {
+            "username": "jbrooksuk",
+            "avatar": "https://avatars.githubusercontent.com/u/246103?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "author": "ToolJet",
+        "name": "ToolJet",
+        "fullName": "ToolJet/ToolJet",
+        "url": "https://github.com/ToolJet/ToolJet",
+        "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 40158,
+        "forks": 5336,
+        "builtBy": [
+          {
+            "username": "johnsoncherian",
+            "avatar": "https://avatars.githubusercontent.com/u/57667706?s=40&40&v=4"
+          },
+          {
+            "username": "adishM98",
+            "avatar": "https://avatars.githubusercontent.com/u/44204658?s=40&40&v=4"
+          },
+          {
+            "username": "Navaneeth-pk",
+            "avatar": "https://avatars.githubusercontent.com/u/7828962?s=40&40&v=4"
+          },
+          {
+            "username": "gsmithun4",
+            "avatar": "https://avatars.githubusercontent.com/u/3417097?s=40&40&v=4"
+          },
+          {
+            "username": "arpitnath",
+            "avatar": "https://avatars.githubusercontent.com/u/67645175?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "author": "cactus-compute",
+        "name": "needle",
+        "fullName": "cactus-compute/needle",
+        "url": "https://github.com/cactus-compute/needle",
+        "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 6731,
+        "forks": 438,
+        "builtBy": [
+          {
+            "username": "HenryNdubuaku",
+            "avatar": "https://avatars.githubusercontent.com/u/26547576?s=40&40&v=4"
+          },
+          {
+            "username": "ncylich",
+            "avatar": "https://avatars.githubusercontent.com/u/75380243?s=40&40&v=4"
+          },
+          {
+            "username": "kar-m",
+            "avatar": "https://avatars.githubusercontent.com/u/52249278?s=40&40&v=4"
+          },
+          {
+            "username": "justinl66",
+            "avatar": "https://avatars.githubusercontent.com/u/128657146?s=40&40&v=4"
+          },
+          {
+            "username": "jakmro",
+            "avatar": "https://avatars.githubusercontent.com/u/115979017?s=40&40&v=4"
+          }
+        ]
+      }
+    ]
+  },
+  "productHunt": null,
+  "hackerNews": null
+}

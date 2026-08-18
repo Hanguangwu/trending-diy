@@ -1,0 +1,372 @@
+{
+  "date": "2026-08-18",
+  "updatedAt": "2026-08-18T04:29:54.443Z",
+  "github": {
+    "updatedAt": "2026-08-18T04:29:52.130Z",
+    "repos": [
+      {
+        "rank": 1,
+        "author": "harry0703",
+        "name": "MoneyPrinterTurbo",
+        "fullName": "harry0703/MoneyPrinterTurbo",
+        "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+        "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 106532,
+        "forks": 16171,
+        "builtBy": [
+          {
+            "username": "harry0703",
+            "avatar": "https://avatars.githubusercontent.com/u/4928832?s=40&40&v=4"
+          },
+          {
+            "username": "yyhhyyyyyy",
+            "avatar": "https://avatars.githubusercontent.com/u/95077259?s=40&40&v=4"
+          },
+          {
+            "username": "vuisme",
+            "avatar": "https://avatars.githubusercontent.com/u/96235876?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "pcbntt",
+            "avatar": "https://avatars.githubusercontent.com/u/54718731?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "author": "usestrix",
+        "name": "strix",
+        "fullName": "usestrix/strix",
+        "url": "https://github.com/usestrix/strix",
+        "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 54393,
+        "forks": 5813,
+        "builtBy": [
+          {
+            "username": "0xallam",
+            "avatar": "https://avatars.githubusercontent.com/u/49919286?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "bearsyankees",
+            "avatar": "https://avatars.githubusercontent.com/u/46074070?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "author": "nautechsystems",
+        "name": "nautilus_trader",
+        "fullName": "nautechsystems/nautilus_trader",
+        "url": "https://github.com/nautechsystems/nautilus_trader",
+        "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 26029,
+        "forks": 3382,
+        "builtBy": [
+          {
+            "username": "cjdsellers",
+            "avatar": "https://avatars.githubusercontent.com/u/22510164?s=40&40&v=4"
+          },
+          {
+            "username": "limx0",
+            "avatar": "https://avatars.githubusercontent.com/u/4816153?s=40&40&v=4"
+          },
+          {
+            "username": "filipmacek",
+            "avatar": "https://avatars.githubusercontent.com/u/16453976?s=40&40&v=4"
+          },
+          {
+            "username": "faysou",
+            "avatar": "https://avatars.githubusercontent.com/u/893862?s=40&40&v=4"
+          },
+          {
+            "username": "davidsblom",
+            "avatar": "https://avatars.githubusercontent.com/u/49148?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "author": "akitaonrails",
+        "name": "ai-memory",
+        "fullName": "akitaonrails/ai-memory",
+        "url": "https://github.com/akitaonrails/ai-memory",
+        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 2236,
+        "forks": 202,
+        "builtBy": [
+          {
+            "username": "akitaonrails",
+            "avatar": "https://avatars.githubusercontent.com/u/2840?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "djalmajr",
+            "avatar": "https://avatars.githubusercontent.com/u/1858147?s=40&40&v=4"
+          },
+          {
+            "username": "wblech",
+            "avatar": "https://avatars.githubusercontent.com/u/8575320?s=40&40&v=4"
+          },
+          {
+            "username": "rthiago",
+            "avatar": "https://avatars.githubusercontent.com/u/1322752?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "author": "mukul975",
+        "name": "Anthropic-Cybersecurity-Skills",
+        "fullName": "mukul975/Anthropic-Cybersecurity-Skills",
+        "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+        "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 28557,
+        "forks": 3454,
+        "builtBy": [
+          {
+            "username": "mukul975",
+            "avatar": "https://avatars.githubusercontent.com/u/42860185?s=40&40&v=4"
+          },
+          {
+            "username": "valorisa",
+            "avatar": "https://avatars.githubusercontent.com/u/13067566?s=40&40&v=4"
+          },
+          {
+            "username": "juliosuas",
+            "avatar": "https://avatars.githubusercontent.com/u/5745504?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "andrewibrah",
+            "avatar": "https://avatars.githubusercontent.com/u/157662519?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "author": "AlexsJones",
+        "name": "llmfit",
+        "fullName": "AlexsJones/llmfit",
+        "url": "https://github.com/AlexsJones/llmfit",
+        "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 32405,
+        "forks": 2005,
+        "builtBy": [
+          {
+            "username": "AlexsJones",
+            "avatar": "https://avatars.githubusercontent.com/u/1235925?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "three-foxes-in-a-trenchcoat",
+            "avatar": "https://avatars.githubusercontent.com/u/261414774?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "author": "santifer",
+        "name": "career-ops",
+        "fullName": "santifer/career-ops",
+        "url": "https://github.com/santifer/career-ops",
+        "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 64883,
+        "forks": 12663,
+        "builtBy": [
+          {
+            "username": "santifer",
+            "avatar": "https://avatars.githubusercontent.com/u/256850418?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "Schlaflied",
+            "avatar": "https://avatars.githubusercontent.com/u/187913759?s=40&40&v=4"
+          },
+          {
+            "username": "Scott-Emberson",
+            "avatar": "https://avatars.githubusercontent.com/u/8268155?s=40&40&v=4"
+          },
+          {
+            "username": "abankar1",
+            "avatar": "https://avatars.githubusercontent.com/u/47008224?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "author": "jundot",
+        "name": "omlx",
+        "fullName": "jundot/omlx",
+        "url": "https://github.com/jundot/omlx",
+        "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 19058,
+        "forks": 1645,
+        "builtBy": [
+          {
+            "username": "jundot",
+            "avatar": "https://avatars.githubusercontent.com/u/64250138?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "cfbraun",
+            "avatar": "https://avatars.githubusercontent.com/u/6842433?s=40&40&v=4"
+          },
+          {
+            "username": "JimStenstrom",
+            "avatar": "https://avatars.githubusercontent.com/u/30080538?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "author": "immich-app",
+        "name": "immich",
+        "fullName": "immich-app/immich",
+        "url": "https://github.com/immich-app/immich",
+        "description": "High performance self-hosted photo and video management solution.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 111280,
+        "forks": 6581,
+        "builtBy": [
+          {
+            "username": "alextran1502",
+            "avatar": "https://avatars.githubusercontent.com/u/27055614?s=40&40&v=4"
+          },
+          {
+            "username": "jrasm91",
+            "avatar": "https://avatars.githubusercontent.com/u/4334196?s=40&40&v=4"
+          },
+          {
+            "username": "danieldietzler",
+            "avatar": "https://avatars.githubusercontent.com/u/36593685?s=40&40&v=4"
+          },
+          {
+            "username": "shenlong-tanwen",
+            "avatar": "https://avatars.githubusercontent.com/u/139912620?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "author": "cordiverse",
+        "name": "cordis",
+        "fullName": "cordiverse/cordis",
+        "url": "https://github.com/cordiverse/cordis",
+        "description": "Meta-Framework of Spatiotemporal Composability",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 5746,
+        "forks": 309,
+        "builtBy": [
+          {
+            "username": "shigma",
+            "avatar": "https://avatars.githubusercontent.com/u/33423008?s=40&40&v=4"
+          },
+          {
+            "username": "Hieuzest",
+            "avatar": "https://avatars.githubusercontent.com/u/16983883?s=40&40&v=4"
+          },
+          {
+            "username": "undefined-moe",
+            "avatar": "https://avatars.githubusercontent.com/u/29992205?s=40&40&v=4"
+          },
+          {
+            "username": "CyanChanges",
+            "avatar": "https://avatars.githubusercontent.com/u/68551684?s=40&40&v=4"
+          },
+          {
+            "username": "imccyu",
+            "avatar": "https://avatars.githubusercontent.com/u/276526105?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 11,
+        "author": "agalwood",
+        "name": "Motrix",
+        "fullName": "agalwood/Motrix",
+        "url": "https://github.com/agalwood/Motrix",
+        "description": "A full-featured download manager.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 53201,
+        "forks": 4931,
+        "builtBy": [
+          {
+            "username": "agalwood",
+            "avatar": "https://avatars.githubusercontent.com/u/1032175?s=40&40&v=4"
+          },
+          {
+            "username": "shatyuka",
+            "avatar": "https://avatars.githubusercontent.com/u/31368738?s=40&40&v=4"
+          },
+          {
+            "username": "dicarne",
+            "avatar": "https://avatars.githubusercontent.com/u/10357789?s=40&40&v=4"
+          },
+          {
+            "username": "kant",
+            "avatar": "https://avatars.githubusercontent.com/u/32717?s=40&40&v=4"
+          },
+          {
+            "username": "Raistlin916",
+            "avatar": "https://avatars.githubusercontent.com/u/2560402?s=40&40&v=4"
+          }
+        ]
+      }
+    ]
+  },
+  "productHunt": null,
+  "hackerNews": null
+}

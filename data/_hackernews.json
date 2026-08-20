@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-08-19T04:31:22.849Z",
+  "updatedAt": "2026-08-20T04:31:19.780Z",
   "stories": [
     {
       "rank": 1,
-      "title": "New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]",
-      "url": "https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf",
-      "score": 311,
-      "comments": 163,
-      "author": "jplusequalt"
+      "title": "OpenRouter is joining Stripe",
+      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+      "score": 725,
+      "comments": 368,
+      "author": "rvz"
     },
     {
       "rank": 2,
-      "title": "Meta's blockbuster trial draws parallels to big tobacco",
-      "url": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
-      "score": 85,
-      "comments": 57,
-      "author": "newsomix9xl"
+      "title": "Turns are Better than Radians",
+      "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+      "score": 60,
+      "comments": 35,
+      "author": "mayoff"
     },
     {
       "rank": 3,
-      "title": "OpenLogi",
-      "url": "https://openlogi.org/en",
-      "score": 110,
-      "comments": 28,
-      "author": "amatheus"
+      "title": "Go 1.27",
+      "url": "https://go.dev/blog/go1.27",
+      "score": 508,
+      "comments": 135,
+      "author": "database64128"
     },
     {
       "rank": 4,
-      "title": "Cerebras CS-4",
-      "url": "https://www.cerebras.ai/cs4",
-      "score": 143,
-      "comments": 92,
-      "author": "sunils34"
+      "title": "A faster way to calculate the day of the week",
+      "url": "https://www.benjoffe.com/fast-day-of-week",
+      "score": 51,
+      "comments": 6,
+      "author": "gavide"
     },
     {
       "rank": 5,
-      "title": "Palomar: A registry of Lean verified mathematics",
-      "url": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
-      "score": 28,
-      "comments": 3,
-      "author": "matt_d"
+      "title": "Error by AI scribe during medical appointment leaves patient devastated",
+      "url": "https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672",
+      "score": 27,
+      "comments": 6,
+      "author": "ahonhn"
     },
     {
       "rank": 6,
-      "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
-      "url": "https://github.com/DenisSergeevitch/desktop-fly",
-      "score": 202,
-      "comments": 57,
-      "author": "phoenix120"
+      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+      "score": 363,
+      "comments": 158,
+      "author": "Animux"
     },
     {
       "rank": 7,
-      "title": "The Amazon tax",
-      "url": "https://seths.blog/2026/08/the-amazon-tax/",
-      "score": 1031,
-      "comments": 597,
-      "author": "herbertl"
+      "title": "Manabu Kosaka's Handmade Paper Sculptures",
+      "url": "https://coca11272000.wixsite.com/manabukosaka",
+      "score": 70,
+      "comments": 7,
+      "author": "surprisetalk"
     },
     {
       "rank": 8,
-      "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
-      "url": "https://www.bbc.com/news/articles/c1l1r1zne1ro",
-      "score": 78,
-      "comments": 40,
-      "author": "dabinat"
+      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+      "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+      "score": 161,
+      "comments": 39,
+      "author": "1e1a"
     },
     {
       "rank": 9,
-      "title": "Solo – a .so loader for static Linux binaries",
-      "url": "https://github.com/pg83/solo",
-      "score": 77,
-      "comments": 77,
-      "author": "zX41ZdbW"
+      "title": "Unsloth Dynamic 3.0 GGUFs",
+      "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+      "score": 206,
+      "comments": 80,
+      "author": "jonesy827"
     },
     {
       "rank": 10,
-      "title": "How does IKEA come up with names for its products?",
-      "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
-      "score": 265,
-      "comments": 154,
-      "author": "NaOH"
+      "title": "A joke domain purchase turned in geopolitical warfare",
+      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+      "score": 803,
+      "comments": 126,
+      "author": "kareiva"
     },
     {
       "rank": 11,
-      "title": "CUDA Shared Memory Swizzling",
-      "url": "https://leimao.github.io/blog/CUDA-Shared-Memory-Swizzling/",
-      "score": 17,
-      "comments": 0,
-      "author": "jxmorris12"
+      "title": "Sol Loves to Cheat",
+      "url": "https://jumploops.com/blog/sol-loves-to-cheat/",
+      "score": 99,
+      "comments": 63,
+      "author": "jumploops"
     },
     {
       "rank": 12,
-      "title": "AI usage patterns in software teams",
-      "url": "https://linear.app/data",
-      "score": 78,
-      "comments": 39,
-      "author": "giuliomagnifico"
+      "title": "Casio F-B100W-1A",
+      "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
+      "score": 303,
+      "comments": 246,
+      "author": "__fst__"
     },
     {
       "rank": 13,
-      "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
-      "url": "https://modelmap.cc",
-      "score": 57,
-      "comments": 7,
-      "author": "lizhaoliu"
+      "title": "Geolocating a random island using geometry and CUDA programming",
+      "url": "https://yassa9.github.io/osint/gralhix-004/",
+      "score": 431,
+      "comments": 77,
+      "author": "yassa9"
     },
     {
       "rank": 14,
-      "title": "Turbovec – Google's TurboQuant for vector search in Rust",
-      "url": "https://github.com/RyanCodrai/turbovec",
-      "score": 219,
-      "comments": 30,
-      "author": "fittingopposite"
+      "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
+      "url": "https://os8088.com/spotlight/",
+      "score": 60,
+      "comments": 32,
+      "author": "jggonz"
     },
     {
       "rank": 15,
-      "title": "Cursor launches Origin, GitHub alternative",
-      "url": "https://cursor.com/changelog/origin-code-hosting",
-      "score": 514,
-      "comments": 385,
-      "author": "tomasreimers"
+      "title": "PostgreSQL for Everything",
+      "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
+      "score": 323,
+      "comments": 200,
+      "author": "karlmush"
     },
     {
       "rank": 16,
-      "title": "And then the men with guns tell you to do it anyway",
-      "url": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
-      "score": 221,
-      "comments": 135,
-      "author": "_djo_"
+      "title": "Simulacra and Simulation",
+      "url": "https://en.wikipedia.org/wiki/Simulacra_and_Simulation",
+      "score": 40,
+      "comments": 12,
+      "author": "soupspaces"
     },
     {
       "rank": 17,
-      "title": "A 25-year-old video patent just expired, ending a legal headache for Linux",
-      "url": "https://www.xda-developers.com/25-year-old-brazilian-video-patent-expired-legal-headache-linux/",
-      "score": 126,
-      "comments": 43,
-      "author": "theanonymousone"
+      "title": "The little-known winstart.bat batch file",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605",
+      "score": 91,
+      "comments": 23,
+      "author": "ingve"
     },
     {
       "rank": 18,
-      "title": "Fixing a bricked Framework laptop",
-      "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-      "score": 390,
-      "comments": 262,
-      "author": "jp_sc"
+      "title": "fx :Tiny, open, native coding agent.",
+      "url": "https://fx.sh",
+      "score": 204,
+      "comments": 94,
+      "author": "handfuloflight"
     },
     {
       "rank": 19,
-      "title": "Memory prices climb 500% in 12 months",
-      "url": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
-      "score": 528,
-      "comments": 441,
-      "author": "haunter"
+      "title": "Pixel 11 Pro Fold feels like the end of an era",
+      "url": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
+      "score": 37,
+      "comments": 70,
+      "author": "animalcule"
     },
     {
       "rank": 20,
-      "title": "That Disgraceful, Disreputable, (Wonderful) Form of Punctuation: The Parenthesis",
-      "url": "https://lithub.com/on-that-disgraceful-disreputable-wonderful-form-of-punctuation-the-parenthesis/",
-      "score": 17,
-      "comments": 3,
-      "author": "pseudolus"
+      "title": "Feature Request: Support AGENTS.md",
+      "url": "https://github.com/anthropics/claude-code/issues/6235",
+      "score": 164,
+      "comments": 91,
+      "author": "fg137"
     },
     {
       "rank": 21,
-      "title": "Being ambitious and being a dad",
-      "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
-      "score": 358,
-      "comments": 217,
-      "author": "nichochar"
+      "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
+      "url": "https://github.com/onecli/onecli",
+      "score": 62,
+      "comments": 17,
+      "author": "guyb3"
     },
     {
       "rank": 22,
-      "title": "Tiny satellite will use the dark side of the Moon as a shield",
-      "url": "https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe",
-      "score": 18,
-      "comments": 1,
-      "author": "NordStreamYacht"
+      "title": "Mathematics in the age of AI",
+      "url": "https://arxiv.org/abs/2608.16753",
+      "score": 135,
+      "comments": 169,
+      "author": "jonbaer"
     },
     {
       "rank": 23,
-      "title": "Universal health coverage could save $1T and 114k lives a year: study",
-      "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
-      "score": 777,
-      "comments": 836,
-      "author": "karakoram"
+      "title": "Xorshift Generators",
+      "url": "https://www.alanzucconi.com/2026/08/15/xorshift-generators/",
+      "score": 58,
+      "comments": 35,
+      "author": "tobr"
     },
     {
       "rank": 24,
-      "title": "Beware Management Consultants",
-      "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
-      "score": 476,
-      "comments": 125,
-      "author": "KolmogorovComp"
+      "title": "DFlash 2: Keep Drafting Parallel",
+      "url": "https://inco.ai/blog/dflash2/",
+      "score": 79,
+      "comments": 9,
+      "author": "mike-the-brain"
     },
     {
       "rank": 25,
-      "title": "How a giant battery is transforming a town centre in Cannington, Ontario",
-      "url": "https://betakit.com/how-a-giant-battery-is-transforming-a-town-centre-in-cannington-ontario/",
-      "score": 36,
-      "comments": 12,
-      "author": "builtbystef"
+      "title": "Universality of Gradient Descent Neural Network Training",
+      "url": "https://arxiv.org/abs/2007.13664",
+      "score": 16,
+      "comments": 2,
+      "author": "E-Reverance"
     },
     {
       "rank": 26,
-      "title": "The 90-year history of the binoculars bolted to scenic overlooks",
-      "url": "https://www.dpreview.com/news/the-90-year-history-of-the-binoculars-bolted-to-scenic-overlooks/",
-      "score": 40,
-      "comments": 7,
-      "author": "sohkamyung"
+      "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
+      "url": "https://ornith.ai/ornith_1_5.html",
+      "score": 177,
+      "comments": 60,
+      "author": "CommonGuy"
     },
     {
       "rank": 27,
-      "title": "GLM-5.3 Artificial Analysis Benchmarks",
-      "url": "https://artificialanalysis.ai/models/glm-5-3",
-      "score": 106,
-      "comments": 43,
-      "author": "apitman"
+      "title": "Pressed Penny Machine Map",
+      "url": "https://pennypresses.net/home/map.php",
+      "score": 56,
+      "comments": 47,
+      "author": "willmeyers"
     },
     {
       "rank": 28,
-      "title": "Apple announces changes for apps in the European Union",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
-      "score": 133,
-      "comments": 194,
-      "author": "newusertoday"
+      "title": "Air Theremin – A browser theremin you play by waving at your webcam",
+      "url": "https://theremin.bizibah.com/",
+      "score": 264,
+      "comments": 87,
+      "author": "gurov"
     },
     {
       "rank": 29,
-      "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
-      "url": "https://machine0.io",
-      "score": 68,
-      "comments": 41,
-      "author": "bwm"
+      "title": "Extensible Software in the age of LLMs",
+      "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+      "score": 124,
+      "comments": 50,
+      "author": "coloneltcb"
     },
     {
       "rank": 30,
-      "title": "2,500-year-old sculpture discovered at UNESCO site in Turkey",
-      "url": "https://www.theartnewspaper.com/2026/08/07/colossal-2500-year-old-sculpture-discovered-turkey-unesco-site",
-      "score": 87,
-      "comments": 24,
-      "author": "speckx"
+      "title": "Pacing model development in an era of cyber-critical capabilities",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
+      "score": 137,
+      "comments": 186,
+      "author": "j4mie"
     }
   ]
 }

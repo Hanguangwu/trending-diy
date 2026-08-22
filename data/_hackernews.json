@@ -1,237 +1,237 @@
 {
-  "updatedAt": "2026-08-21T04:32:09.123Z",
+  "updatedAt": "2026-08-22T04:26:49.564Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Codex on AWS bedrock bug causing 10x charges",
-      "url": "https://github.com/openai/codex/issues/37674",
-      "score": 25,
-      "comments": 4,
-      "author": "TheP1000"
+      "title": "There's no reason for software to be slow anymore",
+      "url": "https://danluu.com/perf-opt/",
+      "score": 162,
+      "comments": 137,
+      "author": "Jach"
     },
     {
       "rank": 2,
-      "title": "The August 17 outage",
-      "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-      "score": 396,
-      "comments": 440,
-      "author": "0xedb"
+      "title": "Felony Bench",
+      "url": "https://www.felonybench.com/",
+      "score": 580,
+      "comments": 242,
+      "author": "colinprince"
     },
     {
       "rank": 3,
-      "title": "I like 'em thick: an apology to my English teachers",
-      "url": "https://www.experimental-history.com/p/i-like-em-thick",
-      "score": 620,
-      "comments": 268,
-      "author": "Ariarule"
+      "title": "Kobo can run apps now",
+      "url": "https://bandarlabs.github.io/Cobalt/",
+      "score": 465,
+      "comments": 164,
+      "author": "thepoet"
     },
     {
       "rank": 4,
-      "title": "HTML Can Do That",
-      "url": "https://chrisburnell.com/html-can-do-that/",
-      "score": 636,
-      "comments": 170,
-      "author": "encyclopedism"
+      "title": "Rust Glancer: Rust LSP using 100x less RAM",
+      "url": "https://rust-glancer.github.io/blog/hello-world/",
+      "score": 75,
+      "comments": 24,
+      "author": "matklad"
     },
     {
       "rank": 5,
-      "title": "Malicious Rust crate Arrayref runs a build-time payload",
-      "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-      "score": 423,
-      "comments": 376,
-      "author": "abhisek"
-    },
-    {
-      "rank": 6,
-      "title": "I should have loved biology (2020)",
-      "url": "https://jsomers.net/i-should-have-loved-biology/",
-      "score": 216,
-      "comments": 82,
-      "author": "tyre"
-    },
-    {
-      "rank": 7,
-      "title": "Captain Zilog",
-      "url": "https://www.zilog.com/captain_zilog/",
-      "score": 18,
-      "comments": 3,
-      "author": "rbanffy"
-    },
-    {
-      "rank": 8,
-      "title": "Make a 6-Tesla-class high-temperature superconducting dipole magnet at 4.2 K",
-      "url": "https://journals.aps.org/prab/abstract/10.1103/4nhs-bkwh",
-      "score": 20,
-      "comments": 5,
-      "author": "supermagnet"
-    },
-    {
-      "rank": 9,
-      "title": "Ox Alpha",
-      "url": "https://openrouter.ai/stealth/ox-alpha",
-      "score": 59,
-      "comments": 49,
-      "author": "mtokmak06"
-    },
-    {
-      "rank": 10,
-      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "url": "https://annas-archive.gl/blog/physical-destruction.html",
-      "score": 142,
-      "comments": 91,
+      "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
+      "url": "https://grapheneos.social/@GrapheneOS/117136278553665985",
+      "score": 36,
+      "comments": 13,
       "author": "Cider9986"
     },
     {
+      "rank": 6,
+      "title": "Three important steps in my maturation process",
+      "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
+      "score": 90,
+      "comments": 26,
+      "author": "tdullien"
+    },
+    {
+      "rank": 7,
+      "title": "Early Humans Likely Ate Carbs and Sugary Foods",
+      "url": "https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs",
+      "score": 14,
+      "comments": 19,
+      "author": "gmays"
+    },
+    {
+      "rank": 8,
+      "title": "Scientists release biggest 2D map of the universe",
+      "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+      "score": 164,
+      "comments": 52,
+      "author": "NKosmatos"
+    },
+    {
+      "rank": 9,
+      "title": "Kagi added a setting for removing paywalled links from search results",
+      "url": "https://kagi.com/changelog#11296",
+      "score": 1045,
+      "comments": 349,
+      "author": "speckx"
+    },
+    {
+      "rank": 10,
+      "title": "Felony charges for citizen deleting phone data at US Border",
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+      "score": 636,
+      "comments": 794,
+      "author": "floathub"
+    },
+    {
       "rank": 11,
-      "title": "Why aren't smart people happier? (2022)",
-      "url": "https://www.experimental-history.com/p/why-arent-smart-people-happier",
-      "score": 118,
-      "comments": 166,
-      "author": "rafaelc"
+      "title": "OTel isn't going well (and I made a spreadsheet about it)",
+      "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+      "score": 59,
+      "comments": 21,
+      "author": "hn_acker"
     },
     {
       "rank": 12,
-      "title": "CIA funding helped keep NeXT afloat in the 80s",
-      "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
-      "score": 370,
-      "comments": 225,
-      "author": "EwanG"
+      "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+      "url": "https://lina.sh/blog/hijacking-e164-arpa",
+      "score": 478,
+      "comments": 53,
+      "author": "gavide"
     },
     {
       "rank": 13,
-      "title": "There's no such thing as a small software team anymore",
-      "url": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
-      "score": 46,
-      "comments": 86,
-      "author": "mooreslaw"
+      "title": "Ozone: The fault is not in our trees, but in ourselves",
+      "url": "https://www.science.org/content/blog-post/fault-not-our-trees-ourselves",
+      "score": 12,
+      "comments": 1,
+      "author": "gumby"
     },
     {
       "rank": 14,
-      "title": "Show HN: Huzzah – a novel approach to coding with AI",
-      "url": "https://www.danielvaughn.dev/posts/huzzah/",
-      "score": 244,
-      "comments": 138,
-      "author": "danielvaughn"
+      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+      "url": "https://ozbrain.com",
+      "score": 52,
+      "comments": 21,
+      "author": "dariusmonsef"
     },
     {
       "rank": 15,
-      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
-      "url": "https://github.com/zachahn/vomit",
-      "score": 208,
-      "comments": 220,
-      "author": "Bluestein"
+      "title": "AI boosted homework scores, then exam scores dropped: study",
+      "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+      "score": 260,
+      "comments": 301,
+      "author": "dash2"
     },
     {
       "rank": 16,
-      "title": "Linux 7.2",
-      "url": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
-      "score": 214,
-      "comments": 73,
-      "author": "mariuz"
+      "title": "People of ACM – Russ Cox",
+      "url": "https://www.acm.org/articles/people-of-acm/2026/russ-cox",
+      "score": 110,
+      "comments": 12,
+      "author": "signa11"
     },
     {
       "rank": 17,
-      "title": "Mojo is now open source",
-      "url": "https://www.modular.com/blog/mojo-open-source",
-      "score": 367,
-      "comments": 85,
-      "author": "visheshdembla"
+      "title": "How orchids inspired the work of Charles Darwin",
+      "url": "https://lithub.com/how-orchids-inspired-the-groundbreaking-work-of-charles-darwin/",
+      "score": 12,
+      "comments": 0,
+      "author": "prismatic"
     },
     {
       "rank": 18,
-      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
-      "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-      "score": 926,
-      "comments": 295,
-      "author": "emctech"
+      "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
+      "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+      "score": 224,
+      "comments": 157,
+      "author": "aakil"
     },
     {
       "rank": 19,
-      "title": "Hard Problems and Heuristic Answers",
-      "url": "https://stochastic.blog/hard-problems-and-heuristic-answers/",
-      "score": 3,
-      "comments": 0,
-      "author": "Anon84"
+      "title": "How we made a text-to-speech model respond in sub-50 ms",
+      "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+      "score": 121,
+      "comments": 30,
+      "author": "toebee"
     },
     {
       "rank": 20,
-      "title": "SpacetimeDB: A Short Technical Review",
-      "url": "https://strn.cat/posts/spacetime/",
-      "score": 67,
-      "comments": 15,
-      "author": "hurrrr"
-    },
-    {
-      "rank": 21,
-      "title": "Consumer Rights Wiki",
-      "url": "https://consumerrights.wiki/w/Main_Page",
-      "score": 255,
-      "comments": 41,
-      "author": "gregsadetsky"
+      "title": "Early-life stress leaves a 'scar' inside brain cells in mice",
+      "url": "https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/",
+      "score": 63,
+      "comments": 20,
+      "author": "gmays"
     },
     {
       "rank": 22,
-      "title": "Speeding Up (Small) Ruby Hashes",
-      "url": "https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html",
-      "score": 31,
-      "comments": 0,
-      "author": "arto"
+      "title": "HN: The Good Parts (2016)",
+      "url": "https://danluu.com/hn-comments/",
+      "score": 29,
+      "comments": 8,
+      "author": "adletbalzhanov"
     },
     {
       "rank": 23,
-      "title": "Anti-AI fonts are useless and harmful",
-      "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
-      "score": 131,
-      "comments": 88,
+      "title": "New Worlds: We are living in the future of J.G. Ballard or William Gibson",
+      "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
+      "score": 215,
+      "comments": 160,
       "author": "speckx"
     },
     {
       "rank": 24,
-      "title": "How to compromise your system with a job interview",
-      "url": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview",
-      "score": 132,
-      "comments": 112,
-      "author": "codedge"
+      "title": "A look under our trunk: what's in our compute",
+      "url": "https://waymo.com/blog/2026/08/look-under-our-trunk/",
+      "score": 107,
+      "comments": 61,
+      "author": "ra7"
     },
     {
       "rank": 25,
-      "title": "Git at any scale",
-      "url": "https://cursor.com/blog/git-at-any-scale",
-      "score": 297,
-      "comments": 99,
-      "author": "meetpateltech"
+      "title": "Everyone says assembly is untyped—everyone is wrong",
+      "url": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
+      "score": 54,
+      "comments": 18,
+      "author": "adamrezich"
     },
     {
       "rank": 26,
-      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
-      "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
-      "score": 1199,
-      "comments": 269,
-      "author": "speckx"
+      "title": "I'm becoming AI-blind",
+      "url": "https://cymerys.com/w/im-becoming-ai-blind",
+      "score": 304,
+      "comments": 314,
+      "author": "rcymerys"
     },
     {
       "rank": 27,
-      "title": "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces",
-      "url": "https://arxiv.org/abs/2504.09762",
-      "score": 202,
-      "comments": 122,
-      "author": "nunodonato"
+      "title": "Tumble Forth – from assembly to OS with C compiler (2023)",
+      "url": "https://tumbleforth.hardcoded.net/",
+      "score": 66,
+      "comments": 8,
+      "author": "vicek22"
     },
     {
       "rank": 28,
-      "title": "DiffusionGemma Technical Report",
-      "url": "https://arxiv.org/abs/2608.00146",
-      "score": 142,
-      "comments": 34,
-      "author": "gmays"
+      "title": "GitHub, autoscaling, and the component substitution fallacy",
+      "url": "https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/",
+      "score": 41,
+      "comments": 0,
+      "author": "jonemi"
+    },
+    {
+      "rank": 29,
+      "title": "Autolith: A programming agent with a live runtime",
+      "url": "https://www.lambda-symbolics.com/autolith",
+      "score": 39,
+      "comments": 12,
+      "author": "vismit2000"
     },
     {
       "rank": 30,
-      "title": "Artificial Intelligence Policy",
-      "url": "https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/",
-      "score": 32,
-      "comments": 19,
-      "author": "hackerBanana"
+      "title": "Show HN: Rex, a parallel functional language for scientific workflows",
+      "url": "https://github.com/peterkelly/rex",
+      "score": 17,
+      "comments": 2,
+      "author": "peterkelly"
     }
   ]
 }

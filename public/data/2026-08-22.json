@@ -1,0 +1,582 @@
+{
+  "date": "2026-08-22",
+  "updatedAt": "2026-08-22T04:26:49.571Z",
+  "github": {
+    "updatedAt": "2026-08-22T04:26:47.262Z",
+    "repos": [
+      {
+        "rank": 1,
+        "author": "mattpocock",
+        "name": "skills",
+        "fullName": "mattpocock/skills",
+        "url": "https://github.com/mattpocock/skills",
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "languageColor": "#89e051",
+        "starsToday": 0,
+        "totalStars": 229860,
+        "forks": 19644,
+        "builtBy": [
+          {
+            "username": "mattpocock",
+            "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "gabimoncha",
+            "avatar": "https://avatars.githubusercontent.com/u/39256258?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "author": "mahlernim",
+        "name": "google-timeline-visualizer",
+        "fullName": "mahlernim/google-timeline-visualizer",
+        "url": "https://github.com/mahlernim/google-timeline-visualizer",
+        "description": "Visualize your year in travel using your Google Location History (Timeline) data",
+        "language": "Kotlin",
+        "languageColor": "#A97BFF",
+        "starsToday": 0,
+        "totalStars": 2282,
+        "forks": 268,
+        "builtBy": [
+          {
+            "username": "mahlernim",
+            "avatar": "https://avatars.githubusercontent.com/u/33252024?s=40&40&v=4"
+          },
+          {
+            "username": "petercpg",
+            "avatar": "https://avatars.githubusercontent.com/u/205738?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "fede1608",
+            "avatar": "https://avatars.githubusercontent.com/u/4108692?s=40&40&v=4"
+          },
+          {
+            "username": "Irishsmurf",
+            "avatar": "https://avatars.githubusercontent.com/u/587220?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "author": "harry0703",
+        "name": "MoneyPrinterTurbo",
+        "fullName": "harry0703/MoneyPrinterTurbo",
+        "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+        "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 114057,
+        "forks": 17311,
+        "builtBy": [
+          {
+            "username": "harry0703",
+            "avatar": "https://avatars.githubusercontent.com/u/4928832?s=40&40&v=4"
+          },
+          {
+            "username": "yyhhyyyyyy",
+            "avatar": "https://avatars.githubusercontent.com/u/95077259?s=40&40&v=4"
+          },
+          {
+            "username": "vuisme",
+            "avatar": "https://avatars.githubusercontent.com/u/96235876?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "pcbntt",
+            "avatar": "https://avatars.githubusercontent.com/u/54718731?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "author": "AprilNEA",
+        "name": "OpenLogi",
+        "fullName": "AprilNEA/OpenLogi",
+        "url": "https://github.com/AprilNEA/OpenLogi",
+        "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 13071,
+        "forks": 352,
+        "builtBy": [
+          {
+            "username": "AprilNEA",
+            "avatar": "https://avatars.githubusercontent.com/u/37977109?s=40&40&v=4"
+          },
+          {
+            "username": "davidbudnick",
+            "avatar": "https://avatars.githubusercontent.com/u/18271248?s=40&40&v=4"
+          },
+          {
+            "username": "cserby",
+            "avatar": "https://avatars.githubusercontent.com/u/14993439?s=40&40&v=4"
+          },
+          {
+            "username": "tagawa0525",
+            "avatar": "https://avatars.githubusercontent.com/u/108535?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "author": "PostHog",
+        "name": "posthog",
+        "fullName": "PostHog/posthog",
+        "url": "https://github.com/PostHog/posthog",
+        "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 38330,
+        "forks": 3234,
+        "builtBy": [
+          {
+            "username": "pauldambra",
+            "avatar": "https://avatars.githubusercontent.com/u/984817?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "Twixes",
+            "avatar": "https://avatars.githubusercontent.com/u/4550621?s=40&40&v=4"
+          },
+          {
+            "username": "Gilbert09",
+            "avatar": "https://avatars.githubusercontent.com/u/1459269?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "author": "microsoft",
+        "name": "TypeScript",
+        "fullName": "microsoft/TypeScript",
+        "url": "https://github.com/microsoft/TypeScript",
+        "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "starsToday": 0,
+        "totalStars": 110406,
+        "forks": 13744,
+        "builtBy": [
+          {
+            "username": "ahejlsberg",
+            "avatar": "https://avatars.githubusercontent.com/u/4226954?s=40&40&v=4"
+          },
+          {
+            "username": "sheetalkamat",
+            "avatar": "https://avatars.githubusercontent.com/u/8052792?s=40&40&v=4"
+          },
+          {
+            "username": "DanielRosenwasser",
+            "avatar": "https://avatars.githubusercontent.com/u/972891?s=40&40&v=4"
+          },
+          {
+            "username": "sandersn",
+            "avatar": "https://avatars.githubusercontent.com/u/293473?s=40&40&v=4"
+          },
+          {
+            "username": "mhegazy",
+            "avatar": "https://avatars.githubusercontent.com/u/8000722?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "author": "obra",
+        "name": "superpowers",
+        "fullName": "obra/superpowers",
+        "url": "https://github.com/obra/superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "languageColor": "#89e051",
+        "starsToday": 0,
+        "totalStars": 275717,
+        "forks": 24652,
+        "builtBy": [
+          {
+            "username": "obra",
+            "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&40&v=4"
+          },
+          {
+            "username": "arittr",
+            "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "clkao",
+            "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&40&v=4"
+          },
+          {
+            "username": "jjshanks",
+            "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "author": "santifer",
+        "name": "career-ops",
+        "fullName": "santifer/career-ops",
+        "url": "https://github.com/santifer/career-ops",
+        "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 67518,
+        "forks": 12874,
+        "builtBy": [
+          {
+            "username": "santifer",
+            "avatar": "https://avatars.githubusercontent.com/u/256850418?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "Schlaflied",
+            "avatar": "https://avatars.githubusercontent.com/u/187913759?s=40&40&v=4"
+          },
+          {
+            "username": "Scott-Emberson",
+            "avatar": "https://avatars.githubusercontent.com/u/8268155?s=40&40&v=4"
+          },
+          {
+            "username": "abankar1",
+            "avatar": "https://avatars.githubusercontent.com/u/47008224?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "author": "cursor",
+        "name": "plugins",
+        "fullName": "cursor/plugins",
+        "url": "https://github.com/cursor/plugins",
+        "description": "Cursor plugin specification and official plugins",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 4445,
+        "forks": 367,
+        "builtBy": [
+          {
+            "username": "poteto",
+            "avatar": "https://avatars.githubusercontent.com/u/1390709?s=40&40&v=4"
+          },
+          {
+            "username": "cursoragent",
+            "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&40&v=4"
+          },
+          {
+            "username": "ericzakariasson",
+            "avatar": "https://avatars.githubusercontent.com/u/25622412?s=40&40&v=4"
+          },
+          {
+            "username": "n2parko",
+            "avatar": "https://avatars.githubusercontent.com/u/5743232?s=40&40&v=4"
+          },
+          {
+            "username": "SamSokolin",
+            "avatar": "https://avatars.githubusercontent.com/u/10885502?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "author": "modular",
+        "name": "modular",
+        "fullName": "modular/modular",
+        "url": "https://github.com/modular/modular",
+        "description": "The Modular Platform (includes MAX & Mojo)",
+        "language": "Mojo",
+        "languageColor": "#ff4c1f",
+        "starsToday": 0,
+        "totalStars": 28710,
+        "forks": 3055,
+        "builtBy": [
+          {
+            "username": "abduld",
+            "avatar": "https://avatars.githubusercontent.com/u/1404191?s=40&40&v=4"
+          },
+          {
+            "username": "lattner",
+            "avatar": "https://avatars.githubusercontent.com/u/15152540?s=40&40&v=4"
+          },
+          {
+            "username": "JoeLoser",
+            "avatar": "https://avatars.githubusercontent.com/u/6462525?s=40&40&v=4"
+          },
+          {
+            "username": "keith",
+            "avatar": "https://avatars.githubusercontent.com/u/283886?s=40&40&v=4"
+          },
+          {
+            "username": "atomicapple0",
+            "avatar": "https://avatars.githubusercontent.com/u/30697412?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 11,
+        "author": "affaan-m",
+        "name": "ECC",
+        "fullName": "affaan-m/ECC",
+        "url": "https://github.com/affaan-m/ECC",
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 241838,
+        "forks": 36663,
+        "builtBy": [
+          {
+            "username": "affaan-m",
+            "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "haelyra",
+            "avatar": "https://avatars.githubusercontent.com/u/49814733?s=40&40&v=4"
+          },
+          {
+            "username": "pangerlkr",
+            "avatar": "https://avatars.githubusercontent.com/u/73515951?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 12,
+        "author": "TryGhost",
+        "name": "Ghost",
+        "fullName": "TryGhost/Ghost",
+        "url": "https://github.com/TryGhost/Ghost",
+        "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 54927,
+        "forks": 11906,
+        "builtBy": [
+          {
+            "username": "kevinansfield",
+            "avatar": "https://avatars.githubusercontent.com/u/415?s=40&40&v=4"
+          },
+          {
+            "username": "ErisDS",
+            "avatar": "https://avatars.githubusercontent.com/u/101513?s=40&40&v=4"
+          },
+          {
+            "username": "renovate-bot",
+            "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&40&v=4"
+          },
+          {
+            "username": "allouis",
+            "avatar": "https://avatars.githubusercontent.com/u/3218915?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 13,
+        "author": "ruvnet",
+        "name": "ruflo",
+        "fullName": "ruvnet/ruflo",
+        "url": "https://github.com/ruvnet/ruflo",
+        "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 68689,
+        "forks": 8249,
+        "builtBy": [
+          {
+            "username": "ruvnet",
+            "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "proffesor-for-testing",
+            "avatar": "https://avatars.githubusercontent.com/u/214853444?s=40&40&v=4"
+          },
+          {
+            "username": "dajiaohuang",
+            "avatar": "https://avatars.githubusercontent.com/u/108231307?s=40&40&v=4"
+          },
+          {
+            "username": "alexx-ftw",
+            "avatar": "https://avatars.githubusercontent.com/u/22500633?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 14,
+        "author": "apache",
+        "name": "maka",
+        "fullName": "apache/maka",
+        "url": "https://github.com/apache/maka",
+        "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 2060,
+        "forks": 243,
+        "builtBy": [
+          {
+            "username": "jackwener",
+            "avatar": "https://avatars.githubusercontent.com/u/30525741?s=40&40&v=4"
+          },
+          {
+            "username": "Astro-Han",
+            "avatar": "https://avatars.githubusercontent.com/u/255364436?s=40&40&v=4"
+          },
+          {
+            "username": "likun666661",
+            "avatar": "https://avatars.githubusercontent.com/u/90952590?s=40&40&v=4"
+          },
+          {
+            "username": "M4n5ter",
+            "avatar": "https://avatars.githubusercontent.com/u/68144809?s=40&40&v=4"
+          },
+          {
+            "username": "hqhq1025",
+            "avatar": "https://avatars.githubusercontent.com/u/78337154?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 15,
+        "author": "protocolbuffers",
+        "name": "protobuf",
+        "fullName": "protocolbuffers/protobuf",
+        "url": "https://github.com/protocolbuffers/protobuf",
+        "description": "Protocol Buffers - Google's data interchange format",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "starsToday": 0,
+        "totalStars": 71782,
+        "forks": 16236,
+        "builtBy": [
+          {
+            "username": "protobuf-github-bot",
+            "avatar": "https://avatars.githubusercontent.com/u/106703886?s=40&40&v=4"
+          },
+          {
+            "username": "haberman",
+            "avatar": "https://avatars.githubusercontent.com/u/1270?s=40&40&v=4"
+          },
+          {
+            "username": "protobuf-team-bot",
+            "avatar": "https://avatars.githubusercontent.com/u/105450428?s=40&40&v=4"
+          },
+          {
+            "username": "mkruskal-google",
+            "avatar": "https://avatars.githubusercontent.com/u/62662355?s=40&40&v=4"
+          },
+          {
+            "username": "xfxyjwf",
+            "avatar": "https://avatars.githubusercontent.com/u/8551050?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 16,
+        "author": "elder-plinius",
+        "name": "OBLITERATUS",
+        "fullName": "elder-plinius/OBLITERATUS",
+        "url": "https://github.com/elder-plinius/OBLITERATUS",
+        "description": "OBLITERATE THE CHAINS THAT BIND YOU",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 7835,
+        "forks": 1435,
+        "builtBy": [
+          {
+            "username": "jmagly",
+            "avatar": "https://avatars.githubusercontent.com/u/1159087?s=40&40&v=4"
+          },
+          {
+            "username": "elder-plinius",
+            "avatar": "https://avatars.githubusercontent.com/u/133052465?s=40&40&v=4"
+          },
+          {
+            "username": "StellaAthena",
+            "avatar": "https://avatars.githubusercontent.com/u/15899312?s=40&40&v=4"
+          },
+          {
+            "username": "ajmeese7",
+            "avatar": "https://avatars.githubusercontent.com/u/17814535?s=40&40&v=4"
+          },
+          {
+            "username": "brianbell-x",
+            "avatar": "https://avatars.githubusercontent.com/u/95891882?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 17,
+        "author": "microsoft",
+        "name": "onnxruntime",
+        "fullName": "microsoft/onnxruntime",
+        "url": "https://github.com/microsoft/onnxruntime",
+        "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "starsToday": 0,
+        "totalStars": 21491,
+        "forks": 4151,
+        "builtBy": [
+          {
+            "username": "tianleiwu",
+            "avatar": "https://avatars.githubusercontent.com/u/30328909?s=40&40&v=4"
+          },
+          {
+            "username": "fs-eire",
+            "avatar": "https://avatars.githubusercontent.com/u/7679871?s=40&40&v=4"
+          },
+          {
+            "username": "edgchen1",
+            "avatar": "https://avatars.githubusercontent.com/u/18449977?s=40&40&v=4"
+          },
+          {
+            "username": "skottmckay",
+            "avatar": "https://avatars.githubusercontent.com/u/979079?s=40&40&v=4"
+          },
+          {
+            "username": "yuslepukhin",
+            "avatar": "https://avatars.githubusercontent.com/u/11303988?s=40&40&v=4"
+          }
+        ]
+      }
+    ]
+  },
+  "productHunt": null,
+  "hackerNews": null
+}

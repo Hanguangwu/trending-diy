@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-08-23T04:31:15.760Z",
+  "updatedAt": "2026-08-24T04:38:36.969Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Scrap (2006)",
-      "url": "https://twitter.com/moxie/status/2091218652133732491",
-      "score": 341,
-      "comments": 185,
-      "author": "tosh"
+      "title": "Everything I own, owned",
+      "url": "https://schlarp.com/posts/everything-i-own-owned/",
+      "score": 465,
+      "comments": 142,
+      "author": "schlarpc"
     },
     {
       "rank": 2,
-      "title": "Why your local LLM feels dumber than it is",
-      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "score": 231,
-      "comments": 81,
-      "author": "felineflock"
+      "title": "How I find problems to solve as a staff engineer",
+      "url": "https://lalitm.com/post/find-problems-staff-engineer/",
+      "score": 331,
+      "comments": 117,
+      "author": "vanpra"
     },
     {
       "rank": 3,
-      "title": "NanoGPT Speedrun Frontier",
-      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-      "score": 67,
-      "comments": 18,
-      "author": "stared"
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "score": 326,
+      "comments": 280,
+      "author": "naves"
     },
     {
       "rank": 4,
-      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-      "url": "https://martypc.net/",
-      "score": 5,
-      "comments": 0,
-      "author": "boilerupnc"
+      "title": "Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel",
+      "url": "https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps",
+      "score": 27,
+      "comments": 22,
+      "author": "soheilpro"
     },
     {
       "rank": 5,
-      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-      "url": "https://quantumi.sh/public/labs.html",
-      "score": 340,
-      "comments": 108,
-      "author": "jemoka"
+      "title": "Google Workspace thinks my domain is an email provider (2025)",
+      "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
+      "score": 219,
+      "comments": 59,
+      "author": "el1s7"
     },
     {
       "rank": 6,
-      "title": "Hister – A private, full content search index that you control",
-      "url": "https://hister.org/",
-      "score": 273,
-      "comments": 73,
-      "author": "auraham"
+      "title": "My agent.md to improve LLM-assisted code quality",
+      "url": "https://fabiensanglard.net/agent.md/index.html",
+      "score": 219,
+      "comments": 93,
+      "author": "ibobev"
     },
     {
       "rank": 7,
-      "title": "typ.ing",
-      "url": "https://typ.ing/",
-      "score": 211,
-      "comments": 63,
-      "author": "bookofjoe"
+      "title": "I built a low-latency AI companion that plays Skyrim with me",
+      "url": "https://pantel.is/projects/ai-gaming-companion/",
+      "score": 34,
+      "comments": 6,
+      "author": "pantelisk"
     },
     {
       "rank": 8,
-      "title": "RF Cafe",
-      "url": "https://www.rfcafe.com/",
-      "score": 170,
-      "comments": 28,
-      "author": "gregsadetsky"
+      "title": "What Is a Harness?",
+      "url": "https://earendil.com/posts/what-is-a-harness/",
+      "score": 362,
+      "comments": 143,
+      "author": "tosh"
     },
     {
       "rank": 9,
-      "title": "Reading Maps – Journeys from fiction drawn on the real world",
-      "url": "https://readingmaps.com/",
-      "score": 16,
-      "comments": 2,
-      "author": "hakkikonu"
+      "title": "How Complex Systems Fail (1998)",
+      "url": "https://how.complexsystems.fail/",
+      "score": 272,
+      "comments": 65,
+      "author": "shortcrct"
     },
     {
       "rank": 10,
-      "title": "A Friendly Introduction to Racket",
-      "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
-      "score": 209,
-      "comments": 108,
-      "author": "signa11"
+      "title": "Malware infects Android-based automotive head unit firmware",
+      "url": "https://securelist.com/android-head-unit-malware/121106/",
+      "score": 225,
+      "comments": 112,
+      "author": "campuscodi"
     },
     {
       "rank": 11,
-      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
-      "score": 130,
-      "comments": 45,
-      "author": "olalonde"
+      "title": "Rural Village in Spain Is Welcoming Digital Nomads with Open Arms",
+      "url": "https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms",
+      "score": 50,
+      "comments": 31,
+      "author": "simonebrunozzi"
     },
     {
       "rank": 12,
-      "title": "The Art and Beauty of Blade Runner",
-      "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
-      "score": 15,
-      "comments": 5,
-      "author": "cocacola1"
+      "title": "My favorite nonfiction books about cults, scams, and schemes",
+      "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
+      "score": 208,
+      "comments": 77,
+      "author": "bwb"
     },
     {
       "rank": 13,
-      "title": "NetBSD and my life (2005)",
-      "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-      "score": 105,
-      "comments": 28,
-      "author": "gnyeki"
+      "title": "The first search engine for Internet-connected devices",
+      "url": "https://www.shodan.io/",
+      "score": 11,
+      "comments": 0,
+      "author": "momentmaker"
     },
     {
       "rank": 14,
-      "title": "ATProto spaces: A new extension to ATProto that enables non-public data",
-      "url": "https://atproto.com/blog/atproto-spaces-alpha",
-      "score": 127,
-      "comments": 18,
-      "author": "grappler"
+      "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
+      "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
+      "score": 160,
+      "comments": 97,
+      "author": "the-mitr"
     },
     {
       "rank": 15,
-      "title": "Thinking in Python",
-      "url": "https://thinkinginpython.com/",
-      "score": 97,
-      "comments": 22,
-      "author": "pjacotg"
+      "title": "Implementation of GPT-2 in pure CMake",
+      "url": "https://github.com/AlpinDale/gpt2.cmake",
+      "score": 54,
+      "comments": 14,
+      "author": "porridgeraisin"
     },
     {
       "rank": 16,
-      "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
-      "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
-      "score": 547,
-      "comments": 1326,
-      "author": "tartoran"
+      "title": "Nearly 3M Teslas recalled in China over hidden door handles",
+      "url": "https://www.bbc.com/news/articles/c4g6ggdg030o",
+      "score": 8,
+      "comments": 2,
+      "author": "chicken-stew"
     },
     {
       "rank": 17,
-      "title": "I set a trap for a book-marketing scammer (2025)",
-      "url": "https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing",
-      "score": 19,
-      "comments": 15,
-      "author": "rznicolet"
+      "title": "Explain it to me like I'm ten",
+      "url": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
+      "score": 99,
+      "comments": 42,
+      "author": "bookofjoe"
     },
     {
       "rank": 18,
-      "title": "Munder Difflin – Agent harness to run an office of your clones",
-      "url": "https://munderdiffl.in/",
-      "score": 263,
-      "comments": 116,
-      "author": "simonpure"
+      "title": "A website for debloated open source alternatives",
+      "url": "https://debloat.dev/",
+      "score": 291,
+      "comments": 93,
+      "author": "ryanvogel"
     },
     {
       "rank": 19,
-      "title": "Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)",
-      "url": "https://www.pianoify.net/",
-      "score": 23,
-      "comments": 7,
-      "author": "jardy"
+      "title": "Decoding silent reading from non-invasive EEG",
+      "url": "https://arxiv.org/abs/2608.20186",
+      "score": 41,
+      "comments": 16,
+      "author": "root-parent"
     },
     {
       "rank": 20,
-      "title": "A week of using Codex more than Claude",
-      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-      "score": 157,
-      "comments": 176,
-      "author": "speckx"
+      "title": "Kodak DC50 now usable on the Apple II",
+      "url": "https://www.colino.net/wordpress/archives/2026/08/23/kodak-dc50-now-usable-on-the-apple-ii/",
+      "score": 51,
+      "comments": 8,
+      "author": "ibobev"
     },
     {
       "rank": 21,
-      "title": "I Dream of Quieter Computing",
-      "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
-      "score": 4,
-      "comments": 0,
-      "author": "Sir_Twist"
+      "title": "AI and Infrastructure Engineering",
+      "url": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/",
+      "score": 59,
+      "comments": 19,
+      "author": "0megion"
     },
     {
       "rank": 22,
-      "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
-      "url": "https://marcua.net/minitools/figmimic/",
-      "score": 71,
-      "comments": 7,
-      "author": "speckx"
+      "title": "Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?",
+      "url": "https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html",
+      "score": 212,
+      "comments": 92,
+      "author": "tchalla"
     },
     {
       "rank": 23,
-      "title": "hdiutil is deprecated in macOS 27 Golden Gate",
-      "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
-      "score": 173,
-      "comments": 72,
-      "author": "zdw"
+      "title": "The Remote Work Challenge: Lessons from 5 Cities",
+      "url": "https://www.pew.org/en/research-and-analysis/reports/2026/05/the-remote-work-challenge-lessons-from-5-cities",
+      "score": 49,
+      "comments": 19,
+      "author": "softwaredoug"
     },
     {
       "rank": 24,
-      "title": "Autolith: A programming agent with a live runtime",
-      "url": "https://www.lambda-symbolics.com/autolith",
-      "score": 117,
-      "comments": 46,
-      "author": "vismit2000"
+      "title": "Declarative WebGPU with S-Expressions",
+      "url": "https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/",
+      "score": 28,
+      "comments": 3,
+      "author": "hugodan"
     },
     {
       "rank": 25,
-      "title": "What's in a PowerPoint File?",
-      "url": "https://editide.com/blog/what-is-a-pptx-file/",
-      "score": 69,
-      "comments": 35,
-      "author": "danielochoa0620"
+      "title": "Parallel development without the headaches using Git worktree",
+      "url": "https://barrd.dev/article/parallel-development-without-the-headaches-using-git-worktree/",
+      "score": 32,
+      "comments": 24,
+      "author": "oogali"
     },
     {
       "rank": 26,
-      "title": "Conway's Game of Life in real life",
-      "url": "https://blog.coredump.cx/p/conways-game-of-life-in-real-life",
-      "score": 46,
+      "title": "Former OC actor Ben McKenzie on crusade to take down 'stupid' cryptocurrency",
+      "url": "https://www.rnz.co.nz/life/people/celebrity/former-oc-actor-ben-mckenzie-on-crusade-to-take-down-stupid-cryptocurrency",
+      "score": 20,
       "comments": 12,
-      "author": "surprisetalk"
+      "author": "billybuckwheat"
     },
     {
       "rank": 27,
-      "title": "One night in Uzbekistan: Why was this one data point so influential?",
-      "url": "https://statmodeling.stat.columbia.edu/2026/08/20/we-couldnt-reproduce-their-findings-and-realized-that-it-was-all-driven-by-weird-data-from-uzbekistan/",
-      "score": 87,
-      "comments": 16,
-      "author": "paulpauper"
+      "title": "The Sloppification of Peptides",
+      "url": "https://henryaj.substack.com/p/the-sloppification-of-peptides",
+      "score": 117,
+      "comments": 99,
+      "author": "henryaj"
     },
     {
       "rank": 28,
-      "title": "Z80 – The 1970s Microprocessor Still Alive (2021)",
-      "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+      "title": "The Vibe Tax",
+      "url": "https://insufferable.dev/posts/vibe-tax/",
       "score": 126,
-      "comments": 58,
-      "author": "asdefghyk"
+      "comments": 100,
+      "author": "allisdust"
     },
     {
       "rank": 29,
-      "title": "New MCP Roadmap",
-      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-      "score": 183,
-      "comments": 127,
-      "author": "pentagrama"
+      "title": "Things I want in a modern relational query language",
+      "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
+      "score": 94,
+      "comments": 94,
+      "author": "zdw"
     },
     {
       "rank": 30,
-      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
-      "url": "https://ozbrain.com",
-      "score": 82,
-      "comments": 48,
-      "author": "dariusmonsef"
+      "title": "Coconut oil jet fuel matches kerosene's efficiency in engine tests",
+      "url": "https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/",
+      "score": 164,
+      "comments": 188,
+      "author": "mdp2021"
     }
   ]
 }

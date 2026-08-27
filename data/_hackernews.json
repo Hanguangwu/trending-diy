@@ -1,237 +1,237 @@
 {
-  "updatedAt": "2026-08-26T04:33:53.642Z",
+  "updatedAt": "2026-08-27T14:55:36.286Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Apple introduces M6 and M5 Ultra",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "score": 1027,
-      "comments": 948,
-      "author": "interpol_p"
+      "title": "Pollen Robotics (Hugging Face) Microduck",
+      "url": "https://pollen-robotics.com/microduck/",
+      "score": 205,
+      "comments": 72,
+      "author": "robotswantdata"
     },
     {
       "rank": 2,
-      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-      "score": 323,
-      "comments": 158,
-      "author": "sunnynagra"
+      "title": "Emacs 31: An unofficial guide to Markdown-ts-mode",
+      "url": "https://rahuljuliato.com/posts/markdown-ts-mode-emacs-31",
+      "score": 46,
+      "comments": 9,
+      "author": "RahulMJ"
     },
     {
       "rank": 3,
-      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
-      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "score": 386,
-      "comments": 257,
-      "author": "bmulholland"
+      "title": "Nvidia agrees to acquire Hugging Face for $13B",
+      "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+      "score": 1564,
+      "comments": 705,
+      "author": "mfiguiere"
     },
     {
       "rank": 4,
-      "title": "New Mac Studio with M5 Max and M5 Ultra",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "score": 725,
-      "comments": 481,
-      "author": "interpol_p"
+      "title": "Harness Engineering",
+      "url": "https://Habitat-Thinking.github.io/ai-literacy-superpowers/plugins/ai-literacy-superpowers/explanation/harness-engineering/",
+      "score": 45,
+      "comments": 21,
+      "author": "tomrod"
     },
     {
       "rank": 5,
-      "title": "Queryable Executables",
-      "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
-      "score": 53,
-      "comments": 7,
-      "author": "rguiscard"
+      "title": "CoMaps integration with the wider FLOSS ecosystem – CoMaps",
+      "url": "https://www.comaps.app/news/2026-08-23/comaps-integration-with-the-wider-floss-ecosystem/",
+      "score": 44,
+      "comments": 4,
+      "author": "janandonly"
     },
     {
       "rank": 6,
-      "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
-      "url": "https://github.com/runetes/maiao",
-      "score": 48,
-      "comments": 19,
-      "author": "zdw"
+      "title": "507 Mechanical Movements",
+      "url": "https://507movements.com/",
+      "score": 10,
+      "comments": 0,
+      "author": "helloplanets"
     },
     {
       "rank": 7,
-      "title": "Black hole singularity is a surface not a point",
-      "url": "https://arxiv.org/abs/2608.21590",
-      "score": 213,
-      "comments": 152,
-      "author": "raattgift"
+      "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
+      "url": "https://aiandeducation.mit.edu/report/",
+      "score": 21,
+      "comments": 6,
+      "author": "pbui"
     },
     {
       "rank": 8,
-      "title": "New Mac mini, featuring M6 and M5 Pro",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-      "score": 457,
-      "comments": 281,
-      "author": "runako"
+      "title": "Trade (and Tariffs)",
+      "url": "https://xkcd.com/3290/",
+      "score": 89,
+      "comments": 8,
+      "author": "throw0101d"
     },
     {
       "rank": 9,
-      "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
-      "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-      "score": 89,
-      "comments": 38,
-      "author": "rbanffy"
+      "title": "Confdiff – semantic diff for config files (JSON/YAML/TOML) that redacts secrets",
+      "url": "https://github.com/esperanza-volkov/confdiff",
+      "score": 12,
+      "comments": 3,
+      "author": "esperanzavolkov"
     },
     {
       "rank": 10,
-      "title": "C2PA Cameras Do Not Survive Contact with Reality",
-      "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-      "score": 106,
-      "comments": 56,
-      "author": "Retr0id"
+      "title": "Show HN: RealDiff – runtime behavior diffing for pull requests (six languages)",
+      "url": "https://github.com/issacnitin/RealDiff",
+      "score": 18,
+      "comments": 1,
+      "author": "issacnitin"
     },
     {
       "rank": 11,
-      "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
-      "url": "https://arxiv.org/abs/2607.21503",
-      "score": 9,
-      "comments": 3,
-      "author": "gdad"
-    },
-    {
-      "rank": 12,
-      "title": "Nitter and XCancel receive cease and desist notices",
-      "url": "https://github.com/zedeus/nitter/issues/1442",
-      "score": 725,
-      "comments": 620,
-      "author": "Banditoz"
+      "title": "Show HN: Restoredrill – proves your Postgres backups restore",
+      "url": "https://github.com/ahmadpiran/restoredrill",
+      "score": 6,
+      "comments": 2,
+      "author": "ahmadpiran"
     },
     {
       "rank": 13,
-      "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
-      "url": "https://github.com/swimmingbrain/texbrain",
-      "score": 70,
-      "comments": 11,
-      "author": "swimmingbrain"
+      "title": "Mechanical Turk shutting down September 30",
+      "url": "https://www.mturk.com/",
+      "score": 472,
+      "comments": 145,
+      "author": "tmp10423288442"
     },
     {
       "rank": 14,
-      "title": "Run OpenBSD on DigitalOcean for $4/month",
-      "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-      "score": 138,
-      "comments": 65,
-      "author": "speckx"
+      "title": "French CII's Mitra-15 in SIMH. Work in Progress",
+      "url": "https://github.com/JPLeRouzic/Mitra-15-for-SIMH",
+      "score": 3,
+      "comments": 1,
+      "author": "JPLeRouzic"
     },
     {
       "rank": 15,
-      "title": "Building a backyard office, the build and cost breakdown",
-      "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
-      "score": 296,
-      "comments": 202,
-      "author": "surprisetalk"
+      "title": "AC2 Protocol: The missing security layer for AI agents",
+      "url": "https://www.ac2protocol.org",
+      "score": 13,
+      "comments": 11,
+      "author": "josephcecala"
     },
     {
       "rank": 16,
-      "title": "Ask HN: What is one simple thing LLMs are insanely bad at?",
-      "url": "https://news.ycombinator.com/item?id=49443820",
-      "score": 22,
-      "comments": 38,
-      "author": "davidest"
+      "title": "U.S. State Department pauses immigrant visa applications",
+      "url": "https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23",
+      "score": 731,
+      "comments": 1071,
+      "author": "sss111"
     },
     {
       "rank": 17,
-      "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
-      "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-      "score": 289,
-      "comments": 147,
-      "author": "speckx"
+      "title": "US Government Designates Host of Noblogs.org a \"Global Terrorist\"",
+      "url": "https://crimethinc.com/2026/08/27/us-government-designates-host-of-noblogsorg-a-global-terrorist",
+      "score": 49,
+      "comments": 8,
+      "author": "robtherobber"
     },
     {
       "rank": 18,
-      "title": "Tooltips need a delay, and then they need to skip it",
-      "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
-      "score": 133,
-      "comments": 34,
-      "author": "ibobev"
+      "title": "Six Months of Writing Code Exclusively with Agents",
+      "url": "https://blog.exe.dev/engineering-with-ai",
+      "score": 5,
+      "comments": 0,
+      "author": "bryanmikaelian"
     },
     {
       "rank": 19,
-      "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
-      "url": "https://github.com/jeffhajewski/latticedb",
-      "score": 128,
-      "comments": 36,
-      "author": "smiths1999"
+      "title": "Tell HN: PayPal Blocks GrapheneOS",
+      "url": "https://news.ycombinator.com/item?id=49462253",
+      "score": 281,
+      "comments": 161,
+      "author": "leumon"
     },
     {
       "rank": 20,
-      "title": "Don't Wordle",
-      "url": "https://dontwordle.com/",
-      "score": 324,
-      "comments": 117,
-      "author": "Hbruz0"
+      "title": "Asahi Linux Progress Report: Linux 7.2",
+      "url": "https://asahilinux.org/2026/08/progress-report-7-2/",
+      "score": 355,
+      "comments": 180,
+      "author": "pizzaiolo"
     },
     {
       "rank": 21,
-      "title": "Dolly Parton has died",
-      "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
-      "score": 1328,
-      "comments": 201,
-      "author": "helsinkiandrew"
+      "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
+      "url": "https://github.com/tailscale/tailcat",
+      "score": 631,
+      "comments": 114,
+      "author": "nderjung"
     },
     {
       "rank": 22,
-      "title": "Show HN: I made a Raspberry with Qwen my local car AI",
-      "url": "https://github.com/ThinkOffApp/CarWatch",
-      "score": 117,
-      "comments": 30,
-      "author": "petruspennanen"
+      "title": "An ongoing 3D-printer AGPL violation",
+      "url": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
+      "score": 460,
+      "comments": 200,
+      "author": "Velocifyer"
     },
     {
       "rank": 23,
-      "title": "My Friend Aaron",
-      "url": "https://rorz.io/writing/my-friend-aaron",
-      "score": 489,
-      "comments": 133,
-      "author": "sarreph"
+      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "url": "https://github.com/SenteLabsAI/OpenExecutive",
+      "score": 825,
+      "comments": 552,
+      "author": "GrumpySciGuy"
     },
     {
       "rank": 24,
-      "title": "A brief history of federal lift ticket regulation",
-      "url": "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket",
-      "score": 50,
-      "comments": 6,
-      "author": "CGMthrowaway"
+      "title": "Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022",
+      "url": "https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html",
+      "score": 246,
+      "comments": 172,
+      "author": "totetsu"
     },
     {
       "rank": 25,
-      "title": "Firefox 157 will include JPEG XL by default on all platforms",
-      "url": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
-      "score": 313,
-      "comments": 86,
-      "author": "yboris"
+      "title": "Stripe acquires Clerky",
+      "url": "https://www.clerky.com/blog/clerky-is-joining-stripe",
+      "score": 225,
+      "comments": 53,
+      "author": "zakshay"
     },
     {
       "rank": 26,
-      "title": "Visualizing Binary Files",
-      "url": "https://movq.de/blog/postings/2026-08-05/0/POSTING-en.html",
-      "score": 92,
-      "comments": 17,
-      "author": "zdw"
+      "title": "Did Meta's Big Settlement Actually Help It?",
+      "url": "https://www.nytimes.com/2026/08/27/business/dealbook/meta-settlement-teens.html",
+      "score": 20,
+      "comments": 5,
+      "author": "thm"
     },
     {
       "rank": 27,
-      "title": "Tracking Costco gas prices",
-      "url": "https://www.jack.bio/blog/costco-gas-tracking",
-      "score": 96,
-      "comments": 98,
-      "author": "lafond"
+      "title": "Show HN: The load-bearing vocabulary of Claude",
+      "url": "https://louisabraham.github.io/load-bearing/",
+      "score": 24,
+      "comments": 0,
+      "author": "Labo333"
+    },
+    {
+      "rank": 28,
+      "title": "The Hugging Face incident and the road ahead",
+      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
+      "score": 305,
+      "comments": 397,
+      "author": "amrrs"
     },
     {
       "rank": 29,
-      "title": "Show HN: I built self-hosted deployment automation tool for Windows and IIS",
-      "url": "https://fdeploy.com/",
-      "score": 27,
-      "comments": 13,
-      "author": "dt3ft"
+      "title": "The Harness Is the Thing",
+      "url": "https://scott-fryxell.github.io/blog/the-harness-is-the-thing/",
+      "score": 175,
+      "comments": 93,
+      "author": "sfryxell"
     },
     {
       "rank": 30,
-      "title": "The brain may be about to have its Ozempic moment",
-      "url": "https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment",
-      "score": 64,
-      "comments": 47,
-      "author": "Anon84"
+      "title": "Zohran and the Short Link",
+      "url": "https://iamwillwang.com/notes/zohran-and-the-short-link/",
+      "score": 256,
+      "comments": 134,
+      "author": "wxw"
     }
   ]
 }

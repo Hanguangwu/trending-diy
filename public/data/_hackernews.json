@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-08-30T09:40:15.752Z",
+  "updatedAt": "2026-08-31T10:22:19.218Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
-      "url": "https://arxiv.org/abs/1804.07389",
-      "score": 22,
-      "comments": 4,
-      "author": "joebig"
+      "title": "OpenShot 4.0: Record, Edit, and Color Like Never Before",
+      "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
+      "score": 10,
+      "comments": 0,
+      "author": "metrofun"
     },
     {
       "rank": 2,
-      "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
-      "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
-      "score": 9,
-      "comments": 0,
-      "author": "vntok"
+      "title": "“I just chose words carefully”",
+      "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+      "score": 816,
+      "comments": 209,
+      "author": "zdw"
     },
     {
       "rank": 3,
-      "title": "RISC-V is now officially supported by CPython",
-      "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
-      "score": 163,
-      "comments": 33,
-      "author": "lumpa"
+      "title": "Breaking Claude Code Opus 5 Auto Mode",
+      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+      "score": 31,
+      "comments": 1,
+      "author": "Recursing"
     },
     {
       "rank": 4,
-      "title": "Hy4 preview",
-      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
-      "score": 296,
-      "comments": 188,
-      "author": "shenli3514"
+      "title": "P99 0 ms* autocomplete for 240M domain names",
+      "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
+      "score": 131,
+      "comments": 56,
+      "author": "dbalatero"
     },
     {
       "rank": 5,
-      "title": "Bug Blindness",
-      "url": "https://danluu.com/bug-blind/",
-      "score": 252,
-      "comments": 141,
-      "author": "davidmckenna"
+      "title": "Creepy Crawlies",
+      "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+      "score": 1176,
+      "comments": 584,
+      "author": "zdw"
     },
     {
       "rank": 6,
-      "title": "FreeCORE TrueNAS Core – Continued",
-      "url": "https://freecore.org/",
-      "score": 97,
-      "comments": 56,
-      "author": "sashk"
+      "title": "My hobby of building miniatures and taking pretty pictures",
+      "url": "https://sandyuraz.com/blogs/tiny-cafe/",
+      "score": 145,
+      "comments": 23,
+      "author": "thecsw"
     },
     {
       "rank": 7,
-      "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
-      "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
-      "score": 276,
-      "comments": 106,
-      "author": "shscs911"
+      "title": "Highlighting My Code Based on How Much I Care",
+      "url": "https://hank.bond/posts/highlighting-my-code-based-on-how-much-i-care/",
+      "score": 60,
+      "comments": 28,
+      "author": "hankbond"
     },
     {
       "rank": 8,
-      "title": "Xcena and Samsung's Near Memory Compute CXL Device",
-      "url": "https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs",
-      "score": 5,
-      "comments": 0,
-      "author": "klelatti"
-    },
-    {
-      "rank": 9,
-      "title": "Tether: iMessage, SMS, etc. on Linux",
-      "url": "https://zackbartel.com/blog/2026/08/tether/",
-      "score": 459,
-      "comments": 180,
-      "author": "zackb"
-    },
-    {
-      "rank": 10,
-      "title": "The Einstein-Szilard Refrigerator",
-      "url": "https://invention.si.edu/invention-stories/einstein-szilard-refrigerator",
-      "score": 18,
-      "comments": 3,
-      "author": "EndXA"
-    },
-    {
-      "rank": 11,
-      "title": "Benjamin Franklin's Alter Egos Gave Him the Most Freedom",
-      "url": "https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/",
-      "score": 63,
-      "comments": 24,
-      "author": "cisc"
-    },
-    {
-      "rank": 12,
-      "title": "Nancy Grace Roman Space Telescope",
-      "url": "https://science.nasa.gov/mission/roman-space-telescope/",
-      "score": 194,
-      "comments": 79,
-      "author": "JumpCrisscross"
-    },
-    {
-      "rank": 13,
-      "title": "Iceland rejects reopening talks on EU entry",
-      "url": "https://www.ft.com/content/53b5abd8-2919-4dc6-8dd6-81fc054e8b6f",
-      "score": 28,
-      "comments": 12,
-      "author": "JumpCrisscross"
-    },
-    {
-      "rank": 14,
-      "title": "Benchmarking Pocket-Scale Inference",
-      "url": "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones",
-      "score": 45,
-      "comments": 4,
-      "author": "sys42590"
-    },
-    {
-      "rank": 15,
-      "title": "Creating Teensy ELF Executables for Linux (Or, \"Size Is Everything\") (1999)",
-      "url": "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html",
-      "score": 43,
-      "comments": 10,
-      "author": "Bluestein"
-    },
-    {
-      "rank": 16,
-      "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
-      "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
-      "score": 299,
-      "comments": 169,
-      "author": "DeepLogin"
-    },
-    {
-      "rank": 17,
-      "title": "SQLite as a Document Database (2020)",
-      "url": "https://dgl.cx/2020/06/sqlite-json-support",
-      "score": 213,
-      "comments": 49,
-      "author": "lioeters"
-    },
-    {
-      "rank": 18,
-      "title": "The Rise and Fall of Agent Civilizations",
-      "url": "https://www.dwarkesh.com/p/openai-huggingface",
-      "score": 108,
-      "comments": 51,
-      "author": "consumer451"
-    },
-    {
-      "rank": 19,
-      "title": "Orbs",
-      "url": "https://ampcode.com/notes/orbs-explained",
-      "score": 3,
+      "title": "uv: Deduplicate all files in the wheel cache",
+      "url": "https://github.com/astral-sh/uv/pull/21327",
+      "score": 33,
       "comments": 0,
       "author": "tosh"
     },
     {
+      "rank": 9,
+      "title": "A 12TB Steam \"teraleak\" spills more than a decade of lost PC gaming history",
+      "url": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
+      "score": 140,
+      "comments": 19,
+      "author": "WithinReason"
+    },
+    {
+      "rank": 10,
+      "title": "Matrox: Graphics for Professionals",
+      "url": "https://www.abortretry.fail/p/matrox",
+      "score": 119,
+      "comments": 34,
+      "author": "BirAdam"
+    },
+    {
+      "rank": 11,
+      "title": "Understanding ChatGPT Work",
+      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+      "score": 192,
+      "comments": 88,
+      "author": "gmays"
+    },
+    {
+      "rank": 12,
+      "title": "Haiku R1/beta6 has been released",
+      "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+      "score": 326,
+      "comments": 92,
+      "author": "metrofun"
+    },
+    {
+      "rank": 13,
+      "title": "Formalization of the Solution to the Hopf Problem",
+      "url": "https://github.com/plby/HopfProblem",
+      "score": 10,
+      "comments": 1,
+      "author": "robinhouston"
+    },
+    {
+      "rank": 14,
+      "title": "What 2000 Buried Underpants Revealed About Where Soil Is Most Alive",
+      "url": "https://studyfinds.com/what-2000-buried-underpants-revealed-about-where-soil-is-most-alive/",
+      "score": 26,
+      "comments": 4,
+      "author": "mdp2021"
+    },
+    {
+      "rank": 15,
+      "title": "How to build a diffusion language model",
+      "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
+      "score": 98,
+      "comments": 9,
+      "author": "volodia"
+    },
+    {
+      "rank": 16,
+      "title": "Show HN: NFC Energy-Harvesting PCB Business Card with an MCU",
+      "url": "https://wilsonharper.net/projects/businesscard/",
+      "score": 172,
+      "comments": 19,
+      "author": "WilsonHarper"
+    },
+    {
+      "rank": 17,
+      "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
+      "url": "https://www.righto.com/2026/08/spacelab-core-memory.html",
+      "score": 110,
+      "comments": 18,
+      "author": "pwg"
+    },
+    {
+      "rank": 18,
+      "title": "Study: Blue light impairs the eye's ability to distinguish fine detail most",
+      "url": "https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds/",
+      "score": 3,
+      "comments": 0,
+      "author": "giuliomagnifico"
+    },
+    {
+      "rank": 19,
+      "title": "Transfer files over an Ethernet patch cable",
+      "url": "https://maurycyz.com/misc/etherfiles/",
+      "score": 99,
+      "comments": 88,
+      "author": "jllyhill"
+    },
+    {
       "rank": 20,
-      "title": "EVE Online moves to Python 3",
-      "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
-      "score": 354,
-      "comments": 197,
-      "author": "TylerJaacks"
+      "title": "OpenClaw 2.0, Accidentally",
+      "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
+      "score": 100,
+      "comments": 101,
+      "author": "doppp"
     },
     {
       "rank": 21,
-      "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
-      "url": "https://dl.acm.org/doi/10.1145/3830438.3830958",
-      "score": 88,
-      "comments": 35,
-      "author": "matt_d"
+      "title": "Hacking IKEA Furniture",
+      "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
+      "score": 323,
+      "comments": 232,
+      "author": "greenlightning"
     },
     {
       "rank": 22,
-      "title": "Is it safe to call print in a Python signal handler?",
-      "url": "https://iafisher.com/2026/08/sigprint",
-      "score": 47,
-      "comments": 25,
-      "author": "hellerve"
+      "title": "It takes 5 cloud services to hear my doorbell",
+      "url": "https://blog.vghaisas.com/rube-goldberg-doorbell/",
+      "score": 162,
+      "comments": 154,
+      "author": "vghaisas"
     },
     {
       "rank": 23,
-      "title": "Glacier Mice",
-      "url": "https://en.wikipedia.org/wiki/Glacier_mice",
-      "score": 299,
-      "comments": 59,
-      "author": "ostacke"
+      "title": "Sort branches by last commit date",
+      "url": "https://ryangreenberg.com/til/git-branches-by-commit-date/",
+      "score": 125,
+      "comments": 44,
+      "author": "speckx"
     },
     {
       "rank": 24,
-      "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
-      "url": "https://github.com/mk6i/open-oscar-server",
-      "score": 37,
-      "comments": 13,
-      "author": "gregsadetsky"
+      "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
+      "url": "https://github.com/KodeMunkie/sm750hdmifb",
+      "score": 111,
+      "comments": 37,
+      "author": "SillyUsername"
     },
     {
       "rank": 25,
-      "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
-      "url": "https://tucker.wales/writing/bias-towards-action/",
-      "score": 159,
-      "comments": 62,
-      "author": "tuckerwales"
+      "title": "Relm4 makes developing beautiful cross-platform applications idiomatic",
+      "url": "https://relm4.org/",
+      "score": 45,
+      "comments": 21,
+      "author": "Bluestein"
     },
     {
       "rank": 26,
-      "title": "Brits would quite like their private messages to stay private",
-      "url": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
-      "score": 3,
-      "comments": 1,
-      "author": "defrost"
+      "title": "Continuous Diffusion Language Models (CDLM's)",
+      "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+      "score": 109,
+      "comments": 36,
+      "author": "peter_d_sherman"
     },
     {
       "rank": 27,
-      "title": "Pop-2000, a lingua-franca POP-2 dialect",
-      "url": "https://hitogata.neocities.org/POP-2000",
-      "score": 13,
-      "comments": 1,
-      "author": "surprisetalk"
+      "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
+      "url": "https://komoroske.com/slime-mold/",
+      "score": 164,
+      "comments": 46,
+      "author": "rzk"
     },
     {
       "rank": 28,
-      "title": "Samsung's Processing-in-Memory (PIM)",
-      "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
-      "score": 260,
-      "comments": 103,
-      "author": "ingve"
+      "title": "Dad’s Custom Atari Peripherals",
+      "url": "https://www.goto10retro.com/p/dads-custom-atari-peripherals",
+      "score": 133,
+      "comments": 16,
+      "author": "rbanffy"
     },
     {
       "rank": 29,
-      "title": "Algorithmic rent-pricing litigation expands under new state and local laws",
-      "url": "https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws",
-      "score": 78,
-      "comments": 45,
-      "author": "toomuchtodo"
+      "title": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
+      "url": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails",
+      "score": 38,
+      "comments": 20,
+      "author": "Bluestein"
     },
     {
       "rank": 30,
-      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-      "url": "https://github.com/Lakr233/vphone-cli",
-      "score": 401,
-      "comments": 108,
-      "author": "hentrep"
+      "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+      "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+      "score": 238,
+      "comments": 94,
+      "author": "vntok"
     }
   ]
 }

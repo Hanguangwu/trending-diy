@@ -1,245 +1,237 @@
 {
-  "updatedAt": "2026-08-31T10:22:19.218Z",
+  "updatedAt": "2026-09-01T09:05:26.356Z",
   "stories": [
     {
       "rank": 1,
-      "title": "OpenShot 4.0: Record, Edit, and Color Like Never Before",
-      "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
-      "score": 10,
-      "comments": 0,
-      "author": "metrofun"
+      "title": "GPU World",
+      "url": "https://www.gpuworld.org/",
+      "score": 207,
+      "comments": 90,
+      "author": "simonpure"
     },
     {
       "rank": 2,
-      "title": "“I just chose words carefully”",
-      "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
-      "score": 816,
-      "comments": 209,
-      "author": "zdw"
+      "title": "Fastpotify",
+      "url": "https://fastpotify.rocks/",
+      "score": 351,
+      "comments": 172,
+      "author": "nreece"
     },
     {
       "rank": 3,
-      "title": "Breaking Claude Code Opus 5 Auto Mode",
-      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
-      "score": 31,
-      "comments": 1,
-      "author": "Recursing"
+      "title": "Tmp.0ut Volume 5",
+      "url": "https://tmpout.sh/5/",
+      "score": 50,
+      "comments": 18,
+      "author": "ghuntley"
     },
     {
       "rank": 4,
-      "title": "P99 0 ms* autocomplete for 240M domain names",
-      "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
-      "score": 131,
-      "comments": 56,
-      "author": "dbalatero"
+      "title": "Restroom Archive",
+      "url": "https://restroomarchive.com",
+      "score": 114,
+      "comments": 33,
+      "author": "jcalx"
     },
     {
       "rank": 5,
-      "title": "Creepy Crawlies",
-      "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
-      "score": 1176,
-      "comments": 584,
-      "author": "zdw"
+      "title": "Playa Phone",
+      "url": "https://playaphone.com/",
+      "score": 619,
+      "comments": 209,
+      "author": "cutoff"
     },
     {
       "rank": 6,
-      "title": "My hobby of building miniatures and taking pretty pictures",
-      "url": "https://sandyuraz.com/blogs/tiny-cafe/",
-      "score": 145,
-      "comments": 23,
-      "author": "thecsw"
-    },
-    {
-      "rank": 7,
-      "title": "Highlighting My Code Based on How Much I Care",
-      "url": "https://hank.bond/posts/highlighting-my-code-based-on-how-much-i-care/",
-      "score": 60,
-      "comments": 28,
-      "author": "hankbond"
-    },
-    {
-      "rank": 8,
-      "title": "uv: Deduplicate all files in the wheel cache",
-      "url": "https://github.com/astral-sh/uv/pull/21327",
-      "score": 33,
-      "comments": 0,
-      "author": "tosh"
-    },
-    {
-      "rank": 9,
-      "title": "A 12TB Steam \"teraleak\" spills more than a decade of lost PC gaming history",
-      "url": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
-      "score": 140,
-      "comments": 19,
-      "author": "WithinReason"
-    },
-    {
-      "rank": 10,
-      "title": "Matrox: Graphics for Professionals",
-      "url": "https://www.abortretry.fail/p/matrox",
-      "score": 119,
-      "comments": 34,
-      "author": "BirAdam"
-    },
-    {
-      "rank": 11,
-      "title": "Understanding ChatGPT Work",
-      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
-      "score": 192,
-      "comments": 88,
-      "author": "gmays"
-    },
-    {
-      "rank": 12,
-      "title": "Haiku R1/beta6 has been released",
-      "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
-      "score": 326,
-      "comments": 92,
-      "author": "metrofun"
-    },
-    {
-      "rank": 13,
-      "title": "Formalization of the Solution to the Hopf Problem",
-      "url": "https://github.com/plby/HopfProblem",
-      "score": 10,
-      "comments": 1,
-      "author": "robinhouston"
-    },
-    {
-      "rank": 14,
-      "title": "What 2000 Buried Underpants Revealed About Where Soil Is Most Alive",
-      "url": "https://studyfinds.com/what-2000-buried-underpants-revealed-about-where-soil-is-most-alive/",
-      "score": 26,
-      "comments": 4,
-      "author": "mdp2021"
-    },
-    {
-      "rank": 15,
-      "title": "How to build a diffusion language model",
-      "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
-      "score": 98,
-      "comments": 9,
-      "author": "volodia"
-    },
-    {
-      "rank": 16,
-      "title": "Show HN: NFC Energy-Harvesting PCB Business Card with an MCU",
-      "url": "https://wilsonharper.net/projects/businesscard/",
-      "score": 172,
-      "comments": 19,
-      "author": "WilsonHarper"
-    },
-    {
-      "rank": 17,
-      "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
-      "url": "https://www.righto.com/2026/08/spacelab-core-memory.html",
-      "score": 110,
-      "comments": 18,
-      "author": "pwg"
-    },
-    {
-      "rank": 18,
-      "title": "Study: Blue light impairs the eye's ability to distinguish fine detail most",
-      "url": "https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds/",
-      "score": 3,
-      "comments": 0,
-      "author": "giuliomagnifico"
-    },
-    {
-      "rank": 19,
-      "title": "Transfer files over an Ethernet patch cable",
-      "url": "https://maurycyz.com/misc/etherfiles/",
-      "score": 99,
-      "comments": 88,
-      "author": "jllyhill"
-    },
-    {
-      "rank": 20,
-      "title": "OpenClaw 2.0, Accidentally",
-      "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-      "score": 100,
-      "comments": 101,
-      "author": "doppp"
-    },
-    {
-      "rank": 21,
-      "title": "Hacking IKEA Furniture",
-      "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
-      "score": 323,
-      "comments": 232,
-      "author": "greenlightning"
-    },
-    {
-      "rank": 22,
-      "title": "It takes 5 cloud services to hear my doorbell",
-      "url": "https://blog.vghaisas.com/rube-goldberg-doorbell/",
-      "score": 162,
-      "comments": 154,
-      "author": "vghaisas"
-    },
-    {
-      "rank": 23,
-      "title": "Sort branches by last commit date",
-      "url": "https://ryangreenberg.com/til/git-branches-by-commit-date/",
-      "score": 125,
-      "comments": 44,
+      "title": "I turned my security cameras into an automatic bird identification system",
+      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+      "score": 493,
+      "comments": 118,
       "author": "speckx"
     },
     {
+      "rank": 7,
+      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+      "score": 325,
+      "comments": 38,
+      "author": "keithcarolus"
+    },
+    {
+      "rank": 8,
+      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+      "score": 412,
+      "comments": 60,
+      "author": "matthewsinclair"
+    },
+    {
+      "rank": 9,
+      "title": "Dwarf Fortress is getting the mother of all magic updates",
+      "url": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe",
+      "score": 407,
+      "comments": 167,
+      "author": "Tomte"
+    },
+    {
+      "rank": 11,
+      "title": "RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3",
+      "url": "https://github.com/fregacmols/RotaryCell",
+      "score": 57,
+      "comments": 8,
+      "author": "jombib"
+    },
+    {
+      "rank": 12,
+      "title": "Polishing Cloth Updated",
+      "url": "https://512pixels.net/2026/08/polishing-cloth-updated/",
+      "score": 11,
+      "comments": 4,
+      "author": "zdw"
+    },
+    {
+      "rank": 13,
+      "title": "Evidence of Fraud in an Influential Study About Procrastination",
+      "url": "https://datacolada.org/138",
+      "score": 227,
+      "comments": 156,
+      "author": "Anon84"
+    },
+    {
+      "rank": 14,
+      "title": "Borges Labyrinth in Venice reopens to the public",
+      "url": "https://www.wallpaper.com/design-interiors/labirinto-borges-venice-reopening",
+      "score": 68,
+      "comments": 26,
+      "author": "gone35"
+    },
+    {
+      "rank": 15,
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "score": 400,
+      "comments": 448,
+      "author": "thm"
+    },
+    {
+      "rank": 16,
+      "title": "Show HN: Laser Graffiti",
+      "url": "https://laser.consti.de",
+      "score": 190,
+      "comments": 39,
+      "author": "con"
+    },
+    {
+      "rank": 17,
+      "title": "Roget's Thesaurus",
+      "url": "https://artflsrv04.uchicago.edu/roget-thesaurus/",
+      "score": 14,
+      "comments": 1,
+      "author": "gregsadetsky"
+    },
+    {
+      "rank": 18,
+      "title": "2004 RuneScape fit a multiplayer RPG into 56k dial-up",
+      "url": "https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/",
+      "score": 110,
+      "comments": 57,
+      "author": "fagnerbrack"
+    },
+    {
+      "rank": 19,
+      "title": "Flat vs. segmented memory – it's recursive",
+      "url": "https://www.humprog.org/~stephen/blog/2026/08/25/#flat-vs-segmented",
+      "score": 21,
+      "comments": 0,
+      "author": "signa11"
+    },
+    {
+      "rank": 20,
+      "title": "I think the military commissary's freezers were hacked",
+      "url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
+      "score": 338,
+      "comments": 195,
+      "author": "jcurbo"
+    },
+    {
+      "rank": 21,
+      "title": "Cheap GPS jammers are filling the world with navigation dead zones",
+      "url": "https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261",
+      "score": 136,
+      "comments": 133,
+      "author": "vinnyglennon"
+    },
+    {
+      "rank": 22,
+      "title": "Smartphone LED detects hidden cameras with AI",
+      "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
+      "score": 208,
+      "comments": 60,
+      "author": "geox"
+    },
+    {
+      "rank": 23,
+      "title": "DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs",
+      "url": "https://www.dolthub.com/blog/2026-08-31-doltlite-beta/",
+      "score": 38,
+      "comments": 25,
+      "author": "lbw1215"
+    },
+    {
       "rank": 24,
-      "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
-      "url": "https://github.com/KodeMunkie/sm750hdmifb",
-      "score": 111,
-      "comments": 37,
-      "author": "SillyUsername"
+      "title": "Lion-man",
+      "url": "https://en.wikipedia.org/wiki/Lion-man",
+      "score": 106,
+      "comments": 54,
+      "author": "gurjeet"
     },
     {
       "rank": 25,
-      "title": "Relm4 makes developing beautiful cross-platform applications idiomatic",
-      "url": "https://relm4.org/",
-      "score": 45,
-      "comments": 21,
-      "author": "Bluestein"
+      "title": "Reverse engineering my ADHD test",
+      "url": "https://nullpt.rs/reverse-engineering-adhd-test",
+      "score": 216,
+      "comments": 126,
+      "author": "hazebooth"
     },
     {
       "rank": 26,
-      "title": "Continuous Diffusion Language Models (CDLM's)",
-      "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-      "score": 109,
-      "comments": 36,
-      "author": "peter_d_sherman"
-    },
-    {
-      "rank": 27,
-      "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
-      "url": "https://komoroske.com/slime-mold/",
-      "score": 164,
-      "comments": 46,
-      "author": "rzk"
-    },
-    {
-      "rank": 28,
-      "title": "Dad’s Custom Atari Peripherals",
-      "url": "https://www.goto10retro.com/p/dads-custom-atari-peripherals",
-      "score": 133,
-      "comments": 16,
-      "author": "rbanffy"
-    },
-    {
-      "rank": 29,
-      "title": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
-      "url": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails",
-      "score": 38,
-      "comments": 20,
+      "title": "RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
+      "url": "https://ravynos.com/",
+      "score": 198,
+      "comments": 114,
       "author": "Bluestein"
     },
     {
+      "rank": 27,
+      "title": "Interactive pattern discovery in binaries (FF-16-TUI)",
+      "url": "https://github.com/HexLasso/FF-16-TUI",
+      "score": 32,
+      "comments": 3,
+      "author": "HexLasso"
+    },
+    {
+      "rank": 28,
+      "title": "Vermell – Minimal, dependency-free C++ web framework using epoll",
+      "url": "https://github.com/vermellcc/vermell",
+      "score": 19,
+      "comments": 9,
+      "author": "standar-donkey"
+    },
+    {
+      "rank": 29,
+      "title": "ChatGPT Work Tool and Skill Reference",
+      "url": "https://codex-tool-reference.simonw.chatgpt.site/",
+      "score": 215,
+      "comments": 52,
+      "author": "ijidak"
+    },
+    {
       "rank": 30,
-      "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
-      "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
-      "score": 238,
-      "comments": 94,
-      "author": "vntok"
+      "title": "Run macOS Software on Linux",
+      "url": "https://www.darlinghq.org/",
+      "score": 226,
+      "comments": 70,
+      "author": "Bluestein"
     }
   ]
 }

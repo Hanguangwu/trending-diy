@@ -1,0 +1,481 @@
+{
+  "date": "2026-09-02",
+  "updatedAt": "2026-09-02T08:19:02.816Z",
+  "github": {
+    "updatedAt": "2026-09-02T08:19:00.113Z",
+    "repos": [
+      {
+        "rank": 1,
+        "author": "Gitlawb",
+        "name": "openclaude",
+        "fullName": "Gitlawb/openclaude",
+        "url": "https://github.com/Gitlawb/openclaude",
+        "description": "runs anywhere. uses anything",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 31621,
+        "forks": 8973,
+        "builtBy": [
+          {
+            "username": "kevincodex1",
+            "avatar": "https://avatars.githubusercontent.com/u/268502447?s=40&40&v=4"
+          },
+          {
+            "username": "chioarub",
+            "avatar": "https://avatars.githubusercontent.com/u/59725767?s=40&40&v=4"
+          },
+          {
+            "username": "jatmn",
+            "avatar": "https://avatars.githubusercontent.com/u/12479882?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "0xfandom",
+            "avatar": "https://avatars.githubusercontent.com/u/50949929?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "author": "Imbad0202",
+        "name": "academic-research-skills",
+        "fullName": "Imbad0202/academic-research-skills",
+        "url": "https://github.com/Imbad0202/academic-research-skills",
+        "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 45225,
+        "forks": 3563,
+        "builtBy": [
+          {
+            "username": "Imbad0202",
+            "avatar": "https://avatars.githubusercontent.com/u/132531341?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "2023Anita",
+            "avatar": "https://avatars.githubusercontent.com/u/126993554?s=40&40&v=4"
+          },
+          {
+            "username": "madtriceps",
+            "avatar": "https://avatars.githubusercontent.com/u/115035770?s=40&40&v=4"
+          },
+          {
+            "username": "ktao732084-arch",
+            "avatar": "https://avatars.githubusercontent.com/u/254419203?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "author": "THU-MAIC",
+        "name": "OpenMAIC",
+        "fullName": "THU-MAIC/OpenMAIC",
+        "url": "https://github.com/THU-MAIC/OpenMAIC",
+        "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 29987,
+        "forks": 5021,
+        "builtBy": [
+          {
+            "username": "wyuc",
+            "avatar": "https://avatars.githubusercontent.com/u/18752201?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "cosarah",
+            "avatar": "https://avatars.githubusercontent.com/u/117187635?s=40&40&v=4"
+          },
+          {
+            "username": "YizukiAme",
+            "avatar": "https://avatars.githubusercontent.com/u/104178195?s=40&40&v=4"
+          },
+          {
+            "username": "ly-wang19",
+            "avatar": "https://avatars.githubusercontent.com/u/94427531?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "author": "iv-org",
+        "name": "invidious",
+        "fullName": "iv-org/invidious",
+        "url": "https://github.com/iv-org/invidious",
+        "description": "Invidious is an alternative front-end to YouTube",
+        "language": "Crystal",
+        "languageColor": "#000100",
+        "starsToday": 0,
+        "totalStars": 23879,
+        "forks": 2678,
+        "builtBy": [
+          {
+            "username": "omarroth",
+            "avatar": "https://avatars.githubusercontent.com/u/14208607?s=40&40&v=4"
+          },
+          {
+            "username": "SamantazFox",
+            "avatar": "https://avatars.githubusercontent.com/u/52980486?s=40&40&v=4"
+          },
+          {
+            "username": "weblate",
+            "avatar": "https://avatars.githubusercontent.com/u/1607653?s=40&40&v=4"
+          },
+          {
+            "username": "syeopite",
+            "avatar": "https://avatars.githubusercontent.com/u/70992037?s=40&40&v=4"
+          },
+          {
+            "username": "TheFrenchGhosty",
+            "avatar": "https://avatars.githubusercontent.com/u/47571719?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "author": "jingyaogong",
+        "name": "minimind",
+        "fullName": "jingyaogong/minimind",
+        "url": "https://github.com/jingyaogong/minimind",
+        "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 57448,
+        "forks": 7467,
+        "builtBy": [
+          {
+            "username": "jingyaogong",
+            "avatar": "https://avatars.githubusercontent.com/u/62287848?s=40&40&v=4"
+          },
+          {
+            "username": "iomgaa-ycz",
+            "avatar": "https://avatars.githubusercontent.com/u/124225682?s=40&40&v=4"
+          },
+          {
+            "username": "readlnh",
+            "avatar": "https://avatars.githubusercontent.com/u/16349082?s=40&40&v=4"
+          },
+          {
+            "username": "wangzhaode",
+            "avatar": "https://avatars.githubusercontent.com/u/8401806?s=40&40&v=4"
+          },
+          {
+            "username": "TKiteRunner",
+            "avatar": "https://avatars.githubusercontent.com/u/46831957?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "author": "3b1b",
+        "name": "manim",
+        "fullName": "3b1b/manim",
+        "url": "https://github.com/3b1b/manim",
+        "description": "Animation engine for explanatory math videos",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 92735,
+        "forks": 7628,
+        "builtBy": [
+          {
+            "username": "3b1b",
+            "avatar": "https://avatars.githubusercontent.com/u/11601040?s=40&40&v=4"
+          },
+          {
+            "username": "TonyCrane",
+            "avatar": "https://avatars.githubusercontent.com/u/44120331?s=40&40&v=4"
+          },
+          {
+            "username": "bhbr",
+            "avatar": "https://avatars.githubusercontent.com/u/13440601?s=40&40&v=4"
+          },
+          {
+            "username": "YishiMichael",
+            "avatar": "https://avatars.githubusercontent.com/u/50232075?s=40&40&v=4"
+          },
+          {
+            "username": "eulertour",
+            "avatar": "https://avatars.githubusercontent.com/u/43117506?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "author": "firecrawl",
+        "name": "pdf-inspector",
+        "fullName": "firecrawl/pdf-inspector",
+        "url": "https://github.com/firecrawl/pdf-inspector",
+        "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 18148,
+        "forks": 1232,
+        "builtBy": [
+          {
+            "username": "abimaelmartell",
+            "avatar": "https://avatars.githubusercontent.com/u/1450169?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "cursoragent",
+            "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&40&v=4"
+          },
+          {
+            "username": "rth",
+            "avatar": "https://avatars.githubusercontent.com/u/630936?s=40&40&v=4"
+          },
+          {
+            "username": "MADENIYOU",
+            "avatar": "https://avatars.githubusercontent.com/u/125551792?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "author": "browser-use",
+        "name": "video-use",
+        "fullName": "browser-use/video-use",
+        "url": "https://github.com/browser-use/video-use",
+        "description": "Edit videos with coding agents",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 23240,
+        "forks": 2826,
+        "builtBy": [
+          {
+            "username": "gregpr07",
+            "avatar": "https://avatars.githubusercontent.com/u/36313686?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "ShawnPana",
+            "avatar": "https://avatars.githubusercontent.com/u/129362299?s=40&40&v=4"
+          },
+          {
+            "username": "sidorovanthon",
+            "avatar": "https://avatars.githubusercontent.com/u/18312206?s=40&40&v=4"
+          },
+          {
+            "username": "antoinersx",
+            "avatar": "https://avatars.githubusercontent.com/u/118331084?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "author": "K-Dense-AI",
+        "name": "scientific-agent-skills",
+        "fullName": "K-Dense-AI/scientific-agent-skills",
+        "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+        "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 41858,
+        "forks": 3850,
+        "builtBy": [
+          {
+            "username": "TKassis",
+            "avatar": "https://avatars.githubusercontent.com/u/9168908?s=40&40&v=4"
+          },
+          {
+            "username": "cursoragent",
+            "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&40&v=4"
+          },
+          {
+            "username": "borealBytes",
+            "avatar": "https://avatars.githubusercontent.com/u/206480607?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "author": "handsomestWei",
+        "name": "patent-disclosure-skill",
+        "fullName": "handsomestWei/patent-disclosure-skill",
+        "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+        "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 6950,
+        "forks": 771,
+        "builtBy": [
+          {
+            "username": "handsomestWei",
+            "avatar": "https://avatars.githubusercontent.com/u/36500279?s=40&40&v=4"
+          },
+          {
+            "username": "xiaofengShi",
+            "avatar": "https://avatars.githubusercontent.com/u/30405889?s=40&40&v=4"
+          },
+          {
+            "username": "dajiaohuang",
+            "avatar": "https://avatars.githubusercontent.com/u/108231307?s=40&40&v=4"
+          },
+          {
+            "username": "917Dhj",
+            "avatar": "https://avatars.githubusercontent.com/u/135248415?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 11,
+        "author": "VoltAgent",
+        "name": "awesome-design-md",
+        "fullName": "VoltAgent/awesome-design-md",
+        "url": "https://github.com/VoltAgent/awesome-design-md",
+        "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+        "language": null,
+        "languageColor": null,
+        "starsToday": 0,
+        "totalStars": 113242,
+        "forks": 12806,
+        "builtBy": [
+          {
+            "username": "necatiozmen",
+            "avatar": "https://avatars.githubusercontent.com/u/18739364?s=40&40&v=4"
+          },
+          {
+            "username": "omeraplak",
+            "avatar": "https://avatars.githubusercontent.com/u/1110414?s=40&40&v=4"
+          },
+          {
+            "username": "doanbactam",
+            "avatar": "https://avatars.githubusercontent.com/u/24356000?s=40&40&v=4"
+          },
+          {
+            "username": "LeeDoYup",
+            "avatar": "https://avatars.githubusercontent.com/u/33016192?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 12,
+        "author": "averygan",
+        "name": "reclip",
+        "fullName": "averygan/reclip",
+        "url": "https://github.com/averygan/reclip",
+        "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+        "language": "HTML",
+        "languageColor": "#e34c26",
+        "starsToday": 0,
+        "totalStars": 7949,
+        "forks": 1336,
+        "builtBy": [
+          {
+            "username": "averygan",
+            "avatar": "https://avatars.githubusercontent.com/u/88895948?s=40&40&v=4"
+          },
+          {
+            "username": "jouls0217",
+            "avatar": "https://avatars.githubusercontent.com/u/161183892?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "AmanoSpica",
+            "avatar": "https://avatars.githubusercontent.com/u/97675744?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 13,
+        "author": "affaan-m",
+        "name": "ECC",
+        "fullName": "affaan-m/ECC",
+        "url": "https://github.com/affaan-m/ECC",
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 245913,
+        "forks": 37106,
+        "builtBy": [
+          {
+            "username": "affaan-m",
+            "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&40&v=4"
+          },
+          {
+            "username": "haelyra",
+            "avatar": "https://avatars.githubusercontent.com/u/49814733?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "pangerlkr",
+            "avatar": "https://avatars.githubusercontent.com/u/73515951?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 14,
+        "author": "unclecode",
+        "name": "crawl4ai",
+        "fullName": "unclecode/crawl4ai",
+        "url": "https://github.com/unclecode/crawl4ai",
+        "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 81004,
+        "forks": 8365,
+        "builtBy": [
+          {
+            "username": "unclecode",
+            "avatar": "https://avatars.githubusercontent.com/u/12494079?s=40&40&v=4"
+          },
+          {
+            "username": "ntohidi",
+            "avatar": "https://avatars.githubusercontent.com/u/17140097?s=40&40&v=4"
+          },
+          {
+            "username": "aravindkarnam",
+            "avatar": "https://avatars.githubusercontent.com/u/15815124?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "SohamKukreti",
+            "avatar": "https://avatars.githubusercontent.com/u/114597712?s=40&40&v=4"
+          }
+        ]
+      }
+    ]
+  },
+  "productHunt": null,
+  "hackerNews": null
+}

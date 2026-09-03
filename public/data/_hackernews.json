@@ -1,245 +1,237 @@
 {
-  "updatedAt": "2026-09-02T08:19:02.809Z",
+  "updatedAt": "2026-09-03T08:28:27.155Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "score": 1194,
-      "comments": 1116,
-      "author": "denysvitali"
+      "title": "Pre-Release of Polars 2.0",
+      "url": "https://pola.rs/posts/announcing-polars-2/",
+      "score": 57,
+      "comments": 1,
+      "author": "komape"
     },
     {
       "rank": 2,
-      "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
-      "url": "https://arxiv.org/abs/2608.29530",
-      "score": 105,
-      "comments": 31,
-      "author": "schmuhblaster"
+      "title": "Muse Spark 1.3",
+      "url": "https://developer.meta.com/ai/models/muse-spark/",
+      "score": 551,
+      "comments": 377,
+      "author": "bvaldivielso"
     },
     {
       "rank": 3,
-      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-      "url": "https://danluu.com/zitron/",
-      "score": 657,
-      "comments": 726,
-      "author": "jatins"
+      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "score": 991,
+      "comments": 566,
+      "author": "bratao"
     },
     {
       "rank": 4,
-      "title": "Fine, I'll build my own text editor",
-      "url": "https://dbushell.com/2026/09/01/text-editor/",
-      "score": 81,
-      "comments": 68,
-      "author": "Alephinitesimal"
+      "title": "The Computer Museum of America reclamation project",
+      "url": "https://computer-museum.org/wp/",
+      "score": 36,
+      "comments": 11,
+      "author": "rbanffy"
     },
     {
       "rank": 5,
-      "title": "WebFPGA",
-      "url": "https://webfpga.io/",
-      "score": 59,
+      "title": "Holden's Lightning Flight",
+      "url": "https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight",
+      "score": 146,
       "comments": 27,
-      "author": "gurjeet"
+      "author": "ColinWright"
     },
     {
       "rank": 6,
-      "title": "My local model setup on an M4 Pro Mac Mini",
-      "url": "https://lws.io/blog/my-local-model-setup/",
-      "score": 179,
-      "comments": 98,
-      "author": "raybb"
+      "title": "LLMs and Self-Referentiality",
+      "url": "https://scottaaronson.blog/?p=10046",
+      "score": 26,
+      "comments": 14,
+      "author": "mavdol04"
     },
     {
       "rank": 7,
-      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
-      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
-      "score": 182,
-      "comments": 71,
-      "author": "tatersolid"
+      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "score": 397,
+      "comments": 191,
+      "author": "jakobgreenfeld"
     },
     {
       "rank": 8,
-      "title": "Introducing Ad Blocker for Firefox on iOS",
-      "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
-      "score": 434,
-      "comments": 142,
-      "author": "HieronymusBosch"
+      "title": "Google avoids a breakup of its ad tech business",
+      "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
+      "score": 360,
+      "comments": 270,
+      "author": "donohoe"
     },
     {
       "rank": 9,
-      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
-      "url": "https://masteranza.github.io/weedout/",
-      "score": 128,
-      "comments": 57,
-      "author": "masteranza"
+      "title": "Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)",
+      "url": "https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/",
+      "score": 6,
+      "comments": 2,
+      "author": "DamonHD"
     },
     {
       "rank": 10,
-      "title": "Sonic Pi",
-      "url": "https://sonic-pi.net/",
-      "score": 134,
-      "comments": 21,
-      "author": "Bluestein"
+      "title": "Can I opt out of my input or output data being used for training?",
+      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+      "score": 429,
+      "comments": 193,
+      "author": "teekert"
     },
     {
       "rank": 11,
-      "title": "The efficient frontier of LLM inference",
-      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
-      "score": 110,
-      "comments": 26,
-      "author": "philipkiely"
+      "title": "Reverse Engineering Unknown File Formats with ImHex",
+      "url": "https://werwolv.net/posts/file_format_reverse_engineering/",
+      "score": 184,
+      "comments": 34,
+      "author": "carlos-menezes"
     },
     {
       "rank": 12,
-      "title": "True Rate of Unemployment",
-      "url": "https://www.lisep.org/tru",
-      "score": 200,
-      "comments": 156,
-      "author": "ptrhvns"
+      "title": "Higher Multipoles of the Cow",
+      "url": "https://arxiv.org/abs/2504.00506",
+      "score": 61,
+      "comments": 18,
+      "author": "MrOrelliOReilly"
     },
     {
       "rank": 13,
-      "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
-      "url": "https://www.norirobotics.com/",
-      "score": 156,
-      "comments": 45,
-      "author": "AntonioLi"
+      "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+      "url": "https://news.ycombinator.com/item?id=49543530",
+      "score": 56,
+      "comments": 64,
+      "author": "lloydarmbrust"
     },
     {
       "rank": 14,
-      "title": "Ambient CSS v3 – Blender meets CSS",
-      "url": "https://ambientcss.vercel.app/",
-      "score": 256,
-      "comments": 79,
-      "author": "kikkupico"
+      "title": "Fable 5.1 World Modeling",
+      "url": "https://github.com/PhiloLabs/fable51-worlds",
+      "score": 228,
+      "comments": 68,
+      "author": "surreal_"
     },
     {
       "rank": 15,
-      "title": "Movie Scene Map – 13,312 films, series, games, anime and manga",
-      "url": "https://moviescenemap.com/",
-      "score": 231,
+      "title": "Show HN: OwnTime – a chess clock for your day's priorities",
+      "url": "https://owntime.app/",
+      "score": 68,
       "comments": 34,
-      "author": "Flightmussy"
+      "author": "fmos"
     },
     {
       "rank": 16,
-      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
-      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
-      "score": 380,
-      "comments": 175,
-      "author": "timpera"
+      "title": "Biggest dark matter detector spots a single weird particle",
+      "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
+      "score": 284,
+      "comments": 98,
+      "author": "randycupertino"
     },
     {
       "rank": 17,
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "url": "https://openai.com/index/path-to-astra/",
-      "score": 145,
-      "comments": 60,
-      "author": "jithinraj"
+      "title": "Aging brains blend memories together instead of just forgetting them",
+      "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
+      "score": 269,
+      "comments": 115,
+      "author": "mdp2021"
     },
     {
       "rank": 18,
-      "title": "The creator of Jujutsu has joined ERSC",
-      "url": "https://ersc.io/blog/martin-joins-ersc",
-      "score": 228,
-      "comments": 171,
-      "author": "steveklabnik"
+      "title": "Wendell Berry has died",
+      "url": "https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html",
+      "score": 180,
+      "comments": 96,
+      "author": "Curiositry"
     },
     {
       "rank": 19,
-      "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
-      "url": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
-      "score": 120,
-      "comments": 54,
-      "author": "jwise0"
+      "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
+      "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
+      "score": 127,
+      "comments": 77,
+      "author": "gumby"
     },
     {
       "rank": 20,
-      "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
-      "url": "https://hnmatchmaker.com/",
-      "score": 82,
-      "comments": 35,
-      "author": "all2"
+      "title": "Engineering of the fastest WebAssembly interpreters",
+      "url": "https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/",
+      "score": 88,
+      "comments": 6,
+      "author": "herobird"
     },
     {
       "rank": 21,
-      "title": "How bicycle coaster brakes work (2018)",
-      "url": "https://www.dougbarnesauthor.com/2018/06/how-bicycle-coaster-brakes-work.html",
-      "score": 59,
-      "comments": 46,
-      "author": "Vedor"
+      "title": "Exit the Cave",
+      "url": "https://turtlespace.blog/p/exit-the-cave",
+      "score": 252,
+      "comments": 91,
+      "author": "akkartik"
     },
     {
       "rank": 22,
-      "title": "Forgotten History of Small Nuclear Reactors (2015)",
-      "url": "https://spectrum.ieee.org/the-forgotten-history-of-small-nuclear-reactors",
-      "score": 36,
-      "comments": 12,
-      "author": "derriz"
+      "title": "Async Rust vs RTOS showdown (2022)",
+      "url": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/",
+      "score": 83,
+      "comments": 43,
+      "author": "kooi"
     },
     {
       "rank": 23,
-      "title": "Ask HN: Who is hiring? (September 2026)",
-      "url": "https://news.ycombinator.com/item?id=49522897",
-      "score": 212,
-      "comments": 234,
-      "author": "whoishiring"
+      "title": "A Selection of Los Alamos Rolodex Business Cards",
+      "url": "https://clui.org/collections/los-alamos-business-cards/selection-cards",
+      "score": 163,
+      "comments": 42,
+      "author": "1970-01-01"
     },
     {
       "rank": 24,
-      "title": "The Starfish and the Spider [pdf]",
-      "url": "https://earthprayer.net/library/Starfish-and-Spider-Ori-Brafman-Summary.pdf",
-      "score": 3,
-      "comments": 1,
-      "author": "rzk"
+      "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
+      "url": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
+      "score": 56,
+      "comments": 33,
+      "author": "Eridanus2"
     },
     {
       "rank": 25,
-      "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
-      "url": "https://github.com/carloslfu/slotstream",
-      "score": 201,
-      "comments": 95,
-      "author": "carloslfu"
+      "title": "We could save petabytes of cache storage with Zstandard and Pingora",
+      "url": "https://blog.cloudflare.com/cache-transcoding/",
+      "score": 108,
+      "comments": 42,
+      "author": "torutofu"
     },
     {
       "rank": 26,
-      "title": "Building an interactive instrument for a one-of-a-kind festival",
-      "url": "https://benholmen.com/blog/halfmoon-chimes/",
-      "score": 46,
-      "comments": 5,
-      "author": "tjwds"
-    },
-    {
-      "rank": 27,
-      "title": "Atlas: A World Model for Spatial Intelligence",
-      "url": "https://www.worldlabs.ai/blog/atlas",
-      "score": 210,
-      "comments": 49,
-      "author": "johnsutor"
+      "title": "Poisson Disk Sampling",
+      "url": "https://stripeacross.com/posts/poisson-disk-sampling/",
+      "score": 157,
+      "comments": 19,
+      "author": "vismit2000"
     },
     {
       "rank": 28,
-      "title": "Top Web Design Styles of 1993",
-      "url": "https://contemporary-home-computing.org/prof-dr-style/",
-      "score": 35,
-      "comments": 3,
-      "author": "luu"
+      "title": "The shrinking landscape of linguistic diversity in the age of LLMs",
+      "url": "https://www.nature.com/articles/s41562-026-02550-0",
+      "score": 137,
+      "comments": 122,
+      "author": "Anon84"
     },
     {
       "rank": 29,
-      "title": "Building Autonomous Goal Loops That Deliver",
-      "url": "https://jx0.ca/building-autonomous-goal-loops-that-deliver/",
-      "score": 38,
-      "comments": 7,
-      "author": "jarredkenny"
+      "title": "WebLLM: high-performance in-browser LLM inference engine",
+      "url": "https://github.com/mlc-ai/web-llm",
+      "score": 112,
+      "comments": 19,
+      "author": "saikatsg"
     },
     {
       "rank": 30,
-      "title": "Solving the Flat Cube",
-      "url": "https://mathenchant.wordpress.com/2026/08/19/solving-the-flat-cube/",
-      "score": 31,
-      "comments": 5,
-      "author": "surprisetalk"
+      "title": "Reasons robotics is hard",
+      "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
+      "score": 86,
+      "comments": 49,
+      "author": "ddp26"
     }
   ]
 }

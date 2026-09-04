@@ -1,0 +1,636 @@
+{
+  "date": "2026-09-04",
+  "updatedAt": "2026-09-04T08:24:10.693Z",
+  "github": {
+    "updatedAt": "2026-09-04T08:24:08.694Z",
+    "repos": [
+      {
+        "rank": 1,
+        "author": "fmtlib",
+        "name": "fmt",
+        "fullName": "fmtlib/fmt",
+        "url": "https://github.com/fmtlib/fmt",
+        "description": "A modern formatting library",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "starsToday": 0,
+        "totalStars": 25314,
+        "forks": 3024,
+        "builtBy": [
+          {
+            "username": "vitaut",
+            "avatar": "https://avatars.githubusercontent.com/u/576385?s=40&40&v=4"
+          },
+          {
+            "username": "phprus",
+            "avatar": "https://avatars.githubusercontent.com/u/382460?s=40&40&v=4"
+          },
+          {
+            "username": "alexezeder",
+            "avatar": "https://avatars.githubusercontent.com/u/1554508?s=40&40&v=4"
+          },
+          {
+            "username": "DanielaE",
+            "avatar": "https://avatars.githubusercontent.com/u/1381823?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "author": "mattpocock",
+        "name": "skills",
+        "fullName": "mattpocock/skills",
+        "url": "https://github.com/mattpocock/skills",
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "languageColor": "#89e051",
+        "starsToday": 0,
+        "totalStars": 248335,
+        "forks": 21038,
+        "builtBy": [
+          {
+            "username": "mattpocock",
+            "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "gabimoncha",
+            "avatar": "https://avatars.githubusercontent.com/u/39256258?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "author": "NousResearch",
+        "name": "hermes-agent",
+        "fullName": "NousResearch/hermes-agent",
+        "url": "https://github.com/NousResearch/hermes-agent",
+        "description": "The agent that grows with you",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 241093,
+        "forks": 49411,
+        "builtBy": [
+          {
+            "username": "teknium1",
+            "avatar": "https://avatars.githubusercontent.com/u/127238744?s=40&40&v=4"
+          },
+          {
+            "username": "OutThisLife",
+            "avatar": "https://avatars.githubusercontent.com/u/770929?s=40&40&v=4"
+          },
+          {
+            "username": "kshitijk4poor",
+            "avatar": "https://avatars.githubusercontent.com/u/82637225?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "benbarclay",
+            "avatar": "https://avatars.githubusercontent.com/u/413810?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "author": "DietrichGebert",
+        "name": "ponytail",
+        "fullName": "DietrichGebert/ponytail",
+        "url": "https://github.com/DietrichGebert/ponytail",
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 124039,
+        "forks": 6693,
+        "builtBy": [
+          {
+            "username": "DietrichGebert",
+            "avatar": "https://avatars.githubusercontent.com/u/137048761?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "Lakshya77089",
+            "avatar": "https://avatars.githubusercontent.com/u/169168095?s=40&40&v=4"
+          },
+          {
+            "username": "ousamabenyounes",
+            "avatar": "https://avatars.githubusercontent.com/u/2910651?s=40&40&v=4"
+          },
+          {
+            "username": "dhedhialy",
+            "avatar": "https://avatars.githubusercontent.com/u/91044156?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "author": "anthropics",
+        "name": "skills",
+        "fullName": "anthropics/skills",
+        "url": "https://github.com/anthropics/skills",
+        "description": "Public repository for Agent Skills",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 173835,
+        "forks": 20614,
+        "builtBy": [
+          {
+            "username": "rlancemartin",
+            "avatar": "https://avatars.githubusercontent.com/u/122662504?s=40&40&v=4"
+          },
+          {
+            "username": "klazuka",
+            "avatar": "https://avatars.githubusercontent.com/u/84525?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "ericharmeling",
+            "avatar": "https://avatars.githubusercontent.com/u/27286675?s=40&40&v=4"
+          },
+          {
+            "username": "kswan-wk",
+            "avatar": "https://avatars.githubusercontent.com/u/254044062?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "author": "affaan-m",
+        "name": "ECC",
+        "fullName": "affaan-m/ECC",
+        "url": "https://github.com/affaan-m/ECC",
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 247570,
+        "forks": 37311,
+        "builtBy": [
+          {
+            "username": "affaan-m",
+            "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&40&v=4"
+          },
+          {
+            "username": "haelyra",
+            "avatar": "https://avatars.githubusercontent.com/u/49814733?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "pangerlkr",
+            "avatar": "https://avatars.githubusercontent.com/u/73515951?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "author": "JuliusBrussee",
+        "name": "caveman",
+        "fullName": "JuliusBrussee/caveman",
+        "url": "https://github.com/JuliusBrussee/caveman",
+        "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "starsToday": 0,
+        "totalStars": 103272,
+        "forks": 5997,
+        "builtBy": [
+          {
+            "username": "JuliusBrussee",
+            "avatar": "https://avatars.githubusercontent.com/u/104168679?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "hunleyd",
+            "avatar": "https://avatars.githubusercontent.com/u/2753418?s=40&40&v=4"
+          },
+          {
+            "username": "Alot1z",
+            "avatar": "https://avatars.githubusercontent.com/u/16801672?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "author": "blader",
+        "name": "humanizer",
+        "fullName": "blader/humanizer",
+        "url": "https://github.com/blader/humanizer",
+        "description": "Agent skill that removes signs of AI-generated writing from text",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 41924,
+        "forks": 3573,
+        "builtBy": [
+          {
+            "username": "blader",
+            "avatar": "https://avatars.githubusercontent.com/u/1672?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "mvanhorn",
+            "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&40&v=4"
+          },
+          {
+            "username": "warp-agent",
+            "avatar": "https://avatars.githubusercontent.com/u/243858445?s=40&40&v=4"
+          },
+          {
+            "username": "wilu222",
+            "avatar": "https://avatars.githubusercontent.com/u/37253580?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "author": "google-research",
+        "name": "timesfm",
+        "fullName": "google-research/timesfm",
+        "url": "https://github.com/google-research/timesfm",
+        "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 30829,
+        "forks": 2943,
+        "builtBy": [
+          {
+            "username": "rajatsen91",
+            "avatar": "https://avatars.githubusercontent.com/u/8039264?s=40&40&v=4"
+          },
+          {
+            "username": "siriuz42",
+            "avatar": "https://avatars.githubusercontent.com/u/5073569?s=40&40&v=4"
+          },
+          {
+            "username": "misha-chertushkin",
+            "avatar": "https://avatars.githubusercontent.com/u/151166456?s=40&40&v=4"
+          },
+          {
+            "username": "darkpowerxo",
+            "avatar": "https://avatars.githubusercontent.com/u/1857776?s=40&40&v=4"
+          },
+          {
+            "username": "JustinGuese",
+            "avatar": "https://avatars.githubusercontent.com/u/9588843?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "author": "averygan",
+        "name": "reclip",
+        "fullName": "averygan/reclip",
+        "url": "https://github.com/averygan/reclip",
+        "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+        "language": "HTML",
+        "languageColor": "#e34c26",
+        "starsToday": 0,
+        "totalStars": 8611,
+        "forks": 1377,
+        "builtBy": [
+          {
+            "username": "averygan",
+            "avatar": "https://avatars.githubusercontent.com/u/88895948?s=40&40&v=4"
+          },
+          {
+            "username": "jouls0217",
+            "avatar": "https://avatars.githubusercontent.com/u/161183892?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "AmanoSpica",
+            "avatar": "https://avatars.githubusercontent.com/u/97675744?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 11,
+        "author": "bannedbook",
+        "name": "fanqiang",
+        "fullName": "bannedbook/fanqiang",
+        "url": "https://github.com/bannedbook/fanqiang",
+        "description": "翻墙-科学上网",
+        "language": "Kotlin",
+        "languageColor": "#A97BFF",
+        "starsToday": 0,
+        "totalStars": 52501,
+        "forks": 8505,
+        "builtBy": [
+          {
+            "username": "bannedbook",
+            "avatar": "https://avatars.githubusercontent.com/u/4361923?s=40&40&v=4"
+          },
+          {
+            "username": "crazyetiii",
+            "avatar": "https://avatars.githubusercontent.com/u/50905019?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 12,
+        "author": "addyosmani",
+        "name": "agent-skills",
+        "fullName": "addyosmani/agent-skills",
+        "url": "https://github.com/addyosmani/agent-skills",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 92140,
+        "forks": 9820,
+        "builtBy": [
+          {
+            "username": "addyosmani",
+            "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&40&v=4"
+          },
+          {
+            "username": "nucliweb",
+            "avatar": "https://avatars.githubusercontent.com/u/1307927?s=40&40&v=4"
+          },
+          {
+            "username": "federicobartoli",
+            "avatar": "https://avatars.githubusercontent.com/u/27234034?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "Liyuk",
+            "avatar": "https://avatars.githubusercontent.com/u/5470381?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 13,
+        "author": "ByteByteGoHq",
+        "name": "system-design-101",
+        "fullName": "ByteByteGoHq/system-design-101",
+        "url": "https://github.com/ByteByteGoHq/system-design-101",
+        "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+        "language": null,
+        "languageColor": null,
+        "starsToday": 0,
+        "totalStars": 88556,
+        "forks": 9835,
+        "builtBy": [
+          {
+            "username": "slam",
+            "avatar": "https://avatars.githubusercontent.com/u/50348?s=40&40&v=4"
+          },
+          {
+            "username": "nilbuild",
+            "avatar": "https://avatars.githubusercontent.com/u/4921183?s=40&40&v=4"
+          },
+          {
+            "username": "LombardiDaniel",
+            "avatar": "https://avatars.githubusercontent.com/u/50521908?s=40&40&v=4"
+          },
+          {
+            "username": "Stephanvs",
+            "avatar": "https://avatars.githubusercontent.com/u/375631?s=40&40&v=4"
+          },
+          {
+            "username": "alastairp",
+            "avatar": "https://avatars.githubusercontent.com/u/1277202?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 14,
+        "author": "magnitudedev",
+        "name": "magnitude",
+        "fullName": "magnitudedev/magnitude",
+        "url": "https://github.com/magnitudedev/magnitude",
+        "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 2096,
+        "forks": 150,
+        "builtBy": [
+          {
+            "username": "anerli",
+            "avatar": "https://avatars.githubusercontent.com/u/28166244?s=40&40&v=4"
+          },
+          {
+            "username": "thrgreenwald",
+            "avatar": "https://avatars.githubusercontent.com/u/32600629?s=40&40&v=4"
+          },
+          {
+            "username": "fabianhug",
+            "avatar": "https://avatars.githubusercontent.com/u/1196732?s=40&40&v=4"
+          },
+          {
+            "username": "nicolasdmolina",
+            "avatar": "https://avatars.githubusercontent.com/u/223382489?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 15,
+        "author": "Imbad0202",
+        "name": "academic-research-skills",
+        "fullName": "Imbad0202/academic-research-skills",
+        "url": "https://github.com/Imbad0202/academic-research-skills",
+        "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 46140,
+        "forks": 3615,
+        "builtBy": [
+          {
+            "username": "Imbad0202",
+            "avatar": "https://avatars.githubusercontent.com/u/132531341?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "2023Anita",
+            "avatar": "https://avatars.githubusercontent.com/u/126993554?s=40&40&v=4"
+          },
+          {
+            "username": "madtriceps",
+            "avatar": "https://avatars.githubusercontent.com/u/115035770?s=40&40&v=4"
+          },
+          {
+            "username": "ktao732084-arch",
+            "avatar": "https://avatars.githubusercontent.com/u/254419203?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 16,
+        "author": "Gitlawb",
+        "name": "openclaude",
+        "fullName": "Gitlawb/openclaude",
+        "url": "https://github.com/Gitlawb/openclaude",
+        "description": "runs anywhere. uses anything",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 32456,
+        "forks": 9027,
+        "builtBy": [
+          {
+            "username": "kevincodex1",
+            "avatar": "https://avatars.githubusercontent.com/u/268502447?s=40&40&v=4"
+          },
+          {
+            "username": "chioarub",
+            "avatar": "https://avatars.githubusercontent.com/u/59725767?s=40&40&v=4"
+          },
+          {
+            "username": "jatmn",
+            "avatar": "https://avatars.githubusercontent.com/u/12479882?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "0xfandom",
+            "avatar": "https://avatars.githubusercontent.com/u/50949929?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 17,
+        "author": "debpalash",
+        "name": "VoiceStudio",
+        "fullName": "debpalash/VoiceStudio",
+        "url": "https://github.com/debpalash/VoiceStudio",
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 16777,
+        "forks": 2242,
+        "builtBy": [
+          {
+            "username": "debpalash",
+            "avatar": "https://avatars.githubusercontent.com/u/4178343?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "velixio",
+            "avatar": "https://avatars.githubusercontent.com/u/270455167?s=40&40&v=4"
+          },
+          {
+            "username": "paoloantinori",
+            "avatar": "https://avatars.githubusercontent.com/u/1520602?s=40&40&v=4"
+          },
+          {
+            "username": "bultodepapas",
+            "avatar": "https://avatars.githubusercontent.com/u/13193085?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 18,
+        "author": "f",
+        "name": "prompts.chat",
+        "fullName": "f/prompts.chat",
+        "url": "https://github.com/f/prompts.chat",
+        "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+        "language": "HTML",
+        "languageColor": "#e34c26",
+        "starsToday": 0,
+        "totalStars": 169195,
+        "forks": 21770,
+        "builtBy": [
+          {
+            "username": "f",
+            "avatar": "https://avatars.githubusercontent.com/u/196477?s=40&40&v=4"
+          },
+          {
+            "username": "devisasari",
+            "avatar": "https://avatars.githubusercontent.com/u/99514353?s=40&40&v=4"
+          },
+          {
+            "username": "giorgiop",
+            "avatar": "https://avatars.githubusercontent.com/u/2871319?s=40&40&v=4"
+          },
+          {
+            "username": "sinansonmez",
+            "avatar": "https://avatars.githubusercontent.com/u/37421564?s=40&40&v=4"
+          },
+          {
+            "username": "ersinkoc",
+            "avatar": "https://avatars.githubusercontent.com/u/408479?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 19,
+        "author": "obra",
+        "name": "superpowers",
+        "fullName": "obra/superpowers",
+        "url": "https://github.com/obra/superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "languageColor": "#89e051",
+        "starsToday": 0,
+        "totalStars": 281539,
+        "forks": 25216,
+        "builtBy": [
+          {
+            "username": "obra",
+            "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&40&v=4"
+          },
+          {
+            "username": "arittr",
+            "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "clkao",
+            "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&40&v=4"
+          },
+          {
+            "username": "jjshanks",
+            "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&40&v=4"
+          }
+        ]
+      }
+    ]
+  },
+  "productHunt": null,
+  "hackerNews": null
+}

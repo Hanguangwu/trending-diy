@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-09-06T08:17:37.858Z",
+  "updatedAt": "2026-09-07T08:50:21.435Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
-      "url": "https://cloudinabottle.org/blog/launch-post",
-      "score": 358,
-      "comments": 162,
-      "author": "zplizzi"
+      "title": "Keep Our Servers Running",
+      "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+      "score": 390,
+      "comments": 90,
+      "author": "sonicrocketman"
     },
     {
       "rank": 2,
-      "title": "The revolt of the reader",
-      "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
-      "score": 323,
-      "comments": 128,
-      "author": "chmaynard"
+      "title": "Making a Python interpreter in 1024 bytes",
+      "url": "https://austinhenley.com/blog/python1024.html",
+      "score": 218,
+      "comments": 80,
+      "author": "azhenley"
     },
     {
       "rank": 3,
-      "title": "Music Theory for Programmers",
-      "url": "https://runjs.app/blog/music-theory-for-programmers",
-      "score": 89,
-      "comments": 34,
-      "author": "birdculture"
+      "title": "It's time for Mark Zuckerberg to resign from Meta",
+      "url": "https://www.theguardian.com/technology/commentisfree/2026/sep/04/mark-zuckerberg-resign-meta",
+      "score": 28,
+      "comments": 31,
+      "author": "domhudson"
     },
     {
       "rank": 4,
-      "title": "The ColorChecker, photography's most important 24 squares, turns 50",
-      "url": "https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/",
-      "score": 51,
-      "comments": 7,
-      "author": "sohkamyung"
+      "title": "Ask HN: How do you manage skills files?",
+      "url": "https://news.ycombinator.com/item?id=49589914",
+      "score": 107,
+      "comments": 90,
+      "author": "imadtaieber"
     },
     {
       "rank": 5,
-      "title": "OpenBSD Stories: Strange Medieval Devices",
-      "url": "http://miod.online.fr/software/openbsd/stories/smd.html",
-      "score": 55,
-      "comments": 10,
-      "author": "zdw"
+      "title": "Ask HN: Fable hacked my piano, can I release the results?",
+      "url": "https://news.ycombinator.com/item?id=49577129",
+      "score": 147,
+      "comments": 85,
+      "author": "jmpman"
     },
     {
       "rank": 6,
-      "title": "Watch the 'Eclipse of the Century' Next Year When Spain, Egypt and More Go Dark",
-      "url": "https://www.nytimes.com/2026/08/13/travel/solar-eclipse-2027-morocco-egypt.html",
-      "score": 18,
-      "comments": 9,
-      "author": "bookofjoe"
+      "title": "It took a year to ship WebAssembly in Anubis",
+      "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+      "score": 261,
+      "comments": 133,
+      "author": "xena"
     },
     {
       "rank": 7,
-      "title": "AMD Based FreeBSD Desktop Reloaded",
-      "url": "https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/",
-      "score": 39,
-      "comments": 0,
-      "author": "vermaden"
+      "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+      "url": "https://github.com/timgordontg/engrim",
+      "score": 28,
+      "comments": 6,
+      "author": "timgordontg"
     },
     {
       "rank": 8,
-      "title": "Site Is Closed on Sundays",
-      "url": "https://v7.robweychert.com/",
-      "score": 60,
-      "comments": 54,
-      "author": "edent"
+      "title": "Nitter and XCancel resume service after legal advice",
+      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+      "score": 720,
+      "comments": 313,
+      "author": "zImPatrick"
     },
     {
       "rank": 9,
-      "title": "AI, Tools and Transformation",
-      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-      "score": 40,
-      "comments": 12,
-      "author": "firexcy"
+      "title": "Show HN: GET Together – A social network where you don't need POST to Post",
+      "url": "https://gettogether.dev",
+      "score": 46,
+      "comments": 18,
+      "author": "nchudleigh"
     },
     {
       "rank": 10,
-      "title": "Chrome again exempts Google from user site data settings",
-      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
-      "score": 348,
-      "comments": 48,
-      "author": "ExMachina73"
+      "title": "Babylonian Lamb Stew with Beets (1750–1730 BCE)",
+      "url": "https://babylonian-collection.yale.edu/about/babylonian-cooking",
+      "score": 139,
+      "comments": 104,
+      "author": "yubblegum"
     },
     {
       "rank": 11,
-      "title": "Learn Programming with OCaml",
-      "url": "https://usr.lmf.cnrs.fr/lpo/",
-      "score": 244,
-      "comments": 92,
-      "author": "elvis70"
-    },
-    {
-      "rank": 12,
-      "title": "Discovery of a new OpenAI agent message board",
-      "url": "https://collusion.wiki/",
-      "score": 2176,
-      "comments": 1539,
-      "author": "moultano"
-    },
-    {
-      "rank": 13,
-      "title": "GPT-6 Astra on robot arms",
-      "url": "https://openai.robocurve.org/gpt-6-astra/",
-      "score": 167,
-      "comments": 121,
-      "author": "Anon84"
-    },
-    {
-      "rank": 14,
-      "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
-      "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
-      "score": 335,
-      "comments": 98,
-      "author": "networked"
-    },
-    {
-      "rank": 15,
-      "title": "Private German rocket makes history, reaches orbit from European soil",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
-      "score": 540,
-      "comments": 283,
-      "author": "bookmtn"
-    },
-    {
-      "rank": 16,
-      "title": "Actively exploited sandbox RCE in all Chromium versions",
-      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
-      "score": 772,
-      "comments": 463,
-      "author": "negura"
-    },
-    {
-      "rank": 17,
-      "title": "Nitter has more working instances than before the takedowns",
-      "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
-      "score": 675,
-      "comments": 332,
+      "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+      "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+      "score": 281,
+      "comments": 201,
       "author": "Cider9986"
     },
     {
-      "rank": 18,
-      "title": "Matching Puzzle Pieces and Disappointing Benchmarks",
-      "url": "https://llogiq.github.io/2026/03/20/case.html",
-      "score": 5,
-      "comments": 0,
-      "author": "speckx"
+      "rank": 12,
+      "title": "NIXI has killed the \"Dot In\" domain name (2025)",
+      "url": "https://www.naavi.org/wp/nixi-has-killed-the-dot-in-domain-name/",
+      "score": 6,
+      "comments": 3,
+      "author": "pkd"
     },
     {
-      "rank": 19,
-      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
-      "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
-      "score": 166,
-      "comments": 32,
+      "rank": 13,
+      "title": "Harnessing the Universal Geometry of Embeddings",
+      "url": "https://arxiv.org/abs/2505.12540",
+      "score": 74,
+      "comments": 27,
+      "author": "ur-whale"
+    },
+    {
+      "rank": 14,
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "score": 167,
+      "comments": 111,
+      "author": "iamsyr"
+    },
+    {
+      "rank": 15,
+      "title": "TiVo to charge money for skipping commercials in your own recordings",
+      "url": "https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/",
+      "score": 58,
+      "comments": 22,
+      "author": "dmitrygr"
+    },
+    {
+      "rank": 16,
+      "title": "Has anybody seen my keys? A key-hierarchy strategy for rack-level security",
+      "url": "https://rfd.shared.oxide.computer/rfd/0301",
+      "score": 27,
+      "comments": 1,
+      "author": "cyb0rg0"
+    },
+    {
+      "rank": 17,
+      "title": "Asahi Linux on M3",
+      "url": "https://asahilinux.org/2026/09/m2-episode-1/",
+      "score": 456,
+      "comments": 278,
+      "author": "mdp2021"
+    },
+    {
+      "rank": 18,
+      "title": "The NX bit is not just about security",
+      "url": "https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/",
+      "score": 67,
+      "comments": 34,
       "author": "torutofu"
     },
     {
+      "rank": 19,
+      "title": "I'm a seeing-eye dog for a computer",
+      "url": "https://claytonwramsey.com/blog/seeing-eye/",
+      "score": 66,
+      "comments": 68,
+      "author": "claytonwramsey"
+    },
+    {
       "rank": 20,
-      "title": "Topologist's Map of the World",
-      "url": "https://www.futilitycloset.com/2026/09/01/small-world-20/",
-      "score": 82,
-      "comments": 22,
-      "author": "beardyw"
+      "title": "Please don't rearrange our shoes when we turn up, paramedics in Japan urge",
+      "url": "https://www.theguardian.com/world/2026/aug/28/never-tidy-paramedics-shoes-japan-custom-etiquette",
+      "score": 101,
+      "comments": 107,
+      "author": "high_na_euv"
     },
     {
       "rank": 21,
-      "title": "RecurseCenter.return()",
-      "url": "https://mm-dev.rocks/series/recursecenter.return/",
-      "score": 48,
-      "comments": 8,
-      "author": "evakhoury"
+      "title": "Signing TLS handshakes inside a TPM",
+      "url": "https://bschaatsbergen.com/posts/go-tpm-tls/",
+      "score": 25,
+      "comments": 33,
+      "author": "bschaatsbergen"
     },
     {
       "rank": 22,
-      "title": "LLMs as a Cognitive Virus",
-      "url": "https://arxiv.org/abs/2609.03344",
-      "score": 259,
-      "comments": 195,
-      "author": "canjobear"
+      "title": "Switzerland's Federal Government Is Replacing Microsoft on 3k Computers",
+      "url": "https://itsfoss.com/news/switzerland-replace-microssoft-pilot/",
+      "score": 89,
+      "comments": 69,
+      "author": "ivell"
     },
     {
       "rank": 23,
-      "title": "How Swiss tables work in Go built-in map",
-      "url": "https://victoriametrics.com/blog/go-swiss-table-map/index.html",
-      "score": 73,
-      "comments": 4,
-      "author": "valyala"
+      "title": "Is mathematics about to enter the conservatory?",
+      "url": "https://mbmccoy.dev/posts/mathematical-conservatory/",
+      "score": 43,
+      "comments": 62,
+      "author": "_alternator_"
     },
     {
       "rank": 24,
-      "title": "Balrogg: Demonically compacting (up to 15%) lossless Vorbis/Opus recompressor",
-      "url": "https://github.com/iczelia/balrogg",
-      "score": 80,
-      "comments": 10,
-      "author": "palaiologos"
+      "title": "An Alien Mind",
+      "url": "https://openai.com/index/an-alien-mind/",
+      "score": 404,
+      "comments": 353,
+      "author": "tosh"
     },
     {
       "rank": 25,
-      "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
-      "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
-      "score": 67,
-      "comments": 38,
-      "author": "gmays"
+      "title": "NetBSD 9.5 released and EOL for NetBSD-9",
+      "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
+      "score": 131,
+      "comments": 12,
+      "author": "jaypatelani"
     },
     {
       "rank": 26,
-      "title": "Delidded Intel I9-14900KS CT Scan",
-      "url": "https://www.lttlabs.com/articles/2026/09/02/delidded-intel-i9-14900ks",
-      "score": 96,
-      "comments": 5,
-      "author": "willx86"
+      "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+      "url": "https://github.com/marsbos/mador",
+      "score": 86,
+      "comments": 28,
+      "author": "bosmarcel"
     },
     {
       "rank": 27,
-      "title": "Statichost.eu – European static site hosting",
-      "url": "https://www.statichost.eu/",
-      "score": 475,
-      "comments": 216,
-      "author": "p4bl0"
+      "title": "Reverse engineering the storage format for an undocumented database",
+      "url": "https://blog.glazer.ee/posts/converting-cronos/",
+      "score": 50,
+      "comments": 4,
+      "author": "pintprint"
     },
     {
       "rank": 28,
-      "title": "Terpstra Keyboard",
-      "url": "http://terpstrakeyboard.com/",
-      "score": 132,
-      "comments": 60,
-      "author": "cl3misch"
+      "title": "Black Hole of Los Alamos: Seller of surplus nuclear research materials (2011)",
+      "url": "https://www.atlasobscura.com/places/black-hole-of-los-alamos",
+      "score": 62,
+      "comments": 15,
+      "author": "Bluestein"
     },
     {
       "rank": 29,
-      "title": "Can AI design circuit boards yet?",
-      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-      "score": 407,
-      "comments": 218,
-      "author": "iopapa"
+      "title": "Ask HN: Would you read a statistics textbook?",
+      "url": "https://news.ycombinator.com/item?id=49583440",
+      "score": 74,
+      "comments": 46,
+      "author": "usernametaken29"
     },
     {
       "rank": 30,
-      "title": "Show HN: Fly By – retro biplane flying game",
-      "url": "https://michaelteter.com/flyby.html",
-      "score": 81,
-      "comments": 50,
-      "author": "michaelteter"
+      "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+      "url": "https://github.com/trailofbits/coop",
+      "score": 19,
+      "comments": 4,
+      "author": "aggrrrh"
     }
   ]
 }

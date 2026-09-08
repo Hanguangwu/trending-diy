@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-09-07T08:50:21.435Z",
+  "updatedAt": "2026-09-08T08:30:23.047Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Keep Our Servers Running",
-      "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
-      "score": 390,
-      "comments": 90,
-      "author": "sonicrocketman"
+      "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+      "score": 286,
+      "comments": 50,
+      "author": "ahlCVA"
     },
     {
       "rank": 2,
-      "title": "Making a Python interpreter in 1024 bytes",
-      "url": "https://austinhenley.com/blog/python1024.html",
-      "score": 218,
-      "comments": 80,
-      "author": "azhenley"
+      "title": "Mistral raises €3B",
+      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+      "score": 360,
+      "comments": 223,
+      "author": "kuberwastaken"
     },
     {
       "rank": 3,
-      "title": "It's time for Mark Zuckerberg to resign from Meta",
-      "url": "https://www.theguardian.com/technology/commentisfree/2026/sep/04/mark-zuckerberg-resign-meta",
-      "score": 28,
-      "comments": 31,
-      "author": "domhudson"
+      "title": "We have a year to fix security everywhere",
+      "url": "https://jyn.dev/a-year-to-fix-security/",
+      "score": 194,
+      "comments": 148,
+      "author": "saikatsg"
     },
     {
       "rank": 4,
-      "title": "Ask HN: How do you manage skills files?",
-      "url": "https://news.ycombinator.com/item?id=49589914",
-      "score": 107,
-      "comments": 90,
-      "author": "imadtaieber"
+      "title": "My Feed, My Way",
+      "url": "https://www.pm.gov.au/media/my-feed-my-way",
+      "score": 99,
+      "comments": 60,
+      "author": "dotcoma"
     },
     {
       "rank": 5,
-      "title": "Ask HN: Fable hacked my piano, can I release the results?",
-      "url": "https://news.ycombinator.com/item?id=49577129",
-      "score": 147,
-      "comments": 85,
-      "author": "jmpman"
+      "title": "UAE-based Falcon AI NSFW classifier among top global open-source models (2025)",
+      "url": "https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly",
+      "score": 15,
+      "comments": 5,
+      "author": "instagraham"
     },
     {
       "rank": 6,
-      "title": "It took a year to ship WebAssembly in Anubis",
-      "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
-      "score": 261,
-      "comments": 133,
-      "author": "xena"
+      "title": "Multi-Agents LLM Financial Trading Framework",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "score": 34,
+      "comments": 22,
+      "author": "fittingopposite"
     },
     {
       "rank": 7,
-      "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
-      "url": "https://github.com/timgordontg/engrim",
-      "score": 28,
-      "comments": 6,
-      "author": "timgordontg"
+      "title": "TALA Is Open-Source",
+      "url": "https://d2lang.com/blog/tala-is-open-source/",
+      "score": 210,
+      "comments": 14,
+      "author": "alixanderwang"
     },
     {
       "rank": 8,
-      "title": "Nitter and XCancel resume service after legal advice",
-      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
-      "score": 720,
-      "comments": 313,
-      "author": "zImPatrick"
+      "title": "There's a new \"Google Jail\" for independent wikis",
+      "url": "https://weirdgloop.org/blog/google-jail",
+      "score": 99,
+      "comments": 37,
+      "author": "pizzaiolo"
     },
     {
       "rank": 9,
-      "title": "Show HN: GET Together – A social network where you don't need POST to Post",
-      "url": "https://gettogether.dev",
-      "score": 46,
+      "title": "How well do agents use test/verification techniques?",
+      "url": "https://danluu.com/agentic-testing/",
+      "score": 72,
       "comments": 18,
-      "author": "nchudleigh"
+      "author": "vinhnx"
     },
     {
       "rank": 10,
-      "title": "Babylonian Lamb Stew with Beets (1750–1730 BCE)",
-      "url": "https://babylonian-collection.yale.edu/about/babylonian-cooking",
-      "score": 139,
-      "comments": 104,
-      "author": "yubblegum"
+      "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
+      "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
+      "score": 34,
+      "comments": 20,
+      "author": "Re-Tails"
     },
     {
       "rank": 11,
-      "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
-      "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
-      "score": 281,
-      "comments": 201,
-      "author": "Cider9986"
+      "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
+      "url": "https://lax-skyline.parcelscope.net/",
+      "score": 286,
+      "comments": 141,
+      "author": "rustywasm"
     },
     {
       "rank": 12,
-      "title": "NIXI has killed the \"Dot In\" domain name (2025)",
-      "url": "https://www.naavi.org/wp/nixi-has-killed-the-dot-in-domain-name/",
-      "score": 6,
-      "comments": 3,
-      "author": "pkd"
+      "title": "We built our house for LAN parties",
+      "url": "https://lanparty.house/",
+      "score": 19,
+      "comments": 7,
+      "author": "fittingopposite"
     },
     {
       "rank": 13,
-      "title": "Harnessing the Universal Geometry of Embeddings",
-      "url": "https://arxiv.org/abs/2505.12540",
-      "score": 74,
-      "comments": 27,
-      "author": "ur-whale"
+      "title": "Understanding Computer Memory Architecture and SSD Internals",
+      "url": "https://codingpirate.com/understanding-computer-memory-architecture-ac9320110787",
+      "score": 33,
+      "comments": 2,
+      "author": "Deeptiman"
     },
     {
       "rank": 14,
-      "title": "Research acceleration: The view inside OpenAI",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "score": 167,
-      "comments": 111,
-      "author": "iamsyr"
+      "title": "Jellyfin 12.0",
+      "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
+      "score": 326,
+      "comments": 133,
+      "author": "0xC0ncord"
     },
     {
       "rank": 15,
-      "title": "TiVo to charge money for skipping commercials in your own recordings",
-      "url": "https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/",
-      "score": 58,
-      "comments": 22,
-      "author": "dmitrygr"
+      "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+      "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+      "score": 189,
+      "comments": 85,
+      "author": "procedurecall"
     },
     {
       "rank": 16,
-      "title": "Has anybody seen my keys? A key-hierarchy strategy for rack-level security",
-      "url": "https://rfd.shared.oxide.computer/rfd/0301",
-      "score": 27,
-      "comments": 1,
-      "author": "cyb0rg0"
+      "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
+      "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
+      "score": 181,
+      "comments": 75,
+      "author": "josephcsible"
     },
     {
       "rank": 17,
-      "title": "Asahi Linux on M3",
-      "url": "https://asahilinux.org/2026/09/m2-episode-1/",
-      "score": 456,
-      "comments": 278,
-      "author": "mdp2021"
+      "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
+      "url": "https://rohanadwankar.github.io/posts/platforms.html",
+      "score": 24,
+      "comments": 6,
+      "author": "RohanAdwankar"
     },
     {
       "rank": 18,
-      "title": "The NX bit is not just about security",
-      "url": "https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/",
-      "score": 67,
-      "comments": 34,
-      "author": "torutofu"
+      "title": "WeatherNext 3",
+      "url": "https://deepmind.google/science/weathernext/",
+      "score": 319,
+      "comments": 76,
+      "author": "matthieu_bl"
     },
     {
       "rank": 19,
-      "title": "I'm a seeing-eye dog for a computer",
-      "url": "https://claytonwramsey.com/blog/seeing-eye/",
-      "score": 66,
-      "comments": 68,
-      "author": "claytonwramsey"
+      "title": "216M Spy TVs – The LG Smart TV Problem [video]",
+      "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
+      "score": 733,
+      "comments": 898,
+      "author": "treve"
     },
     {
       "rank": 20,
-      "title": "Please don't rearrange our shoes when we turn up, paramedics in Japan urge",
-      "url": "https://www.theguardian.com/world/2026/aug/28/never-tidy-paramedics-shoes-japan-custom-etiquette",
-      "score": 101,
-      "comments": 107,
-      "author": "high_na_euv"
+      "title": "John Margolies' photographs of roadside America",
+      "url": "https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/",
+      "score": 78,
+      "comments": 19,
+      "author": "duck"
     },
     {
       "rank": 21,
-      "title": "Signing TLS handshakes inside a TPM",
-      "url": "https://bschaatsbergen.com/posts/go-tpm-tls/",
-      "score": 25,
-      "comments": 33,
-      "author": "bschaatsbergen"
+      "title": "Scientists observe Einstein's gravity in the quantum world",
+      "url": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
+      "score": 210,
+      "comments": 53,
+      "author": "mudil"
     },
     {
       "rank": 22,
-      "title": "Switzerland's Federal Government Is Replacing Microsoft on 3k Computers",
-      "url": "https://itsfoss.com/news/switzerland-replace-microssoft-pilot/",
-      "score": 89,
-      "comments": 69,
-      "author": "ivell"
+      "title": "GamersNexus and LG: Or why rooting your TV is a bad idea",
+      "url": "https://leaflet.pub/p/did:plc:yhgc5rlqhoezrx6fbawajxlh/3muwrqenzfk2n",
+      "score": 79,
+      "comments": 66,
+      "author": "drasticactions"
     },
     {
       "rank": 23,
-      "title": "Is mathematics about to enter the conservatory?",
-      "url": "https://mbmccoy.dev/posts/mathematical-conservatory/",
-      "score": 43,
-      "comments": 62,
-      "author": "_alternator_"
+      "title": "Extinct Tasmanian tiger's 'snap' unlike any living mammal's bite",
+      "url": "https://www.cnn.com/2026/09/02/science/tasmanian-tiger-skull-bite-force",
+      "score": 26,
+      "comments": 6,
+      "author": "cisc"
     },
     {
       "rank": 24,
-      "title": "An Alien Mind",
-      "url": "https://openai.com/index/an-alien-mind/",
-      "score": 404,
-      "comments": 353,
-      "author": "tosh"
+      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
+      "url": "https://arxiv.org/abs/2607.24888",
+      "score": 204,
+      "comments": 41,
+      "author": "signa11"
     },
     {
       "rank": 25,
-      "title": "NetBSD 9.5 released and EOL for NetBSD-9",
-      "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
-      "score": 131,
-      "comments": 12,
-      "author": "jaypatelani"
+      "title": "Feather Atlas",
+      "url": "https://www.fws.gov/lab/featheratlas/identify.html",
+      "score": 8,
+      "comments": 1,
+      "author": "bookofjoe"
     },
     {
       "rank": 26,
-      "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
-      "url": "https://github.com/marsbos/mador",
-      "score": 86,
-      "comments": 28,
-      "author": "bosmarcel"
+      "title": "My business partner sent a 5K vibe-coded PR that he didn't even test",
+      "url": "https://ycj.bearblog.dev/ai-again/",
+      "score": 30,
+      "comments": 30,
+      "author": "yhcj"
     },
     {
       "rank": 27,
-      "title": "Reverse engineering the storage format for an undocumented database",
-      "url": "https://blog.glazer.ee/posts/converting-cronos/",
-      "score": 50,
-      "comments": 4,
-      "author": "pintprint"
+      "title": "Emacs Bedrock 2.0",
+      "url": "https://lambdaland.org/posts/2026-09-06-bedrock-v2/",
+      "score": 104,
+      "comments": 13,
+      "author": "ashton314"
     },
     {
       "rank": 28,
-      "title": "Black Hole of Los Alamos: Seller of surplus nuclear research materials (2011)",
-      "url": "https://www.atlasobscura.com/places/black-hole-of-los-alamos",
-      "score": 62,
-      "comments": 15,
-      "author": "Bluestein"
+      "title": "I tested 10 model/harness combinations on the same Three.js task",
+      "url": "https://alvins82.github.io/hangar-harness-model-tests/",
+      "score": 69,
+      "comments": 44,
+      "author": "alvins82"
     },
     {
       "rank": 29,
-      "title": "Ask HN: Would you read a statistics textbook?",
-      "url": "https://news.ycombinator.com/item?id=49583440",
-      "score": 74,
-      "comments": 46,
-      "author": "usernametaken29"
+      "title": "Colorlight 5A-75B: A dive into a popular low-cost ECP5 (FPGA) development board",
+      "url": "https://blog.yosyshq.com/p/colorlight-part-1/",
+      "score": 35,
+      "comments": 7,
+      "author": "gregsadetsky"
     },
     {
       "rank": 30,
-      "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-      "url": "https://github.com/trailofbits/coop",
-      "score": 19,
-      "comments": 4,
-      "author": "aggrrrh"
+      "title": "Icy Moons Are Ocean Worlds",
+      "url": "https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds",
+      "score": 172,
+      "comments": 20,
+      "author": "worldvoyageur"
     }
   ]
 }

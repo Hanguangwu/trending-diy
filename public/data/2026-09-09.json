@@ -1,0 +1,570 @@
+{
+  "date": "2026-09-09",
+  "updatedAt": "2026-09-09T08:33:12.698Z",
+  "github": {
+    "updatedAt": "2026-09-09T08:33:10.842Z",
+    "repos": [
+      {
+        "rank": 1,
+        "author": "ayghri",
+        "name": "i-have-adhd",
+        "fullName": "ayghri/i-have-adhd",
+        "url": "https://github.com/ayghri/i-have-adhd",
+        "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 31998,
+        "forks": 1924,
+        "builtBy": [
+          {
+            "username": "ayghri",
+            "avatar": "https://avatars.githubusercontent.com/u/32200675?s=40&40&v=4"
+          },
+          {
+            "username": "thejesh23",
+            "avatar": "https://avatars.githubusercontent.com/u/35212698?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "SillyDark",
+            "avatar": "https://avatars.githubusercontent.com/u/116559191?s=40&40&v=4"
+          },
+          {
+            "username": "commie70",
+            "avatar": "https://avatars.githubusercontent.com/u/57289446?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "author": "cathrynlavery",
+        "name": "diagram-design",
+        "fullName": "cathrynlavery/diagram-design",
+        "url": "https://github.com/cathrynlavery/diagram-design",
+        "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "languageColor": "#e34c26",
+        "starsToday": 0,
+        "totalStars": 35710,
+        "forks": 2244,
+        "builtBy": [
+          {
+            "username": "cathrynlavery",
+            "avatar": "https://avatars.githubusercontent.com/u/50469282?s=40&40&v=4"
+          },
+          {
+            "username": "parveen0029",
+            "avatar": "https://avatars.githubusercontent.com/u/174610155?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "mvanhorn",
+            "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&40&v=4"
+          },
+          {
+            "username": "web-flow",
+            "avatar": "https://avatars.githubusercontent.com/u/19864447?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "author": "openai",
+        "name": "skills",
+        "fullName": "openai/skills",
+        "url": "https://github.com/openai/skills",
+        "description": "Skills Catalog for Codex",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 26691,
+        "forks": 1790,
+        "builtBy": [
+          {
+            "username": "dkundel-openai",
+            "avatar": "https://avatars.githubusercontent.com/u/200841172?s=40&40&v=4"
+          },
+          {
+            "username": "gverma-openai",
+            "avatar": "https://avatars.githubusercontent.com/u/235382312?s=40&40&v=4"
+          },
+          {
+            "username": "vb-openai",
+            "avatar": "https://avatars.githubusercontent.com/u/250380837?s=40&40&v=4"
+          },
+          {
+            "username": "ae-openai",
+            "avatar": "https://avatars.githubusercontent.com/u/173195103?s=40&40&v=4"
+          },
+          {
+            "username": "quuu",
+            "avatar": "https://avatars.githubusercontent.com/u/32676955?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "author": "affaan-m",
+        "name": "ECC",
+        "fullName": "affaan-m/ECC",
+        "url": "https://github.com/affaan-m/ECC",
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 254635,
+        "forks": 38146,
+        "builtBy": [
+          {
+            "username": "affaan-m",
+            "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&40&v=4"
+          },
+          {
+            "username": "haelyra",
+            "avatar": "https://avatars.githubusercontent.com/u/49814733?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "pangerlkr",
+            "avatar": "https://avatars.githubusercontent.com/u/73515951?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "author": "heygen-com",
+        "name": "hyperframes",
+        "fullName": "heygen-com/hyperframes",
+        "url": "https://github.com/heygen-com/hyperframes",
+        "description": "Write HTML. Render video. Built for agents.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 48104,
+        "forks": 4419,
+        "builtBy": [
+          {
+            "username": "miguel-heygen",
+            "avatar": "https://avatars.githubusercontent.com/u/229591595?s=40&40&v=4"
+          },
+          {
+            "username": "vanceingalls",
+            "avatar": "https://avatars.githubusercontent.com/u/337856?s=40&40&v=4"
+          },
+          {
+            "username": "jrusso1020",
+            "avatar": "https://avatars.githubusercontent.com/u/7664106?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "ukimsanov",
+            "avatar": "https://avatars.githubusercontent.com/u/165517112?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "author": "coreyhaines31",
+        "name": "marketingskills",
+        "fullName": "coreyhaines31/marketingskills",
+        "url": "https://github.com/coreyhaines31/marketingskills",
+        "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 49050,
+        "forks": 7507,
+        "builtBy": [
+          {
+            "username": "coreyhaines31",
+            "avatar": "https://avatars.githubusercontent.com/u/34802794?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "njcameron",
+            "avatar": "https://avatars.githubusercontent.com/u/1101879?s=40&40&v=4"
+          },
+          {
+            "username": "Jiliac",
+            "avatar": "https://avatars.githubusercontent.com/u/5956866?s=40&40&v=4"
+          },
+          {
+            "username": "basseko",
+            "avatar": "https://avatars.githubusercontent.com/u/20099808?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "author": "obra",
+        "name": "superpowers",
+        "fullName": "obra/superpowers",
+        "url": "https://github.com/obra/superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "languageColor": "#89e051",
+        "starsToday": 0,
+        "totalStars": 283601,
+        "forks": 25390,
+        "builtBy": [
+          {
+            "username": "obra",
+            "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&40&v=4"
+          },
+          {
+            "username": "arittr",
+            "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "clkao",
+            "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&40&v=4"
+          },
+          {
+            "username": "jjshanks",
+            "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "author": "multica-ai",
+        "name": "andrej-karpathy-skills",
+        "fullName": "multica-ai/andrej-karpathy-skills",
+        "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "language": null,
+        "languageColor": null,
+        "starsToday": 0,
+        "totalStars": 211679,
+        "forks": 21482,
+        "builtBy": [
+          {
+            "username": "forrestchang",
+            "avatar": "https://avatars.githubusercontent.com/u/7857126?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "back1ply",
+            "avatar": "https://avatars.githubusercontent.com/u/45536170?s=40&40&v=4"
+          },
+          {
+            "username": "herobrine19",
+            "avatar": "https://avatars.githubusercontent.com/u/45513138?s=40&40&v=4"
+          },
+          {
+            "username": "szkocot",
+            "avatar": "https://avatars.githubusercontent.com/u/478549?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "author": "microsoft",
+        "name": "markitdown",
+        "fullName": "microsoft/markitdown",
+        "url": "https://github.com/microsoft/markitdown",
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 181983,
+        "forks": 13366,
+        "builtBy": [
+          {
+            "username": "afourney",
+            "avatar": "https://avatars.githubusercontent.com/u/4017093?s=40&40&v=4"
+          },
+          {
+            "username": "gagb",
+            "avatar": "https://avatars.githubusercontent.com/u/13227607?s=40&40&v=4"
+          },
+          {
+            "username": "sugatoray",
+            "avatar": "https://avatars.githubusercontent.com/u/10201242?s=40&40&v=4"
+          },
+          {
+            "username": "PetrAPConsulting",
+            "avatar": "https://avatars.githubusercontent.com/u/173082609?s=40&40&v=4"
+          },
+          {
+            "username": "l-lumin",
+            "avatar": "https://avatars.githubusercontent.com/u/71011125?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "author": "jo-inc",
+        "name": "camofox-browser",
+        "fullName": "jo-inc/camofox-browser",
+        "url": "https://github.com/jo-inc/camofox-browser",
+        "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 10733,
+        "forks": 1062,
+        "builtBy": [
+          {
+            "username": "skyfallsin",
+            "avatar": "https://avatars.githubusercontent.com/u/998?s=40&40&v=4"
+          },
+          {
+            "username": "mvanhorn",
+            "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&40&v=4"
+          },
+          {
+            "username": "epicsagas",
+            "avatar": "https://avatars.githubusercontent.com/u/39856742?s=40&40&v=4"
+          },
+          {
+            "username": "leoneparise",
+            "avatar": "https://avatars.githubusercontent.com/u/1442927?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 11,
+        "author": "MoonTechLab",
+        "name": "LunaTV",
+        "fullName": "MoonTechLab/LunaTV",
+        "url": "https://github.com/MoonTechLab/LunaTV",
+        "description": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 10338,
+        "forks": 9065,
+        "builtBy": [
+          {
+            "username": "senshinya",
+            "avatar": "https://avatars.githubusercontent.com/u/155552943?s=40&40&v=4"
+          },
+          {
+            "username": "JohnsonRan",
+            "avatar": "https://avatars.githubusercontent.com/u/89735151?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "1411430556",
+            "avatar": "https://avatars.githubusercontent.com/u/67215517?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 12,
+        "author": "browser-use",
+        "name": "browser-use",
+        "fullName": "browser-use/browser-use",
+        "url": "https://github.com/browser-use/browser-use",
+        "description": "Agents that use the browser.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 113800,
+        "forks": 12503,
+        "builtBy": [
+          {
+            "username": "MagMueller",
+            "avatar": "https://avatars.githubusercontent.com/u/67061560?s=40&40&v=4"
+          },
+          {
+            "username": "pirate",
+            "avatar": "https://avatars.githubusercontent.com/u/511499?s=40&40&v=4"
+          },
+          {
+            "username": "mertunsall",
+            "avatar": "https://avatars.githubusercontent.com/u/22038471?s=40&40&v=4"
+          },
+          {
+            "username": "sauravpanda",
+            "avatar": "https://avatars.githubusercontent.com/u/12201824?s=40&40&v=4"
+          },
+          {
+            "username": "gregpr07",
+            "avatar": "https://avatars.githubusercontent.com/u/36313686?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 13,
+        "author": "mksglu",
+        "name": "context-mode",
+        "fullName": "mksglu/context-mode",
+        "url": "https://github.com/mksglu/context-mode",
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 21545,
+        "forks": 1551,
+        "builtBy": [
+          {
+            "username": "mksglu",
+            "avatar": "https://avatars.githubusercontent.com/u/6067714?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "ipedro",
+            "avatar": "https://avatars.githubusercontent.com/u/380338?s=40&40&v=4"
+          },
+          {
+            "username": "ousamabenyounes",
+            "avatar": "https://avatars.githubusercontent.com/u/2910651?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 14,
+        "author": "The-Swarm-Corporation",
+        "name": "AutoHedge",
+        "fullName": "The-Swarm-Corporation/AutoHedge",
+        "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+        "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 5863,
+        "forks": 850,
+        "builtBy": [
+          {
+            "username": "kyegomez",
+            "avatar": "https://avatars.githubusercontent.com/u/98760976?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 15,
+        "author": "liquidslr",
+        "name": "system-design-notes",
+        "fullName": "liquidslr/system-design-notes",
+        "url": "https://github.com/liquidslr/system-design-notes",
+        "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+        "language": null,
+        "languageColor": null,
+        "starsToday": 0,
+        "totalStars": 17262,
+        "forks": 3293,
+        "builtBy": [
+          {
+            "username": "liquidslr",
+            "avatar": "https://avatars.githubusercontent.com/u/26876811?s=40&40&v=4"
+          },
+          {
+            "username": "emmadonjo",
+            "avatar": "https://avatars.githubusercontent.com/u/22492808?s=40&40&v=4"
+          },
+          {
+            "username": "stym01",
+            "avatar": "https://avatars.githubusercontent.com/u/153318865?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 16,
+        "author": "viarotel-org",
+        "name": "escrcpy",
+        "fullName": "viarotel-org/escrcpy",
+        "url": "https://github.com/viarotel-org/escrcpy",
+        "description": "📱 Display and control your Android device graphically with scrcpy.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 11560,
+        "forks": 804,
+        "builtBy": [
+          {
+            "username": "viarotel",
+            "avatar": "https://avatars.githubusercontent.com/u/38282758?s=40&40&v=4"
+          },
+          {
+            "username": "reindex-ot",
+            "avatar": "https://avatars.githubusercontent.com/u/32851879?s=40&40&v=4"
+          },
+          {
+            "username": "dainamiter",
+            "avatar": "https://avatars.githubusercontent.com/u/189065486?s=40&40&v=4"
+          },
+          {
+            "username": "salmanmkc",
+            "avatar": "https://avatars.githubusercontent.com/u/32169182?s=40&40&v=4"
+          },
+          {
+            "username": "ahmed-0011",
+            "avatar": "https://avatars.githubusercontent.com/u/74181508?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 17,
+        "author": "openai",
+        "name": "plugins",
+        "fullName": "openai/plugins",
+        "url": "https://github.com/openai/plugins",
+        "description": "OpenAI Plugins",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 5991,
+        "forks": 809,
+        "builtBy": [
+          {
+            "username": "cching-openai",
+            "avatar": "https://avatars.githubusercontent.com/u/239646192?s=40&40&v=4"
+          },
+          {
+            "username": "ashwinm-oai",
+            "avatar": "https://avatars.githubusercontent.com/u/264544061?s=40&40&v=4"
+          },
+          {
+            "username": "Aismit",
+            "avatar": "https://avatars.githubusercontent.com/u/24821844?s=40&40&v=4"
+          },
+          {
+            "username": "vb-openai",
+            "avatar": "https://avatars.githubusercontent.com/u/250380837?s=40&40&v=4"
+          },
+          {
+            "username": "gverma-openai",
+            "avatar": "https://avatars.githubusercontent.com/u/235382312?s=40&40&v=4"
+          }
+        ]
+      }
+    ]
+  },
+  "productHunt": null,
+  "hackerNews": null
+}

@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-09-08T08:30:23.047Z",
+  "updatedAt": "2026-09-09T08:33:12.595Z",
   "stories": [
     {
       "rank": 1,
-      "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
-      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-      "score": 286,
-      "comments": 50,
-      "author": "ahlCVA"
+      "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments/",
+      "score": 30,
+      "comments": 5,
+      "author": "theanonymousone"
     },
     {
       "rank": 2,
-      "title": "Mistral raises €3B",
-      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
-      "score": 360,
-      "comments": 223,
-      "author": "kuberwastaken"
+      "title": "Muse – Meta’s personal AI agent",
+      "url": "https://ai.meta.com/muse/",
+      "score": 492,
+      "comments": 523,
+      "author": "yks"
     },
     {
       "rank": 3,
-      "title": "We have a year to fix security everywhere",
-      "url": "https://jyn.dev/a-year-to-fix-security/",
-      "score": 194,
-      "comments": 148,
-      "author": "saikatsg"
+      "title": "On Really Trying (2009)",
+      "url": "https://gwern.net/on-really-trying",
+      "score": 31,
+      "comments": 6,
+      "author": "whoami_nr"
     },
     {
       "rank": 4,
-      "title": "My Feed, My Way",
-      "url": "https://www.pm.gov.au/media/my-feed-my-way",
-      "score": 99,
-      "comments": 60,
-      "author": "dotcoma"
+      "title": "Tension wood: A 'muscle' that can both bend and straighten plants",
+      "url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
+      "score": 112,
+      "comments": 22,
+      "author": "mdp2021"
     },
     {
       "rank": 5,
-      "title": "UAE-based Falcon AI NSFW classifier among top global open-source models (2025)",
-      "url": "https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly",
-      "score": 15,
-      "comments": 5,
-      "author": "instagraham"
-    },
-    {
-      "rank": 6,
-      "title": "Multi-Agents LLM Financial Trading Framework",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "score": 34,
-      "comments": 22,
-      "author": "fittingopposite"
-    },
-    {
-      "rank": 7,
-      "title": "TALA Is Open-Source",
-      "url": "https://d2lang.com/blog/tala-is-open-source/",
-      "score": 210,
-      "comments": 14,
-      "author": "alixanderwang"
-    },
-    {
-      "rank": 8,
-      "title": "There's a new \"Google Jail\" for independent wikis",
-      "url": "https://weirdgloop.org/blog/google-jail",
-      "score": 99,
-      "comments": 37,
-      "author": "pizzaiolo"
-    },
-    {
-      "rank": 9,
-      "title": "How well do agents use test/verification techniques?",
-      "url": "https://danluu.com/agentic-testing/",
-      "score": 72,
-      "comments": 18,
-      "author": "vinhnx"
-    },
-    {
-      "rank": 10,
-      "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
-      "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
-      "score": 34,
-      "comments": 20,
-      "author": "Re-Tails"
-    },
-    {
-      "rank": 11,
-      "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
-      "url": "https://lax-skyline.parcelscope.net/",
-      "score": 286,
-      "comments": 141,
-      "author": "rustywasm"
-    },
-    {
-      "rank": 12,
-      "title": "We built our house for LAN parties",
-      "url": "https://lanparty.house/",
-      "score": 19,
-      "comments": 7,
-      "author": "fittingopposite"
-    },
-    {
-      "rank": 13,
-      "title": "Understanding Computer Memory Architecture and SSD Internals",
-      "url": "https://codingpirate.com/understanding-computer-memory-architecture-ac9320110787",
-      "score": 33,
-      "comments": 2,
-      "author": "Deeptiman"
-    },
-    {
-      "rank": 14,
-      "title": "Jellyfin 12.0",
-      "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
-      "score": 326,
-      "comments": 133,
-      "author": "0xC0ncord"
-    },
-    {
-      "rank": 15,
       "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
       "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
-      "score": 189,
-      "comments": 85,
+      "score": 1615,
+      "comments": 683,
       "author": "procedurecall"
     },
     {
-      "rank": 16,
-      "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
-      "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
-      "score": 181,
-      "comments": 75,
-      "author": "josephcsible"
-    },
-    {
-      "rank": 17,
-      "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
-      "url": "https://rohanadwankar.github.io/posts/platforms.html",
-      "score": 24,
-      "comments": 6,
-      "author": "RohanAdwankar"
-    },
-    {
-      "rank": 18,
-      "title": "WeatherNext 3",
-      "url": "https://deepmind.google/science/weathernext/",
-      "score": 319,
-      "comments": 76,
-      "author": "matthieu_bl"
-    },
-    {
-      "rank": 19,
-      "title": "216M Spy TVs – The LG Smart TV Problem [video]",
-      "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
-      "score": 733,
-      "comments": 898,
-      "author": "treve"
-    },
-    {
-      "rank": 20,
-      "title": "John Margolies' photographs of roadside America",
-      "url": "https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/",
-      "score": 78,
-      "comments": 19,
-      "author": "duck"
-    },
-    {
-      "rank": 21,
-      "title": "Scientists observe Einstein's gravity in the quantum world",
-      "url": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
-      "score": 210,
-      "comments": 53,
-      "author": "mudil"
-    },
-    {
-      "rank": 22,
-      "title": "GamersNexus and LG: Or why rooting your TV is a bad idea",
-      "url": "https://leaflet.pub/p/did:plc:yhgc5rlqhoezrx6fbawajxlh/3muwrqenzfk2n",
-      "score": 79,
-      "comments": 66,
-      "author": "drasticactions"
-    },
-    {
-      "rank": 23,
-      "title": "Extinct Tasmanian tiger's 'snap' unlike any living mammal's bite",
-      "url": "https://www.cnn.com/2026/09/02/science/tasmanian-tiger-skull-bite-force",
-      "score": 26,
-      "comments": 6,
+      "rank": 6,
+      "title": "Researchers Spot Fake Ancient Pottery Using the Earth's Magnetic Field",
+      "url": "https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441/",
+      "score": 37,
+      "comments": 13,
       "author": "cisc"
     },
     {
+      "rank": 7,
+      "title": "A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)",
+      "url": "https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en",
+      "score": 42,
+      "comments": 9,
+      "author": "porridgeraisin"
+    },
+    {
+      "rank": 8,
+      "title": "How to build a printer",
+      "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+      "score": 309,
+      "comments": 59,
+      "author": "cat-whisperer"
+    },
+    {
+      "rank": 9,
+      "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+      "score": 554,
+      "comments": 118,
+      "author": "utiiiD"
+    },
+    {
+      "rank": 10,
+      "title": "Copyright does more harm than good and should be abolished",
+      "url": "https://grapheneos.social/@GrapheneOS/117231186011306184",
+      "score": 174,
+      "comments": 114,
+      "author": "Cider9986"
+    },
+    {
+      "rank": 11,
+      "title": "AI Has a Discovery Problem",
+      "url": "https://mhacevedo.com/posts/the-discovery-problem",
+      "score": 41,
+      "comments": 16,
+      "author": "miguelacevedo"
+    },
+    {
+      "rank": 12,
+      "title": "“Tweet” and the bird logo apparently enter the public domain",
+      "url": "https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm",
+      "score": 58,
+      "comments": 16,
+      "author": "progval"
+    },
+    {
+      "rank": 13,
+      "title": "Large language models develop novel social biases through adaptive exploration",
+      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+      "score": 153,
+      "comments": 78,
+      "author": "paimapi"
+    },
+    {
+      "rank": 14,
+      "title": "Mercury 2.5",
+      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
+      "score": 190,
+      "comments": 27,
+      "author": "Topfi"
+    },
+    {
+      "rank": 15,
+      "title": "I resigned from Anthropic today",
+      "url": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
+      "score": 533,
+      "comments": 684,
+      "author": "yurivish"
+    },
+    {
+      "rank": 16,
+      "title": "DaVinci Resolve 21.1",
+      "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
+      "score": 398,
+      "comments": 175,
+      "author": "tosh"
+    },
+    {
+      "rank": 17,
+      "title": "27.5KB language-agnostic WebGPU syntax highlighter",
+      "url": "https://gpu-lexer.vercel.app/",
+      "score": 71,
+      "comments": 25,
+      "author": "bpierre"
+    },
+    {
+      "rank": 18,
+      "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "score": 424,
+      "comments": 300,
+      "author": "domhudson"
+    },
+    {
+      "rank": 19,
+      "title": "Tao: Open math problems being non-renewably mined by AI",
+      "url": "https://mathstodon.xyz/@tao/117237320796901560",
+      "score": 345,
+      "comments": 309,
+      "author": "_alternator_"
+    },
+    {
+      "rank": 20,
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "url": "https://openai.com/index/navier-stokes-solution/",
+      "score": 1253,
+      "comments": 995,
+      "author": "tedsanders"
+    },
+    {
+      "rank": 21,
+      "title": "The origins of Partner’s computer case",
+      "url": "https://www.racunalniski-muzej.si/en/the-origins-of-partners-computer-case/",
+      "score": 33,
+      "comments": 2,
+      "author": "markostamcar"
+    },
+    {
+      "rank": 22,
+      "title": "An Accidental Blackboard",
+      "url": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
+      "score": 55,
+      "comments": 25,
+      "author": "saikatsg"
+    },
+    {
+      "rank": 23,
+      "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+      "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
+      "score": 245,
+      "comments": 120,
+      "author": "stared"
+    },
+    {
       "rank": 24,
-      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
-      "url": "https://arxiv.org/abs/2607.24888",
-      "score": 204,
-      "comments": 41,
-      "author": "signa11"
+      "title": "Ganon's Mysterious Origins (Revisited)",
+      "url": "https://www.thrillingtalesofoldvideogames.com/blog/ganon-name-origin-kamen-rider",
+      "score": 32,
+      "comments": 17,
+      "author": "tobr"
     },
     {
       "rank": 25,
-      "title": "Feather Atlas",
-      "url": "https://www.fws.gov/lab/featheratlas/identify.html",
-      "score": 8,
+      "title": "Into the depths of C: Elaborating the de facto standards (2016)",
+      "url": "https://dl.acm.org/doi/10.1145/2980983.2908081",
+      "score": 17,
       "comments": 1,
-      "author": "bookofjoe"
+      "author": "rramadass"
     },
     {
       "rank": 26,
-      "title": "My business partner sent a 5K vibe-coded PR that he didn't even test",
-      "url": "https://ycj.bearblog.dev/ai-again/",
-      "score": 30,
-      "comments": 30,
-      "author": "yhcj"
+      "title": "We built our house for LAN parties (2024)",
+      "url": "https://lanparty.house/",
+      "score": 507,
+      "comments": 327,
+      "author": "fittingopposite"
     },
     {
       "rank": 27,
-      "title": "Emacs Bedrock 2.0",
-      "url": "https://lambdaland.org/posts/2026-09-06-bedrock-v2/",
-      "score": 104,
-      "comments": 13,
-      "author": "ashton314"
+      "title": "A Topological Picture Book, Rendered",
+      "url": "https://e-infinity.space/picture-book/",
+      "score": 96,
+      "comments": 11,
+      "author": "mathgenius"
     },
     {
       "rank": 28,
-      "title": "I tested 10 model/harness combinations on the same Three.js task",
-      "url": "https://alvins82.github.io/hangar-harness-model-tests/",
-      "score": 69,
-      "comments": 44,
-      "author": "alvins82"
+      "title": "The Microeconomics of Artificial Intelligence (2025)",
+      "url": "https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence",
+      "score": 53,
+      "comments": 27,
+      "author": "neehao"
     },
     {
       "rank": 29,
-      "title": "Colorlight 5A-75B: A dive into a popular low-cost ECP5 (FPGA) development board",
-      "url": "https://blog.yosyshq.com/p/colorlight-part-1/",
-      "score": 35,
-      "comments": 7,
-      "author": "gregsadetsky"
+      "title": "ChatGPT Images 2.5",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+      "score": 337,
+      "comments": 405,
+      "author": "vertigoruntime"
     },
     {
       "rank": 30,
-      "title": "Icy Moons Are Ocean Worlds",
-      "url": "https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds",
-      "score": 172,
-      "comments": 20,
-      "author": "worldvoyageur"
+      "title": "Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster",
+      "url": "https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/",
+      "score": 121,
+      "comments": 45,
+      "author": "metrofun"
     }
   ]
 }

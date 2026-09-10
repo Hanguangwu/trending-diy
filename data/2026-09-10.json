@@ -1,0 +1,442 @@
+{
+  "date": "2026-09-10",
+  "updatedAt": "2026-09-10T08:34:51.764Z",
+  "github": {
+    "updatedAt": "2026-09-10T08:34:49.685Z",
+    "repos": [
+      {
+        "rank": 1,
+        "author": "ayghri",
+        "name": "i-have-adhd",
+        "fullName": "ayghri/i-have-adhd",
+        "url": "https://github.com/ayghri/i-have-adhd",
+        "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 35937,
+        "forks": 2089,
+        "builtBy": [
+          {
+            "username": "ayghri",
+            "avatar": "https://avatars.githubusercontent.com/u/32200675?s=40&40&v=4"
+          },
+          {
+            "username": "thejesh23",
+            "avatar": "https://avatars.githubusercontent.com/u/35212698?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "SillyDark",
+            "avatar": "https://avatars.githubusercontent.com/u/116559191?s=40&40&v=4"
+          },
+          {
+            "username": "commie70",
+            "avatar": "https://avatars.githubusercontent.com/u/57289446?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "author": "Tencent",
+        "name": "teamai-cli",
+        "fullName": "Tencent/teamai-cli",
+        "url": "https://github.com/Tencent/teamai-cli",
+        "description": "Make Every Team AI Native",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 3361,
+        "forks": 212,
+        "builtBy": [
+          {
+            "username": "jeff-r2026",
+            "avatar": "https://avatars.githubusercontent.com/u/279665174?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "m0Nst3r873",
+            "avatar": "https://avatars.githubusercontent.com/u/146067293?s=40&40&v=4"
+          },
+          {
+            "username": "cursoragent",
+            "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&40&v=4"
+          },
+          {
+            "username": "Eyre921",
+            "avatar": "https://avatars.githubusercontent.com/u/98458308?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "author": "obra",
+        "name": "superpowers",
+        "fullName": "obra/superpowers",
+        "url": "https://github.com/obra/superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "languageColor": "#89e051",
+        "starsToday": 0,
+        "totalStars": 284281,
+        "forks": 25427,
+        "builtBy": [
+          {
+            "username": "obra",
+            "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&40&v=4"
+          },
+          {
+            "username": "arittr",
+            "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "clkao",
+            "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&40&v=4"
+          },
+          {
+            "username": "jjshanks",
+            "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "author": "pascalorg",
+        "name": "editor",
+        "fullName": "pascalorg/editor",
+        "url": "https://github.com/pascalorg/editor",
+        "description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 23159,
+        "forks": 2910,
+        "builtBy": [
+          {
+            "username": "wass08",
+            "avatar": "https://avatars.githubusercontent.com/u/6551176?s=40&40&v=4"
+          },
+          {
+            "username": "Aymericr",
+            "avatar": "https://avatars.githubusercontent.com/u/4444492?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "sudhir9297",
+            "avatar": "https://avatars.githubusercontent.com/u/19578447?s=40&40&v=4"
+          },
+          {
+            "username": "open-pascal",
+            "avatar": "https://avatars.githubusercontent.com/u/271033448?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "author": "earthtojake",
+        "name": "text-to-cad",
+        "fullName": "earthtojake/text-to-cad",
+        "url": "https://github.com/earthtojake/text-to-cad",
+        "description": "A library of agent skills for CAD, CAE and CAM",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 15231,
+        "forks": 1570,
+        "builtBy": [
+          {
+            "username": "earthtojake",
+            "avatar": "https://avatars.githubusercontent.com/u/10742417?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "warun7",
+            "avatar": "https://avatars.githubusercontent.com/u/143688508?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "author": "cathrynlavery",
+        "name": "diagram-design",
+        "fullName": "cathrynlavery/diagram-design",
+        "url": "https://github.com/cathrynlavery/diagram-design",
+        "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "languageColor": "#e34c26",
+        "starsToday": 0,
+        "totalStars": 37058,
+        "forks": 2354,
+        "builtBy": [
+          {
+            "username": "cathrynlavery",
+            "avatar": "https://avatars.githubusercontent.com/u/50469282?s=40&40&v=4"
+          },
+          {
+            "username": "parveen0029",
+            "avatar": "https://avatars.githubusercontent.com/u/174610155?s=40&40&v=4"
+          },
+          {
+            "username": "mvanhorn",
+            "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "web-flow",
+            "avatar": "https://avatars.githubusercontent.com/u/19864447?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "author": "TauricResearch",
+        "name": "TradingAgents",
+        "fullName": "TauricResearch/TradingAgents",
+        "url": "https://github.com/TauricResearch/TradingAgents",
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 104287,
+        "forks": 19999,
+        "builtBy": [
+          {
+            "username": "Yijia-Xiao",
+            "avatar": "https://avatars.githubusercontent.com/u/48253104?s=40&40&v=4"
+          },
+          {
+            "username": "EdwardoSunny",
+            "avatar": "https://avatars.githubusercontent.com/u/68405458?s=40&40&v=4"
+          },
+          {
+            "username": "CadeYu",
+            "avatar": "https://avatars.githubusercontent.com/u/91041827?s=40&40&v=4"
+          },
+          {
+            "username": "luohy15",
+            "avatar": "https://avatars.githubusercontent.com/u/15189961?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "author": "liquidslr",
+        "name": "system-design-notes",
+        "fullName": "liquidslr/system-design-notes",
+        "url": "https://github.com/liquidslr/system-design-notes",
+        "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+        "language": null,
+        "languageColor": null,
+        "starsToday": 0,
+        "totalStars": 18315,
+        "forks": 3439,
+        "builtBy": [
+          {
+            "username": "liquidslr",
+            "avatar": "https://avatars.githubusercontent.com/u/26876811?s=40&40&v=4"
+          },
+          {
+            "username": "emmadonjo",
+            "avatar": "https://avatars.githubusercontent.com/u/22492808?s=40&40&v=4"
+          },
+          {
+            "username": "stym01",
+            "avatar": "https://avatars.githubusercontent.com/u/153318865?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "author": "openai",
+        "name": "plugins",
+        "fullName": "openai/plugins",
+        "url": "https://github.com/openai/plugins",
+        "description": "OpenAI Plugins",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 6317,
+        "forks": 833,
+        "builtBy": [
+          {
+            "username": "cching-openai",
+            "avatar": "https://avatars.githubusercontent.com/u/239646192?s=40&40&v=4"
+          },
+          {
+            "username": "ashwinm-oai",
+            "avatar": "https://avatars.githubusercontent.com/u/264544061?s=40&40&v=4"
+          },
+          {
+            "username": "Aismit",
+            "avatar": "https://avatars.githubusercontent.com/u/24821844?s=40&40&v=4"
+          },
+          {
+            "username": "vb-openai",
+            "avatar": "https://avatars.githubusercontent.com/u/250380837?s=40&40&v=4"
+          },
+          {
+            "username": "gverma-openai",
+            "avatar": "https://avatars.githubusercontent.com/u/235382312?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "author": "freestylefly",
+        "name": "awesome-gpt-image-2",
+        "fullName": "freestylefly/awesome-gpt-image-2",
+        "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+        "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 30453,
+        "forks": 2947,
+        "builtBy": [
+          {
+            "username": "freestylefly",
+            "avatar": "https://avatars.githubusercontent.com/u/43960064?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "ImgBotApp",
+            "avatar": "https://avatars.githubusercontent.com/u/31427850?s=40&40&v=4"
+          },
+          {
+            "username": "LengShangbai",
+            "avatar": "https://avatars.githubusercontent.com/u/155434161?s=40&40&v=4"
+          },
+          {
+            "username": "sscodeai",
+            "avatar": "https://avatars.githubusercontent.com/u/284359760?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 11,
+        "author": "rohitg00",
+        "name": "ai-engineering-from-scratch",
+        "fullName": "rohitg00/ai-engineering-from-scratch",
+        "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+        "description": "Learn it. Build it. Ship it for others.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 53961,
+        "forks": 9397,
+        "builtBy": [
+          {
+            "username": "rohitg00",
+            "avatar": "https://avatars.githubusercontent.com/u/48523873?s=40&40&v=4"
+          },
+          {
+            "username": "abhinav-m22",
+            "avatar": "https://avatars.githubusercontent.com/u/113239388?s=40&40&v=4"
+          },
+          {
+            "username": "thereisnotime",
+            "avatar": "https://avatars.githubusercontent.com/u/37583483?s=40&40&v=4"
+          },
+          {
+            "username": "thejesh23",
+            "avatar": "https://avatars.githubusercontent.com/u/35212698?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 12,
+        "author": "vastsa",
+        "name": "PI-Desktop",
+        "fullName": "vastsa/PI-Desktop",
+        "url": "https://github.com/vastsa/PI-Desktop",
+        "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 1950,
+        "forks": 169,
+        "builtBy": [
+          {
+            "username": "vastsa",
+            "avatar": "https://avatars.githubusercontent.com/u/48862574?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "Tioit-Wang",
+            "avatar": "https://avatars.githubusercontent.com/u/104554654?s=40&40&v=4"
+          },
+          {
+            "username": "yg2224",
+            "avatar": "https://avatars.githubusercontent.com/u/136247805?s=40&40&v=4"
+          },
+          {
+            "username": "BioYue",
+            "avatar": "https://avatars.githubusercontent.com/u/133179025?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 13,
+        "author": "affaan-m",
+        "name": "ECC",
+        "fullName": "affaan-m/ECC",
+        "url": "https://github.com/affaan-m/ECC",
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 255429,
+        "forks": 38248,
+        "builtBy": [
+          {
+            "username": "affaan-m",
+            "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&40&v=4"
+          },
+          {
+            "username": "haelyra",
+            "avatar": "https://avatars.githubusercontent.com/u/49814733?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "pangerlkr",
+            "avatar": "https://avatars.githubusercontent.com/u/73515951?s=40&40&v=4"
+          }
+        ]
+      }
+    ]
+  },
+  "productHunt": null,
+  "hackerNews": null
+}

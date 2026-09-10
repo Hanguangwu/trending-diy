@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-09-09T08:33:12.595Z",
+  "updatedAt": "2026-09-10T08:34:51.758Z",
   "stories": [
     {
       "rank": 1,
-      "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
-      "url": "https://openai.com/index/codex-quantum-computing-experiments/",
-      "score": 30,
-      "comments": 5,
-      "author": "theanonymousone"
+      "title": "DeepSeek v4.1 Flash",
+      "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+      "score": 207,
+      "comments": 60,
+      "author": "Liwink"
     },
     {
       "rank": 2,
-      "title": "Muse – Meta’s personal AI agent",
-      "url": "https://ai.meta.com/muse/",
-      "score": 492,
-      "comments": 523,
-      "author": "yks"
+      "title": "iPhone Duo",
+      "url": "https://www.apple.com/iphone-duo/",
+      "score": 1176,
+      "comments": 2065,
+      "author": "thecosmicfrog"
     },
     {
       "rank": 3,
-      "title": "On Really Trying (2009)",
-      "url": "https://gwern.net/on-really-trying",
-      "score": 31,
-      "comments": 6,
-      "author": "whoami_nr"
+      "title": "Show HN: What if the speed of light was 5 km/h?",
+      "url": "https://rivendell.dmitrybrant.com/relativity/",
+      "score": 274,
+      "comments": 116,
+      "author": "dmitrybrant"
     },
     {
       "rank": 4,
-      "title": "Tension wood: A 'muscle' that can both bend and straighten plants",
-      "url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
-      "score": 112,
+      "title": "Larger Pacific Striped Octopus",
+      "url": "https://en.wikipedia.org/wiki/Larger_Pacific_striped_octopus",
+      "score": 47,
       "comments": 22,
-      "author": "mdp2021"
+      "author": "olalonde"
     },
     {
       "rank": 5,
-      "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
-      "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
-      "score": 1615,
-      "comments": 683,
-      "author": "procedurecall"
+      "title": "Shopify acquires Tailwind",
+      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+      "score": 1012,
+      "comments": 389,
+      "author": "EdwinHoksberg"
     },
     {
       "rank": 6,
-      "title": "Researchers Spot Fake Ancient Pottery Using the Earth's Magnetic Field",
-      "url": "https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441/",
-      "score": 37,
-      "comments": 13,
-      "author": "cisc"
+      "title": "What do Visa and Mastercard do? An intro to card networks",
+      "url": "https://tautology.town/2026/06/01/card-networks.html",
+      "score": 510,
+      "comments": 291,
+      "author": "evakhoury"
     },
     {
       "rank": 7,
-      "title": "A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)",
-      "url": "https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en",
-      "score": 42,
-      "comments": 9,
-      "author": "porridgeraisin"
-    },
-    {
-      "rank": 8,
-      "title": "How to build a printer",
-      "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
-      "score": 309,
-      "comments": 59,
-      "author": "cat-whisperer"
-    },
-    {
-      "rank": 9,
-      "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
-      "score": 554,
-      "comments": 118,
-      "author": "utiiiD"
-    },
-    {
-      "rank": 10,
-      "title": "Copyright does more harm than good and should be abolished",
-      "url": "https://grapheneos.social/@GrapheneOS/117231186011306184",
-      "score": 174,
-      "comments": 114,
-      "author": "Cider9986"
-    },
-    {
-      "rank": 11,
-      "title": "AI Has a Discovery Problem",
-      "url": "https://mhacevedo.com/posts/the-discovery-problem",
-      "score": 41,
-      "comments": 16,
-      "author": "miguelacevedo"
-    },
-    {
-      "rank": 12,
-      "title": "“Tweet” and the bird logo apparently enter the public domain",
-      "url": "https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm",
-      "score": 58,
-      "comments": 16,
-      "author": "progval"
-    },
-    {
-      "rank": 13,
-      "title": "Large language models develop novel social biases through adaptive exploration",
-      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
-      "score": 153,
-      "comments": 78,
-      "author": "paimapi"
-    },
-    {
-      "rank": 14,
-      "title": "Mercury 2.5",
-      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
-      "score": 190,
-      "comments": 27,
-      "author": "Topfi"
-    },
-    {
-      "rank": 15,
-      "title": "I resigned from Anthropic today",
-      "url": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
-      "score": 533,
-      "comments": 684,
+      "title": "All grown-ups were once children, but only few of them remember it",
+      "url": "https://mathstodon.xyz/@tao/117244102901892965",
+      "score": 142,
+      "comments": 87,
       "author": "yurivish"
     },
     {
+      "rank": 8,
+      "title": "Growing proof that autonomous cars save lives",
+      "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
+      "score": 333,
+      "comments": 582,
+      "author": "bookofjoe"
+    },
+    {
+      "rank": 9,
+      "title": "No Man's Sky Cosmos",
+      "url": "https://www.nomanssky.com/cosmos-update/",
+      "score": 372,
+      "comments": 386,
+      "author": "Limb"
+    },
+    {
+      "rank": 10,
+      "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+      "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+      "score": 410,
+      "comments": 134,
+      "author": "ModelForge"
+    },
+    {
+      "rank": 11,
+      "title": "AirPods 5",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "score": 445,
+      "comments": 362,
+      "author": "awad"
+    },
+    {
+      "rank": 12,
+      "title": "iPhone 18 Pro and iPhone 18 Pro Max",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+      "score": 353,
+      "comments": 382,
+      "author": "meetpateltech"
+    },
+    {
+      "rank": 13,
+      "title": "Show HN: Compute polynomials twice as fast",
+      "url": "https://thomasahle.com/fast-polynomials/",
+      "score": 79,
+      "comments": 27,
+      "author": "thomasahle"
+    },
+    {
+      "rank": 14,
+      "title": "Training a 3.8B LLM to 0.384 CORE for $998",
+      "url": "https://hugovergnes.github.io/little-lm-3-8b/",
+      "score": 64,
+      "comments": 12,
+      "author": "Anon84"
+    },
+    {
+      "rank": 15,
+      "title": "Automattic's board forces CEO Matt Mullenweg into leave of absence",
+      "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
+      "score": 241,
+      "comments": 174,
+      "author": "LeoPanthera"
+    },
+    {
       "rank": 16,
-      "title": "DaVinci Resolve 21.1",
-      "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
-      "score": 398,
-      "comments": 175,
-      "author": "tosh"
+      "title": "Version control second coming",
+      "url": "https://psantosl.github.io/posts/version-control-second-coming/",
+      "score": 78,
+      "comments": 50,
+      "author": "bananaboy"
     },
     {
       "rank": 17,
-      "title": "27.5KB language-agnostic WebGPU syntax highlighter",
-      "url": "https://gpu-lexer.vercel.app/",
-      "score": 71,
-      "comments": 25,
-      "author": "bpierre"
+      "title": "OpenAI might have stolen another major proof",
+      "url": "https://twitter.com/ValerioCapraro/status/2097791836269977996",
+      "score": 197,
+      "comments": 79,
+      "author": "tamnd"
     },
     {
       "rank": 18,
-      "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "score": 424,
-      "comments": 300,
-      "author": "domhudson"
+      "title": "Factoring RSA 260",
+      "url": "https://cognition.com/blog/factoring-rsa-260",
+      "score": 88,
+      "comments": 11,
+      "author": "samyok"
     },
     {
       "rank": 19,
-      "title": "Tao: Open math problems being non-renewably mined by AI",
-      "url": "https://mathstodon.xyz/@tao/117237320796901560",
-      "score": 345,
-      "comments": 309,
-      "author": "_alternator_"
+      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+      "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+      "score": 211,
+      "comments": 82,
+      "author": "wsxiaoys"
     },
     {
       "rank": 20,
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "url": "https://openai.com/index/navier-stokes-solution/",
-      "score": 1253,
-      "comments": 995,
-      "author": "tedsanders"
+      "title": "Aardman (Wallace and Gromit) Is Selling Its Original Movie Puppets",
+      "url": "https://gizmodo.com/aardman-is-selling-its-original-movie-puppets-this-month-2000807968",
+      "score": 41,
+      "comments": 9,
+      "author": "Gaishan"
     },
     {
       "rank": 21,
-      "title": "The origins of Partner’s computer case",
-      "url": "https://www.racunalniski-muzej.si/en/the-origins-of-partners-computer-case/",
-      "score": 33,
-      "comments": 2,
-      "author": "markostamcar"
+      "title": "Desert Ant Labs: local, fast models that run on device",
+      "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
+      "score": 439,
+      "comments": 96,
+      "author": "willwhitedc"
     },
     {
       "rank": 22,
-      "title": "An Accidental Blackboard",
-      "url": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
-      "score": 55,
-      "comments": 25,
-      "author": "saikatsg"
+      "title": "ESP32 Bit Pirate Hardware Hacking Kit with Web Tools That Speaks Every Protocol",
+      "url": "https://geo-tp.github.io/ESP32-Bit-Pirate/",
+      "score": 87,
+      "comments": 15,
+      "author": "geotp"
     },
     {
       "rank": 23,
-      "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
-      "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
-      "score": 245,
-      "comments": 120,
-      "author": "stared"
+      "title": "Open Source Durable Objects for Postgres",
+      "url": "https://solidobjects.dev/blog/introducing-solidobjects",
+      "score": 4,
+      "comments": 1,
+      "author": "cardmagic"
     },
     {
       "rank": 24,
-      "title": "Ganon's Mysterious Origins (Revisited)",
-      "url": "https://www.thrillingtalesofoldvideogames.com/blog/ganon-name-origin-kamen-rider",
-      "score": 32,
-      "comments": 17,
-      "author": "tobr"
+      "title": "Apple Watch Series 12",
+      "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
+      "score": 252,
+      "comments": 306,
+      "author": "Lealen"
     },
     {
       "rank": 25,
-      "title": "Into the depths of C: Elaborating the de facto standards (2016)",
-      "url": "https://dl.acm.org/doi/10.1145/2980983.2908081",
-      "score": 17,
-      "comments": 1,
-      "author": "rramadass"
+      "title": "Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators",
+      "url": "https://www.thelec.net/news/articleView.html?idxno=12835",
+      "score": 8,
+      "comments": 2,
+      "author": "peter_d_sherman"
     },
     {
       "rank": 26,
-      "title": "We built our house for LAN parties (2024)",
-      "url": "https://lanparty.house/",
-      "score": 507,
-      "comments": 327,
-      "author": "fittingopposite"
+      "title": "How I advertise malicious software on Google Ads",
+      "url": "https://xlii.space/eng/malicious-software-on-google-ads/",
+      "score": 397,
+      "comments": 242,
+      "author": "xlii"
     },
     {
       "rank": 27,
-      "title": "A Topological Picture Book, Rendered",
-      "url": "https://e-infinity.space/picture-book/",
-      "score": 96,
-      "comments": 11,
-      "author": "mathgenius"
+      "title": "The UN challenges five centuries of cartography",
+      "url": "https://www.not-ship.com/united-nations-map/",
+      "score": 89,
+      "comments": 166,
+      "author": "speckx"
     },
     {
       "rank": 28,
-      "title": "The Microeconomics of Artificial Intelligence (2025)",
-      "url": "https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence",
-      "score": 53,
-      "comments": 27,
-      "author": "neehao"
+      "title": "Rivian's gambit for full autonomy",
+      "url": "https://spectrum.ieee.org/rivian-self-driving",
+      "score": 73,
+      "comments": 87,
+      "author": "1970-01-01"
     },
     {
       "rank": 29,
-      "title": "ChatGPT Images 2.5",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
-      "score": 337,
-      "comments": 405,
-      "author": "vertigoruntime"
+      "title": "GNU Radio in the browser",
+      "url": "https://gnuradioworld.com/",
+      "score": 198,
+      "comments": 27,
+      "author": "kristianpaul"
     },
     {
       "rank": 30,
-      "title": "Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster",
-      "url": "https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/",
-      "score": 121,
-      "comments": 45,
-      "author": "metrofun"
+      "title": "Planet Labs' open satellite feed",
+      "url": "https://tech.marksblogg.com/planet-labs-open-satellite-feed.html",
+      "score": 175,
+      "comments": 30,
+      "author": "marklit"
     }
   ]
 }

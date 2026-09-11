@@ -1,0 +1,543 @@
+{
+  "date": "2026-09-11",
+  "updatedAt": "2026-09-11T08:29:12.852Z",
+  "github": {
+    "updatedAt": "2026-09-11T08:29:10.184Z",
+    "repos": [
+      {
+        "rank": 1,
+        "author": "ayghri",
+        "name": "i-have-adhd",
+        "fullName": "ayghri/i-have-adhd",
+        "url": "https://github.com/ayghri/i-have-adhd",
+        "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 39406,
+        "forks": 2258,
+        "builtBy": [
+          {
+            "username": "ayghri",
+            "avatar": "https://avatars.githubusercontent.com/u/32200675?s=40&40&v=4"
+          },
+          {
+            "username": "thejesh23",
+            "avatar": "https://avatars.githubusercontent.com/u/35212698?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "SillyDark",
+            "avatar": "https://avatars.githubusercontent.com/u/116559191?s=40&40&v=4"
+          },
+          {
+            "username": "commie70",
+            "avatar": "https://avatars.githubusercontent.com/u/57289446?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "author": "bilawalsidhu",
+        "name": "gods-eye-view",
+        "fullName": "bilawalsidhu/gods-eye-view",
+        "url": "https://github.com/bilawalsidhu/gods-eye-view",
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 25367,
+        "forks": 5211,
+        "builtBy": [
+          {
+            "username": "bilawalsidhu",
+            "avatar": "https://avatars.githubusercontent.com/u/106619546?s=40&40&v=4"
+          },
+          {
+            "username": "samehkhamis",
+            "avatar": "https://avatars.githubusercontent.com/u/845989?s=40&40&v=4"
+          },
+          {
+            "username": "onionviolet",
+            "avatar": "https://avatars.githubusercontent.com/u/142947238?s=40&40&v=4"
+          },
+          {
+            "username": "ethanstoner",
+            "avatar": "https://avatars.githubusercontent.com/u/177599791?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "author": "obra",
+        "name": "superpowers",
+        "fullName": "obra/superpowers",
+        "url": "https://github.com/obra/superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "languageColor": "#89e051",
+        "starsToday": 0,
+        "totalStars": 284956,
+        "forks": 25489,
+        "builtBy": [
+          {
+            "username": "obra",
+            "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&40&v=4"
+          },
+          {
+            "username": "arittr",
+            "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "clkao",
+            "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&40&v=4"
+          },
+          {
+            "username": "jjshanks",
+            "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "author": "alsk1992",
+        "name": "CloddsBot",
+        "fullName": "alsk1992/CloddsBot",
+        "url": "https://github.com/alsk1992/CloddsBot",
+        "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 1865,
+        "forks": 268,
+        "builtBy": [
+          {
+            "username": "alsk1992",
+            "avatar": "https://avatars.githubusercontent.com/u/193760801?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "dajiaohuang",
+            "avatar": "https://avatars.githubusercontent.com/u/108231307?s=40&40&v=4"
+          },
+          {
+            "username": "nox-oss",
+            "avatar": "https://avatars.githubusercontent.com/u/259919097?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "author": "Tencent",
+        "name": "teamai-cli",
+        "fullName": "Tencent/teamai-cli",
+        "url": "https://github.com/Tencent/teamai-cli",
+        "description": "Make Every Team AI Native",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 4034,
+        "forks": 257,
+        "builtBy": [
+          {
+            "username": "jeff-r2026",
+            "avatar": "https://avatars.githubusercontent.com/u/279665174?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "m0Nst3r873",
+            "avatar": "https://avatars.githubusercontent.com/u/146067293?s=40&40&v=4"
+          },
+          {
+            "username": "cursoragent",
+            "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&40&v=4"
+          },
+          {
+            "username": "Eyre921",
+            "avatar": "https://avatars.githubusercontent.com/u/98458308?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "author": "AlexsJones",
+        "name": "llmfit",
+        "fullName": "AlexsJones/llmfit",
+        "url": "https://github.com/AlexsJones/llmfit",
+        "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 35928,
+        "forks": 2272,
+        "builtBy": [
+          {
+            "username": "AlexsJones",
+            "avatar": "https://avatars.githubusercontent.com/u/1235925?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "three-foxes-in-a-trenchcoat",
+            "avatar": "https://avatars.githubusercontent.com/u/261414774?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "author": "liquidslr",
+        "name": "system-design-notes",
+        "fullName": "liquidslr/system-design-notes",
+        "url": "https://github.com/liquidslr/system-design-notes",
+        "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+        "language": null,
+        "languageColor": null,
+        "starsToday": 0,
+        "totalStars": 19089,
+        "forks": 3513,
+        "builtBy": [
+          {
+            "username": "liquidslr",
+            "avatar": "https://avatars.githubusercontent.com/u/26876811?s=40&40&v=4"
+          },
+          {
+            "username": "emmadonjo",
+            "avatar": "https://avatars.githubusercontent.com/u/22492808?s=40&40&v=4"
+          },
+          {
+            "username": "stym01",
+            "avatar": "https://avatars.githubusercontent.com/u/153318865?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "author": "cathrynlavery",
+        "name": "diagram-design",
+        "fullName": "cathrynlavery/diagram-design",
+        "url": "https://github.com/cathrynlavery/diagram-design",
+        "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "languageColor": "#e34c26",
+        "starsToday": 0,
+        "totalStars": 38125,
+        "forks": 2412,
+        "builtBy": [
+          {
+            "username": "cathrynlavery",
+            "avatar": "https://avatars.githubusercontent.com/u/50469282?s=40&40&v=4"
+          },
+          {
+            "username": "parveen0029",
+            "avatar": "https://avatars.githubusercontent.com/u/174610155?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "mvanhorn",
+            "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&40&v=4"
+          },
+          {
+            "username": "web-flow",
+            "avatar": "https://avatars.githubusercontent.com/u/19864447?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "author": "freestylefly",
+        "name": "awesome-gpt-image-2",
+        "fullName": "freestylefly/awesome-gpt-image-2",
+        "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+        "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 31150,
+        "forks": 3014,
+        "builtBy": [
+          {
+            "username": "freestylefly",
+            "avatar": "https://avatars.githubusercontent.com/u/43960064?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "ImgBotApp",
+            "avatar": "https://avatars.githubusercontent.com/u/31427850?s=40&40&v=4"
+          },
+          {
+            "username": "LengShangbai",
+            "avatar": "https://avatars.githubusercontent.com/u/155434161?s=40&40&v=4"
+          },
+          {
+            "username": "sscodeai",
+            "avatar": "https://avatars.githubusercontent.com/u/284359760?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "author": "armory3d",
+        "name": "armorpaint",
+        "fullName": "armory3d/armorpaint",
+        "url": "https://github.com/armory3d/armorpaint",
+        "description": "Graphics Creation Tools",
+        "language": "C",
+        "languageColor": "#555555",
+        "starsToday": 0,
+        "totalStars": 4545,
+        "forks": 522,
+        "builtBy": [
+          {
+            "username": "luboslenco",
+            "avatar": "https://avatars.githubusercontent.com/u/3685704?s=40&40&v=4"
+          },
+          {
+            "username": "MathemanFlo",
+            "avatar": "https://avatars.githubusercontent.com/u/28649121?s=40&40&v=4"
+          },
+          {
+            "username": "shiena",
+            "avatar": "https://avatars.githubusercontent.com/u/1295639?s=40&40&v=4"
+          },
+          {
+            "username": "lidorY",
+            "avatar": "https://avatars.githubusercontent.com/u/15870496?s=40&40&v=4"
+          },
+          {
+            "username": "Xephobia",
+            "avatar": "https://avatars.githubusercontent.com/u/28755060?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 11,
+        "author": "diegosouzapw",
+        "name": "OmniRoute",
+        "fullName": "diegosouzapw/OmniRoute",
+        "url": "https://github.com/diegosouzapw/OmniRoute",
+        "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 64499,
+        "forks": 9021,
+        "builtBy": [
+          {
+            "username": "diegosouzapw",
+            "avatar": "https://avatars.githubusercontent.com/u/8016841?s=40&40&v=4"
+          },
+          {
+            "username": "backryun",
+            "avatar": "https://avatars.githubusercontent.com/u/24198422?s=40&40&v=4"
+          },
+          {
+            "username": "oyi77",
+            "avatar": "https://avatars.githubusercontent.com/u/14921983?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 12,
+        "author": "JustVugg",
+        "name": "colibri",
+        "fullName": "JustVugg/colibri",
+        "url": "https://github.com/JustVugg/colibri",
+        "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+        "language": "C",
+        "languageColor": "#555555",
+        "starsToday": 0,
+        "totalStars": 27607,
+        "forks": 3018,
+        "builtBy": [
+          {
+            "username": "JustVugg",
+            "avatar": "https://avatars.githubusercontent.com/u/13022503?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "ZacharyZcR",
+            "avatar": "https://avatars.githubusercontent.com/u/48591714?s=40&40&v=4"
+          },
+          {
+            "username": "monotophic",
+            "avatar": "https://avatars.githubusercontent.com/u/289220702?s=40&40&v=4"
+          },
+          {
+            "username": "steve-m",
+            "avatar": "https://avatars.githubusercontent.com/u/522310?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 13,
+        "author": "THU-MAIC",
+        "name": "OpenMAIC",
+        "fullName": "THU-MAIC/OpenMAIC",
+        "url": "https://github.com/THU-MAIC/OpenMAIC",
+        "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 35631,
+        "forks": 5664,
+        "builtBy": [
+          {
+            "username": "wyuc",
+            "avatar": "https://avatars.githubusercontent.com/u/18752201?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "cosarah",
+            "avatar": "https://avatars.githubusercontent.com/u/117187635?s=40&40&v=4"
+          },
+          {
+            "username": "YizukiAme",
+            "avatar": "https://avatars.githubusercontent.com/u/104178195?s=40&40&v=4"
+          },
+          {
+            "username": "ly-wang19",
+            "avatar": "https://avatars.githubusercontent.com/u/94427531?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 14,
+        "author": "nashsu",
+        "name": "llm_wiki",
+        "fullName": "nashsu/llm_wiki",
+        "url": "https://github.com/nashsu/llm_wiki",
+        "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 18351,
+        "forks": 2112,
+        "builtBy": [
+          {
+            "username": "nashsu",
+            "avatar": "https://avatars.githubusercontent.com/u/2127280?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "skfan135",
+            "avatar": "https://avatars.githubusercontent.com/u/111690459?s=40&40&v=4"
+          },
+          {
+            "username": "AndrewDongminYoo",
+            "avatar": "https://avatars.githubusercontent.com/u/82999715?s=40&40&v=4"
+          },
+          {
+            "username": "chuenchen309",
+            "avatar": "https://avatars.githubusercontent.com/u/48723787?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 15,
+        "author": "vercel-labs",
+        "name": "skills",
+        "fullName": "vercel-labs/skills",
+        "url": "https://github.com/vercel-labs/skills",
+        "description": "The open agent skills tool - npx skills",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 31316,
+        "forks": 2671,
+        "builtBy": [
+          {
+            "username": "quuu",
+            "avatar": "https://avatars.githubusercontent.com/u/32676955?s=40&40&v=4"
+          },
+          {
+            "username": "huozhi",
+            "avatar": "https://avatars.githubusercontent.com/u/4800338?s=40&40&v=4"
+          },
+          {
+            "username": "jonathanhefner",
+            "avatar": "https://avatars.githubusercontent.com/u/771968?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 16,
+        "author": "vastsa",
+        "name": "PI-Desktop",
+        "fullName": "vastsa/PI-Desktop",
+        "url": "https://github.com/vastsa/PI-Desktop",
+        "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 2512,
+        "forks": 202,
+        "builtBy": [
+          {
+            "username": "vastsa",
+            "avatar": "https://avatars.githubusercontent.com/u/48862574?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "Tioit-Wang",
+            "avatar": "https://avatars.githubusercontent.com/u/104554654?s=40&40&v=4"
+          },
+          {
+            "username": "yg2224",
+            "avatar": "https://avatars.githubusercontent.com/u/136247805?s=40&40&v=4"
+          },
+          {
+            "username": "BioYue",
+            "avatar": "https://avatars.githubusercontent.com/u/133179025?s=40&40&v=4"
+          }
+        ]
+      }
+    ]
+  },
+  "productHunt": null,
+  "hackerNews": null
+}

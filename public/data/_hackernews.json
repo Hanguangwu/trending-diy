@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-09-11T08:29:12.844Z",
+  "updatedAt": "2026-09-12T08:17:51.760Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Shopify is moving from React Native back to Swift and Kotlin",
-      "url": "https://shopify.engineering/back-to-native",
-      "score": 1021,
-      "comments": 702,
-      "author": "fnthawar2"
+      "title": "google.com/goto: Google's anti-scraping update",
+      "url": "https://www.autom.dev/blog/google-search-goto-links",
+      "score": 378,
+      "comments": 253,
+      "author": "1e1a"
     },
     {
       "rank": 2,
-      "title": "Don't let anyone take away your big box of cables",
-      "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
-      "score": 487,
-      "comments": 327,
-      "author": "Brajeshwar"
+      "title": "A misalignment of AI in mathematics",
+      "url": "https://mathandai.org/",
+      "score": 864,
+      "comments": 846,
+      "author": "meredydd"
     },
     {
       "rank": 3,
-      "title": "Nine coding harnesses vs. your laptop",
-      "url": "https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74",
-      "score": 81,
-      "comments": 19,
-      "author": "nasutton12"
+      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+      "url": "https://eiln.github.io/posts/ane.html",
+      "score": 12,
+      "comments": 0,
+      "author": "zdw"
     },
     {
       "rank": 4,
-      "title": "Working with Git Worktrees in Magit",
-      "url": "https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/",
-      "score": 31,
-      "comments": 5,
-      "author": "srijan4"
+      "title": "Usenet rewind archive search engine",
+      "url": "https://www.usenet-rewind.com/",
+      "score": 50,
+      "comments": 9,
+      "author": "cstadler1869"
     },
     {
       "rank": 5,
-      "title": "OpenAI Agents API",
-      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-      "score": 244,
-      "comments": 136,
-      "author": "aquir"
+      "title": "Navier-Stokes Announcement",
+      "url": "https://www.claymath.org/news/navier-stokes-announcement/",
+      "score": 126,
+      "comments": 77,
+      "author": "rvz"
     },
     {
       "rank": 6,
-      "title": "We Replaced MMAP with Io_uring in Our Rust Query Engine. It Got Slower",
-      "url": "https://www.conviva.ai/resource/we-replaced-mmap-with-io_uring-in-our-rust-query-engine-it-got-slower/",
-      "score": 31,
-      "comments": 14,
-      "author": "rzk"
+      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+      "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+      "score": 489,
+      "comments": 256,
+      "author": "nickabe"
     },
     {
       "rank": 7,
-      "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
-      "url": "https://auberon.xyz/blog/posts/deathray/",
-      "score": 164,
-      "comments": 108,
-      "author": "auberonedu"
+      "title": "Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them",
+      "url": "https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250",
+      "score": 56,
+      "comments": 3,
+      "author": "bookofjoe"
     },
     {
       "rank": 8,
-      "title": "The Gemini app is now available for Windows",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
-      "score": 40,
-      "comments": 26,
-      "author": "quysala12"
+      "title": "A Design Space Exploration of Async/Await",
+      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+      "score": 264,
+      "comments": 64,
+      "author": "wcrichton"
     },
     {
       "rank": 9,
-      "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
-      "url": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
-      "score": 326,
-      "comments": 53,
-      "author": "gumby"
+      "title": "Inverse Kinematics and Foot Locking",
+      "url": "https://theorangeduck.com/page/inverse-kinematics-foot-locking",
+      "score": 19,
+      "comments": 0,
+      "author": "airhangerf15"
     },
     {
       "rank": 10,
-      "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
-      "url": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
-      "score": 184,
-      "comments": 68,
-      "author": "rguiscard"
+      "title": "Show HN: Bodily Oddities",
+      "url": "https://vester.si/bodily-oddities/",
+      "score": 224,
+      "comments": 156,
+      "author": "vesterde"
     },
     {
       "rank": 11,
-      "title": "Astra for Coding: Why Are We Doing This Again?",
-      "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
-      "score": 278,
-      "comments": 179,
-      "author": "manojbajaj95"
+      "title": "Designing for Dual Screen and Foldable Devices with CSS (2023)",
+      "url": "https://blog.stephaniestimac.com/posts/2023/05/design-foldable-devices/",
+      "score": 26,
+      "comments": 5,
+      "author": "mooreds"
     },
     {
       "rank": 12,
-      "title": "NTSB issues investigative update on B-767 runway excursion accident in Miami",
-      "url": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx",
-      "score": 97,
-      "comments": 166,
-      "author": "mckn1ght"
+      "title": "Logo Programming",
+      "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
+      "score": 271,
+      "comments": 112,
+      "author": "azhenley"
     },
     {
       "rank": 13,
-      "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
-      "url": "https://system76.com/workstations/thelio-mira-ai",
-      "score": 93,
-      "comments": 72,
-      "author": "jonifico"
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "url": "https://www.rubyhack.ai/",
+      "score": 651,
+      "comments": 370,
+      "author": "chao-"
     },
     {
       "rank": 14,
-      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-      "url": "https://cognition.com/blog/swe-2",
-      "score": 407,
-      "comments": 172,
-      "author": "seelos"
+      "title": "WeWorm: Zero-Click WeChat Worm",
+      "url": "https://calif.io/research/weworm",
+      "score": 14,
+      "comments": 1,
+      "author": "BlackEarth"
     },
     {
       "rank": 15,
-      "title": "Music Theory for the 21st-Century Classroom",
-      "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
-      "score": 218,
-      "comments": 89,
-      "author": "aanet"
+      "title": "Project Blinkenlights",
+      "url": "https://blinkenlights.de/en/",
+      "score": 83,
+      "comments": 30,
+      "author": "doener"
     },
     {
       "rank": 16,
-      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-      "score": 794,
-      "comments": 730,
-      "author": "pred_"
+      "title": "Litelm: LiteLLM Without the Bloat",
+      "url": "https://github.com/kennethwolters/litelm",
+      "score": 128,
+      "comments": 42,
+      "author": "kennethwolters"
     },
     {
       "rank": 17,
-      "title": "Stop making swap partitions–use swap files instead",
-      "url": "https://gist.github.com/joshenders/c4960cec9c63a7b7d68ffa9543356c43",
-      "score": 16,
-      "comments": 11,
-      "author": "jenders"
+      "title": "Mind-altering drugs played key role in rise of Andean civilization",
+      "url": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
+      "score": 148,
+      "comments": 101,
+      "author": "geneticdrifts"
     },
     {
       "rank": 18,
-      "title": "Forgejo <=16.0.3 Critical RCE",
-      "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
-      "score": 178,
-      "comments": 65,
-      "author": "weierstass"
+      "title": "GrapheneOS' rewritten Messages app is released",
+      "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+      "score": 270,
+      "comments": 192,
+      "author": "microtonal"
     },
     {
       "rank": 19,
-      "title": "Neki – Sharded Postgres",
-      "url": "https://planetscale.com/blog/introducing-neki",
-      "score": 239,
-      "comments": 131,
-      "author": "simon_weber"
+      "title": "IKEA made a mod for Skyrim [video]",
+      "url": "https://www.youtube.com/watch?v=iZODN0QUgjI",
+      "score": 9,
+      "comments": 1,
+      "author": "kegenaar"
     },
     {
       "rank": 20,
-      "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
-      "url": "https://merybenavente.me/blog/proof-of-capture",
-      "score": 102,
-      "comments": 55,
-      "author": "merybenavente"
+      "title": "I've operated petabyte-scale ClickHouse clusters for 5 years",
+      "url": "https://www.tinybird.co/blog/what-i-learned-operating-clickhouse",
+      "score": 207,
+      "comments": 78,
+      "author": "adastral"
     },
     {
       "rank": 21,
-      "title": "What Comes After Git",
-      "url": "https://ersc.io/blog/what-comes-after-git",
-      "score": 41,
-      "comments": 11,
-      "author": "tangled"
+      "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
+      "url": "https://github.com/mirza-rizvi/ResolveHQ",
+      "score": 57,
+      "comments": 17,
+      "author": "mirza_rizvi"
     },
     {
       "rank": 22,
-      "title": "Rust is tier-1 language at Microsoft",
-      "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-      "score": 664,
-      "comments": 398,
-      "author": "mmastrac"
+      "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
+      "url": "https://snap.berkeley.edu/",
+      "score": 139,
+      "comments": 77,
+      "author": "dr_kiszonka"
     },
     {
       "rank": 23,
-      "title": "Testing race conditions with mem access tracing and stack-based delay injection",
-      "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
-      "score": 5,
-      "comments": 0,
-      "author": "mfrw"
+      "title": "Rune is now open source",
+      "url": "https://rune.build/blog/rune-is-now-open-source",
+      "score": 179,
+      "comments": 57,
+      "author": "ernestrc"
     },
     {
       "rank": 24,
-      "title": "Exercise intensity is associated with cardiometabolic health",
-      "url": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2",
-      "score": 88,
-      "comments": 41,
-      "author": "qclibre22"
+      "title": "AlphaGenome maps 9B DNA variants",
+      "url": "https://spectrum.ieee.org/alphagenome-atlas",
+      "score": 83,
+      "comments": 7,
+      "author": "ltononro"
     },
     {
       "rank": 25,
-      "title": "Detecting and countering misuse of AI: September 2026",
-      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-      "score": 125,
-      "comments": 190,
-      "author": "garo-pro"
+      "title": "Testing Race Conditions",
+      "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
+      "score": 45,
+      "comments": 0,
+      "author": "alpaylan"
     },
     {
       "rank": 26,
-      "title": "YuE2 · Frontier Music with Symbolic Planning",
-      "url": "https://map-yue2.github.io/",
-      "score": 87,
-      "comments": 74,
-      "author": "sexy_seedbox"
+      "title": "The EPA is planning to scrap public review rules for data center pollution",
+      "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
+      "score": 449,
+      "comments": 317,
+      "author": "doener"
     },
     {
       "rank": 27,
-      "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
-      "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
-      "score": 307,
-      "comments": 260,
-      "author": "thelastgallon"
+      "title": "Claude is only available to people over 18 years",
+      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "score": 635,
+      "comments": 626,
+      "author": "Muhammad523"
     },
     {
       "rank": 28,
-      "title": "Douglas Hofstadter: Analogy as the Core of Cognition [video]",
-      "url": "https://www.youtube.com/watch?v=n8m7lFQ3njk",
-      "score": 171,
-      "comments": 79,
-      "author": "tosh"
+      "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
+      "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
+      "score": 346,
+      "comments": 313,
+      "author": "lukaspetersson"
     },
     {
       "rank": 29,
-      "title": "JEP 544: Ahead-of-Time Code Compilation",
-      "url": "https://openjdk.org/jeps/544",
-      "score": 91,
-      "comments": 33,
-      "author": "Skinney"
+      "title": "How we rebuilt complex permissions without migrating to Zanzibar",
+      "url": "https://infisical.com/blog/folder-based-rbac",
+      "score": 55,
+      "comments": 12,
+      "author": "FinnLobsien"
     },
     {
       "rank": 30,
-      "title": "Customizing my Compaq MX-11800 keyboard",
-      "url": "https://blog.webb.page/WM-102",
-      "score": 26,
-      "comments": 5,
-      "author": "NetOpWibby"
+      "title": "RTK reports token savings, but our cost benchmarks disagree",
+      "url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
+      "score": 159,
+      "comments": 78,
+      "author": "michalwarda"
     }
   ]
 }

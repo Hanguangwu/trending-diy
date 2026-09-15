@@ -1,245 +1,237 @@
 {
-  "updatedAt": "2026-09-14T09:28:40.761Z",
+  "updatedAt": "2026-09-15T09:07:53.400Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-      "score": 917,
-      "comments": 388,
-      "author": "u1hcw9nx"
+      "title": "I can't stop thinking about Papua New Guinea",
+      "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+      "score": 65,
+      "comments": 15,
+      "author": "networked"
     },
     {
       "rank": 2,
-      "title": "A 386 PC for Your RP2350",
-      "url": "https://github.com/rh1tech/frank-386",
-      "score": 10,
-      "comments": 0,
-      "author": "SamuraiLion"
+      "title": "iOS 27, iPadOS 27, and macOS 27",
+      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "score": 590,
+      "comments": 669,
+      "author": "throw0101d"
     },
     {
       "rank": 3,
-      "title": "Spaceships (Reverse Asteroid)",
-      "url": "https://spaceships.treybastian.com/",
-      "score": 235,
-      "comments": 40,
-      "author": "zdw"
+      "title": "OpenArm: An open-source 7DOF humanoid arm",
+      "url": "https://github.com/enactic/OpenArm",
+      "score": 79,
+      "comments": 16,
+      "author": "Lwrless"
     },
     {
       "rank": 4,
-      "title": "EuroBirdPortal – Live bird movements across Europe",
-      "url": "https://www.eurobirdportal.org/ebp/en/",
-      "score": 6,
-      "comments": 1,
-      "author": "NKosmatos"
+      "title": "Linux from Scratch",
+      "url": "https://www.linuxfromscratch.org/",
+      "score": 160,
+      "comments": 55,
+      "author": "sippingabonedry"
     },
     {
       "rank": 5,
-      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
-      "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
-      "score": 254,
-      "comments": 122,
-      "author": "Cider9986"
+      "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
+      "url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
+      "score": 127,
+      "comments": 39,
+      "author": "arunbahl"
     },
     {
       "rank": 6,
-      "title": "Apple's Dimensional Drawings",
-      "url": "https://developer.apple.com/accessories/dimensional-drawings/",
-      "score": 187,
-      "comments": 72,
-      "author": "herbertl"
+      "title": "Pion, an agent designed to run any company autonomously",
+      "url": "https://andonlabs.com/blog/why-we-built-pion",
+      "score": 394,
+      "comments": 491,
+      "author": "lukaspetersson"
     },
     {
       "rank": 7,
-      "title": "The case against JPEG XL",
-      "url": "https://giannirosato.com/blog/post/case-against-jxl/",
-      "score": 157,
-      "comments": 213,
-      "author": "contact9879"
+      "title": "When code is a maze, smart developers make maps (2025)",
+      "url": "https://medium.com/@simonsmartiom/when-code-is-a-maze-smart-developers-make-maps-fbc452a48c1b",
+      "score": 33,
+      "comments": 39,
+      "author": "boxesnlines"
     },
     {
       "rank": 8,
-      "title": "Show HN: 1080p is 920px tall – 1k real browser viewports",
-      "url": "https://screensize.net/reports/viewport-stats",
-      "score": 9,
-      "comments": 6,
-      "author": "zenpe"
+      "title": "Charts built for Chat",
+      "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
+      "score": 220,
+      "comments": 66,
+      "author": "thingsilearned"
     },
     {
       "rank": 9,
-      "title": "Of Gods and Languages: On \"When God Spoke Greek\" (2013)",
-      "url": "https://lareviewofbooks.org/article/of-gods-and-languages-on-when-god-spoke-greek/",
-      "score": 26,
-      "comments": 18,
-      "author": "bryanrasmussen"
-    },
-    {
-      "rank": 10,
-      "title": "Mullenweg has returned as CEO after attempted board ouster",
-      "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
-      "score": 152,
-      "comments": 205,
-      "author": "ilamont"
+      "title": "XCancel service is suspended until further notice",
+      "url": "https://xcancel.com/#",
+      "score": 617,
+      "comments": 926,
+      "author": "gaganyaan"
     },
     {
       "rank": 11,
-      "title": "Rope, twine and thread: Invisible technologies of the Stone Age",
-      "url": "https://knowablemagazine.org/content/article/society/2026/prehistory-lost-threads",
-      "score": 64,
-      "comments": 16,
-      "author": "knowablemag"
+      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+      "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+      "score": 106,
+      "comments": 26,
+      "author": "nathannaveen"
     },
     {
       "rank": 12,
-      "title": "Ask HN: What are you working on? (September 2026)",
-      "url": "https://news.ycombinator.com/item?id=49686380",
-      "score": 166,
-      "comments": 522,
-      "author": "david927"
+      "title": "Show HN: Redis City – Explore how Redis works in an interactive 3D model",
+      "url": "https://poltora.dev/redis",
+      "score": 77,
+      "comments": 11,
+      "author": "poltora"
     },
     {
       "rank": 13,
-      "title": "Julia 1.13 highlights",
-      "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
-      "score": 231,
-      "comments": 21,
-      "author": "eigenspace"
+      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "score": 454,
+      "comments": 362,
+      "author": "gregnavis"
     },
     {
       "rank": 14,
-      "title": "OEMpocalypse: Unprivileged Android app to root on Samsung, Xiaomi, others",
-      "url": "https://calif.io/research/oempocalypse",
-      "score": 55,
-      "comments": 24,
-      "author": "negura"
+      "title": "Distributed Systems Classics (2017)",
+      "url": "https://nvartolomei.com/dist-sys-classics/",
+      "score": 295,
+      "comments": 65,
+      "author": "grep_it"
     },
     {
       "rank": 15,
-      "title": "Why is Google still serving dodgy ads?",
-      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
-      "score": 809,
-      "comments": 357,
-      "author": "iamflimflam1"
+      "title": "A beginning for mathematics",
+      "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+      "score": 216,
+      "comments": 115,
+      "author": "robinhouston"
     },
     {
       "rank": 16,
-      "title": "The GDR and Vietnam: From Fake Coffee to Coffee Empire",
-      "url": "https://www.katjahoyer.uk/p/the-gdr-and-vietnam-from-fake-coffee",
-      "score": 77,
-      "comments": 32,
-      "author": "NaOH"
+      "title": "Compressing a flag to 11 bits",
+      "url": "https://read.vantezzen.io/miniflags",
+      "score": 135,
+      "comments": 58,
+      "author": "bennett_dev"
     },
     {
       "rank": 17,
-      "title": "Show HN: EterDB, a Postgres fork that makes it easy to recover from incidents",
-      "url": "https://eterdb.com/",
+      "title": "High-performance garbage collection for C++",
+      "url": "https://v8.dev/blog/high-performance-cpp-gc",
       "score": 31,
-      "comments": 11,
-      "author": "fdeth"
+      "comments": 2,
+      "author": "motownphilly"
     },
     {
       "rank": 18,
-      "title": "Flawed routers flood University of Wisconsin internet time server (2003)",
-      "url": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
-      "score": 82,
-      "comments": 10,
-      "author": "walrus01"
+      "title": "Forgotten Woodlands",
+      "url": "https://storymaps.arcgis.com/stories/9b790daf22ba4e87836f467abb1c7e49",
+      "score": 52,
+      "comments": 19,
+      "author": "NaOH"
     },
     {
       "rank": 19,
-      "title": "'Coltrane' Review: Sound and Spirit",
-      "url": "https://www.wsj.com/arts-culture/books/coltrane-review-sound-and-spirit-b2417282",
-      "score": 9,
-      "comments": 1,
-      "author": "Thevet"
+      "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+      "url": "https://github.com/JamesRyanATX/fcbnerd",
+      "score": 63,
+      "comments": 16,
+      "author": "fretlessjazz"
     },
     {
       "rank": 20,
-      "title": "Open-source AI and open models reading list",
-      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-      "score": 109,
-      "comments": 18,
-      "author": "simonpure"
+      "title": "Synthesizing Loop-Free Programs with Rust and Z3 (2020)",
+      "url": "https://fitzgen.com/2020/01/13/synthesizing-loop-free-programs.html",
+      "score": 12,
+      "comments": 0,
+      "author": "karelpeeters"
     },
     {
       "rank": 21,
-      "title": "Five Words from Vanishing Fleece",
-      "url": "https://blog.wordnik.com/five-words-from-vanishing-fleece",
-      "score": 9,
-      "comments": 0,
-      "author": "dan353hehe"
+      "title": "Principles for Fast Tokio Applications",
+      "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
+      "score": 207,
+      "comments": 51,
+      "author": "carllerche"
     },
     {
       "rank": 22,
-      "title": "The Nature of Dance",
-      "url": "https://vester.si/blog/nature-of-dance/",
-      "score": 4,
-      "comments": 0,
-      "author": "wonger_"
+      "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
+      "url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
+      "score": 176,
+      "comments": 180,
+      "author": "theanonymousone"
     },
     {
       "rank": 23,
-      "title": "Bad benchmarks and evals: Senior SWE-Bench, napkin math, and winter tires",
-      "url": "https://danluu.com/exercise-7/",
-      "score": 26,
-      "comments": 5,
-      "author": "luu"
+      "title": "Ask HN: What are you working on? (September 2026)",
+      "url": "https://news.ycombinator.com/item?id=49686380",
+      "score": 334,
+      "comments": 1012,
+      "author": "david927"
     },
     {
       "rank": 24,
-      "title": "Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout",
-      "url": "https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/",
-      "score": 123,
-      "comments": 161,
-      "author": "andsoitis"
+      "title": "People who can't picture anything are rewriting the science of imagination",
+      "url": "https://dailyneuron.com/aphantasia-mental-imagery-brain-network/",
+      "score": 162,
+      "comments": 234,
+      "author": "giuliomagnifico"
     },
     {
       "rank": 25,
-      "title": "CUDA for AMD on Windows",
-      "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
-      "score": 166,
-      "comments": 87,
-      "author": "chiassedu80"
+      "title": "US confirms for first time it has deployed space weapons",
+      "url": "https://www.bbc.com/news/articles/ck790xg41ygro",
+      "score": 16,
+      "comments": 0,
+      "author": "harporoeder"
     },
     {
       "rank": 26,
-      "title": "The Malicious Use of Artificial Intelligence",
-      "url": "https://arxiv.org/abs/1802.07228",
-      "score": 64,
-      "comments": 14,
-      "author": "rasengan0"
+      "title": "Steam Frame starts at $1059",
+      "url": "https://store.steampowered.com/hardware/steamframe",
+      "score": 662,
+      "comments": 504,
+      "author": "bsimpson"
     },
     {
       "rank": 27,
-      "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
-      "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
-      "score": 437,
-      "comments": 204,
-      "author": "Levitating"
+      "title": "Backprop Alternative: Augmented Lagrangian Predictive Coding",
+      "url": "https://pub.sakana.ai/pc-alm/",
+      "score": 93,
+      "comments": 30,
+      "author": "guld"
     },
     {
       "rank": 28,
-      "title": "AI Robots – When will they be in our homes",
-      "url": "https://spectrum.ieee.org/ai-robots",
-      "score": 32,
-      "comments": 28,
-      "author": "andsoitis"
+      "title": "How my e-reader lost its stripes",
+      "url": "https://www.serpentine.com/posts/2026/x3-stripes/",
+      "score": 204,
+      "comments": 38,
+      "author": "simonmic"
     },
     {
       "rank": 29,
-      "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
-      "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
-      "score": 92,
-      "comments": 20,
-      "author": "rzk"
+      "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
+      "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
+      "score": 109,
+      "comments": 30,
+      "author": "iamsyr"
     },
     {
       "rank": 30,
-      "title": "Necker, 1832: \"An optical phænomenon on viewing a figure of a geometrical solid\"",
-      "url": "https://zenodo.org/records/1430991",
-      "score": 30,
-      "comments": 9,
-      "author": "akkartik"
+      "title": "Dario, Please",
+      "url": "https://pop.rdi.sh/dario-please/",
+      "score": 515,
+      "comments": 250,
+      "author": "0x5FC3"
     }
   ]
 }

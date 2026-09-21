@@ -1,0 +1,406 @@
+{
+  "date": "2026-09-21",
+  "updatedAt": "2026-09-21T09:30:59.448Z",
+  "github": {
+    "updatedAt": "2026-09-21T09:30:57.387Z",
+    "repos": [
+      {
+        "rank": 1,
+        "author": "affaan-m",
+        "name": "ECC",
+        "fullName": "affaan-m/ECC",
+        "url": "https://github.com/affaan-m/ECC",
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 264215,
+        "forks": 39501,
+        "builtBy": [
+          {
+            "username": "affaan-m",
+            "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&40&v=4"
+          },
+          {
+            "username": "haelyra",
+            "avatar": "https://avatars.githubusercontent.com/u/49814733?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "pangerlkr",
+            "avatar": "https://avatars.githubusercontent.com/u/73515951?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "author": "BuilderIO",
+        "name": "agent-native",
+        "fullName": "BuilderIO/agent-native",
+        "url": "https://github.com/BuilderIO/agent-native",
+        "description": "A framework for building agentic apps",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 5512,
+        "forks": 508,
+        "builtBy": [
+          {
+            "username": "steve8708",
+            "avatar": "https://avatars.githubusercontent.com/u/844291?s=40&40&v=4"
+          },
+          {
+            "username": "builderio-bot",
+            "avatar": "https://avatars.githubusercontent.com/u/175421836?s=40&40&v=4"
+          },
+          {
+            "username": "3mdistal",
+            "avatar": "https://avatars.githubusercontent.com/u/86723305?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "author": "cloudflare",
+        "name": "security-audit-skill",
+        "fullName": "cloudflare/security-audit-skill",
+        "url": "https://github.com/cloudflare/security-audit-skill",
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 18489,
+        "forks": 1034,
+        "builtBy": [
+          {
+            "username": "literally-dan",
+            "avatar": "https://avatars.githubusercontent.com/u/9935415?s=40&40&v=4"
+          },
+          {
+            "username": "CooperSheroy",
+            "avatar": "https://avatars.githubusercontent.com/u/59650384?s=40&40&v=4"
+          },
+          {
+            "username": "kennysarnoski-jarvis",
+            "avatar": "https://avatars.githubusercontent.com/u/228360615?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "author": "trycua",
+        "name": "cua",
+        "fullName": "trycua/cua",
+        "url": "https://github.com/trycua/cua",
+        "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+        "language": "HTML",
+        "languageColor": "#e34c26",
+        "starsToday": 0,
+        "totalStars": 25406,
+        "forks": 1746,
+        "builtBy": [
+          {
+            "username": "f-trycua",
+            "avatar": "https://avatars.githubusercontent.com/u/195596869?s=40&40&v=4"
+          },
+          {
+            "username": "ddupont808",
+            "avatar": "https://avatars.githubusercontent.com/u/3820588?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "r33drichards",
+            "avatar": "https://avatars.githubusercontent.com/u/57335981?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "author": "anthropics",
+        "name": "financial-services",
+        "fullName": "anthropics/financial-services",
+        "url": "https://github.com/anthropics/financial-services",
+        "description": "",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 35577,
+        "forks": 5259,
+        "builtBy": [
+          {
+            "username": "mihilmy",
+            "avatar": "https://avatars.githubusercontent.com/u/5457787?s=40&40&v=4"
+          },
+          {
+            "username": "cxyback",
+            "avatar": "https://avatars.githubusercontent.com/u/174142461?s=40&40&v=4"
+          },
+          {
+            "username": "manar-ant",
+            "avatar": "https://avatars.githubusercontent.com/u/250030384?s=40&40&v=4"
+          },
+          {
+            "username": "tobinsouth",
+            "avatar": "https://avatars.githubusercontent.com/u/32489862?s=40&40&v=4"
+          },
+          {
+            "username": "viveknair",
+            "avatar": "https://avatars.githubusercontent.com/u/1203039?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "author": "paperless-ngx",
+        "name": "paperless-ngx",
+        "fullName": "paperless-ngx/paperless-ngx",
+        "url": "https://github.com/paperless-ngx/paperless-ngx",
+        "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 45751,
+        "forks": 3165,
+        "builtBy": [
+          {
+            "username": "shamoon",
+            "avatar": "https://avatars.githubusercontent.com/u/4887959?s=40&40&v=4"
+          },
+          {
+            "username": "stumpylog",
+            "avatar": "https://avatars.githubusercontent.com/u/797416?s=40&40&v=4"
+          },
+          {
+            "username": "danielquinn",
+            "avatar": "https://avatars.githubusercontent.com/u/218205?s=40&40&v=4"
+          },
+          {
+            "username": "paperlessngx-bot",
+            "avatar": "https://avatars.githubusercontent.com/u/99855517?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "author": "anthropics",
+        "name": "claude-code",
+        "fullName": "anthropics/claude-code",
+        "url": "https://github.com/anthropics/claude-code",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 147349,
+        "forks": 24097,
+        "builtBy": [
+          {
+            "username": "actions-user",
+            "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&40&v=4"
+          },
+          {
+            "username": "poteat",
+            "avatar": "https://avatars.githubusercontent.com/u/7668446?s=40&40&v=4"
+          },
+          {
+            "username": "bcherny",
+            "avatar": "https://avatars.githubusercontent.com/u/1761758?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "ant-kurt",
+            "avatar": "https://avatars.githubusercontent.com/u/209710463?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "author": "mihail911",
+        "name": "modern-software-dev-assignments",
+        "fullName": "mihail911/modern-software-dev-assignments",
+        "url": "https://github.com/mihail911/modern-software-dev-assignments",
+        "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 4684,
+        "forks": 1019,
+        "builtBy": [
+          {
+            "username": "mihail911",
+            "avatar": "https://avatars.githubusercontent.com/u/2789441?s=40&40&v=4"
+          },
+          {
+            "username": "febielin",
+            "avatar": "https://avatars.githubusercontent.com/u/133082422?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "author": "higgsfield-ai",
+        "name": "higgsfield",
+        "fullName": "higgsfield-ai/higgsfield",
+        "url": "https://github.com/higgsfield-ai/higgsfield",
+        "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+        "language": "Jupyter Notebook",
+        "languageColor": "#DA5B0B",
+        "starsToday": 0,
+        "totalStars": 5538,
+        "forks": 966,
+        "builtBy": [
+          {
+            "username": "arpanetus",
+            "avatar": "https://avatars.githubusercontent.com/u/14979358?s=40&40&v=4"
+          },
+          {
+            "username": "higgsfield",
+            "avatar": "https://avatars.githubusercontent.com/u/24421551?s=40&40&v=4"
+          },
+          {
+            "username": "zxcjhg",
+            "avatar": "https://avatars.githubusercontent.com/u/3302371?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "author": "Open-Dev-Society",
+        "name": "OpenStock",
+        "fullName": "Open-Dev-Society/OpenStock",
+        "url": "https://github.com/Open-Dev-Society/OpenStock",
+        "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 17166,
+        "forks": 2154,
+        "builtBy": [
+          {
+            "username": "ravixalgorithm",
+            "avatar": "https://avatars.githubusercontent.com/u/148683640?s=40&40&v=4"
+          },
+          {
+            "username": "keshav-005",
+            "avatar": "https://avatars.githubusercontent.com/u/180140750?s=40&40&v=4"
+          },
+          {
+            "username": "nb-src",
+            "avatar": "https://avatars.githubusercontent.com/u/76625701?s=40&40&v=4"
+          },
+          {
+            "username": "chinnsenn",
+            "avatar": "https://avatars.githubusercontent.com/u/13096352?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 11,
+        "author": "coder",
+        "name": "coder",
+        "fullName": "coder/coder",
+        "url": "https://github.com/coder/coder",
+        "description": "Secure environments for developers and their agents",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "starsToday": 0,
+        "totalStars": 16232,
+        "forks": 1552,
+        "builtBy": [
+          {
+            "username": "kylecarbs",
+            "avatar": "https://avatars.githubusercontent.com/u/7122116?s=40&40&v=4"
+          },
+          {
+            "username": "mafredri",
+            "avatar": "https://avatars.githubusercontent.com/u/147409?s=40&40&v=4"
+          },
+          {
+            "username": "johnstcn",
+            "avatar": "https://avatars.githubusercontent.com/u/4949514?s=40&40&v=4"
+          },
+          {
+            "username": "Emyrk",
+            "avatar": "https://avatars.githubusercontent.com/u/5446298?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 12,
+        "author": "vercel-labs",
+        "name": "json-render",
+        "fullName": "vercel-labs/json-render",
+        "url": "https://github.com/vercel-labs/json-render",
+        "description": "The Generative UI framework",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 17707,
+        "forks": 929,
+        "builtBy": [
+          {
+            "username": "ctate",
+            "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&40&v=4"
+          },
+          {
+            "username": "Railly",
+            "avatar": "https://avatars.githubusercontent.com/u/51397083?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "lucianfialho",
+            "avatar": "https://avatars.githubusercontent.com/u/3296497?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 13,
+        "author": "addyosmani",
+        "name": "agent-skills",
+        "fullName": "addyosmani/agent-skills",
+        "url": "https://github.com/addyosmani/agent-skills",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 97930,
+        "forks": 10308,
+        "builtBy": [
+          {
+            "username": "addyosmani",
+            "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&40&v=4"
+          },
+          {
+            "username": "nucliweb",
+            "avatar": "https://avatars.githubusercontent.com/u/1307927?s=40&40&v=4"
+          },
+          {
+            "username": "federicobartoli",
+            "avatar": "https://avatars.githubusercontent.com/u/27234034?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "HMAKT99",
+            "avatar": "https://avatars.githubusercontent.com/u/222980227?s=40&40&v=4"
+          }
+        ]
+      }
+    ]
+  },
+  "productHunt": null,
+  "hackerNews": null
+}

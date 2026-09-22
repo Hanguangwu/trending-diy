@@ -1,0 +1,383 @@
+{
+  "date": "2026-09-22",
+  "updatedAt": "2026-09-22T08:57:28.892Z",
+  "github": {
+    "updatedAt": "2026-09-22T08:57:27.238Z",
+    "repos": [
+      {
+        "rank": 1,
+        "author": "BuilderIO",
+        "name": "agent-native",
+        "fullName": "BuilderIO/agent-native",
+        "url": "https://github.com/BuilderIO/agent-native",
+        "description": "A framework for building agentic apps",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 6213,
+        "forks": 560,
+        "builtBy": [
+          {
+            "username": "steve8708",
+            "avatar": "https://avatars.githubusercontent.com/u/844291?s=40&40&v=4"
+          },
+          {
+            "username": "builderio-bot",
+            "avatar": "https://avatars.githubusercontent.com/u/175421836?s=40&40&v=4"
+          },
+          {
+            "username": "3mdistal",
+            "avatar": "https://avatars.githubusercontent.com/u/86723305?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "author": "trycua",
+        "name": "cua",
+        "fullName": "trycua/cua",
+        "url": "https://github.com/trycua/cua",
+        "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+        "language": "HTML",
+        "languageColor": "#e34c26",
+        "starsToday": 0,
+        "totalStars": 25869,
+        "forks": 1778,
+        "builtBy": [
+          {
+            "username": "f-trycua",
+            "avatar": "https://avatars.githubusercontent.com/u/195596869?s=40&40&v=4"
+          },
+          {
+            "username": "ddupont808",
+            "avatar": "https://avatars.githubusercontent.com/u/3820588?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "r33drichards",
+            "avatar": "https://avatars.githubusercontent.com/u/57335981?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "author": "Open-Dev-Society",
+        "name": "OpenStock",
+        "fullName": "Open-Dev-Society/OpenStock",
+        "url": "https://github.com/Open-Dev-Society/OpenStock",
+        "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 18128,
+        "forks": 2231,
+        "builtBy": [
+          {
+            "username": "ravixalgorithm",
+            "avatar": "https://avatars.githubusercontent.com/u/148683640?s=40&40&v=4"
+          },
+          {
+            "username": "keshav-005",
+            "avatar": "https://avatars.githubusercontent.com/u/180140750?s=40&40&v=4"
+          },
+          {
+            "username": "nb-src",
+            "avatar": "https://avatars.githubusercontent.com/u/76625701?s=40&40&v=4"
+          },
+          {
+            "username": "chinnsenn",
+            "avatar": "https://avatars.githubusercontent.com/u/13096352?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "author": "akitaonrails",
+        "name": "ai-memory",
+        "fullName": "akitaonrails/ai-memory",
+        "url": "https://github.com/akitaonrails/ai-memory",
+        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 7921,
+        "forks": 531,
+        "builtBy": [
+          {
+            "username": "akitaonrails",
+            "avatar": "https://avatars.githubusercontent.com/u/2840?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "djalmajr",
+            "avatar": "https://avatars.githubusercontent.com/u/1858147?s=40&40&v=4"
+          },
+          {
+            "username": "samirhvbr",
+            "avatar": "https://avatars.githubusercontent.com/u/123646616?s=40&40&v=4"
+          },
+          {
+            "username": "wblech",
+            "avatar": "https://avatars.githubusercontent.com/u/8575320?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "author": "coder",
+        "name": "coder",
+        "fullName": "coder/coder",
+        "url": "https://github.com/coder/coder",
+        "description": "Secure environments for developers and their agents",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "starsToday": 0,
+        "totalStars": 16550,
+        "forks": 1574,
+        "builtBy": [
+          {
+            "username": "kylecarbs",
+            "avatar": "https://avatars.githubusercontent.com/u/7122116?s=40&40&v=4"
+          },
+          {
+            "username": "mafredri",
+            "avatar": "https://avatars.githubusercontent.com/u/147409?s=40&40&v=4"
+          },
+          {
+            "username": "johnstcn",
+            "avatar": "https://avatars.githubusercontent.com/u/4949514?s=40&40&v=4"
+          },
+          {
+            "username": "Emyrk",
+            "avatar": "https://avatars.githubusercontent.com/u/5446298?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "author": "anthropics",
+        "name": "financial-services",
+        "fullName": "anthropics/financial-services",
+        "url": "https://github.com/anthropics/financial-services",
+        "description": "",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 35986,
+        "forks": 5279,
+        "builtBy": [
+          {
+            "username": "mihilmy",
+            "avatar": "https://avatars.githubusercontent.com/u/5457787?s=40&40&v=4"
+          },
+          {
+            "username": "cxyback",
+            "avatar": "https://avatars.githubusercontent.com/u/174142461?s=40&40&v=4"
+          },
+          {
+            "username": "manar-ant",
+            "avatar": "https://avatars.githubusercontent.com/u/250030384?s=40&40&v=4"
+          },
+          {
+            "username": "tobinsouth",
+            "avatar": "https://avatars.githubusercontent.com/u/32489862?s=40&40&v=4"
+          },
+          {
+            "username": "viveknair",
+            "avatar": "https://avatars.githubusercontent.com/u/1203039?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "author": "cloudflare",
+        "name": "quiche",
+        "fullName": "cloudflare/quiche",
+        "url": "https://github.com/cloudflare/quiche",
+        "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 12452,
+        "forks": 1139,
+        "builtBy": [
+          {
+            "username": "ghedo",
+            "avatar": "https://avatars.githubusercontent.com/u/117643?s=40&40&v=4"
+          },
+          {
+            "username": "traviscibot",
+            "avatar": "https://avatars.githubusercontent.com/u/33116358?s=40&40&v=4"
+          },
+          {
+            "username": "LPardue",
+            "avatar": "https://avatars.githubusercontent.com/u/6571445?s=40&40&v=4"
+          },
+          {
+            "username": "antoniovicente",
+            "avatar": "https://avatars.githubusercontent.com/u/28556681?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "author": "mvt-project",
+        "name": "mvt",
+        "fullName": "mvt-project/mvt",
+        "url": "https://github.com/mvt-project/mvt",
+        "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 13745,
+        "forks": 1335,
+        "builtBy": [
+          {
+            "username": "botherder",
+            "avatar": "https://avatars.githubusercontent.com/u/1032671?s=40&40&v=4"
+          },
+          {
+            "username": "DonnchaC",
+            "avatar": "https://avatars.githubusercontent.com/u/3081375?s=40&40&v=4"
+          },
+          {
+            "username": "Te-k",
+            "avatar": "https://avatars.githubusercontent.com/u/15989628?s=40&40&v=4"
+          },
+          {
+            "username": "besendorf",
+            "avatar": "https://avatars.githubusercontent.com/u/26350155?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "author": "zhouxiaoka",
+        "name": "autoclip",
+        "fullName": "zhouxiaoka/autoclip",
+        "url": "https://github.com/zhouxiaoka/autoclip",
+        "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 8571,
+        "forks": 1593,
+        "builtBy": [
+          {
+            "username": "zhouxiaoka",
+            "avatar": "https://avatars.githubusercontent.com/u/78066887?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "cursoragent",
+            "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&40&v=4"
+          },
+          {
+            "username": "mitsa-ng",
+            "avatar": "https://avatars.githubusercontent.com/u/281058146?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "author": "ruanyf",
+        "name": "weekly",
+        "fullName": "ruanyf/weekly",
+        "url": "https://github.com/ruanyf/weekly",
+        "description": "科技爱好者周刊，每周五发布",
+        "language": null,
+        "languageColor": null,
+        "starsToday": 0,
+        "totalStars": 104335,
+        "forks": 4460,
+        "builtBy": [
+          {
+            "username": "ruanyf",
+            "avatar": "https://avatars.githubusercontent.com/u/905434?s=40&40&v=4"
+          },
+          {
+            "username": "fanofxiaofeng",
+            "avatar": "https://avatars.githubusercontent.com/u/3983683?s=40&40&v=4"
+          },
+          {
+            "username": "luhuadong",
+            "avatar": "https://avatars.githubusercontent.com/u/13601124?s=40&40&v=4"
+          },
+          {
+            "username": "eltsai",
+            "avatar": "https://avatars.githubusercontent.com/u/20755558?s=40&40&v=4"
+          },
+          {
+            "username": "keepwow",
+            "avatar": "https://avatars.githubusercontent.com/u/57277705?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 11,
+        "author": "Crosstalk-Solutions",
+        "name": "project-nomad",
+        "fullName": "Crosstalk-Solutions/project-nomad",
+        "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+        "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 38045,
+        "forks": 3778,
+        "builtBy": [
+          {
+            "username": "jakeaturner",
+            "avatar": "https://avatars.githubusercontent.com/u/52841588?s=40&40&v=4"
+          },
+          {
+            "username": "chriscrosstalk",
+            "avatar": "https://avatars.githubusercontent.com/u/49691103?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "cosmistack-bot",
+            "avatar": "https://avatars.githubusercontent.com/u/175166532?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 12,
+        "author": "yynxxxxx",
+        "name": "Codex-X",
+        "fullName": "yynxxxxx/Codex-X",
+        "url": "https://github.com/yynxxxxx/Codex-X",
+        "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 3815,
+        "forks": 469,
+        "builtBy": [
+          {
+            "username": "yynxxxxx",
+            "avatar": "https://avatars.githubusercontent.com/u/139136586?s=40&40&v=4"
+          },
+          {
+            "username": "muzimu",
+            "avatar": "https://avatars.githubusercontent.com/u/19239908?s=40&40&v=4"
+          }
+        ]
+      }
+    ]
+  },
+  "productHunt": null,
+  "hackerNews": null
+}

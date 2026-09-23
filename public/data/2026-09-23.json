@@ -1,0 +1,275 @@
+{
+  "date": "2026-09-23",
+  "updatedAt": "2026-09-23T09:00:08.321Z",
+  "github": {
+    "updatedAt": "2026-09-23T09:00:06.431Z",
+    "repos": [
+      {
+        "rank": 1,
+        "author": "anthropics",
+        "name": "financial-services",
+        "fullName": "anthropics/financial-services",
+        "url": "https://github.com/anthropics/financial-services",
+        "description": "",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 36622,
+        "forks": 5349,
+        "builtBy": [
+          {
+            "username": "mihilmy",
+            "avatar": "https://avatars.githubusercontent.com/u/5457787?s=40&40&v=4"
+          },
+          {
+            "username": "cxyback",
+            "avatar": "https://avatars.githubusercontent.com/u/174142461?s=40&40&v=4"
+          },
+          {
+            "username": "manar-ant",
+            "avatar": "https://avatars.githubusercontent.com/u/250030384?s=40&40&v=4"
+          },
+          {
+            "username": "tobinsouth",
+            "avatar": "https://avatars.githubusercontent.com/u/32489862?s=40&40&v=4"
+          },
+          {
+            "username": "viveknair",
+            "avatar": "https://avatars.githubusercontent.com/u/1203039?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "author": "agent-substrate",
+        "name": "substrate",
+        "fullName": "agent-substrate/substrate",
+        "url": "https://github.com/agent-substrate/substrate",
+        "description": "Agent Substrate: the core system",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "starsToday": 0,
+        "totalStars": 3170,
+        "forks": 396,
+        "builtBy": [
+          {
+            "username": "BenTheElder",
+            "avatar": "https://avatars.githubusercontent.com/u/917931?s=40&40&v=4"
+          },
+          {
+            "username": "juli4n",
+            "avatar": "https://avatars.githubusercontent.com/u/680407?s=40&40&v=4"
+          },
+          {
+            "username": "HavenXia",
+            "avatar": "https://avatars.githubusercontent.com/u/55463354?s=40&40&v=4"
+          },
+          {
+            "username": "thockin",
+            "avatar": "https://avatars.githubusercontent.com/u/5595220?s=40&40&v=4"
+          },
+          {
+            "username": "zoez7",
+            "avatar": "https://avatars.githubusercontent.com/u/35669350?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "author": "dream-num",
+        "name": "univer",
+        "fullName": "dream-num/univer",
+        "url": "https://github.com/dream-num/univer",
+        "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 15934,
+        "forks": 1412,
+        "builtBy": [
+          {
+            "username": "jikkai",
+            "avatar": "https://avatars.githubusercontent.com/u/14025786?s=40&40&v=4"
+          },
+          {
+            "username": "DR-Univer",
+            "avatar": "https://avatars.githubusercontent.com/u/68851825?s=40&40&v=4"
+          },
+          {
+            "username": "wzhudev",
+            "avatar": "https://avatars.githubusercontent.com/u/12122021?s=40&40&v=4"
+          },
+          {
+            "username": "Dushusir",
+            "avatar": "https://avatars.githubusercontent.com/u/26371161?s=40&40&v=4"
+          },
+          {
+            "username": "wpxp123456",
+            "avatar": "https://avatars.githubusercontent.com/u/26315959?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "author": "davila7",
+        "name": "claude-code-templates",
+        "fullName": "davila7/claude-code-templates",
+        "url": "https://github.com/davila7/claude-code-templates",
+        "description": "CLI tool for configuring and monitoring Claude Code",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 31266,
+        "forks": 3554,
+        "builtBy": [
+          {
+            "username": "davila7",
+            "avatar": "https://avatars.githubusercontent.com/u/6216945?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "author": "google",
+        "name": "ax",
+        "fullName": "google/ax",
+        "url": "https://github.com/google/ax",
+        "description": "Google's open agentic orchestration runtime",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "starsToday": 0,
+        "totalStars": 8137,
+        "forks": 376,
+        "builtBy": [
+          {
+            "username": "rakyll",
+            "avatar": "https://avatars.githubusercontent.com/u/108380?s=40&40&v=4"
+          },
+          {
+            "username": "joycel-github",
+            "avatar": "https://avatars.githubusercontent.com/u/11900208?s=40&40&v=4"
+          },
+          {
+            "username": "wjjclaud",
+            "avatar": "https://avatars.githubusercontent.com/u/14038238?s=40&40&v=4"
+          },
+          {
+            "username": "anj-s",
+            "avatar": "https://avatars.githubusercontent.com/u/32556631?s=40&40&v=4"
+          },
+          {
+            "username": "zbl94",
+            "avatar": "https://avatars.githubusercontent.com/u/106645026?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "author": "mvt-project",
+        "name": "mvt",
+        "fullName": "mvt-project/mvt",
+        "url": "https://github.com/mvt-project/mvt",
+        "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 14280,
+        "forks": 1367,
+        "builtBy": [
+          {
+            "username": "botherder",
+            "avatar": "https://avatars.githubusercontent.com/u/1032671?s=40&40&v=4"
+          },
+          {
+            "username": "DonnchaC",
+            "avatar": "https://avatars.githubusercontent.com/u/3081375?s=40&40&v=4"
+          },
+          {
+            "username": "Te-k",
+            "avatar": "https://avatars.githubusercontent.com/u/15989628?s=40&40&v=4"
+          },
+          {
+            "username": "besendorf",
+            "avatar": "https://avatars.githubusercontent.com/u/26350155?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "author": "superdesigndev",
+        "name": "treg",
+        "fullName": "superdesigndev/treg",
+        "url": "https://github.com/superdesigndev/treg",
+        "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 2397,
+        "forks": 228,
+        "builtBy": [
+          {
+            "username": "JayZeeDesign",
+            "avatar": "https://avatars.githubusercontent.com/u/22532527?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "stonexer",
+            "avatar": "https://avatars.githubusercontent.com/u/6255130?s=40&40&v=4"
+          },
+          {
+            "username": "unclecode",
+            "avatar": "https://avatars.githubusercontent.com/u/12494079?s=40&40&v=4"
+          },
+          {
+            "username": "shehjad-dev",
+            "avatar": "https://avatars.githubusercontent.com/u/64325867?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "author": "browser-use",
+        "name": "video-use",
+        "fullName": "browser-use/video-use",
+        "url": "https://github.com/browser-use/video-use",
+        "description": "Edit videos with coding agents",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 26148,
+        "forks": 3139,
+        "builtBy": [
+          {
+            "username": "gregpr07",
+            "avatar": "https://avatars.githubusercontent.com/u/36313686?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "ShawnPana",
+            "avatar": "https://avatars.githubusercontent.com/u/129362299?s=40&40&v=4"
+          },
+          {
+            "username": "sidorovanthon",
+            "avatar": "https://avatars.githubusercontent.com/u/18312206?s=40&40&v=4"
+          },
+          {
+            "username": "antoinersx",
+            "avatar": "https://avatars.githubusercontent.com/u/118331084?s=40&40&v=4"
+          }
+        ]
+      }
+    ]
+  },
+  "productHunt": null,
+  "hackerNews": null
+}

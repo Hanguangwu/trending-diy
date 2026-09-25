@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-09-24T08:56:06.000Z",
+  "updatedAt": "2026-09-25T09:17:08.256Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-      "url": "https://transluce.org/agent-activity",
-      "score": 98,
-      "comments": 62,
-      "author": "snikolaev"
+      "title": "Dutch governments builds alternative for Microsoft based on NixOS",
+      "url": "https://www.dawo.community/en/",
+      "score": 25,
+      "comments": 1,
+      "author": "fjfaase"
     },
     {
       "rank": 2,
-      "title": "Linux support is coming to Snapdragon X2 Series",
-      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
-      "score": 380,
-      "comments": 165,
-      "author": "aaronday"
+      "title": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
+      "url": "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2",
+      "score": 43,
+      "comments": 9,
+      "author": "safateam"
     },
     {
       "rank": 3,
-      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "score": 641,
-      "comments": 656,
-      "author": "raahelb"
+      "title": "F-Droid 2.0",
+      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+      "score": 1230,
+      "comments": 344,
+      "author": "daveoc64"
     },
     {
       "rank": 4,
-      "title": "Ideas on modernizing the open-source desktop",
-      "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
-      "score": 112,
-      "comments": 73,
-      "author": "signa11"
+      "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
+      "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
+      "score": 26,
+      "comments": 7,
+      "author": "hugh4life"
     },
     {
       "rank": 5,
-      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
-      "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
-      "score": 170,
-      "comments": 20,
-      "author": "JohnHammersley"
+      "title": "Show HN: Make cursed fonts like Times New Bastard",
+      "url": "https://bastardica.mitpit.com",
+      "score": 686,
+      "comments": 93,
+      "author": "MitPitt"
     },
     {
       "rank": 6,
-      "title": "Contrastive Language Models",
-      "url": "https://contrastive-lm.notion.site/",
-      "score": 56,
-      "comments": 12,
-      "author": "erichocean"
+      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+      "url": "https://github.com/devdotfast/whiteboard",
+      "score": 304,
+      "comments": 116,
+      "author": "sidharthkmenon"
     },
     {
       "rank": 7,
-      "title": "VSCode's SSH Agent Is Bananas (2025)",
-      "url": "https://fly.io/blog/vscode-ssh-wtf/",
-      "score": 221,
-      "comments": 141,
-      "author": "Rapzid"
+      "title": "Why is the liver so weirdly regenerative?",
+      "url": "https://dynomight.substack.com/p/liver",
+      "score": 403,
+      "comments": 205,
+      "author": "jbotz"
     },
     {
       "rank": 8,
-      "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
-      "url": "https://github.com/nestrilabs/virtio-nvgpu",
-      "score": 89,
-      "comments": 41,
-      "author": "WanjohiRyan"
-    },
-    {
-      "rank": 9,
-      "title": "The \"Windows XP Box\" (2003)",
-      "url": "https://www.mini-itx.com/projects/windowsxpbox/",
-      "score": 143,
-      "comments": 25,
-      "author": "doubletwoyou"
-    },
-    {
-      "rank": 10,
-      "title": "Making portable my unportable transputer C compiler",
-      "url": "https://nanochess.org/transputer_c_compiler.html",
-      "score": 45,
-      "comments": 4,
-      "author": "nanochess"
-    },
-    {
-      "rank": 11,
-      "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-      "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
-      "score": 31,
-      "comments": 2,
-      "author": "pieterr"
-    },
-    {
-      "rank": 12,
-      "title": "Why 'What's Opera, Doc?' looks like that",
-      "url": "https://animationobsessive.substack.com/p/why-whats-opera-doc-looks-like-that",
-      "score": 52,
-      "comments": 13,
-      "author": "CharlesW"
-    },
-    {
-      "rank": 13,
-      "title": "Fixing the Portobello Police Station Clock",
-      "url": "https://pointinthecloud.com/2026-04-11-211700.html",
-      "score": 439,
-      "comments": 102,
-      "author": "avidly"
-    },
-    {
-      "rank": 14,
-      "title": "RAM: the forgotten history (2024)",
-      "url": "https://blog.coredump.cx/p/memory-the-forgotten-history",
-      "score": 3,
-      "comments": 0,
-      "author": "Luc"
-    },
-    {
-      "rank": 15,
-      "title": "Meta VR Glasses",
-      "url": "https://www.meta.com/vr-glasses/",
-      "score": 386,
-      "comments": 341,
-      "author": "polymorph1sm"
-    },
-    {
-      "rank": 16,
-      "title": "Mercury 2.5 LLM hits 770 tokens per second",
-      "url": "https://artificialanalysis.ai/models/mercury-2-5",
-      "score": 101,
-      "comments": 61,
-      "author": "Retro_Dev"
-    },
-    {
-      "rank": 17,
-      "title": "Women Who Sold Books Door to Door",
-      "url": "https://daily.jstor.org/the-women-who-sold-books-door-to-door/",
-      "score": 18,
-      "comments": 0,
-      "author": "herbertl"
-    },
-    {
-      "rank": 18,
-      "title": "Making Tailscale Faster",
-      "url": "https://tailscale.com/blog/making-tailscale-faster",
-      "score": 160,
-      "comments": 65,
-      "author": "yarapavan"
-    },
-    {
-      "rank": 19,
-      "title": "Italian parliament votes for return to nuclear energy",
-      "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
-      "score": 768,
-      "comments": 571,
-      "author": "geox"
-    },
-    {
-      "rank": 20,
-      "title": "OpenAI agent hacked Australian government website, PM says",
-      "url": "https://www.bbc.com/news/live/cvgl73pxgndwt",
-      "score": 38,
-      "comments": 2,
-      "author": "rudy6912"
-    },
-    {
-      "rank": 21,
-      "title": "The mystery animal on an ancient god's head",
-      "url": "https://signoregalilei.com/2026/09/13/the-mystery-animal-on-an-ancient-gods-head/",
-      "score": 104,
-      "comments": 30,
+      "title": "2DWillNeverDie",
+      "url": "https://2dwillneverdie.com/",
+      "score": 230,
+      "comments": 48,
       "author": "surprisetalk"
     },
     {
+      "rank": 9,
+      "title": "Jev Based Code Review",
+      "url": "https://github.com/egma-ai/jev-code-reviewer",
+      "score": 29,
+      "comments": 14,
+      "author": "namanbhulawat"
+    },
+    {
+      "rank": 10,
+      "title": "Fearless SIMD v1.0",
+      "url": "https://linebender.org/blog/fearless-simd-1-0/",
+      "score": 257,
+      "comments": 36,
+      "author": "verdagon"
+    },
+    {
+      "rank": 11,
+      "title": "Rails World 2026 Opening Keynote [video]",
+      "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+      "score": 333,
+      "comments": 365,
+      "author": "an0malous"
+    },
+    {
+      "rank": 12,
+      "title": "Toyota is taking the Corolla electric",
+      "url": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
+      "score": 326,
+      "comments": 574,
+      "author": "cisc"
+    },
+    {
+      "rank": 13,
+      "title": "My weird new hobby: Wandering around Tokyo on Google Maps",
+      "url": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
+      "score": 330,
+      "comments": 148,
+      "author": "ahmedhossamdev"
+    },
+    {
+      "rank": 14,
+      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+      "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+      "score": 131,
+      "comments": 26,
+      "author": "benbreen"
+    },
+    {
+      "rank": 15,
+      "title": "Opus 5.5 is good at explainer videos",
+      "url": "https://launchvideo.io",
+      "score": 251,
+      "comments": 130,
+      "author": "iacguy"
+    },
+    {
+      "rank": 16,
+      "title": "Google’s Project Suncatcher to put ML infrastructure in space",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+      "score": 180,
+      "comments": 361,
+      "author": "xnx"
+    },
+    {
+      "rank": 17,
+      "title": "Two-tier encryption in the UK",
+      "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+      "score": 447,
+      "comments": 398,
+      "author": "ReturnoftheHack"
+    },
+    {
+      "rank": 18,
+      "title": "Writing Parquet files using Haskell",
+      "url": "https://www.datahaskell.org/blog/2026/09/18/writing-parquet-files-using-haskell.html",
+      "score": 61,
+      "comments": 17,
+      "author": "cosmic_quanta"
+    },
+    {
+      "rank": 19,
+      "title": "What About Rails?",
+      "url": "https://jardo.dev/what-about-rails",
+      "score": 31,
+      "comments": 4,
+      "author": "jrochkind1"
+    },
+    {
+      "rank": 20,
+      "title": "Book review: Is parallel programming hard, and, if so, what can you do about it?",
+      "url": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
+      "score": 120,
+      "comments": 52,
+      "author": "ahelwer"
+    },
+    {
+      "rank": 21,
+      "title": "The Board Game of the Alpha Nerds (2014)",
+      "url": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/",
+      "score": 87,
+      "comments": 38,
+      "author": "neonate"
+    },
+    {
       "rank": 22,
-      "title": "Data liberation: Apache Kafka's native cluster mirroring",
-      "url": "https://developers.redhat.com/articles/2026/09/22/data-liberation-apache-kafka-native-cluster-mirroring",
-      "score": 14,
-      "comments": 1,
-      "author": "fvaleri"
+      "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
+      "url": "https://blog.arusekk.pl/posts/srht-account-takeover/",
+      "score": 113,
+      "comments": 22,
+      "author": "arusekk"
     },
     {
       "rank": 23,
-      "title": "Tokens too cheap to meter",
-      "url": "https://jyn.dev/tokens-too-cheap-to-meter/",
-      "score": 293,
-      "comments": 200,
-      "author": "teoruiz"
+      "title": "California is chasing wealth that has feet",
+      "url": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that",
+      "score": 231,
+      "comments": 634,
+      "author": "idbnstra"
     },
     {
       "rank": 24,
-      "title": "A brief history of Windows scroll bar shortcuts",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
-      "score": 138,
-      "comments": 78,
-      "author": "tybulewicz"
+      "title": "Nokia Design Archive (2025)",
+      "url": "https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c",
+      "score": 234,
+      "comments": 127,
+      "author": "pillars"
     },
     {
       "rank": 25,
-      "title": "Show HN: An open-source manufacturing ERP/MES/QMS",
-      "url": "https://carbon.ms/self-hosted",
-      "score": 33,
-      "comments": 14,
-      "author": "barbinbrad"
+      "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
+      "url": "https://cms-sfx-demo.apeleg.com/",
+      "score": 68,
+      "comments": 22,
+      "author": "emurlin"
     },
     {
       "rank": 26,
-      "title": "Six-year-old breaks women's world Rubik's Cube record [video]",
-      "url": "https://www.youtube.com/watch?v=UCMRgvyTm08",
-      "score": 46,
-      "comments": 25,
-      "author": "1659447091"
+      "title": "The Bayeux Tapestry: Woven by the Victors",
+      "url": "https://www.historytoday.com/archive/out-margins/bayeux-tapestry-woven-victors",
+      "score": 28,
+      "comments": 12,
+      "author": "prismatic"
     },
     {
       "rank": 27,
-      "title": "Lambda MicroEgg",
-      "url": "https://www.philipzucker.com/lambda_miller_egg/",
-      "score": 39,
-      "comments": 1,
-      "author": "philzook"
+      "title": "The forgotten battle of East Lansing",
+      "url": "https://eastlansinginfo.news/the-forgotten-battle-of-east-lansing/",
+      "score": 98,
+      "comments": 17,
+      "author": "rmason"
     },
     {
       "rank": 28,
-      "title": "LensVLM: Compressing long context as images, expanding only relevant pages",
-      "url": "https://huggingface.co/apple/LensVLM-9B",
-      "score": 75,
-      "comments": 7,
-      "author": "victormustar"
+      "title": "WaveDigger: Dig into wireless signals to discover their physical locations",
+      "url": "https://github.com/christianrowlands/wavedigger",
+      "score": 111,
+      "comments": 22,
+      "author": "882542F3884314B"
     },
     {
       "rank": 29,
-      "title": "Solving for faster SHA-1 collision detection",
-      "url": "https://sam.dev/blog/faster-sha1-collision-detection",
-      "score": 29,
-      "comments": 7,
-      "author": "srijs"
+      "title": "Geothermal heat map of US hot springs",
+      "url": "https://www.soakingsprings.com/hot-springs/geothermal-map",
+      "score": 101,
+      "comments": 39,
+      "author": "armenarmen"
     },
     {
       "rank": 30,
-      "title": "Gemini 3.8 text-to-speech",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
-      "score": 301,
-      "comments": 137,
-      "author": "swolpers"
+      "title": "Forging 1024-bit RSA signatures in nearly SNFS time [pdf]",
+      "url": "https://eprint.iacr.org/2026/2131.pdf",
+      "score": 63,
+      "comments": 11,
+      "author": "int0x29"
     }
   ]
 }

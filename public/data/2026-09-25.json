@@ -1,0 +1,481 @@
+{
+  "date": "2026-09-25",
+  "updatedAt": "2026-09-25T09:17:08.264Z",
+  "github": {
+    "updatedAt": "2026-09-25T09:17:05.956Z",
+    "repos": [
+      {
+        "rank": 1,
+        "author": "rohitg00",
+        "name": "ai-engineering-from-scratch",
+        "fullName": "rohitg00/ai-engineering-from-scratch",
+        "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+        "description": "Learn it. Build it. Ship it for others.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 56971,
+        "forks": 9972,
+        "builtBy": [
+          {
+            "username": "rohitg00",
+            "avatar": "https://avatars.githubusercontent.com/u/48523873?s=40&40&v=4"
+          },
+          {
+            "username": "abhinav-m22",
+            "avatar": "https://avatars.githubusercontent.com/u/113239388?s=40&40&v=4"
+          },
+          {
+            "username": "thereisnotime",
+            "avatar": "https://avatars.githubusercontent.com/u/37583483?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "author": "vectorize-io",
+        "name": "hindsight",
+        "fullName": "vectorize-io/hindsight",
+        "url": "https://github.com/vectorize-io/hindsight",
+        "description": "Hindsight: Agent Memory That Learns",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 28393,
+        "forks": 2824,
+        "builtBy": [
+          {
+            "username": "nicoloboschi",
+            "avatar": "https://avatars.githubusercontent.com/u/23314389?s=40&40&v=4"
+          },
+          {
+            "username": "benfrank241",
+            "avatar": "https://avatars.githubusercontent.com/u/62250174?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "r266-tech",
+            "avatar": "https://avatars.githubusercontent.com/u/233881301?s=40&40&v=4"
+          },
+          {
+            "username": "cdbartholomew",
+            "avatar": "https://avatars.githubusercontent.com/u/22917476?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "author": "dream-num",
+        "name": "univer",
+        "fullName": "dream-num/univer",
+        "url": "https://github.com/dream-num/univer",
+        "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 18045,
+        "forks": 1548,
+        "builtBy": [
+          {
+            "username": "jikkai",
+            "avatar": "https://avatars.githubusercontent.com/u/14025786?s=40&40&v=4"
+          },
+          {
+            "username": "DR-Univer",
+            "avatar": "https://avatars.githubusercontent.com/u/68851825?s=40&40&v=4"
+          },
+          {
+            "username": "wzhudev",
+            "avatar": "https://avatars.githubusercontent.com/u/12122021?s=40&40&v=4"
+          },
+          {
+            "username": "Dushusir",
+            "avatar": "https://avatars.githubusercontent.com/u/26371161?s=40&40&v=4"
+          },
+          {
+            "username": "wpxp123456",
+            "avatar": "https://avatars.githubusercontent.com/u/26315959?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "author": "google",
+        "name": "ax",
+        "fullName": "google/ax",
+        "url": "https://github.com/google/ax",
+        "description": "Google's open agentic orchestration runtime",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "starsToday": 0,
+        "totalStars": 10937,
+        "forks": 531,
+        "builtBy": [
+          {
+            "username": "rakyll",
+            "avatar": "https://avatars.githubusercontent.com/u/108380?s=40&40&v=4"
+          },
+          {
+            "username": "joycel-github",
+            "avatar": "https://avatars.githubusercontent.com/u/11900208?s=40&40&v=4"
+          },
+          {
+            "username": "wjjclaud",
+            "avatar": "https://avatars.githubusercontent.com/u/14038238?s=40&40&v=4"
+          },
+          {
+            "username": "anj-s",
+            "avatar": "https://avatars.githubusercontent.com/u/32556631?s=40&40&v=4"
+          },
+          {
+            "username": "zbl94",
+            "avatar": "https://avatars.githubusercontent.com/u/106645026?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "author": "NVIDIA",
+        "name": "Model-Optimizer",
+        "fullName": "NVIDIA/Model-Optimizer",
+        "url": "https://github.com/NVIDIA/Model-Optimizer",
+        "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 4207,
+        "forks": 637,
+        "builtBy": [
+          {
+            "username": "kevalmorabia97",
+            "avatar": "https://avatars.githubusercontent.com/u/28916987?s=40&40&v=4"
+          },
+          {
+            "username": "shengliangxu",
+            "avatar": "https://avatars.githubusercontent.com/u/106840466?s=40&40&v=4"
+          },
+          {
+            "username": "cjluo-nv",
+            "avatar": "https://avatars.githubusercontent.com/u/108829653?s=40&40&v=4"
+          },
+          {
+            "username": "h-guo18",
+            "avatar": "https://avatars.githubusercontent.com/u/67671475?s=40&40&v=4"
+          },
+          {
+            "username": "ajrasane",
+            "avatar": "https://avatars.githubusercontent.com/u/131806219?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "author": "FxEmbed",
+        "name": "FxEmbed",
+        "fullName": "FxEmbed/FxEmbed",
+        "url": "https://github.com/FxEmbed/FxEmbed",
+        "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 5416,
+        "forks": 253,
+        "builtBy": [
+          {
+            "username": "dangeredwolf",
+            "avatar": "https://avatars.githubusercontent.com/u/2636265?s=40&40&v=4"
+          },
+          {
+            "username": "cursoragent",
+            "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&40&v=4"
+          },
+          {
+            "username": "Wazbat",
+            "avatar": "https://avatars.githubusercontent.com/u/6253896?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "author": "anthropics",
+        "name": "financial-services",
+        "fullName": "anthropics/financial-services",
+        "url": "https://github.com/anthropics/financial-services",
+        "description": "",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 37451,
+        "forks": 5424,
+        "builtBy": [
+          {
+            "username": "mihilmy",
+            "avatar": "https://avatars.githubusercontent.com/u/5457787?s=40&40&v=4"
+          },
+          {
+            "username": "cxyback",
+            "avatar": "https://avatars.githubusercontent.com/u/174142461?s=40&40&v=4"
+          },
+          {
+            "username": "manar-ant",
+            "avatar": "https://avatars.githubusercontent.com/u/250030384?s=40&40&v=4"
+          },
+          {
+            "username": "tobinsouth",
+            "avatar": "https://avatars.githubusercontent.com/u/32489862?s=40&40&v=4"
+          },
+          {
+            "username": "viveknair",
+            "avatar": "https://avatars.githubusercontent.com/u/1203039?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "author": "HKUDS",
+        "name": "CLI-Anything",
+        "fullName": "HKUDS/CLI-Anything",
+        "url": "https://github.com/HKUDS/CLI-Anything",
+        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 50451,
+        "forks": 4621,
+        "builtBy": [
+          {
+            "username": "yuh-yang",
+            "avatar": "https://avatars.githubusercontent.com/u/43330997?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "AiMiDi",
+            "avatar": "https://avatars.githubusercontent.com/u/76622021?s=40&40&v=4"
+          },
+          {
+            "username": "omerarslan0",
+            "avatar": "https://avatars.githubusercontent.com/u/76780961?s=40&40&v=4"
+          },
+          {
+            "username": "hito0512",
+            "avatar": "https://avatars.githubusercontent.com/u/26110883?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "author": "mvt-project",
+        "name": "mvt",
+        "fullName": "mvt-project/mvt",
+        "url": "https://github.com/mvt-project/mvt",
+        "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 14779,
+        "forks": 1394,
+        "builtBy": [
+          {
+            "username": "botherder",
+            "avatar": "https://avatars.githubusercontent.com/u/1032671?s=40&40&v=4"
+          },
+          {
+            "username": "DonnchaC",
+            "avatar": "https://avatars.githubusercontent.com/u/3081375?s=40&40&v=4"
+          },
+          {
+            "username": "Te-k",
+            "avatar": "https://avatars.githubusercontent.com/u/15989628?s=40&40&v=4"
+          },
+          {
+            "username": "besendorf",
+            "avatar": "https://avatars.githubusercontent.com/u/26350155?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "author": "obra",
+        "name": "superpowers",
+        "fullName": "obra/superpowers",
+        "url": "https://github.com/obra/superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "languageColor": "#89e051",
+        "starsToday": 0,
+        "totalStars": 291363,
+        "forks": 26070,
+        "builtBy": [
+          {
+            "username": "obra",
+            "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&40&v=4"
+          },
+          {
+            "username": "arittr",
+            "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "clkao",
+            "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&40&v=4"
+          },
+          {
+            "username": "gaurav0107",
+            "avatar": "https://avatars.githubusercontent.com/u/12824278?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 11,
+        "author": "strands-agents",
+        "name": "harness-sdk",
+        "fullName": "strands-agents/harness-sdk",
+        "url": "https://github.com/strands-agents/harness-sdk",
+        "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 8357,
+        "forks": 1246,
+        "builtBy": [
+          {
+            "username": "zastrowm",
+            "avatar": "https://avatars.githubusercontent.com/u/3211021?s=40&40&v=4"
+          },
+          {
+            "username": "pgrayy",
+            "avatar": "https://avatars.githubusercontent.com/u/204914194?s=40&40&v=4"
+          },
+          {
+            "username": "strands-agent",
+            "avatar": "https://avatars.githubusercontent.com/u/217235299?s=40&40&v=4"
+          },
+          {
+            "username": "yonib05",
+            "avatar": "https://avatars.githubusercontent.com/u/5503597?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 12,
+        "author": "julyx10",
+        "name": "lap",
+        "fullName": "julyx10/lap",
+        "url": "https://github.com/julyx10/lap",
+        "description": "An offline-first photo manager for large local libraries",
+        "language": "Vue",
+        "languageColor": "#41b883",
+        "starsToday": 0,
+        "totalStars": 2988,
+        "forks": 175,
+        "builtBy": [
+          {
+            "username": "julyx10",
+            "avatar": "https://avatars.githubusercontent.com/u/36072047?s=40&40&v=4"
+          },
+          {
+            "username": "baksohyeon",
+            "avatar": "https://avatars.githubusercontent.com/u/80398645?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "talynone",
+            "avatar": "https://avatars.githubusercontent.com/u/2554644?s=40&40&v=4"
+          },
+          {
+            "username": "Dimmitrius",
+            "avatar": "https://avatars.githubusercontent.com/u/22343750?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 13,
+        "author": "superdesigndev",
+        "name": "treg",
+        "fullName": "superdesigndev/treg",
+        "url": "https://github.com/superdesigndev/treg",
+        "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 3269,
+        "forks": 273,
+        "builtBy": [
+          {
+            "username": "JayZeeDesign",
+            "avatar": "https://avatars.githubusercontent.com/u/22532527?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "stonexer",
+            "avatar": "https://avatars.githubusercontent.com/u/6255130?s=40&40&v=4"
+          },
+          {
+            "username": "unclecode",
+            "avatar": "https://avatars.githubusercontent.com/u/12494079?s=40&40&v=4"
+          },
+          {
+            "username": "shehjad-dev",
+            "avatar": "https://avatars.githubusercontent.com/u/64325867?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 14,
+        "author": "leejet",
+        "name": "stable-diffusion.cpp",
+        "fullName": "leejet/stable-diffusion.cpp",
+        "url": "https://github.com/leejet/stable-diffusion.cpp",
+        "description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "starsToday": 0,
+        "totalStars": 7314,
+        "forks": 817,
+        "builtBy": [
+          {
+            "username": "leejet",
+            "avatar": "https://avatars.githubusercontent.com/u/31925346?s=40&40&v=4"
+          },
+          {
+            "username": "wbruna",
+            "avatar": "https://avatars.githubusercontent.com/u/734885?s=40&40&v=4"
+          },
+          {
+            "username": "stduhpf",
+            "avatar": "https://avatars.githubusercontent.com/u/28208228?s=40&40&v=4"
+          },
+          {
+            "username": "fszontagh",
+            "avatar": "https://avatars.githubusercontent.com/u/51741446?s=40&40&v=4"
+          },
+          {
+            "username": "rmatif",
+            "avatar": "https://avatars.githubusercontent.com/u/66360289?s=40&40&v=4"
+          }
+        ]
+      }
+    ]
+  },
+  "productHunt": null,
+  "hackerNews": null
+}

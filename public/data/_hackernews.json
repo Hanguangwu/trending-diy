@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-09-25T09:17:08.256Z",
+  "updatedAt": "2026-09-26T08:59:56.865Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Dutch governments builds alternative for Microsoft based on NixOS",
-      "url": "https://www.dawo.community/en/",
-      "score": 25,
-      "comments": 1,
-      "author": "fjfaase"
+      "title": "CAPTCHAs don't prove you're human – they prove you're American",
+      "url": "https://shkspr.mobi/blog/2017/11/captchas-dont-prove-youre-human-they-prove-youre-american/",
+      "score": 21,
+      "comments": 15,
+      "author": "theanonymousone"
     },
     {
       "rank": 2,
-      "title": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
-      "url": "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2",
-      "score": 43,
-      "comments": 9,
-      "author": "safateam"
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "url": "https://swarmtraces.org/",
+      "score": 467,
+      "comments": 283,
+      "author": "specked-citrus"
     },
     {
       "rank": 3,
-      "title": "F-Droid 2.0",
-      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
-      "score": 1230,
-      "comments": 344,
-      "author": "daveoc64"
+      "title": "A single function Jev-like wrapper for LLMs, including vision models",
+      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+      "score": 58,
+      "comments": 11,
+      "author": "allanrbo"
     },
     {
       "rank": 4,
-      "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
-      "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
-      "score": 26,
-      "comments": 7,
-      "author": "hugh4life"
+      "title": "We're gonna need a lot more mathematicians",
+      "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
+      "score": 111,
+      "comments": 113,
+      "author": "srcreigh"
     },
     {
       "rank": 5,
-      "title": "Show HN: Make cursed fonts like Times New Bastard",
-      "url": "https://bastardica.mitpit.com",
-      "score": 686,
-      "comments": 93,
-      "author": "MitPitt"
+      "title": "Plan mode is dead",
+      "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
+      "score": 306,
+      "comments": 284,
+      "author": "jmvldz"
     },
     {
       "rank": 6,
-      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
-      "url": "https://github.com/devdotfast/whiteboard",
-      "score": 304,
-      "comments": 116,
-      "author": "sidharthkmenon"
+      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+      "url": "https://ollaya.dev/",
+      "score": 442,
+      "comments": 117,
+      "author": "Ardakilic"
     },
     {
       "rank": 7,
-      "title": "Why is the liver so weirdly regenerative?",
-      "url": "https://dynomight.substack.com/p/liver",
-      "score": 403,
-      "comments": 205,
-      "author": "jbotz"
+      "title": "Show HN: Jev Plays Pokémon Red",
+      "url": "https://jev-pokemon.vercel.app/",
+      "score": 195,
+      "comments": 83,
+      "author": "pancomplex"
     },
     {
       "rank": 8,
-      "title": "2DWillNeverDie",
-      "url": "https://2dwillneverdie.com/",
-      "score": 230,
-      "comments": 48,
-      "author": "surprisetalk"
+      "title": "What even is an OS now?",
+      "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
+      "score": 187,
+      "comments": 273,
+      "author": "fratellobigio"
     },
     {
       "rank": 9,
-      "title": "Jev Based Code Review",
-      "url": "https://github.com/egma-ai/jev-code-reviewer",
-      "score": 29,
-      "comments": 14,
-      "author": "namanbhulawat"
+      "title": "The Murky History of Soviet-Born Tetris",
+      "url": "https://thereader.mitpress.mit.edu/the-bizarre-murky-history-of-soviet-born-tetris/",
+      "score": 43,
+      "comments": 9,
+      "author": "EA-3167"
     },
     {
       "rank": 10,
-      "title": "Fearless SIMD v1.0",
-      "url": "https://linebender.org/blog/fearless-simd-1-0/",
-      "score": 257,
-      "comments": 36,
-      "author": "verdagon"
+      "title": "How I changed teaching after AI managed to do all my homework assignments",
+      "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+      "score": 69,
+      "comments": 37,
+      "author": "azhenley"
     },
     {
       "rank": 11,
-      "title": "Rails World 2026 Opening Keynote [video]",
-      "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
-      "score": 333,
-      "comments": 365,
-      "author": "an0malous"
+      "title": "Is your Postgres migration safe or not safe?",
+      "url": "https://safenotsafe.dev/",
+      "score": 5,
+      "comments": 0,
+      "author": "vira28"
     },
     {
       "rank": 12,
-      "title": "Toyota is taking the Corolla electric",
-      "url": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
-      "score": 326,
-      "comments": 574,
-      "author": "cisc"
+      "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
+      "url": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
+      "score": 212,
+      "comments": 48,
+      "author": "pseudolus"
     },
     {
       "rank": 13,
-      "title": "My weird new hobby: Wandering around Tokyo on Google Maps",
-      "url": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
-      "score": 330,
-      "comments": 148,
-      "author": "ahmedhossamdev"
+      "title": "Postgres SELECT DISTINCT Does Not Scale",
+      "url": "https://www.dbos.dev/blog/postgres-select-distinct-does-not-scale",
+      "score": 72,
+      "comments": 21,
+      "author": "KraftyOne"
     },
     {
       "rank": 14,
-      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
-      "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
-      "score": 131,
-      "comments": 26,
-      "author": "benbreen"
+      "title": "Scientists build most accurate atomic clock",
+      "url": "https://phys.org/news/2026-09-scientists-world-accurate-atomic-clock.html",
+      "score": 8,
+      "comments": 3,
+      "author": "wglb"
     },
     {
       "rank": 15,
-      "title": "Opus 5.5 is good at explainer videos",
-      "url": "https://launchvideo.io",
-      "score": 251,
-      "comments": 130,
-      "author": "iacguy"
+      "title": "Gravity seems holographic. What does that mean for reality?",
+      "url": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
+      "score": 191,
+      "comments": 164,
+      "author": "ibobev"
     },
     {
       "rank": 16,
-      "title": "Google’s Project Suncatcher to put ML infrastructure in space",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
-      "score": 180,
-      "comments": 361,
-      "author": "xnx"
+      "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
+      "url": "https://news.ycombinator.com/item?id=49848955",
+      "score": 117,
+      "comments": 101,
+      "author": "mlaux"
     },
     {
       "rank": 17,
-      "title": "Two-tier encryption in the UK",
-      "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
-      "score": 447,
-      "comments": 398,
-      "author": "ReturnoftheHack"
+      "title": "Fourier Analysis: Drawing Llamas with Circles",
+      "url": "https://adekau.github.io/posts/2020/llamas.html",
+      "score": 37,
+      "comments": 2,
+      "author": "cebert"
     },
     {
       "rank": 18,
-      "title": "Writing Parquet files using Haskell",
-      "url": "https://www.datahaskell.org/blog/2026/09/18/writing-parquet-files-using-haskell.html",
-      "score": 61,
-      "comments": 17,
-      "author": "cosmic_quanta"
+      "title": "A new world airport and its baggage",
+      "url": "https://computer.rip/2026-09-20-denver-baggage.html",
+      "score": 21,
+      "comments": 2,
+      "author": "firloop"
     },
     {
       "rank": 19,
-      "title": "What About Rails?",
-      "url": "https://jardo.dev/what-about-rails",
-      "score": 31,
-      "comments": 4,
-      "author": "jrochkind1"
+      "title": "Excel now supports multiple values in a single cell",
+      "url": "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395",
+      "score": 179,
+      "comments": 130,
+      "author": "luispa"
     },
     {
       "rank": 20,
-      "title": "Book review: Is parallel programming hard, and, if so, what can you do about it?",
-      "url": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
-      "score": 120,
-      "comments": 52,
-      "author": "ahelwer"
+      "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
+      "url": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
+      "score": 170,
+      "comments": 68,
+      "author": "HotGarbage"
     },
     {
       "rank": 21,
-      "title": "The Board Game of the Alpha Nerds (2014)",
-      "url": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/",
-      "score": 87,
-      "comments": 38,
-      "author": "neonate"
+      "title": "Lab on a Contact Lens Can Measure Stress Through Serotonin",
+      "url": "https://spectrum.ieee.org/serotonin-stress-smart-contact-lens",
+      "score": 42,
+      "comments": 10,
+      "author": "marc__1"
     },
     {
       "rank": 22,
-      "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
-      "url": "https://blog.arusekk.pl/posts/srht-account-takeover/",
-      "score": 113,
-      "comments": 22,
-      "author": "arusekk"
+      "title": "First Principles Thinking",
+      "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
+      "score": 259,
+      "comments": 112,
+      "author": "sunils34"
     },
     {
       "rank": 23,
-      "title": "California is chasing wealth that has feet",
-      "url": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that",
-      "score": 231,
-      "comments": 634,
-      "author": "idbnstra"
+      "title": "I wrote a ray tracer in Brainfuck",
+      "url": "https://epestr.com/blog/writing-a-ray-tracer-in-brainfuck/",
+      "score": 69,
+      "comments": 15,
+      "author": "epestr"
     },
     {
       "rank": 24,
-      "title": "Nokia Design Archive (2025)",
-      "url": "https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c",
-      "score": 234,
-      "comments": 127,
-      "author": "pillars"
+      "title": "Show HN: Hacker Atlas - A map of what Hacker News talks about",
+      "url": "https://hackeratlas.com/",
+      "score": 57,
+      "comments": 17,
+      "author": "andrearitossa"
     },
     {
       "rank": 25,
-      "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
-      "url": "https://cms-sfx-demo.apeleg.com/",
-      "score": 68,
-      "comments": 22,
-      "author": "emurlin"
+      "title": "From Thin Air to Bootable Images: The Tine Build System",
+      "url": "https://amutable.com/blog/tine-build-system",
+      "score": 12,
+      "comments": 0,
+      "author": "Levitating"
     },
     {
       "rank": 26,
-      "title": "The Bayeux Tapestry: Woven by the Victors",
-      "url": "https://www.historytoday.com/archive/out-margins/bayeux-tapestry-woven-victors",
-      "score": 28,
+      "title": "HomelabFest will be in St. Louis in September 2027",
+      "url": "https://www.homelabfest.org",
+      "score": 27,
       "comments": 12,
-      "author": "prismatic"
+      "author": "geerlingguy"
     },
     {
       "rank": 27,
-      "title": "The forgotten battle of East Lansing",
-      "url": "https://eastlansinginfo.news/the-forgotten-battle-of-east-lansing/",
-      "score": 98,
-      "comments": 17,
-      "author": "rmason"
+      "title": "Alberta's image as world's only rat-free region shattered by discovery of rat",
+      "url": "https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol",
+      "score": 18,
+      "comments": 7,
+      "author": "pseudolus"
     },
     {
       "rank": 28,
-      "title": "WaveDigger: Dig into wireless signals to discover their physical locations",
-      "url": "https://github.com/christianrowlands/wavedigger",
-      "score": 111,
-      "comments": 22,
-      "author": "882542F3884314B"
+      "title": "Remembering Johannes Doerfert",
+      "url": "https://blog.llvm.org/posts/2026-09-24-rememberingjohannesdoerfert/",
+      "score": 87,
+      "comments": 2,
+      "author": "sdko"
     },
     {
       "rank": 29,
-      "title": "Geothermal heat map of US hot springs",
-      "url": "https://www.soakingsprings.com/hot-springs/geothermal-map",
-      "score": 101,
-      "comments": 39,
-      "author": "armenarmen"
+      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+      "score": 441,
+      "comments": 762,
+      "author": "cramer4next"
     },
     {
       "rank": 30,
-      "title": "Forging 1024-bit RSA signatures in nearly SNFS time [pdf]",
-      "url": "https://eprint.iacr.org/2026/2131.pdf",
-      "score": 63,
-      "comments": 11,
-      "author": "int0x29"
+      "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
+      "score": 121,
+      "comments": 111,
+      "author": "sbulaev"
     }
   ]
 }

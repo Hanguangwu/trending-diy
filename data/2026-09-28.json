@@ -1,0 +1,318 @@
+{
+  "date": "2026-09-28",
+  "updatedAt": "2026-09-28T10:24:49.976Z",
+  "github": {
+    "updatedAt": "2026-09-28T10:24:48.002Z",
+    "repos": [
+      {
+        "rank": 1,
+        "author": "paperclipai",
+        "name": "paperclip",
+        "fullName": "paperclipai/paperclip",
+        "url": "https://github.com/paperclipai/paperclip",
+        "description": "The open-source app everyone uses to manage agents at work",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 91399,
+        "forks": 15789,
+        "builtBy": [
+          {
+            "username": "cryppadotta",
+            "avatar": "https://avatars.githubusercontent.com/u/34892728?s=40&40&v=4"
+          },
+          {
+            "username": "Paperclip-Paperclip",
+            "avatar": "https://avatars.githubusercontent.com/u/271391591?s=40&40&v=4"
+          },
+          {
+            "username": "devinfoley",
+            "avatar": "https://avatars.githubusercontent.com/u/139239?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "nickyleach",
+            "avatar": "https://avatars.githubusercontent.com/u/331803?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "author": "vectorize-io",
+        "name": "hindsight",
+        "fullName": "vectorize-io/hindsight",
+        "url": "https://github.com/vectorize-io/hindsight",
+        "description": "Hindsight: Agent Memory That Learns",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 39317,
+        "forks": 5195,
+        "builtBy": [
+          {
+            "username": "nicoloboschi",
+            "avatar": "https://avatars.githubusercontent.com/u/23314389?s=40&40&v=4"
+          },
+          {
+            "username": "benfrank241",
+            "avatar": "https://avatars.githubusercontent.com/u/62250174?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "r266-tech",
+            "avatar": "https://avatars.githubusercontent.com/u/233881301?s=40&40&v=4"
+          },
+          {
+            "username": "cdbartholomew",
+            "avatar": "https://avatars.githubusercontent.com/u/22917476?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "author": "debpalash",
+        "name": "VoiceStudio",
+        "fullName": "debpalash/VoiceStudio",
+        "url": "https://github.com/debpalash/VoiceStudio",
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 41364,
+        "forks": 4906,
+        "builtBy": [
+          {
+            "username": "debpalash",
+            "avatar": "https://avatars.githubusercontent.com/u/4178343?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "kevin9327",
+            "avatar": "https://avatars.githubusercontent.com/u/5299031?s=40&40&v=4"
+          },
+          {
+            "username": "jaketame",
+            "avatar": "https://avatars.githubusercontent.com/u/1787973?s=40&40&v=4"
+          },
+          {
+            "username": "velixio",
+            "avatar": "https://avatars.githubusercontent.com/u/270455167?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "author": "rohitg00",
+        "name": "ai-engineering-from-scratch",
+        "fullName": "rohitg00/ai-engineering-from-scratch",
+        "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+        "description": "Learn it. Build it. Ship it for others.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 59982,
+        "forks": 10323,
+        "builtBy": [
+          {
+            "username": "rohitg00",
+            "avatar": "https://avatars.githubusercontent.com/u/48523873?s=40&40&v=4"
+          },
+          {
+            "username": "abhinav-m22",
+            "avatar": "https://avatars.githubusercontent.com/u/113239388?s=40&40&v=4"
+          },
+          {
+            "username": "thereisnotime",
+            "avatar": "https://avatars.githubusercontent.com/u/37583483?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "author": "InfinityLoop1308",
+        "name": "PipePipe",
+        "fullName": "InfinityLoop1308/PipePipe",
+        "url": "https://github.com/InfinityLoop1308/PipePipe",
+        "description": "An open-source Android app to let you browse YouTube and other services freely.",
+        "language": "Shell",
+        "languageColor": "#89e051",
+        "starsToday": 0,
+        "totalStars": 6760,
+        "forks": 227,
+        "builtBy": [
+          {
+            "username": "InfinityLoop1308",
+            "avatar": "https://avatars.githubusercontent.com/u/96324692?s=40&40&v=4"
+          },
+          {
+            "username": "wh201906",
+            "avatar": "https://avatars.githubusercontent.com/u/62299611?s=40&40&v=4"
+          },
+          {
+            "username": "Korb",
+            "avatar": "https://avatars.githubusercontent.com/u/3509797?s=40&40&v=4"
+          },
+          {
+            "username": "Priveetee",
+            "avatar": "https://avatars.githubusercontent.com/u/138765817?s=40&40&v=4"
+          },
+          {
+            "username": "yurtpage",
+            "avatar": "https://avatars.githubusercontent.com/u/155876573?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "author": "vercel-labs",
+        "name": "scriptc",
+        "fullName": "vercel-labs/scriptc",
+        "url": "https://github.com/vercel-labs/scriptc",
+        "description": "TypeScript-to-Native Compiler",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 5565,
+        "forks": 143,
+        "builtBy": [
+          {
+            "username": "ctate",
+            "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&40&v=4"
+          },
+          {
+            "username": "jimmyhmiller",
+            "avatar": "https://avatars.githubusercontent.com/u/6071338?s=40&40&v=4"
+          },
+          {
+            "username": "HagegeR",
+            "avatar": "https://avatars.githubusercontent.com/u/20857346?s=40&40&v=4"
+          },
+          {
+            "username": "mmamedel",
+            "avatar": "https://avatars.githubusercontent.com/u/23098414?s=40&40&v=4"
+          },
+          {
+            "username": "ryoppippi",
+            "avatar": "https://avatars.githubusercontent.com/u/1560508?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "author": "mvschwarz",
+        "name": "openrig",
+        "fullName": "mvschwarz/openrig",
+        "url": "https://github.com/mvschwarz/openrig",
+        "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 1302,
+        "forks": 117,
+        "builtBy": [
+          {
+            "username": "mvschwarz",
+            "avatar": "https://avatars.githubusercontent.com/u/171890339?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "mattik",
+            "avatar": "https://avatars.githubusercontent.com/u/1448131?s=40&40&v=4"
+          },
+          {
+            "username": "agentS",
+            "avatar": "https://avatars.githubusercontent.com/u/5032736?s=40&40&v=4"
+          },
+          {
+            "username": "danielkuykendall23-boop",
+            "avatar": "https://avatars.githubusercontent.com/u/245085724?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "author": "dream-num",
+        "name": "univer",
+        "fullName": "dream-num/univer",
+        "url": "https://github.com/dream-num/univer",
+        "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 20891,
+        "forks": 1771,
+        "builtBy": [
+          {
+            "username": "jikkai",
+            "avatar": "https://avatars.githubusercontent.com/u/14025786?s=40&40&v=4"
+          },
+          {
+            "username": "DR-Univer",
+            "avatar": "https://avatars.githubusercontent.com/u/68851825?s=40&40&v=4"
+          },
+          {
+            "username": "wzhudev",
+            "avatar": "https://avatars.githubusercontent.com/u/12122021?s=40&40&v=4"
+          },
+          {
+            "username": "Dushusir",
+            "avatar": "https://avatars.githubusercontent.com/u/26371161?s=40&40&v=4"
+          },
+          {
+            "username": "wpxp123456",
+            "avatar": "https://avatars.githubusercontent.com/u/26315959?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "author": "willfaust",
+        "name": "Madeira",
+        "fullName": "willfaust/Madeira",
+        "url": "https://github.com/willfaust/Madeira",
+        "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+        "language": "C",
+        "languageColor": "#555555",
+        "starsToday": 0,
+        "totalStars": 928,
+        "forks": 157,
+        "builtBy": [
+          {
+            "username": "willfaust",
+            "avatar": "https://avatars.githubusercontent.com/u/39139570?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "125hz",
+            "avatar": "https://avatars.githubusercontent.com/u/133181124?s=40&40&v=4"
+          },
+          {
+            "username": "codex",
+            "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&40&v=4"
+          }
+        ]
+      }
+    ]
+  },
+  "productHunt": null,
+  "hackerNews": null
+}

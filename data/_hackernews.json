@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-10-03T09:35:46.854Z",
+  "updatedAt": "2026-10-04T10:21:39.973Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Newgrounds.com – A community of games, music, and art",
-      "url": "https://www.newgrounds.com/",
-      "score": 211,
-      "comments": 55,
-      "author": "azhenley"
+      "title": "Tell HN: Bob Cringely has died",
+      "url": "https://news.ycombinator.com/item?id=49949438",
+      "score": 462,
+      "comments": 94,
+      "author": "paveworld"
     },
     {
       "rank": 2,
-      "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
-      "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
-      "score": 628,
-      "comments": 276,
-      "author": "hn_acker"
+      "title": "Why don't more developers “use the platform”?",
+      "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+      "score": 143,
+      "comments": 104,
+      "author": "vinhnx"
     },
     {
       "rank": 3,
-      "title": "Apple Pass Designer",
-      "url": "https://developer.apple.com/pass-designer/",
-      "score": 420,
-      "comments": 256,
-      "author": "soheilpro"
+      "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
+      "url": "https://gamehistory.org/5k-magazines/",
+      "score": 7,
+      "comments": 1,
+      "author": "rdmuser"
     },
     {
       "rank": 4,
-      "title": "Mike Tomlin spent 12 years building a Minecraft city",
-      "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
-      "score": 455,
-      "comments": 107,
-      "author": "CoryOndrejka"
+      "title": "OpenBSD Developers Reject Uutils Coreutils",
+      "url": "https://news.lavx.hu/article/openbsd-developers-reject-uutils-coreutils-port-over-licensing-and-compatibility-concerns",
+      "score": 22,
+      "comments": 9,
+      "author": "pjmlp"
     },
     {
       "rank": 5,
-      "title": "Cloudflare OHTTP gateway",
-      "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
-      "score": 70,
-      "comments": 19,
-      "author": "est"
+      "title": "So you think you could be an electrician?",
+      "url": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
+      "score": 231,
+      "comments": 158,
+      "author": "zdw"
     },
     {
       "rank": 6,
-      "title": "Barcodes are about to go extinct",
-      "url": "https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct",
-      "score": 37,
-      "comments": 56,
-      "author": "rmason"
+      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+      "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+      "score": 293,
+      "comments": 45,
+      "author": "speckx"
     },
     {
       "rank": 7,
-      "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
-      "url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
-      "score": 277,
-      "comments": 54,
-      "author": "mariuz"
+      "title": "In Ukraine, distributed renewables foil Russia's assaults",
+      "url": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/",
+      "score": 73,
+      "comments": 38,
+      "author": "JumpCrisscross"
     },
     {
       "rank": 8,
-      "title": "An Update on Orion for Linux and Windows",
-      "url": "https://blog.kagi.com/update-orion-linux-windows",
-      "score": 43,
-      "comments": 13,
-      "author": "pentagrama"
+      "title": "Treachery in the Rodin Museum 3D scan verdict",
+      "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
+      "score": 206,
+      "comments": 91,
+      "author": "CosmoWenman"
     },
     {
       "rank": 9,
-      "title": "The Forgetful CPU (Linux on M4)",
-      "url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
-      "score": 212,
-      "comments": 140,
-      "author": "signa11"
+      "title": "Agents don't need memory, they need documentation",
+      "url": "https://liao.gg/blog/agents-dont-need-memory",
+      "score": 176,
+      "comments": 98,
+      "author": "kmeh"
     },
     {
       "rank": 10,
-      "title": "Extra Big Ass Intelligence",
-      "url": "https://www.extrabigassintelligence.com/",
-      "score": 289,
-      "comments": 61,
-      "author": "34679"
+      "title": "Hole Punch: Sling your spaceship around gravitational fields",
+      "url": "https://notoriousbfg.com/hole-punch/",
+      "score": 298,
+      "comments": 67,
+      "author": "trwhite"
     },
     {
       "rank": 11,
-      "title": "Loss of cell identity drives human aging: Two new papers",
-      "url": "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human",
-      "score": 257,
-      "comments": 79,
-      "author": "bookofjoe"
+      "title": "We're working on a new RuneScape MMO",
+      "url": "https://play.runescape.com/4",
+      "score": 69,
+      "comments": 27,
+      "author": "droidjj"
     },
     {
       "rank": 12,
-      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-      "score": 238,
-      "comments": 73,
-      "author": "usernomdeguerre"
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+      "score": 439,
+      "comments": 216,
+      "author": "elffjs"
     },
     {
       "rank": 13,
-      "title": "From the creator of Redis; run LLM locally with ds4",
-      "url": "https://dwarfstar.sh/",
-      "score": 236,
-      "comments": 62,
-      "author": "fibo"
+      "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
+      "url": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
+      "score": 196,
+      "comments": 51,
+      "author": "gscott"
     },
     {
       "rank": 14,
-      "title": "FLUX 3 Image",
-      "url": "https://bfl.ai/models/flux-3-image",
-      "score": 344,
-      "comments": 72,
-      "author": "minimaxir"
+      "title": "Reasons I didn't become an EMT, ranked",
+      "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
+      "score": 153,
+      "comments": 75,
+      "author": "citelao"
     },
     {
       "rank": 15,
-      "title": "Muse Gadgets",
-      "url": "https://gadgets.muse.ai",
-      "score": 194,
-      "comments": 84,
-      "author": "anant"
+      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+      "score": 135,
+      "comments": 182,
+      "author": "Anon84"
     },
     {
       "rank": 16,
-      "title": "With most information hidden, the game Stratego had stumped AI until now",
-      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-      "score": 216,
-      "comments": 108,
-      "author": "PaulHoule"
+      "title": "Religious scholars met with Anthropic",
+      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "score": 81,
+      "comments": 165,
+      "author": "bookofjoe"
     },
     {
       "rank": 17,
-      "title": "Updates to Full Disk Access in macOS",
-      "url": "https://developer.apple.com/news/?id=p6zjojqw",
-      "score": 197,
-      "comments": 133,
-      "author": "notfirstpost"
+      "title": "We want you to build the next Git platform on Cloudflare",
+      "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+      "score": 133,
+      "comments": 114,
+      "author": "geoffbp"
     },
     {
       "rank": 18,
-      "title": "More like SC-Forth-thousand, am I right?",
-      "url": "https://www.leadedsolder.com/2026/10/01/rc2026-10-sg1000-forth-port.html",
-      "score": 7,
-      "comments": 0,
-      "author": "stevekemp"
-    },
-    {
-      "rank": 19,
-      "title": "The Nintendo 64 Partner-N64 Development Kit",
-      "url": "https://www.behindthecode.ca/partner-n64pc-dev-kit/",
-      "score": 38,
-      "comments": 5,
-      "author": "paulgerhardt"
-    },
-    {
-      "rank": 20,
-      "title": "One month coding with GLM 5.3 Flash",
-      "url": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
-      "score": 159,
-      "comments": 119,
-      "author": "ThibWeb"
-    },
-    {
-      "rank": 21,
-      "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
-      "url": "https://stillwet.art/",
-      "score": 275,
-      "comments": 88,
-      "author": "alstonite"
-    },
-    {
-      "rank": 22,
-      "title": "Why should I have to pay more for buses if I don't use a smartphone?",
-      "url": "https://www.theguardian.com/money/2026/oct/02/why-should-i-have-to-pay-more-for-buses-if-i-dont-use-a-smartphone",
-      "score": 24,
-      "comments": 24,
-      "author": "DamonHD"
-    },
-    {
-      "rank": 23,
-      "title": "Sites in ChatGPT",
-      "url": "https://chatgpt.com/features/sites/",
-      "score": 266,
-      "comments": 253,
-      "author": "polvi"
-    },
-    {
-      "rank": 24,
-      "title": "The Legend of von Neumann (1973) [pdf]",
-      "url": "https://gwern.net/doc/math/1973-halmos.pdf",
-      "score": 278,
-      "comments": 149,
-      "author": "suopspaces"
-    },
-    {
-      "rank": 25,
-      "title": "Billions of triangles redux",
-      "url": "https://zeux.io/2026/09/30/billions-of-triangles-redux/",
-      "score": 44,
-      "comments": 0,
+      "title": "Dirty Optimization Secrets (C for Playdate)",
+      "url": "https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011",
+      "score": 15,
+      "comments": 1,
       "author": "ibobev"
     },
     {
-      "rank": 26,
-      "title": "OKI Develops 124-Layer PCB Technology",
-      "url": "https://www.oki.com/global/press/2025/z25006e.html",
-      "score": 31,
-      "comments": 14,
+      "rank": 19,
+      "title": "Math's pedagogical curse – Grant Sanderson [video]",
+      "url": "https://www.youtube.com/watch?v=UOuxo6SA8Uc",
+      "score": 44,
+      "comments": 18,
+      "author": "bobajeff"
+    },
+    {
+      "rank": 20,
+      "title": "gpuvis: GPU Trace Visualizer",
+      "url": "https://github.com/mikesart/gpuvis",
+      "score": 4,
+      "comments": 0,
       "author": "luu"
     },
     {
+      "rank": 21,
+      "title": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+      "url": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/",
+      "score": 24,
+      "comments": 32,
+      "author": "airhangerf15"
+    },
+    {
+      "rank": 22,
+      "title": "I quit OpenAI because its culture is broken",
+      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
+      "score": 232,
+      "comments": 493,
+      "author": "Brajeshwar"
+    },
+    {
+      "rank": 23,
+      "title": "How to hack time, with C2PA",
+      "url": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
+      "score": 38,
+      "comments": 4,
+      "author": "Retr0id"
+    },
+    {
+      "rank": 24,
+      "title": "Your body of work thinks back at you",
+      "url": "https://photoni.st/index.php/2026/09/25/your-body-of-work-thinks-back-at-you/",
+      "score": 62,
+      "comments": 8,
+      "author": "surprisetalk"
+    },
+    {
+      "rank": 25,
+      "title": "FTL: A new operating system for clouds",
+      "url": "https://ftl-os.org/",
+      "score": 173,
+      "comments": 67,
+      "author": "romac"
+    },
+    {
+      "rank": 26,
+      "title": "Three AI agents, two countries, and one uneven world wide web",
+      "url": "https://royapakzad.substack.com/p/multilingual-ai-agents",
+      "score": 32,
+      "comments": 1,
+      "author": "effects"
+    },
+    {
       "rank": 27,
-      "title": "Venice’s failed war against Constantinople led to the first bond market",
-      "url": "https://bigthink.com/books/a-fabulous-debt/",
-      "score": 118,
-      "comments": 35,
-      "author": "RickJWagner"
+      "title": "Former SR-71 engineer talks NASA's Blackbird revival program",
+      "url": "https://www.twz.com/air/former-sr-71-engineer-talks-nasas-blackbird-revival-program",
+      "score": 61,
+      "comments": 36,
+      "author": "rkagerer"
     },
     {
       "rank": 28,
-      "title": "Understanding Frontier Artificial Intelligence",
-      "url": "https://casp.ac/reports/intelligence-explosion",
-      "score": 42,
-      "comments": 44,
-      "author": "roversx"
+      "title": "What Meta got right with Muse",
+      "url": "https://metedata.substack.com/p/what-meta-got-right-with-muse",
+      "score": 49,
+      "comments": 62,
+      "author": "young_mete"
     },
     {
       "rank": 29,
-      "title": "Programming the ENIAC(2011)",
-      "url": "https://www.columbia.edu/cu/computinghistory/eniac.html",
-      "score": 5,
-      "comments": 0,
-      "author": "nill0"
+      "title": "Surely you have ultra-wideband radios on your bins too?",
+      "url": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/",
+      "score": 77,
+      "comments": 37,
+      "author": "simonjgreen"
     },
     {
       "rank": 30,
-      "title": "Show HN: Made an open-source Lego AI generator",
-      "url": "https://github.com/anteloc/ldraw-nova",
-      "score": 113,
-      "comments": 44,
-      "author": "antelocnova"
+      "title": "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
+      "url": "https://thoreaubasic.com/",
+      "score": 61,
+      "comments": 33,
+      "author": "Gorsefound"
     }
   ]
 }

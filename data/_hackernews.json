@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-10-05T11:05:56.448Z",
+  "updatedAt": "2026-10-06T10:58:17.368Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
-      "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
-      "score": 162,
-      "comments": 107,
-      "author": "clan"
+      "title": "Nobel Prize in Physics goes to Francis Halzen",
+      "url": "https://www.nobelprize.org/prizes/physics/2026/",
+      "score": 90,
+      "comments": 14,
+      "author": "solarist"
     },
     {
       "rank": 2,
-      "title": "Apple and a Hacker's Future",
-      "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
-      "score": 26,
-      "comments": 7,
-      "author": "maguay"
+      "title": "Beam: Reflection's 501B open-weight model",
+      "url": "https://reflection.ai/blog/introducing-beam",
+      "score": 467,
+      "comments": 148,
+      "author": "Philpax"
     },
     {
       "rank": 3,
-      "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
-      "url": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
-      "score": 72,
-      "comments": 50,
-      "author": "0xedb"
+      "title": "Find the flattest route between any two points in SF",
+      "url": "https://flattensf.com/",
+      "score": 214,
+      "comments": 77,
+      "author": "ishan0102"
     },
     {
       "rank": 4,
-      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-      "url": "https://github.com/Niko1221/Strata",
-      "score": 819,
-      "comments": 361,
-      "author": "snehesht"
+      "title": "Accountability mechanisms can be joyful (2024)",
+      "url": "https://liquidbrain.net/blog/accountability-and-joy/",
+      "score": 45,
+      "comments": 9,
+      "author": "luu"
     },
     {
       "rank": 5,
-      "title": "In the wake of Tippett Studios’ closure, a digital archive appears online",
-      "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
-      "score": 146,
-      "comments": 17,
-      "author": "rdmuser"
+      "title": "Dust: Pretraining Transformers Without Backpropagation",
+      "url": "https://qlabs.sh/research/dust",
+      "score": 206,
+      "comments": 50,
+      "author": "E-Reverance"
     },
     {
       "rank": 6,
-      "title": "We ported the original Doom to SQL",
-      "url": "https://cedardb.com/blog/sqldoom/",
-      "score": 141,
-      "comments": 20,
-      "author": "Vaslo"
+      "title": "Friendship ended with Deno, now Node is my best friend",
+      "url": "https://dbushell.com/2026/10/03/deno-to-node/",
+      "score": 181,
+      "comments": 108,
+      "author": "ibobev"
     },
     {
       "rank": 7,
-      "title": "A browser-native classic Visual Basic VB6 IDE",
-      "url": "https://wieslawsoltes.github.io/VB6/",
-      "score": 258,
-      "comments": 88,
-      "author": "wiso"
+      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "score": 366,
+      "comments": 244,
+      "author": "outlier99"
     },
     {
       "rank": 8,
-      "title": "The Tao of Backup",
-      "url": "http://www.taobackup.com/index.html",
-      "score": 160,
-      "comments": 55,
-      "author": "vntok"
+      "title": "Web Search API",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+      "score": 555,
+      "comments": 249,
+      "author": "tosh"
     },
     {
       "rank": 9,
-      "title": "Infidel goes wild",
-      "url": "https://blog.zarfhome.com/2026/10/infidel-goes-wild",
-      "score": 142,
-      "comments": 25,
-      "author": "tobr"
+      "title": "Resurrecting iChat Audio and Video Conferencing",
+      "url": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
+      "score": 56,
+      "comments": 13,
+      "author": "thepipetogrep"
     },
     {
       "rank": 10,
-      "title": "Gods in the Classroom: Religion and Education in First Millennium BCE Babylonia",
-      "url": "https://www.cambridge.org/core/journals/iraq/article/gods-in-the-classroom-religion-and-education-in-1st-millennium-bce-babylonia/EB059EE81804DCBC1848CACBD6298E0B",
-      "score": 43,
-      "comments": 18,
-      "author": "pseudolus"
+      "title": "Example.com just launched the biggest redesign in decades",
+      "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+      "score": 233,
+      "comments": 152,
+      "author": "jgx0"
     },
     {
       "rank": 11,
-      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-      "url": "https://github.com/omlahore/RemoveMacAI",
-      "score": 598,
-      "comments": 411,
-      "author": "privacyisntdead"
+      "title": "An algorithmic failure beneath the secret ballot",
+      "url": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
+      "score": 86,
+      "comments": 60,
+      "author": "leecoursey"
     },
     {
       "rank": 12,
-      "title": "Replacement of petroleum based products with plant-based materials (2025)",
-      "url": "https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108",
-      "score": 70,
-      "comments": 36,
-      "author": "thelastgallon"
+      "title": "Testing 12 different Zigbee temperature/humidity sensors",
+      "url": "https://smarthomescene.com/reviews/best-selling-zigbee-temperature-sensors-tested/",
+      "score": 123,
+      "comments": 64,
+      "author": "walrus01"
     },
     {
       "rank": 13,
-      "title": "Tell HN: Bob Cringely has died",
-      "url": "https://news.ycombinator.com/item?id=49949438",
-      "score": 880,
-      "comments": 190,
-      "author": "paveworld"
+      "title": "Competitive Programmer's Handbook (2018) [pdf]",
+      "url": "https://cses.fi/book/book.pdf",
+      "score": 216,
+      "comments": 54,
+      "author": "vinhnx"
     },
     {
       "rank": 14,
-      "title": "First Implantable Cochlear Implant Launches",
-      "url": "https://spectrum.ieee.org/fully-implantable-cochlear-implant",
-      "score": 14,
-      "comments": 9,
-      "author": "rbanffy"
+      "title": "Global Solar Atlas: summary of solar power potential globally",
+      "url": "https://globalsolaratlas.info/",
+      "score": 61,
+      "comments": 37,
+      "author": "stratts"
     },
     {
       "rank": 15,
-      "title": "Safe Optimistic Lock Coupling",
-      "url": "http://databasearchitects.blogspot.com/2026/04/safe-optimistic-lock-coupling.html",
-      "score": 22,
+      "title": "The complement of true is true, except when it's false",
+      "url": "https://dryperspective.github.io/posts/complement-of-true/",
+      "score": 21,
       "comments": 1,
-      "author": "greghn"
+      "author": "aw1621107"
     },
     {
       "rank": 16,
-      "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
-      "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
-      "score": 219,
-      "comments": 188,
-      "author": "llm_nerd"
+      "title": "Why Common Lisp is now the best programming language",
+      "url": "https://www.vivienhenz.com/common-lisp",
+      "score": 203,
+      "comments": 241,
+      "author": "misterchocolat"
     },
     {
       "rank": 17,
-      "title": "Demystifying Tufte's data-ink ratio",
-      "url": "https://tuftesrazor.scienceux.org/",
-      "score": 53,
-      "comments": 21,
-      "author": "s4074433"
+      "title": "Asos users receive pop-up notification apparently sent by hackers",
+      "url": "https://www.bbc.co.uk/news/live/cjkg7205q9ret",
+      "score": 3,
+      "comments": 0,
+      "author": "asplake"
     },
     {
       "rank": 18,
-      "title": "Automating my 35mm film scanning pipeline",
-      "url": "https://shannadige.com/blog/darkroom/",
-      "score": 81,
-      "comments": 58,
-      "author": "shannadige"
+      "title": "Show HN: Entombed in a Raycaster",
+      "url": "https://www.stelabouras.com/blog/entombed-raycaster/",
+      "score": 26,
+      "comments": 5,
+      "author": "stelabouras"
     },
     {
       "rank": 19,
-      "title": "Improper redaction reveals Google Data Center water and electricity usage",
-      "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
-      "score": 402,
-      "comments": 533,
-      "author": "sensanaty"
+      "title": "Using A.I. and machine learning to decode communication of sperm whales",
+      "url": "https://blue-continuum.com/the-man-who-listens-to-whales",
+      "score": 30,
+      "comments": 17,
+      "author": "dnetesn"
     },
     {
       "rank": 20,
-      "title": "The Philadelphia Inquirer built Scrape, an AI tool to surface hyperlocal news",
-      "url": "https://www.lenfestinstitute.org/solutions-resources/philadelphia-inquirer-scrape-ai-hyperlocal-news/",
-      "score": 17,
-      "comments": 6,
-      "author": "giuliomagnifico"
+      "title": "Fog-Bank: Archiving the oldest webcam feed",
+      "url": "https://fog-bank.org/net",
+      "score": 14,
+      "comments": 10,
+      "author": "rdmuser"
     },
     {
       "rank": 21,
-      "title": "What is going on with ceiling fans",
-      "url": "https://mcmansionhell.com/post/829127919552151552/what-is-going-on-with-ceiling-fans",
-      "score": 319,
-      "comments": 275,
-      "author": "colinprince"
+      "title": "The lamps in my house",
+      "url": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
+      "score": 219,
+      "comments": 97,
+      "author": "farslan"
     },
     {
       "rank": 22,
-      "title": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
-      "url": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
-      "score": 74,
-      "comments": 23,
-      "author": "tomncooper"
+      "title": "Show HN: Photoc – Command-line tools for photographers",
+      "url": "https://github.com/ahmetomerv/photoc",
+      "score": 39,
+      "comments": 5,
+      "author": "ahmetomer"
     },
     {
       "rank": 23,
-      "title": "'Neanderthals Among Us' review",
-      "url": "https://www.historytoday.com/archive/review/neanderthals-among-us-peter-sahlins-review",
-      "score": 77,
-      "comments": 78,
-      "author": "pepys"
+      "title": "Gleam doesn't compile to Erlang source anymore",
+      "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
+      "score": 13,
+      "comments": 0,
+      "author": "ingve"
     },
     {
       "rank": 24,
-      "title": "Show HN: Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
-      "url": "https://niklasroy.com/gtc/",
-      "score": 202,
-      "comments": 30,
-      "author": "r0r0"
+      "title": "Samon: Designing a Zen Garden Raking Puzzle",
+      "url": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
+      "score": 47,
+      "comments": 21,
+      "author": "networked"
     },
     {
       "rank": 25,
-      "title": "Lace and Labor: Lessons from the actual Luddites",
-      "url": "https://articlesofinterest.substack.com/p/lace-and-labor",
-      "score": 24,
-      "comments": 1,
-      "author": "surprisetalk"
+      "title": "Ephemeral Testing",
+      "url": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
+      "score": 64,
+      "comments": 20,
+      "author": "ibobev"
     },
     {
       "rank": 26,
-      "title": "Watson Jr. memo about CDC 6600 (1963)",
-      "url": "https://www.computerhistory.org/revolution/supercomputers/10/33/62",
-      "score": 45,
-      "comments": 23,
-      "author": "mooreds"
+      "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+      "score": 455,
+      "comments": 329,
+      "author": "rdmuser"
     },
     {
       "rank": 27,
-      "title": "Bill Draper has died",
-      "url": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
-      "score": 123,
-      "comments": 38,
-      "author": "bookofjoe"
+      "title": "Apple and a hacker's future",
+      "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+      "score": 262,
+      "comments": 226,
+      "author": "maguay"
     },
     {
       "rank": 28,
-      "title": "Self-hosted HTTP tunnels with SSH and Nginx",
-      "url": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
-      "score": 147,
-      "comments": 32,
-      "author": "renehsz"
+      "title": "DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit",
+      "url": "https://github.com/dfd-tud/deda",
+      "score": 65,
+      "comments": 7,
+      "author": "greyface-"
     },
     {
       "rank": 29,
-      "title": "How to scale intent, quality, and artistry with AI [video]",
-      "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
-      "score": 86,
-      "comments": 33,
-      "author": "simonjgreen"
+      "title": "Making a GTK application in Haskell, part 1",
+      "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
+      "score": 160,
+      "comments": 44,
+      "author": "Vosporos"
     },
     {
       "rank": 30,
-      "title": "Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex",
-      "url": "https://alexalejandre.com/interviews/peter-bex/",
-      "score": 45,
-      "comments": 11,
-      "author": "veqq"
+      "title": "Qualcomm licenses patents on Huawei’s LogicFolding chip tech",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
+      "score": 194,
+      "comments": 125,
+      "author": "0xedb"
     }
   ]
 }

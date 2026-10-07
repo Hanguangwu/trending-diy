@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-10-06T10:58:17.368Z",
+  "updatedAt": "2026-10-07T10:47:20.110Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Nobel Prize in Physics goes to Francis Halzen",
-      "url": "https://www.nobelprize.org/prizes/physics/2026/",
-      "score": 90,
-      "comments": 14,
-      "author": "solarist"
+      "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+      "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
+      "score": 26,
+      "comments": 1,
+      "author": "sasvari"
     },
     {
       "rank": 2,
-      "title": "Beam: Reflection's 501B open-weight model",
-      "url": "https://reflection.ai/blog/introducing-beam",
-      "score": 467,
-      "comments": 148,
-      "author": "Philpax"
+      "title": "A font recreated from photographs of classic Commodore 64 keycaps",
+      "url": "https://github.com/szabadkai/c64-keyboard-font/",
+      "score": 48,
+      "comments": 5,
+      "author": "sohkamyung"
     },
     {
       "rank": 3,
-      "title": "Find the flattest route between any two points in SF",
-      "url": "https://flattensf.com/",
-      "score": 214,
-      "comments": 77,
-      "author": "ishan0102"
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "score": 946,
+      "comments": 884,
+      "author": "OfficialTurkey"
     },
     {
       "rank": 4,
-      "title": "Accountability mechanisms can be joyful (2024)",
-      "url": "https://liquidbrain.net/blog/accountability-and-joy/",
-      "score": 45,
-      "comments": 9,
-      "author": "luu"
+      "title": "Strands Decider 2B: a small, open-source, decision model",
+      "url": "https://strandsagents.com/blog/introducing-strands-decider/",
+      "score": 183,
+      "comments": 45,
+      "author": "gmays"
     },
     {
       "rank": 5,
-      "title": "Dust: Pretraining Transformers Without Backpropagation",
-      "url": "https://qlabs.sh/research/dust",
-      "score": 206,
-      "comments": 50,
-      "author": "E-Reverance"
+      "title": "Decisions API is in public beta",
+      "url": "https://developers.openai.com/api/docs/guides/decisions",
+      "score": 305,
+      "comments": 150,
+      "author": "chiefstorm"
     },
     {
       "rank": 6,
-      "title": "Friendship ended with Deno, now Node is my best friend",
-      "url": "https://dbushell.com/2026/10/03/deno-to-node/",
-      "score": 181,
-      "comments": 108,
-      "author": "ibobev"
+      "title": "Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4/\\",
+      "score": 1831,
+      "comments": 1097,
+      "author": "Philpax"
     },
     {
       "rank": 7,
-      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-      "score": 366,
-      "comments": 244,
-      "author": "outlier99"
+      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+      "score": 335,
+      "comments": 35,
+      "author": "ilreb"
     },
     {
       "rank": 8,
-      "title": "Web Search API",
-      "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
-      "score": 555,
-      "comments": 249,
-      "author": "tosh"
+      "title": "ESP32-C3 Adblock",
+      "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
+      "score": 102,
+      "comments": 39,
+      "author": "jayhoon"
     },
     {
       "rank": 9,
-      "title": "Resurrecting iChat Audio and Video Conferencing",
-      "url": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
-      "score": 56,
-      "comments": 13,
-      "author": "thepipetogrep"
+      "title": "Gallery of Processor Cache Effects",
+      "url": "https://igoro.com/archive/gallery-of-processor-cache-effects/",
+      "score": 19,
+      "comments": 2,
+      "author": "porridgeraisin"
     },
     {
       "rank": 10,
-      "title": "Example.com just launched the biggest redesign in decades",
-      "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
-      "score": 233,
-      "comments": 152,
-      "author": "jgx0"
+      "title": "What is Codemode",
+      "url": "https://lucumr.pocoo.org/2026/10/6/codemode/",
+      "score": 89,
+      "comments": 42,
+      "author": "Tomte"
     },
     {
       "rank": 11,
-      "title": "An algorithmic failure beneath the secret ballot",
-      "url": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
-      "score": 86,
-      "comments": 60,
-      "author": "leecoursey"
+      "title": "Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer",
+      "url": "https://github.com/shader-effects-inc/shaders",
+      "score": 31,
+      "comments": 16,
+      "author": "jinqueeny"
     },
     {
       "rank": 12,
-      "title": "Testing 12 different Zigbee temperature/humidity sensors",
-      "url": "https://smarthomescene.com/reviews/best-selling-zigbee-temperature-sensors-tested/",
-      "score": 123,
-      "comments": 64,
-      "author": "walrus01"
+      "title": "Show HN: Arcadeia – A self-hosted media library with animated video previews",
+      "url": "https://github.com/travelonium/arcadeia",
+      "score": 5,
+      "comments": 3,
+      "author": "omidontop"
     },
     {
       "rank": 13,
-      "title": "Competitive Programmer's Handbook (2018) [pdf]",
-      "url": "https://cses.fi/book/book.pdf",
-      "score": 216,
-      "comments": 54,
-      "author": "vinhnx"
+      "title": "The cost of lies: A Mineserver story",
+      "url": "https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272",
+      "score": 118,
+      "comments": 52,
+      "author": "luu"
     },
     {
       "rank": 14,
-      "title": "Global Solar Atlas: summary of solar power potential globally",
-      "url": "https://globalsolaratlas.info/",
-      "score": 61,
-      "comments": 37,
-      "author": "stratts"
+      "title": "The Legend of the Paper Crane",
+      "url": "https://mazdastories.com/en_us/inspire/paper-cranes-into-the-fold/",
+      "score": 18,
+      "comments": 5,
+      "author": "vismit2000"
     },
     {
       "rank": 15,
-      "title": "The complement of true is true, except when it's false",
-      "url": "https://dryperspective.github.io/posts/complement-of-true/",
-      "score": 21,
-      "comments": 1,
-      "author": "aw1621107"
+      "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
+      "url": "https://news.ycombinator.com/item?id=49982498",
+      "score": 264,
+      "comments": 148,
+      "author": "IvanK_net"
     },
     {
       "rank": 16,
-      "title": "Why Common Lisp is now the best programming language",
-      "url": "https://www.vivienhenz.com/common-lisp",
-      "score": 203,
-      "comments": 241,
-      "author": "misterchocolat"
+      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+      "score": 208,
+      "comments": 119,
+      "author": "zed_labs_dev"
     },
     {
       "rank": 17,
-      "title": "Asos users receive pop-up notification apparently sent by hackers",
-      "url": "https://www.bbc.co.uk/news/live/cjkg7205q9ret",
-      "score": 3,
-      "comments": 0,
-      "author": "asplake"
+      "title": "La Cueva BBS in Mexico in 1993 (session replay)",
+      "url": "https://nanochess.org/la_cueva_bbs.html",
+      "score": 54,
+      "comments": 14,
+      "author": "nanochess"
     },
     {
       "rank": 18,
-      "title": "Show HN: Entombed in a Raycaster",
-      "url": "https://www.stelabouras.com/blog/entombed-raycaster/",
-      "score": 26,
-      "comments": 5,
-      "author": "stelabouras"
+      "title": "The art of defusing a second world war bomb",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb",
+      "score": 72,
+      "comments": 44,
+      "author": "sandebert"
     },
     {
       "rank": 19,
-      "title": "Using A.I. and machine learning to decode communication of sperm whales",
-      "url": "https://blue-continuum.com/the-man-who-listens-to-whales",
-      "score": 30,
-      "comments": 17,
-      "author": "dnetesn"
+      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+      "url": "https://github.com/FeSens/openTPU",
+      "score": 292,
+      "comments": 342,
+      "author": "fsbonetto"
     },
     {
       "rank": 20,
-      "title": "Fog-Bank: Archiving the oldest webcam feed",
-      "url": "https://fog-bank.org/net",
-      "score": 14,
-      "comments": 10,
-      "author": "rdmuser"
+      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+      "url": "https://penguin-mail.com/",
+      "score": 187,
+      "comments": 126,
+      "author": "kavourias"
     },
     {
       "rank": 21,
-      "title": "The lamps in my house",
-      "url": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
-      "score": 219,
-      "comments": 97,
-      "author": "farslan"
+      "title": "What's Earth's dominant species by mass?",
+      "url": "https://signoregalilei.com/2026/09/27/whats-earths-dominant-species-by-mass/",
+      "score": 250,
+      "comments": 191,
+      "author": "surprisetalk"
     },
     {
       "rank": 22,
-      "title": "Show HN: Photoc – Command-line tools for photographers",
-      "url": "https://github.com/ahmetomerv/photoc",
-      "score": 39,
-      "comments": 5,
-      "author": "ahmetomer"
+      "title": "Treg (OpenRouter for Tools)",
+      "url": "https://github.com/superdesigndev/treg",
+      "score": 33,
+      "comments": 6,
+      "author": "trollied"
     },
     {
       "rank": 23,
-      "title": "Gleam doesn't compile to Erlang source anymore",
-      "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
-      "score": 13,
-      "comments": 0,
-      "author": "ingve"
+      "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "score": 275,
+      "comments": 231,
+      "author": "Fe2O3"
     },
     {
       "rank": 24,
-      "title": "Samon: Designing a Zen Garden Raking Puzzle",
-      "url": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
-      "score": 47,
-      "comments": 21,
-      "author": "networked"
+      "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
+      "url": "https://github.com/nano-muse/nanoMuse",
+      "score": 21,
+      "comments": 4,
+      "author": "ilreb"
     },
     {
       "rank": 25,
-      "title": "Ephemeral Testing",
-      "url": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
-      "score": 64,
-      "comments": 20,
-      "author": "ibobev"
+      "title": "State of Devs 2026",
+      "url": "https://2026.stateofdevs.com/en-US/",
+      "score": 177,
+      "comments": 91,
+      "author": "sgdesign"
     },
     {
       "rank": 26,
-      "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
-      "score": 455,
-      "comments": 329,
-      "author": "rdmuser"
+      "title": "When random is not actually random enough",
+      "url": "https://ersc.io/blog/when-random-isnt-random-enough",
+      "score": 66,
+      "comments": 32,
+      "author": "steveklabnik"
     },
     {
       "rank": 27,
-      "title": "Apple and a hacker's future",
-      "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
-      "score": 262,
-      "comments": 226,
-      "author": "maguay"
+      "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+      "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+      "score": 79,
+      "comments": 26,
+      "author": "colinprince"
     },
     {
       "rank": 28,
-      "title": "DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit",
-      "url": "https://github.com/dfd-tud/deda",
-      "score": 65,
-      "comments": 7,
-      "author": "greyface-"
+      "title": "California closed the Montana license plate loophole",
+      "url": "https://www.thedrive.com/news/heres-how-california-closed-the-montana-license-plate-loophole",
+      "score": 116,
+      "comments": 288,
+      "author": "speckx"
     },
     {
       "rank": 29,
-      "title": "Making a GTK application in Haskell, part 1",
-      "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
-      "score": 160,
-      "comments": 44,
-      "author": "Vosporos"
+      "title": "Benchmark in Milliseconds",
+      "url": "https://matklad.github.io/2026/10/05/benchmark-milliseconds.html",
+      "score": 143,
+      "comments": 47,
+      "author": "surprisetalk"
     },
     {
       "rank": 30,
-      "title": "Qualcomm licenses patents on Huawei’s LogicFolding chip tech",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
-      "score": 194,
-      "comments": 125,
-      "author": "0xedb"
+      "title": "Sharded, encrypted storage between friends over Yggdrasil",
+      "url": "https://github.com/peterretief/yggstore",
+      "score": 10,
+      "comments": 3,
+      "author": "peter_retief"
     }
   ]
 }

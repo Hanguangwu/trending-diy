@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-10-07T10:47:20.110Z",
+  "updatedAt": "2026-10-08T11:05:42.494Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
-      "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
-      "score": 26,
-      "comments": 1,
-      "author": "sasvari"
+      "title": "“Math 2.0” will need to value mathematical progress more holistically",
+      "url": "https://mathstodon.xyz/@tao/117395269325940185",
+      "score": 325,
+      "comments": 310,
+      "author": "ent101"
     },
     {
       "rank": 2,
-      "title": "A font recreated from photographs of classic Commodore 64 keycaps",
-      "url": "https://github.com/szabadkai/c64-keyboard-font/",
-      "score": 48,
-      "comments": 5,
-      "author": "sohkamyung"
+      "title": "Claude Haiku 5.5",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "score": 901,
+      "comments": 432,
+      "author": "sfkgtbor"
     },
     {
       "rank": 3,
-      "title": "Sharing AI progress in mathematics",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-      "score": 946,
-      "comments": 884,
-      "author": "OfficialTurkey"
+      "title": "The 15-year search for a band that charted once and vanished",
+      "url": "https://shahidhussain.com/writing/search-for-salvage/",
+      "score": 132,
+      "comments": 56,
+      "author": "shahidhussain"
     },
     {
       "rank": 4,
-      "title": "Strands Decider 2B: a small, open-source, decision model",
-      "url": "https://strandsagents.com/blog/introducing-strands-decider/",
-      "score": 183,
-      "comments": 45,
-      "author": "gmays"
+      "title": "Living off-grid: Hundred Rabbits",
+      "url": "https://100r.ca/site/home.html",
+      "score": 238,
+      "comments": 74,
+      "author": "Muhammad523"
     },
     {
       "rank": 5,
-      "title": "Decisions API is in public beta",
-      "url": "https://developers.openai.com/api/docs/guides/decisions",
-      "score": 305,
-      "comments": 150,
-      "author": "chiefstorm"
+      "title": "Margaret Hamilton has died",
+      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+      "score": 1611,
+      "comments": 175,
+      "author": "muglug"
     },
     {
       "rank": 6,
-      "title": "Mistral Large 4",
-      "url": "https://mistral.ai/news/mistral-large-4/\\",
-      "score": 1831,
-      "comments": 1097,
-      "author": "Philpax"
+      "title": "GPT‑6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone/",
+      "score": 652,
+      "comments": 357,
+      "author": "joshuawright11"
     },
     {
       "rank": 7,
-      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
-      "score": 335,
-      "comments": 35,
-      "author": "ilreb"
+      "title": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't",
+      "url": "https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t",
+      "score": 185,
+      "comments": 66,
+      "author": "pavel_lishin"
     },
     {
       "rank": 8,
-      "title": "ESP32-C3 Adblock",
-      "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
-      "score": 102,
-      "comments": 39,
-      "author": "jayhoon"
+      "title": "Classic PC demoscene productions running natively in the browser",
+      "url": "https://treylorswift.github.io/demoscene-recomp/web/",
+      "score": 83,
+      "comments": 61,
+      "author": "adunk"
     },
     {
       "rank": 9,
-      "title": "Gallery of Processor Cache Effects",
-      "url": "https://igoro.com/archive/gallery-of-processor-cache-effects/",
-      "score": 19,
-      "comments": 2,
-      "author": "porridgeraisin"
+      "title": "'Jonathan' is the oldest land animal on Earth",
+      "url": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
+      "score": 168,
+      "comments": 86,
+      "author": "gumby"
     },
     {
       "rank": 10,
-      "title": "What is Codemode",
-      "url": "https://lucumr.pocoo.org/2026/10/6/codemode/",
-      "score": 89,
-      "comments": 42,
-      "author": "Tomte"
+      "title": "The Mathocalypse",
+      "url": "https://scottaaronson.blog/?p=10169",
+      "score": 257,
+      "comments": 284,
+      "author": "6bitquant"
     },
     {
       "rank": 11,
-      "title": "Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer",
-      "url": "https://github.com/shader-effects-inc/shaders",
-      "score": 31,
-      "comments": 16,
-      "author": "jinqueeny"
+      "title": "Cleo (Mathematician)",
+      "url": "https://en.wikipedia.org/wiki/Cleo_(mathematician)",
+      "score": 165,
+      "comments": 35,
+      "author": "djoldman"
     },
     {
       "rank": 12,
-      "title": "Show HN: Arcadeia – A self-hosted media library with animated video previews",
-      "url": "https://github.com/travelonium/arcadeia",
-      "score": 5,
-      "comments": 3,
-      "author": "omidontop"
+      "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+      "url": "https://bigwords.page/",
+      "score": 524,
+      "comments": 142,
+      "author": "SpeakingOfBrad"
     },
     {
       "rank": 13,
-      "title": "The cost of lies: A Mineserver story",
-      "url": "https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272",
-      "score": 118,
-      "comments": 52,
-      "author": "luu"
+      "title": "In Vienna and Beijing, the first (thorium) nuclear clocks begin to tick",
+      "url": "https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html",
+      "score": 113,
+      "comments": 31,
+      "author": "gumby"
     },
     {
       "rank": 14,
-      "title": "The Legend of the Paper Crane",
-      "url": "https://mazdastories.com/en_us/inspire/paper-cranes-into-the-fold/",
-      "score": 18,
-      "comments": 5,
-      "author": "vismit2000"
+      "title": "Bloody Cavemen",
+      "url": "https://www.lrb.co.uk/the-paper/v48/n18/edmund-gordon/bloody-cavemen",
+      "score": 13,
+      "comments": 0,
+      "author": "Thevet"
     },
     {
       "rank": 15,
-      "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
-      "url": "https://news.ycombinator.com/item?id=49982498",
-      "score": 264,
-      "comments": 148,
-      "author": "IvanK_net"
+      "title": "Dat-ecosystem: high level applications built on top of P2P protocols",
+      "url": "https://dat-ecosystem.org/",
+      "score": 17,
+      "comments": 9,
+      "author": "janandonly"
     },
     {
       "rank": 16,
-      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
-      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
-      "score": 208,
-      "comments": 119,
-      "author": "zed_labs_dev"
+      "title": "Docker Agent",
+      "url": "https://github.com/docker/docker-agent",
+      "score": 247,
+      "comments": 114,
+      "author": "saikatsg"
     },
     {
       "rank": 17,
-      "title": "La Cueva BBS in Mexico in 1993 (session replay)",
-      "url": "https://nanochess.org/la_cueva_bbs.html",
-      "score": 54,
-      "comments": 14,
-      "author": "nanochess"
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "score": 1284,
+      "comments": 1457,
+      "author": "OfficialTurkey"
     },
     {
       "rank": 18,
-      "title": "The art of defusing a second world war bomb",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb",
-      "score": 72,
-      "comments": 44,
-      "author": "sandebert"
+      "title": "Analog Computer Simulator in the Browser",
+      "url": "https://pavel-krivanek.github.io/The-Analog-Thing-Simulator/public/",
+      "score": 26,
+      "comments": 10,
+      "author": "adamnemecek"
     },
     {
       "rank": 19,
-      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
-      "url": "https://github.com/FeSens/openTPU",
-      "score": 292,
-      "comments": 342,
-      "author": "fsbonetto"
+      "title": "New repository settings for configuring pull request access",
+      "url": "https://github.blog/changelog/2026-02-13-new-repository-settings-for-configuring-pull-request-access/",
+      "score": 19,
+      "comments": 11,
+      "author": "Bluestein"
     },
     {
       "rank": 20,
-      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
-      "url": "https://penguin-mail.com/",
-      "score": 187,
-      "comments": 126,
-      "author": "kavourias"
-    },
-    {
-      "rank": 21,
-      "title": "What's Earth's dominant species by mass?",
-      "url": "https://signoregalilei.com/2026/09/27/whats-earths-dominant-species-by-mass/",
-      "score": 250,
-      "comments": 191,
-      "author": "surprisetalk"
-    },
-    {
-      "rank": 22,
-      "title": "Treg (OpenRouter for Tools)",
-      "url": "https://github.com/superdesigndev/treg",
-      "score": 33,
-      "comments": 6,
-      "author": "trollied"
-    },
-    {
-      "rank": 23,
-      "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
-      "url": "https://github.com/boykopovar/AnyPS5",
-      "score": 275,
-      "comments": 231,
-      "author": "Fe2O3"
-    },
-    {
-      "rank": 24,
-      "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
-      "url": "https://github.com/nano-muse/nanoMuse",
-      "score": 21,
-      "comments": 4,
-      "author": "ilreb"
-    },
-    {
-      "rank": 25,
-      "title": "State of Devs 2026",
-      "url": "https://2026.stateofdevs.com/en-US/",
-      "score": 177,
-      "comments": 91,
-      "author": "sgdesign"
-    },
-    {
-      "rank": 26,
-      "title": "When random is not actually random enough",
-      "url": "https://ersc.io/blog/when-random-isnt-random-enough",
-      "score": 66,
-      "comments": 32,
-      "author": "steveklabnik"
-    },
-    {
-      "rank": 27,
-      "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
-      "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
-      "score": 79,
-      "comments": 26,
-      "author": "colinprince"
-    },
-    {
-      "rank": 28,
-      "title": "California closed the Montana license plate loophole",
-      "url": "https://www.thedrive.com/news/heres-how-california-closed-the-montana-license-plate-loophole",
-      "score": 116,
-      "comments": 288,
+      "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
+      "url": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
+      "score": 153,
+      "comments": 70,
       "author": "speckx"
     },
     {
-      "rank": 29,
-      "title": "Benchmark in Milliseconds",
-      "url": "https://matklad.github.io/2026/10/05/benchmark-milliseconds.html",
-      "score": 143,
-      "comments": 47,
+      "rank": 21,
+      "title": "Animated ASCII Art for Web Pages",
+      "url": "https://ascii.rest/",
+      "score": 368,
+      "comments": 65,
+      "author": "turrini"
+    },
+    {
+      "rank": 22,
+      "title": "A minimal kernel in Swift, running in QEMU",
+      "url": "https://carette.xyz/posts/minimal_swift_kernel_on_qemu/",
+      "score": 85,
+      "comments": 15,
       "author": "surprisetalk"
     },
     {
+      "rank": 23,
+      "title": "Why were Victorian elites so effective?",
+      "url": "https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/",
+      "score": 177,
+      "comments": 285,
+      "author": "karakoram"
+    },
+    {
+      "rank": 24,
+      "title": "House with 15m underground tunnels for sale for 300k",
+      "url": "https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/",
+      "score": 211,
+      "comments": 197,
+      "author": "librasteve"
+    },
+    {
+      "rank": 25,
+      "title": "How machines learned precision",
+      "url": "https://glinscott.github.io/how-machines-learned-precision/",
+      "score": 176,
+      "comments": 63,
+      "author": "glinscott"
+    },
+    {
+      "rank": 26,
+      "title": "Navier–Stokes Lost in Translation",
+      "url": "https://arxiv.org/abs/2610.08144",
+      "score": 313,
+      "comments": 188,
+      "author": "nill0"
+    },
+    {
+      "rank": 27,
+      "title": "Anti-patterns in software blogging",
+      "url": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
+      "score": 286,
+      "comments": 140,
+      "author": "ilreb"
+    },
+    {
+      "rank": 28,
+      "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+      "url": "https://github.com/pingdotgg/ts-rust",
+      "score": 68,
+      "comments": 109,
+      "author": "jcbhmr"
+    },
+    {
+      "rank": 29,
+      "title": "Wood Tape (2004)",
+      "url": "http://gamesbyemail.com/WoodTape/Default.htm",
+      "score": 188,
+      "comments": 29,
+      "author": "NaOH"
+    },
+    {
       "rank": 30,
-      "title": "Sharded, encrypted storage between friends over Yggdrasil",
-      "url": "https://github.com/peterretief/yggstore",
-      "score": 10,
-      "comments": 3,
-      "author": "peter_retief"
+      "title": "Google Playground: Create and play custom games",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "score": 146,
+      "comments": 221,
+      "author": "acossta"
     }
   ]
 }

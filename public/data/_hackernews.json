@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-10-09T11:04:47.122Z",
+  "updatedAt": "2026-10-10T10:22:41.328Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Nobel Peace Prize for 2026 to Navanethem \"NAVI\" Pillay",
-      "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
-      "score": 53,
-      "comments": 22,
-      "author": "Anon84"
+      "title": "`123456' password used in Danish CPR data breach",
+      "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+      "score": 34,
+      "comments": 7,
+      "author": "baal80spam"
     },
     {
       "rank": 2,
-      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
-      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
-      "score": 803,
-      "comments": 710,
-      "author": "jonotime"
+      "title": "REA Reverse – Engineer Anything",
+      "url": "https://rea.tools/",
+      "score": 441,
+      "comments": 169,
+      "author": "modinfo"
     },
     {
       "rank": 3,
-      "title": "Whistle: Speech to Text in 16.9 MB",
-      "url": "https://cactuscompute.com/blog/whistle",
-      "score": 789,
-      "comments": 157,
-      "author": "gmays"
+      "title": "WSL3 Performance is about 5-60% faster than WSL2 depending on the workload",
+      "url": "https://tonym.us/wsl2-vs-wsl3-benchmarks.html",
+      "score": 28,
+      "comments": 6,
+      "author": "tonymet"
     },
     {
       "rank": 4,
-      "title": "MXC - a sandboxed code execution system",
-      "url": "https://github.com/microsoft/mxc",
-      "score": 52,
-      "comments": 17,
-      "author": "nreece"
+      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+      "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+      "score": 185,
+      "comments": 85,
+      "author": "g-b-r"
     },
     {
       "rank": 5,
-      "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
-      "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
-      "score": 725,
-      "comments": 447,
-      "author": "ck2"
-    },
-    {
-      "rank": 6,
-      "title": "Keyboard differences between Windows and Macs",
-      "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
-      "score": 167,
-      "comments": 147,
-      "author": "sohkamyung"
-    },
-    {
-      "rank": 7,
-      "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
-      "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
-      "score": 671,
-      "comments": 132,
-      "author": "soheilpro"
-    },
-    {
-      "rank": 8,
-      "title": "Yes, and",
-      "url": "https://htmx.org/essays/yes-and/",
-      "score": 467,
-      "comments": 153,
-      "author": "Michelangelo11"
-    },
-    {
-      "rank": 9,
-      "title": "Theranos.world",
-      "url": "https://www.theranos.world/",
-      "score": 461,
-      "comments": 159,
-      "author": "kbyatnal"
-    },
-    {
-      "rank": 10,
-      "title": "The value of not getting to the point (2015)",
-      "url": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
-      "score": 174,
-      "comments": 60,
-      "author": "NaOH"
-    },
-    {
-      "rank": 11,
-      "title": "OTel-Native by Design – Building Products That Export to Any Observability Stack",
-      "url": "https://opentelemetry.io/blog/2026/otel-native-by-design/",
-      "score": 47,
-      "comments": 9,
-      "author": "dhruv_ahuja"
-    },
-    {
-      "rank": 12,
-      "title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
-      "url": "https://news.ycombinator.com/item?id=49985548",
-      "score": 247,
-      "comments": 393,
-      "author": "mariocesar"
-    },
-    {
-      "rank": 13,
-      "title": "OpenAI, the Partition Principle, and Mathematics",
-      "url": "https://karagila.org/2026/openai-pp/",
-      "score": 128,
-      "comments": 190,
-      "author": "md224"
-    },
-    {
-      "rank": 14,
-      "title": "ETH-68: Ethernet Audio Interface for Linux",
-      "url": "https://naturalsystems.io/eth68",
-      "score": 166,
-      "comments": 92,
-      "author": "chabad360"
-    },
-    {
-      "rank": 15,
-      "title": "AI-ready biological data: $1.8B global commitment",
-      "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
-      "score": 127,
-      "comments": 18,
-      "author": "ray__"
-    },
-    {
-      "rank": 16,
-      "title": "Show HN: Quake ported to safe Rust, playable in browser",
-      "url": "https://quake-srp.pages.dev/",
-      "score": 170,
-      "comments": 135,
+      "title": "Cloudflare acquires Deno",
+      "url": "https://deno.com/blog/cloudflare",
+      "score": 1240,
+      "comments": 627,
       "author": "ilreb"
     },
     {
-      "rank": 17,
-      "title": "Beauty in DVD Menus",
-      "url": "https://vale.rocks/posts/dvd-menus",
-      "score": 307,
-      "comments": 164,
+      "rank": 6,
+      "title": "Triple-A Minesweeper",
+      "url": "https://minesweeper.mikelacher.com/",
+      "score": 987,
+      "comments": 193,
+      "author": "robin_reala"
+    },
+    {
+      "rank": 7,
+      "title": "Computers Cannot Make Decisions",
+      "url": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
+      "score": 86,
+      "comments": 66,
+      "author": "heavensteeth"
+    },
+    {
+      "rank": 8,
+      "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)",
+      "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
+      "score": 166,
+      "comments": 38,
+      "author": "ortusdux"
+    },
+    {
+      "rank": 9,
+      "title": "Cube Type – Isometric Typography Generator",
+      "url": "https://typeincube.com/",
+      "score": 16,
+      "comments": 1,
+      "author": "eustoria"
+    },
+    {
+      "rank": 10,
+      "title": "Food processing influences metabolism and brain activity",
+      "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
+      "score": 35,
+      "comments": 19,
+      "author": "gmays"
+    },
+    {
+      "rank": 11,
+      "title": "Can you use autoregressive diffusion to generate market data?",
+      "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
+      "score": 91,
+      "comments": 26,
+      "author": "jsomers"
+    },
+    {
+      "rank": 12,
+      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+      "url": "https://carrierexplode.com/",
+      "score": 331,
+      "comments": 42,
+      "author": "simplyalec"
+    },
+    {
+      "rank": 13,
+      "title": "How to head into VR without wearing a headset",
+      "url": "https://www.kyushu-u.ac.jp/en/researches/view/414/",
+      "score": 34,
+      "comments": 15,
+      "author": "Betelbuddy"
+    },
+    {
+      "rank": 14,
+      "title": "Compiling Rust to readable C with Eurydice",
+      "url": "https://lwn.net/Articles/1055211/",
+      "score": 82,
+      "comments": 16,
+      "author": "peter_d_sherman"
+    },
+    {
+      "rank": 15,
+      "title": "Typesafe AI raises $870M at $7.5B",
+      "url": "https://typesafe.ai/blog/series-ai",
+      "score": 377,
+      "comments": 278,
+      "author": "tosh"
+    },
+    {
+      "rank": 16,
+      "title": "I tried to move my notes out of Emacs. I failed. Again",
+      "url": "https://baty.net/posts/2026/10/i-tried-to-move-my-notes-out-of-emacs-i-failed/",
+      "score": 30,
+      "comments": 29,
       "author": "speckx"
     },
     {
+      "rank": 17,
+      "title": "Clinical trial of a prion disease drug candidate begins enrolling participants",
+      "url": "https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants",
+      "score": 73,
+      "comments": 12,
+      "author": "luu"
+    },
+    {
       "rank": 18,
-      "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
-      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "score": 26,
-      "comments": 9,
-      "author": "trakkstar"
+      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+      "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+      "score": 147,
+      "comments": 76,
+      "author": "piratebroadcast"
     },
     {
       "rank": 19,
-      "title": "DuckDB Ducklake",
-      "url": "https://github.com/duckdb/ducklake",
-      "score": 188,
+      "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+      "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+      "score": 119,
       "comments": 23,
-      "author": "saikatsg"
+      "author": "matt_d"
     },
     {
       "rank": 20,
-      "title": "A Terminal Protocol for Program Status (OSC 7501)",
-      "url": "https://mitchellh.com/writing/program-status-osc7501",
-      "score": 157,
-      "comments": 47,
-      "author": "mfiguiere"
+      "title": "Scam American companies are using to manipulate ingredient lists",
+      "url": "https://twitter.com/WallStreetApes/status/2108594998656807078",
+      "score": 125,
+      "comments": 134,
+      "author": "bilsbie"
     },
     {
       "rank": 21,
-      "title": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments",
-      "url": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
-      "score": 174,
-      "comments": 30,
-      "author": "scottbez1"
+      "title": "Show HN: Proton Drive for Linux",
+      "url": "https://oss.lsantos.dev/proton-drive-linux-fs/",
+      "score": 84,
+      "comments": 29,
+      "author": "khaosdoctor"
     },
     {
       "rank": 22,
-      "title": "OpenAI withdraws three mathematical results",
-      "url": "https://twitter.com/danintheory/status/2108065033070789090",
-      "score": 323,
-      "comments": 578,
-      "author": "sashank_1509"
+      "title": "Vegetative Electron Microscopy WTF? (2025)",
+      "url": "https://www.sciencebase.com/science-blog/vegetative-electron-microscopy.html",
+      "score": 16,
+      "comments": 1,
+      "author": "adunk"
     },
     {
       "rank": 23,
-      "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
-      "url": "https://openrouter.ai/stepfun/step-5-preview",
-      "score": 129,
-      "comments": 31,
-      "author": "AnneWodell"
+      "title": "'Wallace and Gromit,' 90% Alone",
+      "url": "https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone",
+      "score": 218,
+      "comments": 29,
+      "author": "vinhnx"
     },
     {
       "rank": 24,
-      "title": "What should we tell our students?",
-      "url": "https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/",
-      "score": 120,
-      "comments": 147,
-      "author": "sajid"
+      "title": "The role of cat eye narrowing movements in cat–human communication (2020)",
+      "url": "https://www.nature.com/articles/s41598-020-73426-0",
+      "score": 86,
+      "comments": 36,
+      "author": "bushwart"
     },
     {
       "rank": 25,
-      "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
-      "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
-      "score": 312,
-      "comments": 202,
-      "author": "bookofjoe"
+      "title": "Our $445M Series D",
+      "url": "https://oxide.computer/blog/our-445m-series-d",
+      "score": 660,
+      "comments": 296,
+      "author": "ahlCVA"
     },
     {
       "rank": 26,
-      "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
-      "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
-      "score": 196,
-      "comments": 81,
-      "author": "pyduan"
+      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+      "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+      "score": 577,
+      "comments": 312,
+      "author": "gumby"
     },
     {
       "rank": 27,
-      "title": "A 5.3M-year-old deep-sea whale necropolis in the Diamantina Zone",
-      "url": "https://www.nature.com/articles/s41586-026-10546-z",
-      "score": 137,
-      "comments": 11,
-      "author": "bryanrasmussen"
+      "title": "Sorry, I'm in a meeting",
+      "url": "https://iminafleeting.com/",
+      "score": 909,
+      "comments": 256,
+      "author": "splintersio"
     },
     {
       "rank": 28,
-      "title": "Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age",
-      "url": "https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/",
-      "score": 135,
-      "comments": 55,
-      "author": "Hooke"
+      "title": "Communication Between the Compiler, the Build System, and Beyond",
+      "url": "https://shrub.industries/words/problem.html",
+      "score": 17,
+      "comments": 3,
+      "author": "shrub900"
     },
     {
       "rank": 29,
-      "title": "Bevy 0.20",
-      "url": "https://bevy.org/news/bevy-0-20/",
-      "score": 180,
-      "comments": 38,
-      "author": "Philpax"
+      "title": "Show HN: The rarest tech books and docs you've probably never read",
+      "url": "https://readrare.com/",
+      "score": 131,
+      "comments": 48,
+      "author": "miletus"
     },
     {
       "rank": 30,
-      "title": "Orkut.com",
-      "url": "https://orkut.com/",
-      "score": 194,
-      "comments": 144,
-      "author": "andreynering"
+      "title": "100+ reactions to 100+ solutions",
+      "url": "https://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions/",
+      "score": 73,
+      "comments": 66,
+      "author": "jacobedawson"
     }
   ]
 }

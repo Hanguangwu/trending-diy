@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-10-11T10:30:29.095Z",
+  "updatedAt": "2026-10-12T11:35:14.991Z",
   "stories": [
     {
       "rank": 1,
-      "title": "LineageOS 24.0",
-      "url": "https://lineageos.org/Changelog-32/",
-      "score": 106,
-      "comments": 25,
-      "author": "timschumi"
+      "title": "QGIS bans AI assisted contributions",
+      "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+      "score": 19,
+      "comments": 5,
+      "author": "bwnkl"
     },
     {
       "rank": 2,
-      "title": "IRCv3",
-      "url": "https://ircv3.net/",
-      "score": 7,
-      "comments": 0,
-      "author": "basilikum"
+      "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
+      "url": "https://www.bbc.com/news/articles/c64g1l5389kvo",
+      "score": 140,
+      "comments": 27,
+      "author": "Betelbuddy"
     },
     {
       "rank": 3,
-      "title": "Build your own decision model",
-      "url": "https://nishtahir.com/build-your-own-decision-model/",
-      "score": 311,
-      "comments": 72,
-      "author": "softwaredoug"
+      "title": "Type-safe HTML templating in Zig",
+      "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+      "score": 138,
+      "comments": 60,
+      "author": "lukaslalinsky"
     },
     {
       "rank": 4,
-      "title": "2D Vehicles",
-      "url": "https://patkerr.co.uk/2d-vehicles/",
-      "score": 488,
-      "comments": 101,
-      "author": "Michelangelo11"
+      "title": "Fingerprints are the new cookies",
+      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+      "score": 426,
+      "comments": 219,
+      "author": "royfish"
     },
     {
       "rank": 5,
-      "title": "A city-building game in which the city would prefer you didn't",
-      "url": "https://housing.over.pizza/",
-      "score": 351,
-      "comments": 118,
-      "author": "JumpCrisscross"
+      "title": "Secret of Orange Cats Revealed After 60-Year Search",
+      "url": "https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search",
+      "score": 20,
+      "comments": 0,
+      "author": "bookofjoe"
     },
     {
       "rank": 6,
-      "title": "The Lightbulb Computer",
-      "url": "https://lightbulbcomputer.com/",
-      "score": 431,
-      "comments": 66,
-      "author": "oskarth"
+      "title": "Total Annihilation, rebuilt for modern computers",
+      "url": "https://nanolathe.gg",
+      "score": 546,
+      "comments": 207,
+      "author": "jttnr"
     },
     {
       "rank": 7,
-      "title": "How big is a Git commit?",
-      "url": "https://ratfactor.com/cards/git-commit-size",
-      "score": 37,
+      "title": "Show HN: PS2 games statically recompiled to WebAssembly",
+      "url": "https://github.com/snuri00/ps2-web-recomp",
+      "score": 52,
       "comments": 17,
-      "author": "theanonymousone"
+      "author": "deadxwarrior"
     },
     {
       "rank": 8,
-      "title": "PSPi 6 – Raspberry Pi in a PSP",
-      "url": "https://github.com/othermod/PSPi-Version-6",
-      "score": 89,
-      "comments": 7,
-      "author": "therepanic"
+      "title": "Calculus with Julia",
+      "url": "https://jverzani.github.io/CalculusWithJuliaNotes.jl/",
+      "score": 148,
+      "comments": 15,
+      "author": "subset"
     },
     {
       "rank": 9,
-      "title": "European Alternatives",
-      "url": "https://buy-european.net/en/alternatives",
-      "score": 61,
-      "comments": 28,
-      "author": "doener"
+      "title": "Running the unmodified Linux amdgpu driver on an iPad",
+      "url": "https://github.com/Geramy/LemonSeed-Studio",
+      "score": 36,
+      "comments": 13,
+      "author": "joshcsimmons"
     },
     {
       "rank": 10,
-      "title": "Decade-old RAM is making a comeback",
-      "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
-      "score": 70,
-      "comments": 58,
-      "author": "1potato"
+      "title": "Ledger confirms hidden chip in crypto wallet amid $92M theft claims",
+      "url": "https://crypto.news/ledger-confirms-hidden-chip-in-crypto-wallet-amid-92m/",
+      "score": 34,
+      "comments": 29,
+      "author": "thm"
     },
     {
       "rank": 11,
-      "title": "Retrofitting language models to operate over bytes",
-      "url": "https://www.nature.com/articles/s41586-026-11111-4",
-      "score": 68,
-      "comments": 7,
-      "author": "theanonymousone"
+      "title": "Postgres isn't slow, your storage is",
+      "url": "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is",
+      "score": 118,
+      "comments": 98,
+      "author": "saisrirampur"
     },
     {
       "rank": 12,
-      "title": "Nix wrote half of my debugger",
-      "url": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
-      "score": 199,
-      "comments": 47,
-      "author": "ingve"
+      "title": "Cartographers of North Korea (2019)",
+      "url": "https://cartographers-nk.wonyoung.so/",
+      "score": 271,
+      "comments": 51,
+      "author": "edent"
     },
     {
       "rank": 13,
-      "title": "Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes",
-      "url": "https://hangul.ink/blog/hangul-day",
-      "score": 46,
-      "comments": 8,
-      "author": "jbaudanza"
+      "title": "Whatever became of holography? (2011)",
+      "url": "https://www.americanscientist.org/article/whatever-became-of-holography",
+      "score": 140,
+      "comments": 68,
+      "author": "cainxinth"
     },
     {
       "rank": 14,
-      "title": "I wish you the best in the Offline",
-      "url": "https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/",
-      "score": 41,
-      "comments": 21,
-      "author": "birdculture"
+      "title": "Terence Tao: Math 2.0 [pdf]",
+      "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
+      "score": 421,
+      "comments": 440,
+      "author": "Anon84"
     },
     {
       "rank": 15,
-      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-      "url": "https://github.com/rociiu/talorys",
-      "score": 295,
-      "comments": 134,
-      "author": "rociiu"
+      "title": "Doory – Open-Source Canva",
+      "url": "https://github.com/shaongitbd/doory",
+      "score": 132,
+      "comments": 46,
+      "author": "acley"
     },
     {
       "rank": 16,
-      "title": "Knuth reward check",
-      "url": "https://www.thomas-huehn.com/knuth-reward-check/",
-      "score": 194,
-      "comments": 70,
-      "author": "Curiositry"
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "url": "https://twitter.com/karpathy/status/2109361546505966046",
+      "score": 492,
+      "comments": 726,
+      "author": "albertzeyer"
     },
     {
       "rank": 17,
-      "title": "Five months treating bugs like patients and coding agents like a medical team",
-      "url": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
-      "score": 136,
-      "comments": 56,
-      "author": "rafiss"
+      "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+      "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+      "score": 101,
+      "comments": 77,
+      "author": "m463"
     },
     {
       "rank": 18,
-      "title": "Mxc: Microsoft Execution Containers version 1.0.0",
-      "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
-      "score": 192,
-      "comments": 51,
-      "author": "smokel"
+      "title": "Bag of Decisions Reranker",
+      "url": "https://softwaredoug.com/blog/2026/10/08/bag-of-decisions.html",
+      "score": 7,
+      "comments": 0,
+      "author": "zdw"
     },
     {
       "rank": 19,
-      "title": "Deterministic Simulation Testing in Celld",
-      "url": "https://celld.dev/docs/engineering/deterministic-simulation-testing/",
-      "score": 23,
-      "comments": 1,
-      "author": "handfuloflight"
+      "title": "Local Indexing to reduce tool calling and token usage",
+      "url": "https://tedhaley.ca/pensieve/",
+      "score": 84,
+      "comments": 26,
+      "author": "TedHaley"
     },
     {
       "rank": 20,
-      "title": "3rd Yandex Cloud Data Center Was Hit",
-      "url": "https://status.yandex.cloud/en/incidents/2136",
-      "score": 207,
-      "comments": 278,
-      "author": "defly"
+      "title": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
+      "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/",
+      "score": 170,
+      "comments": 190,
+      "author": "amosbatto"
     },
     {
       "rank": 21,
-      "title": "Cyril Hilsum invented the flat-screen displays that hold us in thrall",
-      "url": "https://www.economist.com/obituary/2026/10/08/cyril-hilsum-invented-the-flat-screen-displays-that-hold-us-in-thrall",
-      "score": 5,
-      "comments": 0,
-      "author": "sohkamyung"
+      "title": "Illustration Beyond Proof",
+      "url": "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/",
+      "score": 72,
+      "comments": 10,
+      "author": "smilelamp"
     },
     {
       "rank": 22,
-      "title": "The Marriage That Captures a High Point of American Art",
-      "url": "https://www.theatlantic.com/culture/2026/10/jackson-pollock-lee-krasner-met-review/688916",
-      "score": 7,
-      "comments": 1,
-      "author": "prismatic"
+      "title": "Passkeys are a trap",
+      "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
+      "score": 682,
+      "comments": 393,
+      "author": "laurex"
     },
     {
       "rank": 23,
-      "title": "Show HN: Diffle, a keyboard-centric diff viewer with LSP support",
-      "url": "https://github.com/moritzwilksch/diffle",
-      "score": 49,
-      "comments": 7,
-      "author": "mwil1000"
+      "title": "Zod 4.6.6 compromised by malware?",
+      "url": "https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467",
+      "score": 136,
+      "comments": 34,
+      "author": "luggage_bazooka"
     },
     {
       "rank": 24,
-      "title": "Unikernels were hard. key word: were",
-      "url": "https://ghuntley.com/unikernels/",
-      "score": 164,
-      "comments": 81,
-      "author": "ghuntley"
+      "title": "Chapter 1 of \"Ways of Seeing\" by John Berger (1972)",
+      "url": "https://www.ways-of-seeing.com/ch1",
+      "score": 114,
+      "comments": 22,
+      "author": "rafael859"
     },
     {
       "rank": 25,
-      "title": "OpenSCAD the Programmers Solid 3D CAD Modeller",
-      "url": "https://openscad.org/",
-      "score": 149,
-      "comments": 114,
-      "author": "b-man"
+      "title": "Ask HN: Do you want a router that has DD-WRT pre-installed?",
+      "url": "https://news.ycombinator.com/item?id=50039291",
+      "score": 63,
+      "comments": 64,
+      "author": "Ixander"
     },
     {
       "rank": 26,
-      "title": "Food processing influences metabolism and brain activity",
-      "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
-      "score": 156,
-      "comments": 123,
-      "author": "gmays"
+      "title": "Programmable pigments: Photochromic nanoparticle inks for rewritable tattoos",
+      "url": "https://www.cell.com/matter-light/fulltext/S3117-5848(26)00119-5",
+      "score": 58,
+      "comments": 38,
+      "author": "Bluestein"
     },
     {
       "rank": 27,
-      "title": "GameBoy on E-Paper ESP32 at 30FPS [video]",
-      "url": "https://www.youtube.com/watch?v=XiZmM6hwwAU",
-      "score": 97,
-      "comments": 28,
-      "author": "pizzaiolo"
+      "title": "NYC's \"Click to Cancel\" rule is now in effect",
+      "url": "https://www.nyc.gov/main/click-to-cancel",
+      "score": 491,
+      "comments": 245,
+      "author": "gregsadetsky"
     },
     {
       "rank": 28,
-      "title": "C for Rust programmers",
-      "url": "https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/",
-      "score": 151,
-      "comments": 158,
-      "author": "xyproto"
+      "title": "So, you’d like to sell your print issues of The Onion?",
+      "url": "https://theonion.com/archivehunt/",
+      "score": 333,
+      "comments": 50,
+      "author": "mooreds"
     },
     {
       "rank": 29,
-      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-      "score": 96,
-      "comments": 73,
-      "author": "davikr"
+      "title": "Google Data Centers around the world",
+      "url": "https://datacenters.google/locations/",
+      "score": 63,
+      "comments": 59,
+      "author": "andsoitis"
     },
     {
       "rank": 30,
-      "title": "Getting old Macromedia Director Games to run on modern Hardware",
-      "url": "https://werwolv.net/posts/macromedia_copy_protection/",
-      "score": 78,
-      "comments": 15,
-      "author": "speckx"
+      "title": "I guess I'm using WebP now?",
+      "url": "https://anderegg.ca/2026/10/08/i-guess-im-using-webp-now",
+      "score": 115,
+      "comments": 129,
+      "author": "Brajeshwar"
     }
   ]
 }

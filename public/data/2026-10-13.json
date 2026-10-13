@@ -1,0 +1,314 @@
+{
+  "date": "2026-10-13",
+  "updatedAt": "2026-10-13T11:20:50.520Z",
+  "github": {
+    "updatedAt": "2026-10-13T11:20:47.297Z",
+    "repos": [
+      {
+        "rank": 1,
+        "author": "morluto",
+        "name": "rea",
+        "fullName": "morluto/rea",
+        "url": "https://github.com/morluto/rea",
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 184894,
+        "forks": 44782,
+        "builtBy": [
+          {
+            "username": "morluto",
+            "avatar": "https://avatars.githubusercontent.com/u/76467478?s=40&40&v=4"
+          },
+          {
+            "username": "N0zoM1z0",
+            "avatar": "https://avatars.githubusercontent.com/u/161784452?s=40&40&v=4"
+          },
+          {
+            "username": "kaoru0822-kitauji",
+            "avatar": "https://avatars.githubusercontent.com/u/208281322?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "rudycelekli",
+            "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "author": "bilawalsidhu",
+        "name": "gods-eye-view",
+        "fullName": "bilawalsidhu/gods-eye-view",
+        "url": "https://github.com/bilawalsidhu/gods-eye-view",
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 54509,
+        "forks": 10717,
+        "builtBy": [
+          {
+            "username": "samehkhamis",
+            "avatar": "https://avatars.githubusercontent.com/u/845989?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "asturksever",
+            "avatar": "https://avatars.githubusercontent.com/u/28983926?s=40&40&v=4"
+          },
+          {
+            "username": "bilawalsidhu",
+            "avatar": "https://avatars.githubusercontent.com/u/106619546?s=40&40&v=4"
+          },
+          {
+            "username": "manjunath22466",
+            "avatar": "https://avatars.githubusercontent.com/u/301209272?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "author": "debpalash",
+        "name": "VoiceStudio",
+        "fullName": "debpalash/VoiceStudio",
+        "url": "https://github.com/debpalash/VoiceStudio",
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 61325,
+        "forks": 6871,
+        "builtBy": [
+          {
+            "username": "debpalash",
+            "avatar": "https://avatars.githubusercontent.com/u/4178343?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "velixio",
+            "avatar": "https://avatars.githubusercontent.com/u/270455167?s=40&40&v=4"
+          },
+          {
+            "username": "kevin9327",
+            "avatar": "https://avatars.githubusercontent.com/u/5299031?s=40&40&v=4"
+          },
+          {
+            "username": "jaketame",
+            "avatar": "https://avatars.githubusercontent.com/u/1787973?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "author": "mksglu",
+        "name": "context-mode",
+        "fullName": "mksglu/context-mode",
+        "url": "https://github.com/mksglu/context-mode",
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 27743,
+        "forks": 1969,
+        "builtBy": [
+          {
+            "username": "mksglu",
+            "avatar": "https://avatars.githubusercontent.com/u/6067714?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "ipedro",
+            "avatar": "https://avatars.githubusercontent.com/u/380338?s=40&40&v=4"
+          },
+          {
+            "username": "ousamabenyounes",
+            "avatar": "https://avatars.githubusercontent.com/u/2910651?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "author": "cathrynlavery",
+        "name": "diagram-design",
+        "fullName": "cathrynlavery/diagram-design",
+        "url": "https://github.com/cathrynlavery/diagram-design",
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "languageColor": "#e34c26",
+        "starsToday": 0,
+        "totalStars": 53351,
+        "forks": 3379,
+        "builtBy": [
+          {
+            "username": "cathrynlavery",
+            "avatar": "https://avatars.githubusercontent.com/u/50469282?s=40&40&v=4"
+          },
+          {
+            "username": "parveen0029",
+            "avatar": "https://avatars.githubusercontent.com/u/174610155?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "rudycelekli",
+            "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "author": "vercel-labs",
+        "name": "skills",
+        "fullName": "vercel-labs/skills",
+        "url": "https://github.com/vercel-labs/skills",
+        "description": "The open agent skills tool - npx skills",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 34119,
+        "forks": 2929,
+        "builtBy": [
+          {
+            "username": "quuu",
+            "avatar": "https://avatars.githubusercontent.com/u/32676955?s=40&40&v=4"
+          },
+          {
+            "username": "huozhi",
+            "avatar": "https://avatars.githubusercontent.com/u/4800338?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "jonathanhefner",
+            "avatar": "https://avatars.githubusercontent.com/u/771968?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "author": "lyogavin",
+        "name": "airllm",
+        "fullName": "lyogavin/airllm",
+        "url": "https://github.com/lyogavin/airllm",
+        "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
+        "language": "Jupyter Notebook",
+        "languageColor": "#DA5B0B",
+        "starsToday": 0,
+        "totalStars": 37944,
+        "forks": 3894,
+        "builtBy": [
+          {
+            "username": "lyogavin",
+            "avatar": "https://avatars.githubusercontent.com/u/1113905?s=40&40&v=4"
+          },
+          {
+            "username": "cursoragent",
+            "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&40&v=4"
+          },
+          {
+            "username": "eltociear",
+            "avatar": "https://avatars.githubusercontent.com/u/22633385?s=40&40&v=4"
+          },
+          {
+            "username": "NavodPeiris",
+            "avatar": "https://avatars.githubusercontent.com/u/69672640?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "author": "storytold",
+        "name": "artcraft",
+        "fullName": "storytold/artcraft",
+        "url": "https://github.com/storytold/artcraft",
+        "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 23860,
+        "forks": 3787,
+        "builtBy": [
+          {
+            "username": "echelon",
+            "avatar": "https://avatars.githubusercontent.com/u/39263?s=40&40&v=4"
+          },
+          {
+            "username": "bflatastic",
+            "avatar": "https://avatars.githubusercontent.com/u/46063141?s=40&40&v=4"
+          },
+          {
+            "username": "ArEnSc",
+            "avatar": "https://avatars.githubusercontent.com/u/6252325?s=40&40&v=4"
+          },
+          {
+            "username": "wilwong",
+            "avatar": "https://avatars.githubusercontent.com/u/1340665?s=40&40&v=4"
+          },
+          {
+            "username": "Quicksticks-oss",
+            "avatar": "https://avatars.githubusercontent.com/u/75916236?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "author": "xtool-org",
+        "name": "xtool",
+        "fullName": "xtool-org/xtool",
+        "url": "https://github.com/xtool-org/xtool",
+        "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+        "language": "Swift",
+        "languageColor": "#F05138",
+        "starsToday": 0,
+        "totalStars": 8541,
+        "forks": 351,
+        "builtBy": [
+          {
+            "username": "kabiroberai",
+            "avatar": "https://avatars.githubusercontent.com/u/12706786?s=40&40&v=4"
+          },
+          {
+            "username": "reklis",
+            "avatar": "https://avatars.githubusercontent.com/u/33566?s=40&40&v=4"
+          },
+          {
+            "username": "erikbdev",
+            "avatar": "https://avatars.githubusercontent.com/u/16653389?s=40&40&v=4"
+          },
+          {
+            "username": "mvanhorn",
+            "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&40&v=4"
+          },
+          {
+            "username": "pawlowskialex",
+            "avatar": "https://avatars.githubusercontent.com/u/1180980?s=40&40&v=4"
+          }
+        ]
+      }
+    ]
+  },
+  "productHunt": null,
+  "hackerNews": null
+}

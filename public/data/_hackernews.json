@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-10-12T11:35:14.991Z",
+  "updatedAt": "2026-10-13T11:20:50.513Z",
   "stories": [
     {
       "rank": 1,
-      "title": "QGIS bans AI assisted contributions",
-      "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
-      "score": 19,
-      "comments": 5,
-      "author": "bwnkl"
+      "title": "11 year old unsoundness bugs found in Rust borrow checker",
+      "url": "https://github.com/rust-lang/rust/issues/164250",
+      "score": 82,
+      "comments": 20,
+      "author": "formerly_proven"
     },
     {
       "rank": 2,
-      "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
-      "url": "https://www.bbc.com/news/articles/c64g1l5389kvo",
-      "score": 140,
-      "comments": 27,
-      "author": "Betelbuddy"
+      "title": "Show HN: Use your OpenAI subscription to create audiobooks",
+      "url": "https://pdftomp3.com/connect-ai/",
+      "score": 21,
+      "comments": 16,
+      "author": "janpmz"
     },
     {
       "rank": 3,
-      "title": "Type-safe HTML templating in Zig",
-      "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
-      "score": 138,
-      "comments": 60,
-      "author": "lukaslalinsky"
+      "title": "Hittite royal archive found in Turkey",
+      "url": "https://www.thehistoryblog.com/archives/77107",
+      "score": 82,
+      "comments": 7,
+      "author": "benbreen"
     },
     {
       "rank": 4,
-      "title": "Fingerprints are the new cookies",
-      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
-      "score": 426,
-      "comments": 219,
-      "author": "royfish"
+      "title": "The baffling intelligence of a single cell (2024)",
+      "url": "https://jsomers.net/e-coli-chemotaxis/",
+      "score": 311,
+      "comments": 83,
+      "author": "jsomers"
     },
     {
       "rank": 5,
-      "title": "Secret of Orange Cats Revealed After 60-Year Search",
-      "url": "https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search",
-      "score": 20,
-      "comments": 0,
-      "author": "bookofjoe"
+      "title": "GLM-Legal",
+      "url": "https://z.ai/blog/glm-legal",
+      "score": 581,
+      "comments": 330,
+      "author": "ilreb"
     },
     {
       "rank": 6,
-      "title": "Total Annihilation, rebuilt for modern computers",
-      "url": "https://nanolathe.gg",
-      "score": 546,
-      "comments": 207,
-      "author": "jttnr"
+      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "score": 237,
+      "comments": 116,
+      "author": "hurricanepootis"
     },
     {
       "rank": 7,
-      "title": "Show HN: PS2 games statically recompiled to WebAssembly",
-      "url": "https://github.com/snuri00/ps2-web-recomp",
-      "score": 52,
-      "comments": 17,
-      "author": "deadxwarrior"
+      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+      "score": 727,
+      "comments": 847,
+      "author": "Zeekaas"
     },
     {
       "rank": 8,
-      "title": "Calculus with Julia",
-      "url": "https://jverzani.github.io/CalculusWithJuliaNotes.jl/",
-      "score": 148,
-      "comments": 15,
-      "author": "subset"
+      "title": "A Modern Web App in C",
+      "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+      "score": 592,
+      "comments": 246,
+      "author": "prophittcorey"
     },
     {
       "rank": 9,
-      "title": "Running the unmodified Linux amdgpu driver on an iPad",
-      "url": "https://github.com/Geramy/LemonSeed-Studio",
-      "score": 36,
-      "comments": 13,
-      "author": "joshcsimmons"
+      "title": "Document Review with Unsiloed and TypeSafe Jev",
+      "url": "https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev",
+      "score": 15,
+      "comments": 2,
+      "author": "ritzaco"
     },
     {
       "rank": 10,
-      "title": "Ledger confirms hidden chip in crypto wallet amid $92M theft claims",
-      "url": "https://crypto.news/ledger-confirms-hidden-chip-in-crypto-wallet-amid-92m/",
-      "score": 34,
-      "comments": 29,
-      "author": "thm"
+      "title": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
+      "url": "https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran",
+      "score": 43,
+      "comments": 6,
+      "author": "helsinkiandrew"
     },
     {
       "rank": 11,
-      "title": "Postgres isn't slow, your storage is",
-      "url": "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is",
-      "score": 118,
-      "comments": 98,
-      "author": "saisrirampur"
+      "title": "Who is vfmaddrnd231pd?",
+      "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
+      "score": 219,
+      "comments": 21,
+      "author": "pngmangi"
     },
     {
       "rank": 12,
-      "title": "Cartographers of North Korea (2019)",
-      "url": "https://cartographers-nk.wonyoung.so/",
-      "score": 271,
-      "comments": 51,
-      "author": "edent"
+      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+      "url": "https://github.com/prabanta-dev/janas",
+      "score": 160,
+      "comments": 52,
+      "author": "khalidkhair"
     },
     {
       "rank": 13,
-      "title": "Whatever became of holography? (2011)",
-      "url": "https://www.americanscientist.org/article/whatever-became-of-holography",
-      "score": 140,
-      "comments": 68,
-      "author": "cainxinth"
+      "title": "Making big downloads resumable in Firefox",
+      "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
+      "score": 221,
+      "comments": 104,
+      "author": "speckx"
     },
     {
       "rank": 14,
-      "title": "Terence Tao: Math 2.0 [pdf]",
-      "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
-      "score": 421,
-      "comments": 440,
-      "author": "Anon84"
+      "title": "Crypto thieves sell hardware wallets with secret eSIM",
+      "url": "https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html",
+      "score": 40,
+      "comments": 22,
+      "author": "qwertox"
     },
     {
       "rank": 15,
-      "title": "Doory – Open-Source Canva",
-      "url": "https://github.com/shaongitbd/doory",
-      "score": 132,
-      "comments": 46,
-      "author": "acley"
+      "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+      "url": "https://github.com/h0m3us3r/w1700k-sdr",
+      "score": 356,
+      "comments": 97,
+      "author": "djfergus"
     },
     {
       "rank": 16,
-      "title": "The gap in shared understanding of LLM capability is widening",
-      "url": "https://twitter.com/karpathy/status/2109361546505966046",
-      "score": 492,
-      "comments": 726,
-      "author": "albertzeyer"
+      "title": "AWS Lambda Web Functions",
+      "url": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/",
+      "score": 24,
+      "comments": 5,
+      "author": "HatchedLake721"
     },
     {
       "rank": 17,
-      "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
-      "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
-      "score": 101,
-      "comments": 77,
-      "author": "m463"
+      "title": "Citroen revives the 2CV for an electric age",
+      "url": "https://www.bbc.com/news/articles/c620r33plgppo",
+      "score": 352,
+      "comments": 395,
+      "author": "scrlk"
     },
     {
       "rank": 18,
-      "title": "Bag of Decisions Reranker",
-      "url": "https://softwaredoug.com/blog/2026/10/08/bag-of-decisions.html",
-      "score": 7,
-      "comments": 0,
-      "author": "zdw"
+      "title": "AI is a tool and using it well takes skill",
+      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+      "score": 437,
+      "comments": 350,
+      "author": "layer8"
     },
     {
       "rank": 19,
-      "title": "Local Indexing to reduce tool calling and token usage",
-      "url": "https://tedhaley.ca/pensieve/",
-      "score": 84,
-      "comments": 26,
-      "author": "TedHaley"
+      "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+      "url": "https://news.ycombinator.com/item?id=50059096",
+      "score": 135,
+      "comments": 98,
+      "author": "vishnukool"
     },
     {
       "rank": 20,
-      "title": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
-      "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/",
-      "score": 170,
-      "comments": 190,
-      "author": "amosbatto"
+      "title": "A look at the math that OpenAI claims computes faster Fourier transforms",
+      "url": "https://www.argmin.net/p/faster-fourier-transforms",
+      "score": 156,
+      "comments": 105,
+      "author": "mochomocha"
     },
     {
       "rank": 21,
-      "title": "Illustration Beyond Proof",
-      "url": "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/",
-      "score": 72,
-      "comments": 10,
-      "author": "smilelamp"
+      "title": "Auto Research: Integer multiplication below n log n",
+      "url": "https://app.getsupers.com/auto-research",
+      "score": 65,
+      "comments": 29,
+      "author": "swesnow"
     },
     {
       "rank": 22,
-      "title": "Passkeys are a trap",
-      "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
-      "score": 682,
-      "comments": 393,
-      "author": "laurex"
+      "title": "Writing a Demoscene Intro for the ZX Spectrum",
+      "url": "https://www.markround.com/blog/2026/zx-spectrum-intro",
+      "score": 138,
+      "comments": 26,
+      "author": "zdw"
     },
     {
       "rank": 23,
-      "title": "Zod 4.6.6 compromised by malware?",
-      "url": "https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467",
-      "score": 136,
-      "comments": 34,
-      "author": "luggage_bazooka"
+      "title": "Solar panels that plug into your wall",
+      "url": "https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy",
+      "score": 197,
+      "comments": 208,
+      "author": "speckx"
     },
     {
       "rank": 24,
-      "title": "Chapter 1 of \"Ways of Seeing\" by John Berger (1972)",
-      "url": "https://www.ways-of-seeing.com/ch1",
-      "score": 114,
-      "comments": 22,
-      "author": "rafael859"
+      "title": "AI models can provably hide arbitrary capabilities",
+      "url": "https://arxiv.org/abs/2610.13928",
+      "score": 218,
+      "comments": 112,
+      "author": "sbulaev"
     },
     {
       "rank": 25,
-      "title": "Ask HN: Do you want a router that has DD-WRT pre-installed?",
-      "url": "https://news.ycombinator.com/item?id=50039291",
-      "score": 63,
-      "comments": 64,
-      "author": "Ixander"
+      "title": "AI models may soon self-replicate without access to data centers",
+      "url": "https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/",
+      "score": 12,
+      "comments": 15,
+      "author": "samizdis"
     },
     {
       "rank": 26,
-      "title": "Programmable pigments: Photochromic nanoparticle inks for rewritable tattoos",
-      "url": "https://www.cell.com/matter-light/fulltext/S3117-5848(26)00119-5",
-      "score": 58,
-      "comments": 38,
-      "author": "Bluestein"
+      "title": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)",
+      "url": "https://github.com/bherbruck/solidcraft",
+      "score": 70,
+      "comments": 14,
+      "author": "bherbruck"
     },
     {
       "rank": 27,
-      "title": "NYC's \"Click to Cancel\" rule is now in effect",
-      "url": "https://www.nyc.gov/main/click-to-cancel",
-      "score": 491,
-      "comments": 245,
-      "author": "gregsadetsky"
+      "title": "Show HN: An experimental pattern-first DAW that supports MCP",
+      "url": "https://github.com/andrewfader/blokkily",
+      "score": 63,
+      "comments": 28,
+      "author": "androsynth89"
     },
     {
       "rank": 28,
-      "title": "So, you’d like to sell your print issues of The Onion?",
-      "url": "https://theonion.com/archivehunt/",
-      "score": 333,
-      "comments": 50,
-      "author": "mooreds"
+      "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+      "url": "https://taylor.town/kk-ai-2026",
+      "score": 192,
+      "comments": 73,
+      "author": "surprisetalk"
     },
     {
       "rank": 29,
-      "title": "Google Data Centers around the world",
-      "url": "https://datacenters.google/locations/",
-      "score": 63,
-      "comments": 59,
-      "author": "andsoitis"
+      "title": "The Making Of Super Mario 64 – full Giles Goddard interview (2001)",
+      "url": "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/",
+      "score": 254,
+      "comments": 99,
+      "author": "gregsadetsky"
     },
     {
       "rank": 30,
-      "title": "I guess I'm using WebP now?",
-      "url": "https://anderegg.ca/2026/10/08/i-guess-im-using-webp-now",
-      "score": 115,
-      "comments": 129,
-      "author": "Brajeshwar"
+      "title": "Phreak.ing – Internet Phone Switch",
+      "url": "https://phreak.ing/",
+      "score": 133,
+      "comments": 34,
+      "author": "rickcarlino"
     }
   ]
 }

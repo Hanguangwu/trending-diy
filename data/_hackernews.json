@@ -1,245 +1,237 @@
 {
-  "updatedAt": "2026-10-13T11:20:50.513Z",
+  "updatedAt": "2026-10-14T09:13:04.017Z",
   "stories": [
     {
       "rank": 1,
-      "title": "11 year old unsoundness bugs found in Rust borrow checker",
-      "url": "https://github.com/rust-lang/rust/issues/164250",
-      "score": 82,
-      "comments": 20,
-      "author": "formerly_proven"
+      "title": "Gemini 4 Argon",
+      "url": "https://deepmind.google/models/gemini/",
+      "score": 1279,
+      "comments": 895,
+      "author": "737max"
     },
     {
       "rank": 2,
-      "title": "Show HN: Use your OpenAI subscription to create audiobooks",
-      "url": "https://pdftomp3.com/connect-ai/",
-      "score": 21,
-      "comments": 16,
-      "author": "janpmz"
+      "title": "Sound – Bartosz Ciechanowski (2022)",
+      "url": "https://ciechanow.ski/sound/",
+      "score": 111,
+      "comments": 18,
+      "author": "dverlaeckt80"
     },
     {
       "rank": 3,
-      "title": "Hittite royal archive found in Turkey",
-      "url": "https://www.thehistoryblog.com/archives/77107",
-      "score": 82,
-      "comments": 7,
-      "author": "benbreen"
+      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+      "score": 673,
+      "comments": 437,
+      "author": "thm"
     },
     {
       "rank": 4,
-      "title": "The baffling intelligence of a single cell (2024)",
-      "url": "https://jsomers.net/e-coli-chemotaxis/",
-      "score": 311,
-      "comments": 83,
-      "author": "jsomers"
+      "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+      "url": "https://github.com/android/ndk/issues/2260",
+      "score": 229,
+      "comments": 106,
+      "author": "tharen"
     },
     {
       "rank": 5,
-      "title": "GLM-Legal",
-      "url": "https://z.ai/blog/glm-legal",
-      "score": 581,
-      "comments": 330,
-      "author": "ilreb"
+      "title": "Grace Hopper Celebration Cancelled",
+      "url": "https://anitab.org/press-release",
+      "score": 186,
+      "comments": 90,
+      "author": "mooreds"
     },
     {
       "rank": 6,
-      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-      "score": 237,
-      "comments": 116,
-      "author": "hurricanepootis"
+      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "url": "https://guitoro.com/",
+      "score": 425,
+      "comments": 108,
+      "author": "talccc"
     },
     {
       "rank": 7,
-      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
-      "score": 727,
-      "comments": 847,
-      "author": "Zeekaas"
+      "title": "Redesigning source control at Anthropic",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "score": 759,
+      "comments": 756,
+      "author": "Philpax"
     },
     {
       "rank": 8,
-      "title": "A Modern Web App in C",
-      "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
-      "score": 592,
-      "comments": 246,
-      "author": "prophittcorey"
+      "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
+      "url": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
+      "score": 159,
+      "comments": 20,
+      "author": "mdp2021"
     },
     {
       "rank": 9,
-      "title": "Document Review with Unsiloed and TypeSafe Jev",
-      "url": "https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev",
-      "score": 15,
-      "comments": 2,
-      "author": "ritzaco"
+      "title": "Felix Rieseberg Homepage",
+      "url": "https://felixrieseberg.com/",
+      "score": 184,
+      "comments": 71,
+      "author": "rglover"
     },
     {
       "rank": 10,
-      "title": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
-      "url": "https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran",
-      "score": 43,
-      "comments": 6,
-      "author": "helsinkiandrew"
+      "title": "The United Kingdom generates less electricity per person than in the 1970s",
+      "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
+      "score": 302,
+      "comments": 452,
+      "author": "karakoram"
     },
     {
       "rank": 11,
-      "title": "Who is vfmaddrnd231pd?",
-      "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
-      "score": 219,
-      "comments": 21,
-      "author": "pngmangi"
+      "title": "Kcgi – minimal CGI and FastCGI library for C/C++",
+      "url": "https://kristaps.bsd.lv/kcgi/",
+      "score": 24,
+      "comments": 10,
+      "author": "Bluestein"
     },
     {
       "rank": 12,
-      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
-      "url": "https://github.com/prabanta-dev/janas",
-      "score": 160,
-      "comments": 52,
-      "author": "khalidkhair"
+      "title": "Arena Allocators in C",
+      "url": "https://eliasebner.com/blog/guides/arena-allocators-in-c/",
+      "score": 39,
+      "comments": 11,
+      "author": "dimonomid"
     },
     {
       "rank": 13,
-      "title": "Making big downloads resumable in Firefox",
-      "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
-      "score": 221,
-      "comments": 104,
-      "author": "speckx"
+      "title": "Recreational Programming",
+      "url": "https://www.cphiri.dev/presentations/recreational-programming",
+      "score": 175,
+      "comments": 76,
+      "author": "jslakro"
     },
     {
       "rank": 14,
-      "title": "Crypto thieves sell hardware wallets with secret eSIM",
-      "url": "https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html",
-      "score": 40,
-      "comments": 22,
-      "author": "qwertox"
+      "title": "Show HN: How random are you?",
+      "url": "https://lab.specr.net/rigged-draw/",
+      "score": 142,
+      "comments": 72,
+      "author": "vunderba"
     },
     {
       "rank": 15,
-      "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
-      "url": "https://github.com/h0m3us3r/w1700k-sdr",
-      "score": 356,
-      "comments": 97,
-      "author": "djfergus"
-    },
-    {
-      "rank": 16,
-      "title": "AWS Lambda Web Functions",
-      "url": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/",
-      "score": 24,
-      "comments": 5,
-      "author": "HatchedLake721"
-    },
-    {
-      "rank": 17,
-      "title": "Citroen revives the 2CV for an electric age",
-      "url": "https://www.bbc.com/news/articles/c620r33plgppo",
-      "score": 352,
-      "comments": 395,
-      "author": "scrlk"
-    },
-    {
-      "rank": 18,
-      "title": "AI is a tool and using it well takes skill",
-      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-      "score": 437,
-      "comments": 350,
-      "author": "layer8"
-    },
-    {
-      "rank": 19,
-      "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
-      "url": "https://news.ycombinator.com/item?id=50059096",
-      "score": 135,
-      "comments": 98,
-      "author": "vishnukool"
-    },
-    {
-      "rank": 20,
-      "title": "A look at the math that OpenAI claims computes faster Fourier transforms",
-      "url": "https://www.argmin.net/p/faster-fourier-transforms",
-      "score": 156,
-      "comments": 105,
-      "author": "mochomocha"
-    },
-    {
-      "rank": 21,
-      "title": "Auto Research: Integer multiplication below n log n",
-      "url": "https://app.getsupers.com/auto-research",
-      "score": 65,
-      "comments": 29,
-      "author": "swesnow"
-    },
-    {
-      "rank": 22,
-      "title": "Writing a Demoscene Intro for the ZX Spectrum",
-      "url": "https://www.markround.com/blog/2026/zx-spectrum-intro",
-      "score": 138,
-      "comments": 26,
+      "title": "MIT class project turns into an FDA-cleared treatment for tremors",
+      "url": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
+      "score": 208,
+      "comments": 41,
       "author": "zdw"
     },
     {
+      "rank": 16,
+      "title": "Same Job, Two Engines: InnoDB and Iceberg Internals",
+      "url": "https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/",
+      "score": 4,
+      "comments": 0,
+      "author": "marcbpaul"
+    },
+    {
+      "rank": 17,
+      "title": "Do Frameworks Matter Anymore?",
+      "url": "https://brookslybrand.com/posts/do-frameworks-matter-anymore/",
+      "score": 50,
+      "comments": 39,
+      "author": "fagnerbrack"
+    },
+    {
+      "rank": 18,
+      "title": "Maybe a better way to track the release history of a Git repo",
+      "url": "https://blog.plover.com/prog/git/history-proposal.html",
+      "score": 39,
+      "comments": 7,
+      "author": "evakhoury"
+    },
+    {
+      "rank": 19,
+      "title": "AlphaNIST",
+      "url": "https://alpha-nist.github.io/",
+      "score": 72,
+      "comments": 23,
+      "author": "jasonjmcghee"
+    },
+    {
+      "rank": 20,
+      "title": "OpenAI engineer arrested in bugging of executive conference room",
+      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+      "score": 569,
+      "comments": 471,
+      "author": "forthwall"
+    },
+    {
+      "rank": 21,
+      "title": "Apple HomeView",
+      "url": "https://www.apple.com/apple-homeview/",
+      "score": 724,
+      "comments": 850,
+      "author": "etothet"
+    },
+    {
+      "rank": 22,
+      "title": "AI is a tool and using it well takes skill",
+      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+      "score": 676,
+      "comments": 538,
+      "author": "layer8"
+    },
+    {
       "rank": 23,
-      "title": "Solar panels that plug into your wall",
-      "url": "https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy",
-      "score": 197,
-      "comments": 208,
-      "author": "speckx"
+      "title": "Show HN: XY Music Notation",
+      "url": "https://music.xy.dev/",
+      "score": 69,
+      "comments": 57,
+      "author": "jmole"
     },
     {
       "rank": 24,
-      "title": "AI models can provably hide arbitrary capabilities",
-      "url": "https://arxiv.org/abs/2610.13928",
-      "score": 218,
-      "comments": 112,
-      "author": "sbulaev"
-    },
-    {
-      "rank": 25,
-      "title": "AI models may soon self-replicate without access to data centers",
-      "url": "https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/",
-      "score": 12,
-      "comments": 15,
-      "author": "samizdis"
+      "title": "11 year old unsoundness bugs found in Rust borrow checker",
+      "url": "https://github.com/rust-lang/rust/issues/164250",
+      "score": 720,
+      "comments": 402,
+      "author": "formerly_proven"
     },
     {
       "rank": 26,
-      "title": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)",
-      "url": "https://github.com/bherbruck/solidcraft",
-      "score": 70,
-      "comments": 14,
-      "author": "bherbruck"
+      "title": "Thunderbird for iOS",
+      "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
+      "score": 437,
+      "comments": 185,
+      "author": "mjorgers"
     },
     {
       "rank": 27,
-      "title": "Show HN: An experimental pattern-first DAW that supports MCP",
-      "url": "https://github.com/andrewfader/blokkily",
-      "score": 63,
-      "comments": 28,
-      "author": "androsynth89"
+      "title": "Hiking the world in search of rare cheeses",
+      "url": "https://www.bbc.com/travel/article/20261007-the-man-hiking-the-world-in-search-of-rare-cheeses",
+      "score": 95,
+      "comments": 27,
+      "author": "tosh"
     },
     {
       "rank": 28,
-      "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-      "url": "https://taylor.town/kk-ai-2026",
-      "score": 192,
-      "comments": 73,
-      "author": "surprisetalk"
+      "title": "Strafe: A new open-source, E2E Encrypted, and federated alternative to Discord",
+      "url": "https://strafe.chat/",
+      "score": 13,
+      "comments": 4,
+      "author": "brydencalaway"
     },
     {
       "rank": 29,
-      "title": "The Making Of Super Mario 64 – full Giles Goddard interview (2001)",
-      "url": "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/",
-      "score": 254,
-      "comments": 99,
-      "author": "gregsadetsky"
+      "title": "How to engineer an AI harness for game development",
+      "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
+      "score": 148,
+      "comments": 73,
+      "author": "kkukshtel"
     },
     {
       "rank": 30,
-      "title": "Phreak.ing – Internet Phone Switch",
-      "url": "https://phreak.ing/",
-      "score": 133,
-      "comments": 34,
-      "author": "rickcarlino"
+      "title": "Firefox Enterprise",
+      "url": "https://www.firefox.com/en-US/enterprise/",
+      "score": 708,
+      "comments": 301,
+      "author": "recvonline"
     }
   ]
 }

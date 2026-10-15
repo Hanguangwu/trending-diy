@@ -1,237 +1,245 @@
 {
-  "updatedAt": "2026-10-14T09:13:04.017Z",
+  "updatedAt": "2026-10-15T08:45:41.847Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Gemini 4 Argon",
-      "url": "https://deepmind.google/models/gemini/",
-      "score": 1279,
-      "comments": 895,
-      "author": "737max"
+      "title": "Things to know when you get cancer",
+      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "score": 1296,
+      "comments": 321,
+      "author": "jjmaxwell4"
     },
     {
       "rank": 2,
-      "title": "Sound – Bartosz Ciechanowski (2022)",
-      "url": "https://ciechanow.ski/sound/",
-      "score": 111,
-      "comments": 18,
-      "author": "dverlaeckt80"
+      "title": "Wanted to download an ISO, ended up writing a kernel exploit",
+      "url": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
+      "score": 44,
+      "comments": 17,
+      "author": "0xdeafbeef"
     },
     {
       "rank": 3,
-      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-      "score": 673,
-      "comments": 437,
-      "author": "thm"
+      "title": "Creating a Garmin \"MCP\"",
+      "url": "https://jackantico.io/garmin-mcp",
+      "score": 21,
+      "comments": 17,
+      "author": "ricotico060"
     },
     {
       "rank": 4,
-      "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
-      "url": "https://github.com/android/ndk/issues/2260",
-      "score": 229,
-      "comments": 106,
-      "author": "tharen"
+      "title": "OpenCode 2.0",
+      "url": "https://anoma.ly/notes/opencode-2-0/",
+      "score": 583,
+      "comments": 225,
+      "author": "gmays"
     },
     {
       "rank": 5,
-      "title": "Grace Hopper Celebration Cancelled",
-      "url": "https://anitab.org/press-release",
-      "score": 186,
-      "comments": 90,
-      "author": "mooreds"
+      "title": "Tiny Little Office",
+      "url": "https://tinylittleoffice.com/",
+      "score": 398,
+      "comments": 59,
+      "author": "donohoe"
     },
     {
       "rank": 6,
-      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-      "url": "https://guitoro.com/",
-      "score": 425,
-      "comments": 108,
-      "author": "talccc"
+      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "score": 200,
+      "comments": 44,
+      "author": "gmays"
     },
     {
       "rank": 7,
-      "title": "Redesigning source control at Anthropic",
-      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-      "score": 759,
-      "comments": 756,
-      "author": "Philpax"
+      "title": "Do dentists know what they're doing?",
+      "url": "https://mapwriting.substack.com/p/dentists",
+      "score": 668,
+      "comments": 480,
+      "author": "doitLP"
     },
     {
       "rank": 8,
-      "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
-      "url": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
-      "score": 159,
-      "comments": 20,
-      "author": "mdp2021"
+      "title": "Show HN: Indigene – Native plants for where you stand",
+      "url": "https://indigene.app/",
+      "score": 13,
+      "comments": 1,
+      "author": "olivierlacan"
     },
     {
       "rank": 9,
-      "title": "Felix Rieseberg Homepage",
-      "url": "https://felixrieseberg.com/",
-      "score": 184,
-      "comments": 71,
-      "author": "rglover"
+      "title": "Catch a Bird – I made it for my own sanity",
+      "url": "https://catchabird.com",
+      "score": 148,
+      "comments": 33,
+      "author": "eduardsik"
     },
     {
       "rank": 10,
-      "title": "The United Kingdom generates less electricity per person than in the 1970s",
-      "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
-      "score": 302,
-      "comments": 452,
-      "author": "karakoram"
+      "title": "Americans' social activity has steeply declined in the past 30 years",
+      "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
+      "score": 382,
+      "comments": 358,
+      "author": "hubraumhugo"
     },
     {
       "rank": 11,
-      "title": "Kcgi – minimal CGI and FastCGI library for C/C++",
-      "url": "https://kristaps.bsd.lv/kcgi/",
-      "score": 24,
-      "comments": 10,
-      "author": "Bluestein"
+      "title": "Donaldson Futuro House in Idyllwild, California, USA",
+      "url": "https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa/",
+      "score": 43,
+      "comments": 14,
+      "author": "rmason"
     },
     {
       "rank": 12,
-      "title": "Arena Allocators in C",
-      "url": "https://eliasebner.com/blog/guides/arena-allocators-in-c/",
-      "score": 39,
-      "comments": 11,
-      "author": "dimonomid"
+      "title": "It took me nine years to hack my Xbox 360",
+      "url": "https://kennedn.com/blog/posts/glitching/",
+      "score": 77,
+      "comments": 18,
+      "author": "kennedn"
     },
     {
       "rank": 13,
-      "title": "Recreational Programming",
-      "url": "https://www.cphiri.dev/presentations/recreational-programming",
-      "score": 175,
-      "comments": 76,
-      "author": "jslakro"
+      "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+      "url": "https://github.com/awslabs/aidlc-workflows",
+      "score": 4,
+      "comments": 0,
+      "author": "pramodbiligiri"
     },
     {
       "rank": 14,
-      "title": "Show HN: How random are you?",
-      "url": "https://lab.specr.net/rigged-draw/",
-      "score": 142,
-      "comments": 72,
-      "author": "vunderba"
+      "title": "The Toftwood Male Voice Choir: A Mystery Pressed in Vinyl",
+      "url": "https://ei3lh.eu/2026/10/11/the-toftwood-male-voice-choir-a-mystery-pressed-in-vinyl/",
+      "score": 33,
+      "comments": 1,
+      "author": "austinallegro"
     },
     {
       "rank": 15,
-      "title": "MIT class project turns into an FDA-cleared treatment for tremors",
-      "url": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
-      "score": 208,
-      "comments": 41,
-      "author": "zdw"
+      "title": "Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction",
+      "url": "https://phys.org/news/2026-08-sticky-alpine-darwin-year-carnivorous.html",
+      "score": 20,
+      "comments": 6,
+      "author": "maxall4"
     },
     {
       "rank": 16,
-      "title": "Same Job, Two Engines: InnoDB and Iceberg Internals",
-      "url": "https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/",
-      "score": 4,
-      "comments": 0,
-      "author": "marcbpaul"
+      "title": "The Double Headed Stack Allocator",
+      "url": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
+      "score": 61,
+      "comments": 14,
+      "author": "g0xA52A2A"
     },
     {
       "rank": 17,
-      "title": "Do Frameworks Matter Anymore?",
-      "url": "https://brookslybrand.com/posts/do-frameworks-matter-anymore/",
-      "score": 50,
-      "comments": 39,
-      "author": "fagnerbrack"
+      "title": "Better HTTP/1 connection reuse in Go 1.27",
+      "url": "https://go.dev/blog/http-connection-reuse",
+      "score": 249,
+      "comments": 36,
+      "author": "allddd"
     },
     {
       "rank": 18,
-      "title": "Maybe a better way to track the release history of a Git repo",
-      "url": "https://blog.plover.com/prog/git/history-proposal.html",
-      "score": 39,
-      "comments": 7,
-      "author": "evakhoury"
+      "title": "Your C is not standard C",
+      "url": "https://sebsite.pw/w/20261012-notstdc.html",
+      "score": 82,
+      "comments": 46,
+      "author": "dverlaeckt80"
     },
     {
       "rank": 19,
-      "title": "AlphaNIST",
-      "url": "https://alpha-nist.github.io/",
-      "score": 72,
-      "comments": 23,
-      "author": "jasonjmcghee"
+      "title": "Show HN: Ito – Build Terminal UIs in Lua",
+      "url": "https://uji.sh/ito/",
+      "score": 15,
+      "comments": 4,
+      "author": "cat-whisperer"
     },
     {
       "rank": 20,
-      "title": "OpenAI engineer arrested in bugging of executive conference room",
-      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-      "score": 569,
-      "comments": 471,
-      "author": "forthwall"
+      "title": "David Rudnick on \"borderline impossible\" process of designing Arsenal typeface",
+      "url": "https://www.itsnicethat.com/features/david-rudnick-johnnie-campbell-arsenal-rocastle-typeface-graphic-design-spotlight-121026",
+      "score": 20,
+      "comments": 5,
+      "author": "droidjj"
     },
     {
       "rank": 21,
-      "title": "Apple HomeView",
-      "url": "https://www.apple.com/apple-homeview/",
-      "score": 724,
-      "comments": 850,
-      "author": "etothet"
+      "title": "Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing",
+      "url": "https://github.com/andunieee/flipflop",
+      "score": 30,
+      "comments": 10,
+      "author": "andunie"
     },
     {
       "rank": 22,
-      "title": "AI is a tool and using it well takes skill",
-      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-      "score": 676,
-      "comments": 538,
-      "author": "layer8"
+      "title": "Why is every rationalist blog post way too long?",
+      "url": "https://alexwennerberg.com/blog/2026-10-13-long.html",
+      "score": 342,
+      "comments": 284,
+      "author": "epestr"
     },
     {
       "rank": 23,
-      "title": "Show HN: XY Music Notation",
-      "url": "https://music.xy.dev/",
-      "score": 69,
-      "comments": 57,
-      "author": "jmole"
+      "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
+      "url": "https://typesafe.ai/blog/jev-1-14",
+      "score": 280,
+      "comments": 90,
+      "author": "emschwartz"
     },
     {
       "rank": 24,
-      "title": "11 year old unsoundness bugs found in Rust borrow checker",
-      "url": "https://github.com/rust-lang/rust/issues/164250",
-      "score": 720,
-      "comments": 402,
-      "author": "formerly_proven"
+      "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+      "url": "https://petal.live/",
+      "score": 162,
+      "comments": 38,
+      "author": "thedracle"
+    },
+    {
+      "rank": 25,
+      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "score": 890,
+      "comments": 522,
+      "author": "latexr"
     },
     {
       "rank": 26,
-      "title": "Thunderbird for iOS",
-      "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
-      "score": 437,
-      "comments": 185,
-      "author": "mjorgers"
+      "title": "Ask HN: CAD for wood working with LLM support?",
+      "url": "https://news.ycombinator.com/item?id=50067325",
+      "score": 71,
+      "comments": 62,
+      "author": "reacharavindh"
     },
     {
       "rank": 27,
-      "title": "Hiking the world in search of rare cheeses",
-      "url": "https://www.bbc.com/travel/article/20261007-the-man-hiking-the-world-in-search-of-rare-cheeses",
-      "score": 95,
-      "comments": 27,
-      "author": "tosh"
+      "title": "How Amazon pushes up prices all across the Internet",
+      "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+      "score": 819,
+      "comments": 636,
+      "author": "sighborg"
     },
     {
       "rank": 28,
-      "title": "Strafe: A new open-source, E2E Encrypted, and federated alternative to Discord",
-      "url": "https://strafe.chat/",
-      "score": 13,
-      "comments": 4,
-      "author": "brydencalaway"
+      "title": "Fancy Curl Sites",
+      "url": "https://nytpu.com/gemlog/2026-03-18",
+      "score": 126,
+      "comments": 24,
+      "author": "adunk"
     },
     {
       "rank": 29,
-      "title": "How to engineer an AI harness for game development",
-      "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
-      "score": 148,
-      "comments": 73,
-      "author": "kkukshtel"
+      "title": "Phloem: Git history grown like a slime mold",
+      "url": "https://phloem.stemdeck.app/",
+      "score": 113,
+      "comments": 22,
+      "author": "thclpr"
     },
     {
       "rank": 30,
-      "title": "Firefox Enterprise",
-      "url": "https://www.firefox.com/en-US/enterprise/",
-      "score": 708,
-      "comments": 301,
-      "author": "recvonline"
+      "title": "Submarine cable resilience",
+      "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
+      "score": 154,
+      "comments": 59,
+      "author": "speckx"
     }
   ]
 }

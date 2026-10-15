@@ -1,0 +1,419 @@
+{
+  "date": "2026-10-15",
+  "updatedAt": "2026-10-15T08:45:41.854Z",
+  "github": {
+    "updatedAt": "2026-10-15T08:45:40.271Z",
+    "repos": [
+      {
+        "rank": 1,
+        "author": "morluto",
+        "name": "rea",
+        "fullName": "morluto/rea",
+        "url": "https://github.com/morluto/rea",
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 254127,
+        "forks": 63843,
+        "builtBy": [
+          {
+            "username": "morluto",
+            "avatar": "https://avatars.githubusercontent.com/u/76467478?s=40&40&v=4"
+          },
+          {
+            "username": "N0zoM1z0",
+            "avatar": "https://avatars.githubusercontent.com/u/161784452?s=40&40&v=4"
+          },
+          {
+            "username": "kaoru0822-kitauji",
+            "avatar": "https://avatars.githubusercontent.com/u/208281322?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "rudycelekli",
+            "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "author": "debpalash",
+        "name": "VoiceStudio",
+        "fullName": "debpalash/VoiceStudio",
+        "url": "https://github.com/debpalash/VoiceStudio",
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 67483,
+        "forks": 7400,
+        "builtBy": [
+          {
+            "username": "debpalash",
+            "avatar": "https://avatars.githubusercontent.com/u/4178343?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "velixio",
+            "avatar": "https://avatars.githubusercontent.com/u/270455167?s=40&40&v=4"
+          },
+          {
+            "username": "kevin9327",
+            "avatar": "https://avatars.githubusercontent.com/u/5299031?s=40&40&v=4"
+          },
+          {
+            "username": "jaketame",
+            "avatar": "https://avatars.githubusercontent.com/u/1787973?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "author": "mksglu",
+        "name": "context-mode",
+        "fullName": "mksglu/context-mode",
+        "url": "https://github.com/mksglu/context-mode",
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 29466,
+        "forks": 2061,
+        "builtBy": [
+          {
+            "username": "mksglu",
+            "avatar": "https://avatars.githubusercontent.com/u/6067714?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "ipedro",
+            "avatar": "https://avatars.githubusercontent.com/u/380338?s=40&40&v=4"
+          },
+          {
+            "username": "ousamabenyounes",
+            "avatar": "https://avatars.githubusercontent.com/u/2910651?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "author": "nvm-sh",
+        "name": "nvm",
+        "fullName": "nvm-sh/nvm",
+        "url": "https://github.com/nvm-sh/nvm",
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+        "language": "Shell",
+        "languageColor": "#89e051",
+        "starsToday": 0,
+        "totalStars": 95522,
+        "forks": 10528,
+        "builtBy": [
+          {
+            "username": "ljharb",
+            "avatar": "https://avatars.githubusercontent.com/u/45469?s=40&40&v=4"
+          },
+          {
+            "username": "PeterDaveHello",
+            "avatar": "https://avatars.githubusercontent.com/u/3691490?s=40&40&v=4"
+          },
+          {
+            "username": "creationix",
+            "avatar": "https://avatars.githubusercontent.com/u/89353?s=40&40&v=4"
+          },
+          {
+            "username": "koenpunt",
+            "avatar": "https://avatars.githubusercontent.com/u/351038?s=40&40&v=4"
+          },
+          {
+            "username": "lukechilds",
+            "avatar": "https://avatars.githubusercontent.com/u/2123375?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "author": "K-Dense-AI",
+        "name": "scientific-agent-skills",
+        "fullName": "K-Dense-AI/scientific-agent-skills",
+        "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+        "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 49781,
+        "forks": 4444,
+        "builtBy": [
+          {
+            "username": "timothykassis",
+            "avatar": "https://avatars.githubusercontent.com/u/9168908?s=40&40&v=4"
+          },
+          {
+            "username": "cursoragent",
+            "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&40&v=4"
+          },
+          {
+            "username": "borealBytes",
+            "avatar": "https://avatars.githubusercontent.com/u/206480607?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "author": "HKUDS",
+        "name": "CLI-Anything",
+        "fullName": "HKUDS/CLI-Anything",
+        "url": "https://github.com/HKUDS/CLI-Anything",
+        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 52818,
+        "forks": 4791,
+        "builtBy": [
+          {
+            "username": "yuh-yang",
+            "avatar": "https://avatars.githubusercontent.com/u/43330997?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "AiMiDi",
+            "avatar": "https://avatars.githubusercontent.com/u/76622021?s=40&40&v=4"
+          },
+          {
+            "username": "omerarslan0",
+            "avatar": "https://avatars.githubusercontent.com/u/76780961?s=40&40&v=4"
+          },
+          {
+            "username": "hito0512",
+            "avatar": "https://avatars.githubusercontent.com/u/26110883?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "author": "ifixai-ai",
+        "name": "iFixAi",
+        "fullName": "ifixai-ai/iFixAi",
+        "url": "https://github.com/ifixai-ai/iFixAi",
+        "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 27962,
+        "forks": 1523,
+        "builtBy": [
+          {
+            "username": "rudycelekli",
+            "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&40&v=4"
+          },
+          {
+            "username": "n-papaioannou",
+            "avatar": "https://avatars.githubusercontent.com/u/258243974?s=40&40&v=4"
+          },
+          {
+            "username": "stefyi-4355",
+            "avatar": "https://avatars.githubusercontent.com/u/260612219?s=40&40&v=4"
+          },
+          {
+            "username": "Sebabaian",
+            "avatar": "https://avatars.githubusercontent.com/u/234348864?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "author": "vxcontrol",
+        "name": "pentagi",
+        "fullName": "vxcontrol/pentagi",
+        "url": "https://github.com/vxcontrol/pentagi",
+        "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "starsToday": 0,
+        "totalStars": 30063,
+        "forks": 4498,
+        "builtBy": [
+          {
+            "username": "sirozha",
+            "avatar": "https://avatars.githubusercontent.com/u/7765123?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "asdek",
+            "avatar": "https://avatars.githubusercontent.com/u/4257336?s=40&40&v=4"
+          },
+          {
+            "username": "mason5052",
+            "avatar": "https://avatars.githubusercontent.com/u/52062353?s=40&40&v=4"
+          },
+          {
+            "username": "cursoragent",
+            "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "author": "rust-lang",
+        "name": "rust",
+        "fullName": "rust-lang/rust",
+        "url": "https://github.com/rust-lang/rust",
+        "description": "Empowering everyone to build reliable and efficient software.",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 120218,
+        "forks": 18710,
+        "builtBy": [
+          {
+            "username": "bors",
+            "avatar": "https://avatars.githubusercontent.com/u/3372342?s=40&40&v=4"
+          },
+          {
+            "username": "matthiaskrgr",
+            "avatar": "https://avatars.githubusercontent.com/u/476013?s=40&40&v=4"
+          },
+          {
+            "username": "RalfJung",
+            "avatar": "https://avatars.githubusercontent.com/u/330628?s=40&40&v=4"
+          },
+          {
+            "username": "GuillaumeGomez",
+            "avatar": "https://avatars.githubusercontent.com/u/3050060?s=40&40&v=4"
+          },
+          {
+            "username": "matklad",
+            "avatar": "https://avatars.githubusercontent.com/u/1711539?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "author": "xtool-org",
+        "name": "xtool",
+        "fullName": "xtool-org/xtool",
+        "url": "https://github.com/xtool-org/xtool",
+        "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+        "language": "Swift",
+        "languageColor": "#F05138",
+        "starsToday": 0,
+        "totalStars": 11276,
+        "forks": 518,
+        "builtBy": [
+          {
+            "username": "kabiroberai",
+            "avatar": "https://avatars.githubusercontent.com/u/12706786?s=40&40&v=4"
+          },
+          {
+            "username": "reklis",
+            "avatar": "https://avatars.githubusercontent.com/u/33566?s=40&40&v=4"
+          },
+          {
+            "username": "erikbdev",
+            "avatar": "https://avatars.githubusercontent.com/u/16653389?s=40&40&v=4"
+          },
+          {
+            "username": "mvanhorn",
+            "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&40&v=4"
+          },
+          {
+            "username": "pawlowskialex",
+            "avatar": "https://avatars.githubusercontent.com/u/1180980?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 11,
+        "author": "ntdevlabs",
+        "name": "tiny11builder",
+        "fullName": "ntdevlabs/tiny11builder",
+        "url": "https://github.com/ntdevlabs/tiny11builder",
+        "description": "WinUI app for building smaller, customized Windows 11 images.",
+        "language": "C#",
+        "languageColor": "#7355dd",
+        "starsToday": 0,
+        "totalStars": 20401,
+        "forks": 1566,
+        "builtBy": [
+          {
+            "username": "ntdevlabs",
+            "avatar": "https://avatars.githubusercontent.com/u/38796849?s=40&40&v=4"
+          },
+          {
+            "username": "Miiraak",
+            "avatar": "https://avatars.githubusercontent.com/u/167513064?s=40&40&v=4"
+          },
+          {
+            "username": "Karl-WE",
+            "avatar": "https://avatars.githubusercontent.com/u/45657752?s=40&40&v=4"
+          },
+          {
+            "username": "szepeviktor",
+            "avatar": "https://avatars.githubusercontent.com/u/952007?s=40&40&v=4"
+          },
+          {
+            "username": "eugenesan",
+            "avatar": "https://avatars.githubusercontent.com/u/406768?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 12,
+        "author": "NationalSecurityAgency",
+        "name": "ghidra",
+        "fullName": "NationalSecurityAgency/ghidra",
+        "url": "https://github.com/NationalSecurityAgency/ghidra",
+        "description": "Ghidra is a software reverse engineering (SRE) framework",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "starsToday": 0,
+        "totalStars": 87966,
+        "forks": 9816,
+        "builtBy": [
+          {
+            "username": "ryanmkurtz",
+            "avatar": "https://avatars.githubusercontent.com/u/5378554?s=40&40&v=4"
+          },
+          {
+            "username": "ghidra1",
+            "avatar": "https://avatars.githubusercontent.com/u/48333017?s=40&40&v=4"
+          },
+          {
+            "username": "dragonmacher",
+            "avatar": "https://avatars.githubusercontent.com/u/48328597?s=40&40&v=4"
+          },
+          {
+            "username": "nsadeveloper789",
+            "avatar": "https://avatars.githubusercontent.com/u/46821332?s=40&40&v=4"
+          },
+          {
+            "username": "caheckman",
+            "avatar": "https://avatars.githubusercontent.com/u/48068198?s=40&40&v=4"
+          }
+        ]
+      }
+    ]
+  },
+  "productHunt": null,
+  "hackerNews": null
+}

@@ -1,245 +1,237 @@
 {
-  "updatedAt": "2026-10-16T08:41:14.438Z",
+  "updatedAt": "2026-10-17T08:12:11.051Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
-      "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
-      "score": 262,
-      "comments": 93,
-      "author": "0in"
+      "title": "Ultramarine 1 Flash",
+      "url": "https://www.paperinstruments.com/ultramarine",
+      "score": 215,
+      "comments": 63,
+      "author": "i_rush_carriers"
     },
     {
       "rank": 2,
-      "title": "Muse Spark Open",
-      "url": "https://research.meta.ai/blog/muse-spark-open",
-      "score": 793,
-      "comments": 396,
-      "author": "bigwheels"
+      "title": "Tesla Roadster",
+      "url": "https://www.tesla.com/roadster",
+      "score": 1392,
+      "comments": 2443,
+      "author": "shekhar101"
     },
     {
       "rank": 3,
-      "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
-      "url": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
-      "score": 235,
-      "comments": 55,
-      "author": "johnnyApplePRNG"
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "url": "https://llmspeed.dev/",
+      "score": 46,
+      "comments": 18,
+      "author": "albinstman"
     },
     {
       "rank": 4,
-      "title": "Last rites for Gentoo's Chromium package",
-      "url": "https://lwn.net/Articles/1097760/",
-      "score": 46,
-      "comments": 25,
-      "author": "signa11"
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "url": "https://github.com/cobanov/PS5LM",
+      "score": 276,
+      "comments": 68,
+      "author": "Anon84"
     },
     {
       "rank": 5,
-      "title": "New York City's iconic horse-drawn carriages expected to take their last trot",
-      "url": "https://www.cnn.com/2026/10/13/us/nyc-horse-carriage-ban",
-      "score": 24,
-      "comments": 12,
-      "author": "1659447091"
+      "title": "Intuitive concurrent programming in any language",
+      "url": "https://www.lf-lang.org/",
+      "score": 23,
+      "comments": 2,
+      "author": "mpweiher"
     },
     {
       "rank": 6,
-      "title": "RPKI now protects 70% of internet routes",
-      "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
-      "score": 145,
-      "comments": 42,
-      "author": "emot"
+      "title": "Claude reveals ECDSA curve origins",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "score": 842,
+      "comments": 315,
+      "author": "ahlCVA"
     },
     {
       "rank": 7,
-      "title": "The Folders Programming Language",
-      "url": "https://danieltemkin.com/esolangs/folders",
-      "score": 39,
-      "comments": 4,
-      "author": "gurst"
-    },
-    {
-      "rank": 8,
-      "title": "Neural networks are clean",
-      "url": "https://already-clean.goodfire.com/",
-      "score": 669,
-      "comments": 248,
-      "author": "themgt"
-    },
-    {
-      "rank": 9,
-      "title": "'500-hour' Order of the Sinking Star is as complex and exhausting as it sounds",
-      "url": "https://www.polygon.com/order-of-the-sinking-star-impressions/",
-      "score": 130,
-      "comments": 76,
-      "author": "cvoss"
-    },
-    {
-      "rank": 10,
-      "title": "What I self-host",
-      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
-      "score": 459,
-      "comments": 292,
-      "author": "BrunoBernardino"
-    },
-    {
-      "rank": 11,
-      "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
-      "url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
-      "score": 277,
-      "comments": 178,
-      "author": "johnbehnke"
-    },
-    {
-      "rank": 12,
-      "title": "Wayland desktop for Linux with skeuomorphic design",
-      "url": "https://github.com/fyzugx/DEsk",
-      "score": 597,
-      "comments": 236,
-      "author": "FinalDestiny"
-    },
-    {
-      "rank": 13,
-      "title": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat",
-      "url": "https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge",
-      "score": 129,
-      "comments": 88,
-      "author": "giuliomagnifico"
-    },
-    {
-      "rank": 14,
-      "title": "Jev meets the Trolley Problem",
-      "url": "https://zachlandes.com/trolley-problem/",
-      "score": 442,
-      "comments": 187,
-      "author": "zlandes86"
-    },
-    {
-      "rank": 15,
-      "title": "Any window from your Mac, on your iPhone and iPad",
-      "url": "https://github.com/Saffsanity/sill",
-      "score": 138,
-      "comments": 30,
-      "author": "chanana"
-    },
-    {
-      "rank": 16,
-      "title": "BIPM decides to stop adding leap seconds to UTC",
-      "url": "https://www.bipm.org/en/cgpm-2026/resolution-5",
-      "score": 169,
-      "comments": 77,
-      "author": "gliffie"
-    },
-    {
-      "rank": 17,
-      "title": "The insider trading you're allowed to do",
-      "url": "https://coached.com/essays/the-insider-trading-youre-allowed-to-do/",
-      "score": 5,
-      "comments": 1,
-      "author": "rohanm93"
-    },
-    {
-      "rank": 18,
-      "title": "Casio F-91W using Statecharts",
-      "url": "https://github.com/dundalek/casio-f91w-fsm",
-      "score": 29,
-      "comments": 8,
-      "author": "austinallegro"
-    },
-    {
-      "rank": 19,
-      "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
-      "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
-      "score": 332,
-      "comments": 149,
+      "title": "You could have invented transformers from memory",
+      "url": "https://alexwang.ai/posts/associative-memory/",
+      "score": 271,
+      "comments": 65,
       "author": "speckx"
     },
     {
-      "rank": 20,
-      "title": "Celebrating 70 Years of Fortran",
-      "url": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
-      "score": 269,
+      "rank": 8,
+      "title": "California is building a $400M shield for Yosemite's most dangerous highway",
+      "url": "https://www.sfchronicle.com/california/article/yosemite-national-park-highway-140-22463847.php",
+      "score": 38,
+      "comments": 33,
+      "author": "danso"
+    },
+    {
+      "rank": 9,
+      "title": "FLUX 3 Image Klein",
+      "url": "https://bfl.ai/blog/flux-3-image-klein",
+      "score": 159,
+      "comments": 45,
+      "author": "gmays"
+    },
+    {
+      "rank": 10,
+      "title": "0/1 Knapsack Problem in PyTorch",
+      "url": "https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg",
+      "score": 14,
+      "comments": 0,
+      "author": "yu3zhou4"
+    },
+    {
+      "rank": 11,
+      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+      "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+      "score": 214,
+      "comments": 175,
+      "author": "7402"
+    },
+    {
+      "rank": 12,
+      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+      "score": 305,
+      "comments": 158,
+      "author": "antipaul"
+    },
+    {
+      "rank": 13,
+      "title": "Butlerian Jihad",
+      "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+      "score": 203,
       "comments": 110,
-      "author": "rbanffy"
+      "author": "wetwater"
+    },
+    {
+      "rank": 14,
+      "title": "JPEG XL vs. AVIF for web use-cases",
+      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+      "score": 247,
+      "comments": 174,
+      "author": "farlight"
+    },
+    {
+      "rank": 15,
+      "title": "Designing more efficient quantum circuits with Claude",
+      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "score": 134,
+      "comments": 32,
+      "author": "pretext"
+    },
+    {
+      "rank": 16,
+      "title": "I built the RealWorld app in Lean 4",
+      "url": "https://leangineer.com/blog/realworld-in-lean/",
+      "score": 46,
+      "comments": 4,
+      "author": "saviorand"
+    },
+    {
+      "rank": 17,
+      "title": "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",
+      "url": "https://adepts.of0x.cc/eufy-homestation2-firmware/",
+      "score": 42,
+      "comments": 3,
+      "author": "michidk"
+    },
+    {
+      "rank": 18,
+      "title": "Monte-Carlo Simulations",
+      "url": "https://eli.thegreenplace.net/2026/monte-carlo-simulations/",
+      "score": 109,
+      "comments": 20,
+      "author": "ibobev"
+    },
+    {
+      "rank": 19,
+      "title": "Why Math Dumped OpenAI",
+      "url": "https://raymyers.org/post/math-dumped-openai/",
+      "score": 5,
+      "comments": 0,
+      "author": "xeonmc"
     },
     {
       "rank": 21,
-      "title": "Krea 3 – An image model built for editing at scale",
-      "url": "https://www.krea.ai/krea-3",
-      "score": 302,
-      "comments": 96,
-      "author": "dvrp"
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "score": 487,
+      "comments": 409,
+      "author": "speckx"
     },
     {
       "rank": 22,
-      "title": "Comparing Chromium Development at Google and Igalia",
-      "url": "https://lwn.net/Articles/1094721/",
-      "score": 41,
-      "comments": 13,
-      "author": "signa11"
+      "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
+      "url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
+      "score": 92,
+      "comments": 14,
+      "author": "giuliomagnifico"
     },
     {
       "rank": 23,
-      "title": "Porsche Mission S",
-      "url": "https://www.porsche.com/international/models/mission-s/",
-      "score": 18,
-      "comments": 33,
-      "author": "porphyra"
+      "title": "Show HN: Gemini 4 Argon plays StarCraft",
+      "url": "https://starskirmish.com/bench/v0-2/",
+      "score": 216,
+      "comments": 98,
+      "author": "__cayenne__"
     },
     {
       "rank": 24,
-      "title": "Two-Stack Sliding-Window Aggregation",
-      "url": "https://orlp.net/blog/two-stack-sliding-window-aggregation/",
-      "score": 3,
+      "title": "$50k First Letters Prize Awarded for PHerc 343",
+      "url": "https://scrollprize.substack.com/p/50k-first-letters-prize-awarded-for",
+      "score": 4,
       "comments": 0,
-      "author": "surprisetalk"
+      "author": "dcminter"
     },
     {
       "rank": 25,
-      "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
-      "url": "https://github.com/johnrash/bebox",
-      "score": 57,
-      "comments": 14,
-      "author": "rguiscard"
+      "title": "How the Claude Code team does code review",
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "score": 327,
+      "comments": 306,
+      "author": "pretext"
     },
     {
       "rank": 26,
-      "title": "Thank You, Deno",
-      "url": "https://www.vlt.io/blog/competition-keeps-javascript-moving",
-      "score": 70,
-      "comments": 12,
-      "author": "jcbhmr"
+      "title": "I love software rendering",
+      "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+      "score": 318,
+      "comments": 201,
+      "author": "speckx"
     },
     {
       "rank": 27,
-      "title": "Why I Wrote PGP (1991, revised 1999)",
-      "url": "https://philzimmermann.com/EN/essays/WhyIWrotePGP.html",
-      "score": 154,
-      "comments": 54,
-      "author": "GaryBluto"
+      "title": "Nine-Inch Snails",
+      "url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
+      "score": 58,
+      "comments": 31,
+      "author": "zdw"
     },
     {
       "rank": 28,
-      "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
-      "url": "https://libreboot.org/news/libreboot2610.html",
-      "score": 283,
-      "comments": 170,
-      "author": "iamnothere"
+      "title": "New 'super ice' 10 times stronger, bringing it close to the strength of concrete",
+      "url": "https://www.sciencealert.com/a-new-super-ice-is-10-times-stronger-bringing-it-close-to-the-strength-of-concrete",
+      "score": 96,
+      "comments": 72,
+      "author": "andrewl"
     },
     {
       "rank": 29,
-      "title": "Delta’s Biscoff cookies were supposed to be temporary",
-      "url": "https://www.seriouseats.com/biscoff-history-12168161",
-      "score": 216,
-      "comments": 169,
-      "author": "mhb"
+      "title": "C++26: The New Debugging Header",
+      "url": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
+      "score": 89,
+      "comments": 20,
+      "author": "jandeboevrie"
     },
     {
       "rank": 30,
-      "title": "Major ICQ security hole (1998)",
-      "url": "https://opennet.ru/base/maillist/169.txt.html",
-      "score": 81,
-      "comments": 43,
-      "author": "sysoleg"
+      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+      "url": "https://calif.io/research/big-fish",
+      "score": 185,
+      "comments": 56,
+      "author": "rs_rs_rs_rs_rs"
     }
   ]
 }

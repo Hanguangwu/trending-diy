@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-10-18T08:29:18.469Z",
+  "updatedAt": "2026-10-19T09:31:01.640Z",
   "stories": [
     {
       "rank": 1,
-      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-      "url": "https://api-docs.deepseek.com/guides/search/",
-      "score": 101,
-      "comments": 46,
-      "author": "fagnerbrack"
+      "title": "Linux 7.3 Released",
+      "url": "https://lwn.net/Articles/1101143/",
+      "score": 154,
+      "comments": 56,
+      "author": "cjd8"
     },
     {
       "rank": 2,
-      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-      "url": "https://sphinx-six-theta.vercel.app/",
-      "score": 100,
-      "comments": 30,
-      "author": "critiquebrowser"
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "score": 385,
+      "comments": 187,
+      "author": "allinonai"
     },
     {
       "rank": 3,
-      "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
-      "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-      "score": 111,
-      "comments": 104,
-      "author": "MaysonL"
+      "title": "Rabbits were a medieval royal luxury in England until the Black Death",
+      "url": "https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html",
+      "score": 86,
+      "comments": 73,
+      "author": "samizdis"
     },
     {
       "rank": 4,
-      "title": "Bleached corals thrive within days when touching healthy neighbour",
-      "url": "https://www.nature.com/articles/d41586-026-03266-x",
-      "score": 430,
-      "comments": 97,
-      "author": "alkyon"
-    },
-    {
-      "rank": 5,
-      "title": "Lean now ships with verified kernels",
-      "url": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
-      "score": 121,
-      "comments": 40,
-      "author": "matt_d"
-    },
-    {
-      "rank": 6,
-      "title": "Matthew Prince on why Cloudflare offers a free version and always will (2016)",
-      "url": "https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685",
-      "score": 80,
-      "comments": 51,
-      "author": "thatslast"
-    },
-    {
-      "rank": 7,
-      "title": "Dam removals are bringing fish back across the northeastern United States",
-      "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
-      "score": 266,
-      "comments": 65,
-      "author": "sohkamyung"
-    },
-    {
-      "rank": 8,
-      "title": "DeepSeek-v4.1-Flash-1017",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "score": 842,
-      "comments": 642,
-      "author": "theykk"
-    },
-    {
-      "rank": 9,
-      "title": "Pele – Mermaid diagrams as themeable SVG",
-      "url": "https://pele.run/",
-      "score": 408,
-      "comments": 38,
-      "author": "dchest"
-    },
-    {
-      "rank": 10,
-      "title": "Notes on the Complex Roots of Unity",
-      "url": "https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/",
-      "score": 17,
-      "comments": 1,
-      "author": "sks_15"
-    },
-    {
-      "rank": 11,
-      "title": "Furifont, a Japanese font that shows furigana",
-      "url": "https://furifont.antfu.me/",
-      "score": 336,
-      "comments": 68,
-      "author": "plaguna"
-    },
-    {
-      "rank": 12,
-      "title": "Fun Extending the C Preprocessor",
-      "url": "https://www.davidpriver.com/Fun-Extending-the-C-Preprocessor.html",
-      "score": 17,
-      "comments": 3,
-      "author": "david2ndaccount"
-    },
-    {
-      "rank": 13,
-      "title": "Southern ground hornbill gets 3D printed beak prostheses at Artis Zoo",
-      "url": "https://nltimes.nl/2026/10/15/world-first-southern-ground-hornbill-gets-3d-printed-beak-prostheses-artis-zoo",
-      "score": 26,
-      "comments": 1,
-      "author": "jacquesm"
-    },
-    {
-      "rank": 14,
-      "title": "Making chicken transparent using Dorito dust",
-      "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
-      "score": 299,
-      "comments": 81,
+      "title": "How to Train Your Robot",
+      "url": "https://www.construction-physics.com/p/how-to-train-your-robot",
+      "score": 21,
+      "comments": 9,
       "author": "crescit_eundo"
     },
     {
-      "rank": 15,
-      "title": "Interactive Linear Programming in the Browser",
-      "url": "https://lpviz.net/",
+      "rank": 5,
+      "title": "William Gibson and the trademarking of cyberspace",
+      "url": "https://colo.to/cyberspace.html",
+      "score": 177,
+      "comments": 63,
+      "author": "Eric_Gullichsen"
+    },
+    {
+      "rank": 6,
+      "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
+      "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+      "score": 364,
+      "comments": 437,
+      "author": "mdp2021"
+    },
+    {
+      "rank": 7,
+      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+      "score": 163,
+      "comments": 110,
+      "author": "amrrs"
+    },
+    {
+      "rank": 8,
+      "title": "Flatpak – An Insecurity Nightmare",
+      "url": "https://oro.gay/posts/flatpak-an-insecurity-nightmare/",
+      "score": 33,
+      "comments": 19,
+      "author": "jannesan"
+    },
+    {
+      "rank": 9,
+      "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+      "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
       "score": 22,
-      "comments": 0,
-      "author": "klamike"
+      "comments": 8,
+      "author": "ankitg12"
+    },
+    {
+      "rank": 10,
+      "title": "Someone behind the software",
+      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+      "score": 440,
+      "comments": 164,
+      "author": "tosh"
+    },
+    {
+      "rank": 11,
+      "title": "Superlite: A Faster Alternatie to Superpowers",
+      "url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
+      "score": 93,
+      "comments": 35,
+      "author": "iheatuchriswogu"
+    },
+    {
+      "rank": 12,
+      "title": "Laptop Based on 6502 CPU",
+      "url": "https://www.maddox.pro/?p=448",
+      "score": 121,
+      "comments": 53,
+      "author": "nanochess"
+    },
+    {
+      "rank": 13,
+      "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
+      "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
+      "score": 234,
+      "comments": 142,
+      "author": "gmays"
+    },
+    {
+      "rank": 14,
+      "title": "RepRapMicron",
+      "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+      "score": 391,
+      "comments": 64,
+      "author": "RobotToaster"
+    },
+    {
+      "rank": 15,
+      "title": "The DNS Museum",
+      "url": "https://dns.museum",
+      "score": 68,
+      "comments": 9,
+      "author": "zdw"
     },
     {
       "rank": 16,
-      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
-      "url": "https://github.com/antirez/c64-hw-simulator",
-      "score": 181,
-      "comments": 26,
-      "author": "antirez"
+      "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
+      "url": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
+      "score": 60,
+      "comments": 64,
+      "author": "gmays"
     },
     {
       "rank": 17,
-      "title": "NY announces game ownership bill requiring ownership rather than licensing",
-      "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
-      "score": 256,
-      "comments": 94,
-      "author": "guiambros"
+      "title": "Free Pascal compiler now supports dynamic packages",
+      "url": "https://www.getlazarus.org/dynamic/",
+      "score": 161,
+      "comments": 38,
+      "author": "sysrpl"
     },
     {
       "rank": 18,
-      "title": "A Mole Infiltrated the Highest Ranks of American Militias (2025)",
-      "url": "https://www.propublica.org/article/ap3-oath-keepers-militia-mole",
-      "score": 80,
-      "comments": 14,
-      "author": "georgecmu"
+      "title": "Lant – The Forgotten Resource",
+      "url": "https://sites.udel.edu/materialmatters/2018/04/11/lant-the-forgotten-resource/",
+      "score": 6,
+      "comments": 1,
+      "author": "kreyenborgi"
     },
     {
       "rank": 19,
-      "title": "Teal – A statically-typed dialect of Lua",
-      "url": "https://teal-language.org/",
-      "score": 5,
-      "comments": 0,
-      "author": "Lyngbakr"
+      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+      "url": "https://github.com/finereli/whatsapp-mcp",
+      "score": 107,
+      "comments": 54,
+      "author": "zoozla"
     },
     {
       "rank": 20,
-      "title": "You could have invented transformers from memory",
-      "url": "https://alexwang.ai/posts/associative-memory/",
-      "score": 554,
-      "comments": 127,
-      "author": "speckx"
+      "title": "Verisign .com Domain Name Registry Consumer Class Action",
+      "url": "https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action",
+      "score": 96,
+      "comments": 44,
+      "author": "greyface-"
     },
     {
       "rank": 21,
-      "title": "Codex Desktop continuously generates Crashpad pending dumps",
-      "url": "https://github.com/openai/codex/issues/25921",
-      "score": 126,
-      "comments": 46,
-      "author": "AIorNot"
+      "title": "PalmOS Lemmings",
+      "url": "https://github.com/ardiri/palmos-lemmings",
+      "score": 127,
+      "comments": 32,
+      "author": "memalign"
     },
     {
       "rank": 22,
-      "title": "A Princeton PhD Applied to 2,300 Jobs. He Still Can't Get One",
-      "url": "https://www.wsj.com/lifestyle/careers/labor-market-freeze-phd-graduate-f8e17d7c",
-      "score": 26,
-      "comments": 16,
-      "author": "mid1110"
+      "title": "I built a programming language that LLMs can't use",
+      "url": "https://blog.picheta.me/post/killswitch-lang/",
+      "score": 185,
+      "comments": 126,
+      "author": "dom96"
     },
     {
       "rank": 23,
-      "title": "Gold is now the top U.S. export",
-      "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
-      "score": 320,
-      "comments": 170,
-      "author": "iamnothere"
+      "title": "A new way to think about borrow checking (in reverse)",
+      "url": "https://verdagon.dev/blog/reverse-borrow-checking",
+      "score": 84,
+      "comments": 7,
+      "author": "verdagon"
     },
     {
       "rank": 24,
-      "title": "Show HN: High-quality duck audio synthesizer",
-      "url": "https://celphase.github.io/duck-pond/",
-      "score": 128,
-      "comments": 28,
-      "author": "celphase"
+      "title": "Java sealed classes and exhaustive pattern matching",
+      "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
+      "score": 168,
+      "comments": 129,
+      "author": "hnisjafx40"
     },
     {
       "rank": 25,
-      "title": "Custom server to revive neato bots",
-      "url": "https://github.com/vacuula/vacuula",
-      "score": 40,
-      "comments": 1,
-      "author": "matttah"
+      "title": "DeepSeek V4.1 Flash 1017 (Max)",
+      "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
+      "score": 137,
+      "comments": 46,
+      "author": "theanonymousone"
     },
     {
       "rank": 26,
-      "title": "Propagation of Sound in Strongly Viscous Liquids (1966) [pdf]",
-      "url": "https://jetp.ras.ru/cgi-bin/dn/e_023_05_0893.pdf",
-      "score": 4,
-      "comments": 1,
-      "author": "peter_d_sherman"
+      "title": "One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux",
+      "url": "https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/",
+      "score": 77,
+      "comments": 19,
+      "author": "zoobab"
     },
     {
       "rank": 27,
-      "title": "Superoptimizing an FPU Emulator",
-      "url": "https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/",
-      "score": 22,
-      "comments": 2,
-      "author": "dverlaeckt80"
+      "title": "How Postgres DELETE can actually scale",
+      "url": "https://www.dbos.dev/blog/scaling-deletions-in-postgres",
+      "score": 15,
+      "comments": 1,
+      "author": "KraftyOne"
     },
     {
       "rank": 28,
-      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "url": "https://llmspeed.dev/",
-      "score": 285,
-      "comments": 81,
-      "author": "albinstman"
+      "title": "macOS 15.8.2 Breaks OpenGL",
+      "url": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
+      "score": 257,
+      "comments": 289,
+      "author": "Audiophilip"
     },
     {
       "rank": 29,
-      "title": "Solar surpasses nuclear power globally for first time",
-      "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
-      "score": 586,
-      "comments": 365,
-      "author": "xbmcuser"
+      "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
+      "url": "https://github.com/0x23/MicroManipulatorStepper",
+      "score": 197,
+      "comments": 16,
+      "author": "_Microft"
     },
     {
       "rank": 30,
-      "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
-      "url": "https://github.com/mikroverk/esp32sim",
-      "score": 159,
-      "comments": 30,
-      "author": "joakimeriksson"
+      "title": "\"I'm on a war footing\": Terry Tao and the crisis in math",
+      "url": "https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html",
+      "score": 184,
+      "comments": 363,
+      "author": "vinipolicena"
     }
   ]
 }

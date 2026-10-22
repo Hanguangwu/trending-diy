@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-10-21T09:03:22.604Z",
+  "updatedAt": "2026-10-22T09:05:38.424Z",
   "stories": [
     {
       "rank": 1,
-      "title": "The Future of CSS",
-      "url": "https://www.joshwcomeau.com/css/interop-2027/",
-      "score": 345,
-      "comments": 132,
-      "author": "soheilpro"
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "score": 168,
+      "comments": 52,
+      "author": "alphax314"
     },
     {
       "rank": 2,
-      "title": "Show HN: SimCity, but with Permits",
-      "url": "https://permit.petercai.com/",
-      "score": 782,
-      "comments": 369,
-      "author": "pcai"
+      "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+      "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+      "score": 191,
+      "comments": 124,
+      "author": "craigcitro"
     },
     {
       "rank": 3,
-      "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
-      "url": "https://news-web.php.net/php.announce/509",
-      "score": 728,
-      "comments": 275,
-      "author": "xd"
+      "title": "Security Disclosure",
+      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "score": 449,
+      "comments": 260,
+      "author": "passenger"
     },
     {
       "rank": 4,
-      "title": "Muse exposes users' personal and business secrets when they share conversations",
-      "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
-      "score": 155,
-      "comments": 59,
-      "author": "gumby"
+      "title": "OpenAI CLI",
+      "url": "https://github.com/openai/openai-cli",
+      "score": 103,
+      "comments": 67,
+      "author": "armcat"
     },
     {
       "rank": 5,
-      "title": "The Decoherence Trap",
-      "url": "https://maevyn.codes/decoherence",
-      "score": 22,
-      "comments": 1,
-      "author": "cassianoleal"
+      "title": "Show HN: The fastest browser for AI agents to run browser automation",
+      "url": "https://ego-lite.apposters.com",
+      "score": 5,
+      "comments": 0,
+      "author": "ehurynovich"
     },
     {
       "rank": 6,
-      "title": "Voxtral 3",
-      "url": "https://mistral.ai/news/voxtral-3/",
-      "score": 657,
-      "comments": 165,
-      "author": "ilreb"
+      "title": "Claude Duet",
+      "url": "https://claude.com/product/claude-duet",
+      "score": 357,
+      "comments": 334,
+      "author": "kuberwastaken"
     },
     {
       "rank": 7,
-      "title": "eMudhra intermediate CA compromise",
-      "url": "https://emudhra.we-have-a-problem.com/",
-      "score": 914,
-      "comments": 393,
-      "author": "galadran"
+      "title": "Rust Style Guide",
+      "url": "https://google.github.io/styleguide/rustguide.html",
+      "score": 295,
+      "comments": 180,
+      "author": "kaycebasques"
     },
     {
       "rank": 8,
-      "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
-      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-      "score": 195,
-      "comments": 88,
-      "author": "Bender"
+      "title": "GitLab critical patch release",
+      "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+      "score": 345,
+      "comments": 80,
+      "author": "artooro"
     },
     {
       "rank": 9,
-      "title": "In Hilbert space, all things are quantumly possible",
-      "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
-      "score": 91,
-      "comments": 48,
-      "author": "unprovable"
+      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "score": 508,
+      "comments": 168,
+      "author": "abhisek"
     },
     {
       "rank": 10,
-      "title": "Good type against all odds",
-      "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
-      "score": 111,
-      "comments": 12,
-      "author": "firloop"
+      "title": "No more icons in every menu by default",
+      "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
+      "score": 300,
+      "comments": 186,
+      "author": "riffraff"
     },
     {
       "rank": 11,
-      "title": "The Other Epidemic: Trying to get off benzodiazepines",
-      "url": "https://www.thebeliever.net/the-other-epidemic/",
-      "score": 183,
-      "comments": 139,
-      "author": "gaplong"
+      "title": "Using LLM for confidence scoring is a bad idea",
+      "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+      "score": 83,
+      "comments": 44,
+      "author": "jimauthors"
     },
     {
       "rank": 12,
-      "title": "Composite objects and C++26 the std:polymorphic type",
-      "url": "https://mariusbancila.ro/blog/2026/10/18/composite-objects-and-cpp26-the-stdpolymorphic-type/",
-      "score": 23,
-      "comments": 20,
-      "author": "jandeboevrie"
+      "title": "PingCap TiDB Leaks",
+      "url": "https://fulcrumsec.vg/pingcap/",
+      "score": 333,
+      "comments": 51,
+      "author": "swyx"
     },
     {
       "rank": 13,
-      "title": "ZX Spectrum Next Laptop",
-      "url": "https://www.dorchester3d.com/printing/blog/2020/11/zx-spectrum-next-laptop-version-2",
-      "score": 69,
-      "comments": 10,
-      "author": "utopcell"
+      "title": "Beyond the &",
+      "url": "https://lwn.net/Articles/1096028/",
+      "score": 61,
+      "comments": 3,
+      "author": "PaulHoule"
     },
     {
       "rank": 14,
-      "title": "Four Years with Decker",
-      "url": "https://beyondloom.com/blog/fouryearsdecker.html",
-      "score": 34,
-      "comments": 4,
-      "author": "ibobev"
+      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+      "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+      "score": 539,
+      "comments": 325,
+      "author": "cbg0"
     },
     {
       "rank": 15,
-      "title": "Using Claude to reduce the attack surface of code",
-      "url": "https://www.anthropic.com/research/attack-surface-reduction",
-      "score": 39,
-      "comments": 13,
-      "author": "dnw"
+      "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
+      "url": "https://www.bbc.com/news/articles/cp814l80pw2o",
+      "score": 210,
+      "comments": 45,
+      "author": "bryanrasmussen"
     },
     {
       "rank": 16,
-      "title": "Battlezone Online: BZFlag in the Browser",
-      "url": "https://github.com/timriker/bzo",
-      "score": 27,
-      "comments": 18,
-      "author": "indigodaddy"
+      "title": "What Is the Karakoram Anomaly?",
+      "url": "https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real",
+      "score": 24,
+      "comments": 7,
+      "author": "thunderbong"
     },
     {
       "rank": 17,
-      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
-      "url": "https://github.com/google-pytorch/torch_tpu",
-      "score": 335,
-      "comments": 73,
-      "author": "ilreb"
+      "title": "mitmproxy adds --emudhra option",
+      "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+      "score": 452,
+      "comments": 113,
+      "author": "ahlCVA"
     },
     {
       "rank": 18,
-      "title": "Setting Up SSH Keys on macOS with Touch ID",
-      "url": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
-      "score": 43,
-      "comments": 28,
-      "author": "civilchaos"
+      "title": "ThinkPad I9990303 Error Catch-22",
+      "url": "http://www.os2museum.com/wp/thinkpad-i9990303-error-catch-22/",
+      "score": 21,
+      "comments": 2,
+      "author": "userbinator"
     },
     {
       "rank": 19,
-      "title": "C# now beats Rust on WASM size",
-      "url": "https://github.com/zion-sati/NetWasm",
-      "score": 48,
-      "comments": 13,
-      "author": "sumnole"
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud/",
+      "score": 287,
+      "comments": 120,
+      "author": "armcat"
     },
     {
       "rank": 20,
-      "title": "What shall I teach my son?",
-      "url": "https://stevekrouse.com/ends",
-      "score": 387,
-      "comments": 460,
-      "author": "Curiositry"
+      "title": "Code is clay now",
+      "url": "https://www.albertodenia.com/writing/code-is-clay-now",
+      "score": 163,
+      "comments": 108,
+      "author": "albertodenia"
     },
     {
       "rank": 21,
-      "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
-      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
-      "score": 250,
-      "comments": 96,
-      "author": "dhorthy"
+      "title": "Chain of Thought for Humans",
+      "url": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
+      "score": 91,
+      "comments": 45,
+      "author": "ibobev"
     },
     {
       "rank": 22,
-      "title": "Apple broke an essential presentation feature of iPads",
-      "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
-      "score": 555,
-      "comments": 272,
-      "author": "evanb"
+      "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
+      "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+      "score": 408,
+      "comments": 54,
+      "author": "nnx"
     },
     {
       "rank": 23,
-      "title": "Pillowfort Is Closing",
-      "url": "https://www.pillowfort.social/posts/8413273",
-      "score": 40,
-      "comments": 22,
-      "author": "BrenBarn"
+      "title": "Today's PHP security release, and how we're strengthening security",
+      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+      "score": 730,
+      "comments": 360,
+      "author": "ejohnso49"
     },
     {
       "rank": 24,
-      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-      "url": "https://github.com/deepseek-ai/DeepInfer",
-      "score": 2242,
-      "comments": 856,
-      "author": "ggcr"
+      "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
+      "url": "https://github.com/omnara-ai/omnara",
+      "score": 74,
+      "comments": 24,
+      "author": "kmansm27"
     },
     {
       "rank": 25,
-      "title": "Borrow Checking Zero-Cost Cyclic Mutability",
-      "url": "https://antelang.org/blog/safe_cyclic_mutability/",
-      "score": 31,
-      "comments": 2,
-      "author": "jfecher"
+      "title": "There isn't an easy exploit for this PHP vulnerability",
+      "url": "https://eliastaylor.com/noexploit/",
+      "score": 507,
+      "comments": 297,
+      "author": "zkldi"
     },
     {
       "rank": 26,
-      "title": "Ofcom concedes defeat in 4chan case",
-      "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
-      "score": 383,
-      "comments": 296,
-      "author": "iamnothere"
+      "title": "I can't use generic lambdas at compile-time, now what?",
+      "url": "https://blog.ganets.ky/ClangGenericLambdas/",
+      "score": 9,
+      "comments": 0,
+      "author": "ibobev"
     },
     {
       "rank": 27,
-      "title": "Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery",
-      "url": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
-      "score": 267,
-      "comments": 156,
-      "author": "speckx"
+      "title": "Claude Now Works with Google Docs, Sheets, and Slides",
+      "url": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
+      "score": 41,
+      "comments": 5,
+      "author": "gmays"
     },
     {
       "rank": 28,
-      "title": "Tsrs: A Port of TypeScript to Rust",
-      "url": "https://blog.cloudflare.com/typescript-rust-port/",
-      "score": 405,
-      "comments": 198,
-      "author": "hnisjafx40"
+      "title": "PHP 8.2.35",
+      "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+      "score": 1026,
+      "comments": 544,
+      "author": "tuyuri"
     },
     {
       "rank": 29,
-      "title": "To Make, or to Buy: The Economics of Decision Models",
-      "url": "https://pncnmnp.github.io/blogs/economics-decision-models.html",
-      "score": 48,
-      "comments": 2,
-      "author": "pncnmnp"
+      "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+      "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
+      "score": 186,
+      "comments": 96,
+      "author": "surprisetalk"
     },
     {
       "rank": 30,
-      "title": "Advanced coding in low-resource programming languages",
-      "url": "https://openai.com/index/low-resource-programming-languages/",
-      "score": 79,
-      "comments": 82,
-      "author": "sumnole"
+      "title": "The compiler was supposed to end programming too",
+      "url": "https://hrih.si/articles/the-compiler-was-supposed-to-end-programming/",
+      "score": 101,
+      "comments": 151,
+      "author": "theanonymousone"
     }
   ]
 }

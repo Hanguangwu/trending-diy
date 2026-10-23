@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-10-22T09:05:38.424Z",
+  "updatedAt": "2026-10-23T09:00:09.193Z",
   "stories": [
     {
       "rank": 1,
-      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
-      "score": 168,
-      "comments": 52,
-      "author": "alphax314"
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "url": "https://edjefferson.com/localwiki/",
+      "score": 312,
+      "comments": 82,
+      "author": "sohkamyung"
     },
     {
       "rank": 2,
-      "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
-      "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
-      "score": 191,
-      "comments": 124,
-      "author": "craigcitro"
+      "title": "Docker is weird",
+      "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+      "score": 448,
+      "comments": 212,
+      "author": "psxuaw"
     },
     {
       "rank": 3,
-      "title": "Security Disclosure",
-      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-      "score": 449,
-      "comments": 260,
-      "author": "passenger"
-    },
-    {
-      "rank": 4,
-      "title": "OpenAI CLI",
-      "url": "https://github.com/openai/openai-cli",
-      "score": 103,
-      "comments": 67,
-      "author": "armcat"
-    },
-    {
-      "rank": 5,
-      "title": "Show HN: The fastest browser for AI agents to run browser automation",
-      "url": "https://ego-lite.apposters.com",
-      "score": 5,
-      "comments": 0,
-      "author": "ehurynovich"
-    },
-    {
-      "rank": 6,
-      "title": "Claude Duet",
-      "url": "https://claude.com/product/claude-duet",
-      "score": 357,
-      "comments": 334,
-      "author": "kuberwastaken"
-    },
-    {
-      "rank": 7,
-      "title": "Rust Style Guide",
-      "url": "https://google.github.io/styleguide/rustguide.html",
-      "score": 295,
-      "comments": 180,
-      "author": "kaycebasques"
-    },
-    {
-      "rank": 8,
-      "title": "GitLab critical patch release",
-      "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-      "score": 345,
-      "comments": 80,
-      "author": "artooro"
-    },
-    {
-      "rank": 9,
-      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-      "score": 508,
-      "comments": 168,
-      "author": "abhisek"
-    },
-    {
-      "rank": 10,
-      "title": "No more icons in every menu by default",
-      "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
-      "score": 300,
-      "comments": 186,
-      "author": "riffraff"
-    },
-    {
-      "rank": 11,
-      "title": "Using LLM for confidence scoring is a bad idea",
-      "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
-      "score": 83,
-      "comments": 44,
-      "author": "jimauthors"
-    },
-    {
-      "rank": 12,
-      "title": "PingCap TiDB Leaks",
-      "url": "https://fulcrumsec.vg/pingcap/",
-      "score": 333,
-      "comments": 51,
-      "author": "swyx"
-    },
-    {
-      "rank": 13,
-      "title": "Beyond the &",
-      "url": "https://lwn.net/Articles/1096028/",
-      "score": 61,
-      "comments": 3,
-      "author": "PaulHoule"
-    },
-    {
-      "rank": 14,
-      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
-      "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-      "score": 539,
-      "comments": 325,
-      "author": "cbg0"
-    },
-    {
-      "rank": 15,
-      "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
-      "url": "https://www.bbc.com/news/articles/cp814l80pw2o",
-      "score": 210,
-      "comments": 45,
-      "author": "bryanrasmussen"
-    },
-    {
-      "rank": 16,
-      "title": "What Is the Karakoram Anomaly?",
-      "url": "https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real",
-      "score": 24,
-      "comments": 7,
-      "author": "thunderbong"
-    },
-    {
-      "rank": 17,
-      "title": "mitmproxy adds --emudhra option",
-      "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
-      "score": 452,
-      "comments": 113,
-      "author": "ahlCVA"
-    },
-    {
-      "rank": 18,
-      "title": "ThinkPad I9990303 Error Catch-22",
-      "url": "http://www.os2museum.com/wp/thinkpad-i9990303-error-catch-22/",
-      "score": 21,
-      "comments": 2,
-      "author": "userbinator"
-    },
-    {
-      "rank": 19,
-      "title": "OpenAI models are coming to Google Cloud",
-      "url": "https://openai.com/index/openai-models-google-cloud/",
-      "score": 287,
-      "comments": 120,
-      "author": "armcat"
-    },
-    {
-      "rank": 20,
-      "title": "Code is clay now",
-      "url": "https://www.albertodenia.com/writing/code-is-clay-now",
-      "score": 163,
-      "comments": 108,
-      "author": "albertodenia"
-    },
-    {
-      "rank": 21,
-      "title": "Chain of Thought for Humans",
-      "url": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
-      "score": 91,
-      "comments": 45,
-      "author": "ibobev"
-    },
-    {
-      "rank": 22,
-      "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
-      "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
-      "score": 408,
-      "comments": 54,
-      "author": "nnx"
-    },
-    {
-      "rank": 23,
-      "title": "Today's PHP security release, and how we're strengthening security",
-      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-      "score": 730,
-      "comments": 360,
-      "author": "ejohnso49"
-    },
-    {
-      "rank": 24,
-      "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
-      "url": "https://github.com/omnara-ai/omnara",
-      "score": 74,
-      "comments": 24,
-      "author": "kmansm27"
-    },
-    {
-      "rank": 25,
-      "title": "There isn't an easy exploit for this PHP vulnerability",
-      "url": "https://eliastaylor.com/noexploit/",
-      "score": 507,
-      "comments": 297,
-      "author": "zkldi"
-    },
-    {
-      "rank": 26,
-      "title": "I can't use generic lambdas at compile-time, now what?",
-      "url": "https://blog.ganets.ky/ClangGenericLambdas/",
-      "score": 9,
-      "comments": 0,
-      "author": "ibobev"
-    },
-    {
-      "rank": 27,
-      "title": "Claude Now Works with Google Docs, Sheets, and Slides",
-      "url": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
-      "score": 41,
-      "comments": 5,
+      "title": "How does Fable 5.1 hide messages in images?",
+      "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
+      "score": 72,
+      "comments": 18,
       "author": "gmays"
     },
     {
-      "rank": 28,
-      "title": "PHP 8.2.35",
-      "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
-      "score": 1026,
-      "comments": 544,
-      "author": "tuyuri"
+      "rank": 4,
+      "title": "The foolishness of \"natural language programming\" (1978)",
+      "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+      "score": 154,
+      "comments": 96,
+      "author": "xiaoyu2006"
     },
     {
-      "rank": 29,
-      "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
-      "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
-      "score": 186,
-      "comments": 96,
+      "rank": 5,
+      "title": "The alien space of science: Coherent but cognitively unavailable directions",
+      "url": "https://arxiv.org/abs/2603.01092",
+      "score": 46,
+      "comments": 3,
+      "author": "martincsweiss"
+    },
+    {
+      "rank": 6,
+      "title": "The HTML-in-Canvas API origin trial",
+      "url": "https://developer.chrome.com/blog/html-in-canvas-origin-trial",
+      "score": 38,
+      "comments": 14,
+      "author": "andrewstuart"
+    },
+    {
+      "rank": 7,
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "score": 389,
+      "comments": 191,
+      "author": "niemandhier"
+    },
+    {
+      "rank": 8,
+      "title": "This I Believe (1952)",
+      "url": "https://www.awakin.org/v2/read/view.php?tid=468",
+      "score": 80,
+      "comments": 29,
+      "author": "ctoth"
+    },
+    {
+      "rank": 9,
+      "title": "Every AI model has the same \"controversial\" take on humans",
+      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+      "score": 404,
+      "comments": 412,
+      "author": "rakannimer"
+    },
+    {
+      "rank": 10,
+      "title": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
+      "url": "https://github.com/dsmurrell/onkey",
+      "score": 46,
+      "comments": 25,
+      "author": "dsmurrell"
+    },
+    {
+      "rank": 11,
+      "title": "Run full iOS 16.5 firmware on Android Devices",
+      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "score": 431,
+      "comments": 145,
+      "author": "aghuang"
+    },
+    {
+      "rank": 12,
+      "title": "A lost Schrödinger manuscript reveals a twist in quantum physics",
+      "url": "https://www.sciencealert.com/a-lost-schrdinger-manuscript-reveals-a-surprising-twist-in-quantum-physics",
+      "score": 40,
+      "comments": 14,
+      "author": "ibobev"
+    },
+    {
+      "rank": 13,
+      "title": "Getting ready to operate GNU Taler in Germany",
+      "url": "https://www.taler.net/en/news/2026-13.html",
+      "score": 284,
+      "comments": 119,
+      "author": "dewey"
+    },
+    {
+      "rank": 14,
+      "title": "Jank – The native Clojure dialect with seamless C++ interop",
+      "url": "https://jank-lang.org/",
+      "score": 98,
+      "comments": 8,
+      "author": "giancarlostoro"
+    },
+    {
+      "rank": 15,
+      "title": "I Did This Without Your Knowledge",
+      "url": "https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge",
+      "score": 13,
+      "comments": 2,
+      "author": "jmugan"
+    },
+    {
+      "rank": 16,
+      "title": "Quad9 to exit France",
+      "url": "https://quad9.net/news/blog/au-revoir-france/",
+      "score": 1193,
+      "comments": 400,
+      "author": "farrokhi"
+    },
+    {
+      "rank": 17,
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "url": "https://www.anthropic.com/research/formal-verification",
+      "score": 342,
+      "comments": 201,
+      "author": "johnbender"
+    },
+    {
+      "rank": 18,
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "score": 541,
+      "comments": 168,
+      "author": "alphax314"
+    },
+    {
+      "rank": 19,
+      "title": "I reverse engineered a board game",
+      "url": "https://wuemeli.com/blog/reversing-hitster-game/",
+      "score": 31,
+      "comments": 4,
+      "author": "wuemeli"
+    },
+    {
+      "rank": 20,
+      "title": "Rule 30: one black cell",
+      "url": "https://www.wolframcollatzmahler.com/rule30/index.html",
+      "score": 15,
+      "comments": 3,
+      "author": "amichail"
+    },
+    {
+      "rank": 21,
+      "title": "Show HN: Making a smart TV dumb and then smart",
+      "url": "https://github.com/anubhavmalhotra/r2d2-tv",
+      "score": 13,
+      "comments": 1,
+      "author": "animalhot"
+    },
+    {
+      "rank": 22,
+      "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
+      "url": "https://news.ycombinator.com/item?id=50193416",
+      "score": 543,
+      "comments": 212,
+      "author": "petecooper"
+    },
+    {
+      "rank": 23,
+      "title": "Color Names",
+      "url": "https://names.color.pizza",
+      "score": 67,
+      "comments": 10,
+      "author": "akkartik"
+    },
+    {
+      "rank": 24,
+      "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
+      "url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
+      "score": 296,
+      "comments": 265,
+      "author": "entryleveljobsc"
+    },
+    {
+      "rank": 25,
+      "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+      "url": "https://news.ycombinator.com/item?id=50200997",
+      "score": 131,
+      "comments": 110,
+      "author": "ex-aws-dude"
+    },
+    {
+      "rank": 26,
+      "title": "We have traits at home",
+      "url": "https://www.axelmagn.com/blog/202610-zig-traits/",
+      "score": 14,
+      "comments": 2,
+      "author": "Ygg2"
+    },
+    {
+      "rank": 27,
+      "title": "Why my Asus laptop kept rebooting after sleep and how to fix it",
+      "url": "https://idiallo.com/blog/asus-laptop-keeps-rebooting-after-sleep",
+      "score": 52,
+      "comments": 39,
       "author": "surprisetalk"
     },
     {
+      "rank": 28,
+      "title": "eMudhra to exit global SSL/TLS certificate business",
+      "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+      "score": 1045,
+      "comments": 680,
+      "author": "bo0tzz"
+    },
+    {
+      "rank": 29,
+      "title": "Railpass",
+      "url": "https://train.samismith.com/",
+      "score": 99,
+      "comments": 23,
+      "author": "CharlesW"
+    },
+    {
       "rank": 30,
-      "title": "The compiler was supposed to end programming too",
-      "url": "https://hrih.si/articles/the-compiler-was-supposed-to-end-programming/",
-      "score": 101,
-      "comments": 151,
-      "author": "theanonymousone"
+      "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+      "url": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
+      "score": 192,
+      "comments": 33,
+      "author": "maxilevi"
     }
   ]
 }

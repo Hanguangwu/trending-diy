@@ -1,0 +1,302 @@
+{
+  "date": "2026-10-23",
+  "updatedAt": "2026-10-23T09:00:09.201Z",
+  "github": {
+    "updatedAt": "2026-10-23T09:00:07.247Z",
+    "repos": [
+      {
+        "rank": 1,
+        "author": "php",
+        "name": "php-src",
+        "fullName": "php/php-src",
+        "url": "https://github.com/php/php-src",
+        "description": "The PHP Interpreter",
+        "language": "C",
+        "languageColor": "#555555",
+        "starsToday": 0,
+        "totalStars": 41387,
+        "forks": 8334,
+        "builtBy": [
+          {
+            "username": "dstogov",
+            "avatar": "https://avatars.githubusercontent.com/u/2510034?s=40&40&v=4"
+          },
+          {
+            "username": "nikic",
+            "avatar": "https://avatars.githubusercontent.com/u/216080?s=40&40&v=4"
+          },
+          {
+            "username": "weltling",
+            "avatar": "https://avatars.githubusercontent.com/u/22016?s=40&40&v=4"
+          },
+          {
+            "username": "cmb69",
+            "avatar": "https://avatars.githubusercontent.com/u/2306138?s=40&40&v=4"
+          },
+          {
+            "username": "iliaal",
+            "avatar": "https://avatars.githubusercontent.com/u/158724?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "author": "anthropics",
+        "name": "knowledge-work-plugins",
+        "fullName": "anthropics/knowledge-work-plugins",
+        "url": "https://github.com/anthropics/knowledge-work-plugins",
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 31847,
+        "forks": 3546,
+        "builtBy": [
+          {
+            "username": "jordanecker-ant",
+            "avatar": "https://avatars.githubusercontent.com/u/305637556?s=40&40&v=4"
+          },
+          {
+            "username": "bryan-anthropic",
+            "avatar": "https://avatars.githubusercontent.com/u/238056179?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "mattpic-ant",
+            "avatar": "https://avatars.githubusercontent.com/u/227474486?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "author": "DietrichGebert",
+        "name": "ponytail",
+        "fullName": "DietrichGebert/ponytail",
+        "url": "https://github.com/DietrichGebert/ponytail",
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 174157,
+        "forks": 9481,
+        "builtBy": [
+          {
+            "username": "DietrichGebert",
+            "avatar": "https://avatars.githubusercontent.com/u/137048761?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "ousamabenyounes",
+            "avatar": "https://avatars.githubusercontent.com/u/2910651?s=40&40&v=4"
+          },
+          {
+            "username": "Lakshya77089",
+            "avatar": "https://avatars.githubusercontent.com/u/169168095?s=40&40&v=4"
+          },
+          {
+            "username": "dhedhialy",
+            "avatar": "https://avatars.githubusercontent.com/u/91044156?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "author": "cloudflare",
+        "name": "security-audit-skill",
+        "fullName": "cloudflare/security-audit-skill",
+        "url": "https://github.com/cloudflare/security-audit-skill",
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 40394,
+        "forks": 2520,
+        "builtBy": [
+          {
+            "username": "literally-dan",
+            "avatar": "https://avatars.githubusercontent.com/u/9935415?s=40&40&v=4"
+          },
+          {
+            "username": "CooperSheroy",
+            "avatar": "https://avatars.githubusercontent.com/u/59650384?s=40&40&v=4"
+          },
+          {
+            "username": "kennysarnoski-jarvis",
+            "avatar": "https://avatars.githubusercontent.com/u/228360615?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "author": "Graphify-Labs",
+        "name": "graphify",
+        "fullName": "Graphify-Labs/graphify",
+        "url": "https://github.com/Graphify-Labs/graphify",
+        "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 133432,
+        "forks": 12749,
+        "builtBy": [
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "safishamsi",
+            "avatar": "https://avatars.githubusercontent.com/u/216348667?s=40&40&v=4"
+          },
+          {
+            "username": "ayushcodes10",
+            "avatar": "https://avatars.githubusercontent.com/u/144055433?s=40&40&v=4"
+          },
+          {
+            "username": "rajatnagda45",
+            "avatar": "https://avatars.githubusercontent.com/u/215653880?s=40&40&v=4"
+          },
+          {
+            "username": "abhay-codes07",
+            "avatar": "https://avatars.githubusercontent.com/u/182421137?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "author": "supabase",
+        "name": "supabase",
+        "fullName": "supabase/supabase",
+        "url": "https://github.com/supabase/supabase",
+        "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 113641,
+        "forks": 17020,
+        "builtBy": [
+          {
+            "username": "joshenlim",
+            "avatar": "https://avatars.githubusercontent.com/u/19742402?s=40&40&v=4"
+          },
+          {
+            "username": "kiwicopple",
+            "avatar": "https://avatars.githubusercontent.com/u/10214025?s=40&40&v=4"
+          },
+          {
+            "username": "MildTomato",
+            "avatar": "https://avatars.githubusercontent.com/u/8291514?s=40&40&v=4"
+          },
+          {
+            "username": "saltcod",
+            "avatar": "https://avatars.githubusercontent.com/u/105593?s=40&40&v=4"
+          },
+          {
+            "username": "alaister",
+            "avatar": "https://avatars.githubusercontent.com/u/10985857?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "author": "fastapi",
+        "name": "fastapi",
+        "fullName": "fastapi/fastapi",
+        "url": "https://github.com/fastapi/fastapi",
+        "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 103992,
+        "forks": 10104,
+        "builtBy": [
+          {
+            "username": "tiangolo",
+            "avatar": "https://avatars.githubusercontent.com/u/1326112?s=40&40&v=4"
+          },
+          {
+            "username": "YuriiMotov",
+            "avatar": "https://avatars.githubusercontent.com/u/109919500?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "author": "luongnv89",
+        "name": "claude-howto",
+        "fullName": "luongnv89/claude-howto",
+        "url": "https://github.com/luongnv89/claude-howto",
+        "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 43635,
+        "forks": 5418,
+        "builtBy": [
+          {
+            "username": "luongnv89",
+            "avatar": "https://avatars.githubusercontent.com/u/3288457?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "edocltd",
+            "avatar": "https://avatars.githubusercontent.com/u/258913972?s=40&40&v=4"
+          },
+          {
+            "username": "toanalien",
+            "avatar": "https://avatars.githubusercontent.com/u/5405744?s=40&40&v=4"
+          },
+          {
+            "username": "lzw-git-all",
+            "avatar": "https://avatars.githubusercontent.com/u/271938013?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "author": "Meloong-Git",
+        "name": "PCL",
+        "fullName": "Meloong-Git/PCL",
+        "url": "https://github.com/Meloong-Git/PCL",
+        "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
+        "language": "Visual Basic .NET",
+        "languageColor": "#945db7",
+        "starsToday": 0,
+        "totalStars": 8841,
+        "forks": 1231,
+        "builtBy": [
+          {
+            "username": "LTCatt",
+            "avatar": "https://avatars.githubusercontent.com/u/40348278?s=40&40&v=4"
+          },
+          {
+            "username": "allMagicNB",
+            "avatar": "https://avatars.githubusercontent.com/u/116283787?s=40&40&v=4"
+          },
+          {
+            "username": "RyogiMutsuki",
+            "avatar": "https://avatars.githubusercontent.com/u/188181427?s=40&40&v=4"
+          },
+          {
+            "username": "wyc-26",
+            "avatar": "https://avatars.githubusercontent.com/u/154735436?s=40&40&v=4"
+          },
+          {
+            "username": "Pigeon0v0",
+            "avatar": "https://avatars.githubusercontent.com/u/60414767?s=40&40&v=4"
+          }
+        ]
+      }
+    ]
+  },
+  "productHunt": null,
+  "hackerNews": null
+}

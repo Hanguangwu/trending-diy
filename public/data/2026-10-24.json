@@ -1,0 +1,275 @@
+{
+  "date": "2026-10-24",
+  "updatedAt": "2026-10-24T08:34:11.185Z",
+  "github": {
+    "updatedAt": "2026-10-24T08:34:09.768Z",
+    "repos": [
+      {
+        "rank": 1,
+        "author": "cloudflare",
+        "name": "security-audit-skill",
+        "fullName": "cloudflare/security-audit-skill",
+        "url": "https://github.com/cloudflare/security-audit-skill",
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 42711,
+        "forks": 2664,
+        "builtBy": [
+          {
+            "username": "literally-dan",
+            "avatar": "https://avatars.githubusercontent.com/u/9935415?s=40&40&v=4"
+          },
+          {
+            "username": "CooperSheroy",
+            "avatar": "https://avatars.githubusercontent.com/u/59650384?s=40&40&v=4"
+          },
+          {
+            "username": "kennysarnoski-jarvis",
+            "avatar": "https://avatars.githubusercontent.com/u/228360615?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "author": "php",
+        "name": "php-src",
+        "fullName": "php/php-src",
+        "url": "https://github.com/php/php-src",
+        "description": "The PHP Interpreter",
+        "language": "C",
+        "languageColor": "#555555",
+        "starsToday": 0,
+        "totalStars": 41614,
+        "forks": 8366,
+        "builtBy": [
+          {
+            "username": "dstogov",
+            "avatar": "https://avatars.githubusercontent.com/u/2510034?s=40&40&v=4"
+          },
+          {
+            "username": "nikic",
+            "avatar": "https://avatars.githubusercontent.com/u/216080?s=40&40&v=4"
+          },
+          {
+            "username": "weltling",
+            "avatar": "https://avatars.githubusercontent.com/u/22016?s=40&40&v=4"
+          },
+          {
+            "username": "cmb69",
+            "avatar": "https://avatars.githubusercontent.com/u/2306138?s=40&40&v=4"
+          },
+          {
+            "username": "iliaal",
+            "avatar": "https://avatars.githubusercontent.com/u/158724?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "author": "anthropics",
+        "name": "knowledge-work-plugins",
+        "fullName": "anthropics/knowledge-work-plugins",
+        "url": "https://github.com/anthropics/knowledge-work-plugins",
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 32421,
+        "forks": 3584,
+        "builtBy": [
+          {
+            "username": "jordanecker-ant",
+            "avatar": "https://avatars.githubusercontent.com/u/305637556?s=40&40&v=4"
+          },
+          {
+            "username": "bryan-anthropic",
+            "avatar": "https://avatars.githubusercontent.com/u/238056179?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "mattpic-ant",
+            "avatar": "https://avatars.githubusercontent.com/u/227474486?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "author": "NVIDIA",
+        "name": "OpenShell",
+        "fullName": "NVIDIA/OpenShell",
+        "url": "https://github.com/NVIDIA/OpenShell",
+        "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 19001,
+        "forks": 1899,
+        "builtBy": [
+          {
+            "username": "drew",
+            "avatar": "https://avatars.githubusercontent.com/u/385?s=40&40&v=4"
+          },
+          {
+            "username": "johntmyers",
+            "avatar": "https://avatars.githubusercontent.com/u/9696606?s=40&40&v=4"
+          },
+          {
+            "username": "pimlock",
+            "avatar": "https://avatars.githubusercontent.com/u/1116309?s=40&40&v=4"
+          },
+          {
+            "username": "miyoungc",
+            "avatar": "https://avatars.githubusercontent.com/u/189799508?s=40&40&v=4"
+          },
+          {
+            "username": "elezar",
+            "avatar": "https://avatars.githubusercontent.com/u/931393?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "author": "Renhuai123",
+        "name": "ziwei-doushu",
+        "fullName": "Renhuai123/ziwei-doushu",
+        "url": "https://github.com/Renhuai123/ziwei-doushu",
+        "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 7098,
+        "forks": 1443,
+        "builtBy": [
+          {
+            "username": "Renhuai123",
+            "avatar": "https://avatars.githubusercontent.com/u/91890238?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "Renhuai",
+            "avatar": "https://avatars.githubusercontent.com/u/108378938?s=40&40&v=4"
+          },
+          {
+            "username": "sakura168899-debug",
+            "avatar": "https://avatars.githubusercontent.com/u/289346330?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "author": "SnailSploit",
+        "name": "Claude-Red",
+        "fullName": "SnailSploit/Claude-Red",
+        "url": "https://github.com/SnailSploit/Claude-Red",
+        "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 8689,
+        "forks": 1115,
+        "builtBy": [
+          {
+            "username": "SnailSploit",
+            "avatar": "https://avatars.githubusercontent.com/u/95986478?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "halilkirazkaya",
+            "avatar": "https://avatars.githubusercontent.com/u/90972683?s=40&40&v=4"
+          },
+          {
+            "username": "LvL23HT",
+            "avatar": "https://avatars.githubusercontent.com/u/130660521?s=40&40&v=4"
+          },
+          {
+            "username": "yogesh-tessl",
+            "avatar": "https://avatars.githubusercontent.com/u/246077594?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "author": "OpenBMB",
+        "name": "VoxCPM",
+        "fullName": "OpenBMB/VoxCPM",
+        "url": "https://github.com/OpenBMB/VoxCPM",
+        "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 40412,
+        "forks": 4591,
+        "builtBy": [
+          {
+            "username": "Labmem-Zhouyx",
+            "avatar": "https://avatars.githubusercontent.com/u/63361337?s=40&40&v=4"
+          },
+          {
+            "username": "a710128",
+            "avatar": "https://avatars.githubusercontent.com/u/8132992?s=40&40&v=4"
+          },
+          {
+            "username": "bcsdcox",
+            "avatar": "https://avatars.githubusercontent.com/u/40820394?s=40&40&v=4"
+          },
+          {
+            "username": "liuxin99",
+            "avatar": "https://avatars.githubusercontent.com/u/33060143?s=40&40&v=4"
+          },
+          {
+            "username": "VoxInstruct",
+            "avatar": "https://avatars.githubusercontent.com/u/167593451?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "author": "nodejs",
+        "name": "node",
+        "fullName": "nodejs/node",
+        "url": "https://github.com/nodejs/node",
+        "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 122997,
+        "forks": 39841,
+        "builtBy": [
+          {
+            "username": "Trott",
+            "avatar": "https://avatars.githubusercontent.com/u/718899?s=40&40&v=4"
+          },
+          {
+            "username": "ry",
+            "avatar": "https://avatars.githubusercontent.com/u/80?s=40&40&v=4"
+          },
+          {
+            "username": "bnoordhuis",
+            "avatar": "https://avatars.githubusercontent.com/u/275871?s=40&40&v=4"
+          },
+          {
+            "username": "addaleax",
+            "avatar": "https://avatars.githubusercontent.com/u/899444?s=40&40&v=4"
+          },
+          {
+            "username": "isaacs",
+            "avatar": "https://avatars.githubusercontent.com/u/9287?s=40&40&v=4"
+          }
+        ]
+      }
+    ]
+  },
+  "productHunt": null,
+  "hackerNews": null
+}

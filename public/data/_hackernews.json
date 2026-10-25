@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-10-24T08:34:11.177Z",
+  "updatedAt": "2026-10-25T08:53:13.935Z",
   "stories": [
     {
       "rank": 1,
-      "title": "OBS Studio 33",
-      "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
-      "score": 100,
-      "comments": 24,
-      "author": "pentagrama"
+      "title": "We should be more ambitious with the software we build",
+      "url": "https://danluu.com/ambitious/",
+      "score": 388,
+      "comments": 337,
+      "author": "ltratt"
     },
     {
       "rank": 2,
-      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-      "score": 889,
-      "comments": 520,
-      "author": "Jowsey"
-    },
-    {
-      "rank": 3,
-      "title": "Twelve years of distributed SQLite",
-      "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
-      "score": 179,
-      "comments": 22,
-      "author": "otoolep"
-    },
-    {
-      "rank": 4,
-      "title": "Today, we hacked what we'd set out to hack: the iPhone",
-      "url": "https://blog.calif.io/p/iphone",
-      "score": 860,
-      "comments": 560,
-      "author": "pavel_lishin"
-    },
-    {
-      "rank": 5,
-      "title": "How close can pure functional programming get to C?",
-      "url": "https://rtfeldman.com/fp-vs-c",
-      "score": 92,
-      "comments": 7,
-      "author": "stmonty"
-    },
-    {
-      "rank": 6,
-      "title": "Apple Music 404 Not Found",
-      "url": "https://music.apple.com/this-url-doesnt-exist",
-      "score": 744,
-      "comments": 229,
-      "author": "frizlab"
-    },
-    {
-      "rank": 7,
-      "title": "Physicists trap a single antimatter particle for a month",
-      "url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
-      "score": 8,
-      "comments": 2,
-      "author": "mooreds"
-    },
-    {
-      "rank": 8,
-      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-      "url": "https://edjefferson.com/localwiki/",
-      "score": 1366,
-      "comments": 233,
-      "author": "sohkamyung"
-    },
-    {
-      "rank": 9,
-      "title": "A practical guide to AI image generation, from diffusion to agents",
-      "url": "https://danielball.com/notes/ai_image_generation.html",
-      "score": 70,
-      "comments": 16,
-      "author": "westsmith"
-    },
-    {
-      "rank": 10,
-      "title": "Bringing uv and ty together",
-      "url": "https://astral.sh/blog/uv-ty-integration",
-      "score": 138,
-      "comments": 30,
-      "author": "Ravencentric"
-    },
-    {
-      "rank": 11,
-      "title": "Dessa: Conversation Model trained only on speech",
-      "url": "https://block.xyz/dessa",
-      "score": 373,
-      "comments": 135,
-      "author": "dsr12"
-    },
-    {
-      "rank": 12,
-      "title": "CVE Tracker",
-      "url": "https://cve.0xosprey.com/",
-      "score": 166,
-      "comments": 61,
-      "author": "Group_B"
-    },
-    {
-      "rank": 13,
-      "title": "Apple Security Research Device",
-      "url": "https://security.apple.com/research-device/",
-      "score": 45,
-      "comments": 11,
-      "author": "neom"
-    },
-    {
-      "rank": 14,
-      "title": "The Best Monopoly Strategy, Tested on 300M Games [video]",
-      "url": "https://www.youtube.com/watch?v=S_2eVAaw1UM",
-      "score": 19,
-      "comments": 11,
-      "author": "zdw"
-    },
-    {
-      "rank": 15,
-      "title": "Canadians are running out of time to oppose Bill C-22",
-      "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
-      "score": 405,
-      "comments": 213,
-      "author": "hn_acker"
-    },
-    {
-      "rank": 16,
-      "title": "The Real Kevin Bacon",
-      "url": "https://pudding.cool/2026/10/kevin-bacon/",
-      "score": 297,
-      "comments": 77,
-      "author": "xnx"
-    },
-    {
-      "rank": 17,
-      "title": "The Quake Fan who built the map editor everybody uses",
-      "url": "https://funcarena.com/articles/the-quake-fan-who-built-the-map-editor-everybody-uses",
-      "score": 104,
-      "comments": 7,
-      "author": "klaussilveira"
-    },
-    {
-      "rank": 18,
-      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-      "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
-      "score": 72,
-      "comments": 10,
-      "author": "testing22321"
-    },
-    {
-      "rank": 19,
-      "title": "How Block Blast harvests its players for ad money",
-      "url": "https://ayoships.com/breakdowns/block-blast",
-      "score": 43,
-      "comments": 6,
-      "author": "motionlessveloc"
-    },
-    {
-      "rank": 20,
-      "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
-      "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
-      "score": 26,
-      "comments": 1,
-      "author": "privacyishuman"
-    },
-    {
-      "rank": 21,
-      "title": "C vs. C#: racing VLC's Gaussian blur",
-      "url": "https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/",
-      "score": 69,
-      "comments": 16,
-      "author": "martz"
-    },
-    {
-      "rank": 22,
-      "title": "One Man's Pan Am 747 Replica [video]",
-      "url": "https://www.youtube.com/watch?v=vAFwHGGfPz4",
-      "score": 30,
-      "comments": 1,
-      "author": "Teever"
-    },
-    {
-      "rank": 23,
-      "title": "Air Purifiers as White Noise Machines",
-      "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
-      "score": 122,
-      "comments": 113,
-      "author": "luu"
-    },
-    {
-      "rank": 24,
-      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-      "url": "https://corgi.computer/",
-      "score": 77,
-      "comments": 22,
-      "author": "eiopa"
-    },
-    {
-      "rank": 25,
-      "title": "The past, present, and future share a show floor at Pinball Expo 2026",
-      "url": "https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/",
-      "score": 30,
-      "comments": 6,
-      "author": "civicpivot"
-    },
-    {
-      "rank": 26,
-      "title": "UUIDv7: Timestamps aren’t time-ordered and other oddities",
-      "url": "https://alexsci.com/blog/uuidv7-is-weird/",
-      "score": 142,
-      "comments": 117,
-      "author": "ibobev"
-    },
-    {
-      "rank": 27,
-      "title": "Rise of collagen-eating microbes may help explain gaps in the fossil record",
-      "url": "https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record",
-      "score": 40,
-      "comments": 0,
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "score": 143,
+      "comments": 50,
       "author": "gmays"
     },
     {
+      "rank": 3,
+      "title": "How Japanese Dried Bonito Is Made",
+      "url": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
+      "score": 31,
+      "comments": 6,
+      "author": "bookofjoe"
+    },
+    {
+      "rank": 4,
+      "title": "The Goose Programming Language",
+      "url": "https://aardappel.github.io/goose/",
+      "score": 372,
+      "comments": 243,
+      "author": "bobbydigitales"
+    },
+    {
+      "rank": 5,
+      "title": "SpeedCrunch 1.1",
+      "url": "https://www.speedcrunch.org/",
+      "score": 139,
+      "comments": 24,
+      "author": "LordNibbler"
+    },
+    {
+      "rank": 6,
+      "title": "Small Programs and Languages",
+      "url": "https://ratfactor.com/cards/pl-small",
+      "score": 101,
+      "comments": 7,
+      "author": "andsoitis"
+    },
+    {
+      "rank": 7,
+      "title": "Why Gopher in 2026?",
+      "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
+      "score": 73,
+      "comments": 23,
+      "author": "andsoitis"
+    },
+    {
+      "rank": 8,
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "score": 344,
+      "comments": 337,
+      "author": "gnabgib"
+    },
+    {
+      "rank": 9,
+      "title": "I Built a Stereo Vision Board for Hardware Hackers",
+      "url": "https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/",
+      "score": 71,
+      "comments": 12,
+      "author": "machinehum"
+    },
+    {
+      "rank": 10,
+      "title": "I don't understand quantum physics (2018)",
+      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "score": 314,
+      "comments": 249,
+      "author": "rramadass"
+    },
+    {
+      "rank": 11,
+      "title": "FreeDNS",
+      "url": "https://freedns.afraid.org/",
+      "score": 290,
+      "comments": 74,
+      "author": "esher"
+    },
+    {
+      "rank": 12,
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "url": "https://edjefferson.com/localwiki/",
+      "score": 1584,
+      "comments": 246,
+      "author": "sohkamyung"
+    },
+    {
+      "rank": 13,
+      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+      "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+      "score": 307,
+      "comments": 152,
+      "author": "theanonymousone"
+    },
+    {
+      "rank": 14,
+      "title": "Social dynamics of toxic metal industry in medieval Europe",
+      "url": "https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829",
+      "score": 44,
+      "comments": 15,
+      "author": "XzetaU8"
+    },
+    {
+      "rank": 15,
+      "title": "The Importance of Limitations for Creativity and Learning (2023)",
+      "url": "https://ratfactor.com/cards/limitations",
+      "score": 63,
+      "comments": 17,
+      "author": "andsoitis"
+    },
+    {
+      "rank": 16,
+      "title": "In Rainbows",
+      "url": "https://hitogata.neocities.org/Rainbows",
+      "score": 26,
+      "comments": 7,
+      "author": "surprisetalk"
+    },
+    {
+      "rank": 17,
+      "title": "A story of a Figma bug that wasn't a bug at all (2021)",
+      "url": "https://aresluna.org/this-is-a-story-of-a-figma-bug/",
+      "score": 27,
+      "comments": 1,
+      "author": "jllyhill"
+    },
+    {
+      "rank": 18,
+      "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
+      "url": "https://de.numista.com/9866",
+      "score": 115,
+      "comments": 36,
+      "author": "schleck8"
+    },
+    {
+      "rank": 19,
+      "title": "Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",
+      "url": "https://pragtical.dev/blog/pragtical-v3140-release",
+      "score": 13,
+      "comments": 1,
+      "author": "rd07"
+    },
+    {
+      "rank": 20,
+      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+      "url": "https://github.com/Zagitta/gpu-unlock",
+      "score": 243,
+      "comments": 71,
+      "author": "fragebogen"
+    },
+    {
+      "rank": 21,
+      "title": "Neural chip decodes interactions between brain regions",
+      "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+      "score": 105,
+      "comments": 37,
+      "author": "giuliomagnifico"
+    },
+    {
+      "rank": 22,
+      "title": "Show HN: Steal My Bitcoin",
+      "url": "https://stealmybitcoin.com/",
+      "score": 470,
+      "comments": 293,
+      "author": "cloudlandsdev"
+    },
+    {
+      "rank": 23,
+      "title": "Roku developer repositories moved from GitHub to GitLab",
+      "url": "https://blog.roku.com/developer/gitlab-move",
+      "score": 286,
+      "comments": 197,
+      "author": "cxr"
+    },
+    {
+      "rank": 24,
+      "title": "Rewriting a Commercial Engine in Jai",
+      "url": "https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch",
+      "score": 8,
+      "comments": 1,
+      "author": "frading"
+    },
+    {
+      "rank": 25,
+      "title": "Bbtree: Fastest Ordered Map",
+      "url": "https://bbtree.xiangpeng.systems/post/",
+      "score": 107,
+      "comments": 11,
+      "author": "aoli-al"
+    },
+    {
+      "rank": 26,
+      "title": "Physicists trap a single antimatter particle for a month",
+      "url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
+      "score": 304,
+      "comments": 86,
+      "author": "mooreds"
+    },
+    {
+      "rank": 27,
+      "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
+      "url": "https://github.com/slee-persis/GVS5H",
+      "score": 156,
+      "comments": 54,
+      "author": "rzk"
+    },
+    {
       "rank": 28,
-      "title": "How is music possible",
-      "url": "https://www.henrikkarlsson.xyz/p/music",
-      "score": 129,
-      "comments": 78,
-      "author": "rafaelc"
+      "title": "How close can pure functional programming get to C?",
+      "url": "https://rtfeldman.com/fp-vs-c",
+      "score": 268,
+      "comments": 93,
+      "author": "stmonty"
     },
     {
       "rank": 29,
-      "title": "Is this the new cyber normal?",
-      "url": "https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/",
-      "score": 168,
-      "comments": 202,
-      "author": "drewsberry"
+      "title": "A practical guide to AI image generation, from diffusion to agents",
+      "url": "https://danielball.com/notes/ai_image_generation.html",
+      "score": 263,
+      "comments": 85,
+      "author": "westsmith"
     },
     {
       "rank": 30,
-      "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
-      "score": 97,
-      "comments": 23,
-      "author": "amichail"
+      "title": "Why is AI generated language so hard to understand?",
+      "url": "https://arxiv.org/abs/2610.29162",
+      "score": 196,
+      "comments": 167,
+      "author": "canjobear"
     }
   ]
 }

@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-10-25T08:53:13.935Z",
+  "updatedAt": "2026-10-26T09:35:02.225Z",
   "stories": [
     {
       "rank": 1,
-      "title": "We should be more ambitious with the software we build",
-      "url": "https://danluu.com/ambitious/",
-      "score": 388,
-      "comments": 337,
-      "author": "ltratt"
-    },
-    {
-      "rank": 2,
-      "title": "Cerebras Deploys Trillion-Parameter AI Models",
-      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "score": 143,
-      "comments": 50,
-      "author": "gmays"
-    },
-    {
-      "rank": 3,
-      "title": "How Japanese Dried Bonito Is Made",
-      "url": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
-      "score": 31,
-      "comments": 6,
-      "author": "bookofjoe"
-    },
-    {
-      "rank": 4,
-      "title": "The Goose Programming Language",
-      "url": "https://aardappel.github.io/goose/",
-      "score": 372,
-      "comments": 243,
-      "author": "bobbydigitales"
-    },
-    {
-      "rank": 5,
-      "title": "SpeedCrunch 1.1",
-      "url": "https://www.speedcrunch.org/",
-      "score": 139,
-      "comments": 24,
-      "author": "LordNibbler"
-    },
-    {
-      "rank": 6,
-      "title": "Small Programs and Languages",
-      "url": "https://ratfactor.com/cards/pl-small",
-      "score": 101,
-      "comments": 7,
-      "author": "andsoitis"
-    },
-    {
-      "rank": 7,
-      "title": "Why Gopher in 2026?",
-      "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
-      "score": 73,
-      "comments": 23,
-      "author": "andsoitis"
-    },
-    {
-      "rank": 8,
-      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "score": 344,
-      "comments": 337,
-      "author": "gnabgib"
-    },
-    {
-      "rank": 9,
-      "title": "I Built a Stereo Vision Board for Hardware Hackers",
-      "url": "https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/",
-      "score": 71,
-      "comments": 12,
-      "author": "machinehum"
-    },
-    {
-      "rank": 10,
-      "title": "I don't understand quantum physics (2018)",
-      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-      "score": 314,
-      "comments": 249,
-      "author": "rramadass"
-    },
-    {
-      "rank": 11,
-      "title": "FreeDNS",
-      "url": "https://freedns.afraid.org/",
-      "score": 290,
-      "comments": 74,
-      "author": "esher"
-    },
-    {
-      "rank": 12,
-      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-      "url": "https://edjefferson.com/localwiki/",
-      "score": 1584,
-      "comments": 246,
-      "author": "sohkamyung"
-    },
-    {
-      "rank": 13,
-      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
-      "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
-      "score": 307,
-      "comments": 152,
+      "title": "Switzerland. Block by block. At 1:1 scale",
+      "url": "https://blocks.manifold3d.ch/",
+      "score": 42,
+      "comments": 4,
       "author": "theanonymousone"
     },
     {
+      "rank": 2,
+      "title": "Show HN: TitleArt – Make text like it's 1997",
+      "url": "https://titleart.dvy.io/",
+      "score": 226,
+      "comments": 35,
+      "author": "davidbarker"
+    },
+    {
+      "rank": 3,
+      "title": "The result of the C++26 DIS ballot",
+      "url": "https://train-it.eu/blog/cpp26-contracts-the-ballot-result/",
+      "score": 46,
+      "comments": 33,
+      "author": "uasi"
+    },
+    {
+      "rank": 4,
+      "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+      "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+      "score": 131,
+      "comments": 30,
+      "author": "vardhan1237"
+    },
+    {
+      "rank": 5,
+      "title": "Behind the scenes at the NeXT Computer office",
+      "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
+      "score": 107,
+      "comments": 48,
+      "author": "Austin_Conlon"
+    },
+    {
+      "rank": 6,
+      "title": "Growing Trees",
+      "url": "https://brashandplucky.com/2026/10/15/growing-trees.html",
+      "score": 49,
+      "comments": 4,
+      "author": "ibobev"
+    },
+    {
+      "rank": 7,
+      "title": "Dolly Parton's Imagination Library",
+      "url": "https://imaginationlibrary.com/",
+      "score": 536,
+      "comments": 93,
+      "author": "jumploops"
+    },
+    {
+      "rank": 8,
+      "title": "Show HN: A Truly Modular Keyboard",
+      "url": "https://github.com/notaroomba/keybytes",
+      "score": 153,
+      "comments": 43,
+      "author": "NotARoomba"
+    },
+    {
+      "rank": 9,
+      "title": "Overgrown, when plants invade your abandoned tabs",
+      "url": "https://charliegerard.dev/blog/overgrown-extension/",
+      "score": 269,
+      "comments": 94,
+      "author": "speckx"
+    },
+    {
+      "rank": 10,
+      "title": "Attention Is Not What You Need (2025)",
+      "url": "https://arxiv.org/abs/2512.19428",
+      "score": 104,
+      "comments": 37,
+      "author": "westurner"
+    },
+    {
+      "rank": 11,
+      "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
+      "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
+      "score": 57,
+      "comments": 23,
+      "author": "gmays"
+    },
+    {
+      "rank": 12,
+      "title": "Iron Age salt-mining complex found beneath Hallstatt in Austria",
+      "url": "https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt/",
+      "score": 73,
+      "comments": 17,
+      "author": "janandonly"
+    },
+    {
+      "rank": 13,
+      "title": "IBM CEO says open weight models are now good and cheap on-prem",
+      "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+      "score": 237,
+      "comments": 137,
+      "author": "Betelbuddy"
+    },
+    {
       "rank": 14,
-      "title": "Social dynamics of toxic metal industry in medieval Europe",
-      "url": "https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829",
-      "score": 44,
-      "comments": 15,
-      "author": "XzetaU8"
+      "title": "Birdwatching rewires the brain and slows cognitive decline",
+      "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
+      "score": 11,
+      "comments": 2,
+      "author": "cisc"
     },
     {
       "rank": 15,
-      "title": "The Importance of Limitations for Creativity and Learning (2023)",
-      "url": "https://ratfactor.com/cards/limitations",
-      "score": 63,
-      "comments": 17,
-      "author": "andsoitis"
+      "title": "Why I Am a Programmer",
+      "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+      "score": 224,
+      "comments": 67,
+      "author": "jruohonen"
     },
     {
       "rank": 16,
-      "title": "In Rainbows",
-      "url": "https://hitogata.neocities.org/Rainbows",
-      "score": 26,
-      "comments": 7,
-      "author": "surprisetalk"
+      "title": "Superhuman Hardware Design Is the Easy Part",
+      "url": "https://www.a16z.news/p/superhuman-hardware-design-is-the",
+      "score": 14,
+      "comments": 2,
+      "author": "gmays"
     },
     {
       "rank": 17,
-      "title": "A story of a Figma bug that wasn't a bug at all (2021)",
-      "url": "https://aresluna.org/this-is-a-story-of-a-figma-bug/",
-      "score": 27,
-      "comments": 1,
-      "author": "jllyhill"
+      "title": "F-Zero X on Nintendo 3DS",
+      "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+      "score": 115,
+      "comments": 58,
+      "author": "bpierre"
     },
     {
       "rank": 18,
-      "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
-      "url": "https://de.numista.com/9866",
-      "score": 115,
-      "comments": 36,
-      "author": "schleck8"
+      "title": "Steal My Bitcoin CTF PoC",
+      "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+      "score": 112,
+      "comments": 23,
+      "author": "davikr"
     },
     {
       "rank": 19,
-      "title": "Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",
-      "url": "https://pragtical.dev/blog/pragtical-v3140-release",
-      "score": 13,
-      "comments": 1,
-      "author": "rd07"
+      "title": "The State of Context Engineering",
+      "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+      "score": 183,
+      "comments": 42,
+      "author": "pchristensen"
     },
     {
       "rank": 20,
-      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-      "url": "https://github.com/Zagitta/gpu-unlock",
-      "score": 243,
-      "comments": 71,
-      "author": "fragebogen"
+      "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
+      "url": "https://adrs.systems",
+      "score": 43,
+      "comments": 23,
+      "author": "lumbroso"
     },
     {
       "rank": 21,
-      "title": "Neural chip decodes interactions between brain regions",
-      "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
-      "score": 105,
-      "comments": 37,
-      "author": "giuliomagnifico"
+      "title": "We should be more ambitious with the software we build",
+      "url": "https://danluu.com/ambitious/",
+      "score": 802,
+      "comments": 711,
+      "author": "ltratt"
     },
     {
       "rank": 22,
-      "title": "Show HN: Steal My Bitcoin",
-      "url": "https://stealmybitcoin.com/",
-      "score": 470,
-      "comments": 293,
-      "author": "cloudlandsdev"
+      "title": "Amazon’s “digital pacifier” for toddlers",
+      "url": "https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers",
+      "score": 189,
+      "comments": 266,
+      "author": "jumploops"
     },
     {
       "rank": 23,
-      "title": "Roku developer repositories moved from GitHub to GitLab",
-      "url": "https://blog.roku.com/developer/gitlab-move",
-      "score": 286,
-      "comments": 197,
-      "author": "cxr"
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "url": "https://lynchlab.net/llm-skin-cancer",
+      "score": 551,
+      "comments": 237,
+      "author": "sungam"
     },
     {
       "rank": 24,
-      "title": "Rewriting a Commercial Engine in Jai",
-      "url": "https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch",
-      "score": 8,
-      "comments": 1,
-      "author": "frading"
+      "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
+      "url": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
+      "score": 135,
+      "comments": 75,
+      "author": "textlanes33"
     },
     {
       "rank": 25,
-      "title": "Bbtree: Fastest Ordered Map",
-      "url": "https://bbtree.xiangpeng.systems/post/",
-      "score": 107,
-      "comments": 11,
-      "author": "aoli-al"
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "url": "https://minimaxir.com/2026/10/cheap-llms/",
+      "score": 309,
+      "comments": 301,
+      "author": "minimaxir"
     },
     {
       "rank": 26,
-      "title": "Physicists trap a single antimatter particle for a month",
-      "url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
-      "score": 304,
-      "comments": 86,
-      "author": "mooreds"
+      "title": "Where the Romans Fought (interactive map)",
+      "url": "https://iosiflazaridis.github.io/battles-of-the-romans/",
+      "score": 95,
+      "comments": 35,
+      "author": "endorphine"
     },
     {
       "rank": 27,
-      "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
-      "url": "https://github.com/slee-persis/GVS5H",
-      "score": 156,
-      "comments": 54,
-      "author": "rzk"
+      "title": "Making the Buddha Head from Merv Whole Again",
+      "url": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
+      "score": 46,
+      "comments": 0,
+      "author": "laybak"
     },
     {
       "rank": 28,
-      "title": "How close can pure functional programming get to C?",
-      "url": "https://rtfeldman.com/fp-vs-c",
-      "score": 268,
-      "comments": 93,
-      "author": "stmonty"
+      "title": "What goes into making an animated film?",
+      "url": "https://www.disneyanimation.com/process/",
+      "score": 140,
+      "comments": 62,
+      "author": "embedding-shape"
     },
     {
       "rank": 29,
-      "title": "A practical guide to AI image generation, from diffusion to agents",
-      "url": "https://danielball.com/notes/ai_image_generation.html",
-      "score": 263,
-      "comments": 85,
-      "author": "westsmith"
+      "title": "Active incident at Dreamhost forcing password reset",
+      "url": "https://www.dreamhoststatus.com/",
+      "score": 151,
+      "comments": 59,
+      "author": "greenchair"
     },
     {
       "rank": 30,
-      "title": "Why is AI generated language so hard to understand?",
-      "url": "https://arxiv.org/abs/2610.29162",
-      "score": 196,
-      "comments": 167,
-      "author": "canjobear"
+      "title": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management",
+      "url": "https://proc-cli.com/",
+      "score": 11,
+      "comments": 0,
+      "author": "yazeedaloyoun"
     }
   ]
 }

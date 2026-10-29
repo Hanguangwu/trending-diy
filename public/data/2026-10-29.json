@@ -1,0 +1,473 @@
+{
+  "date": "2026-10-29",
+  "updatedAt": "2026-10-29T10:40:16.653Z",
+  "github": {
+    "updatedAt": "2026-10-29T10:40:14.240Z",
+    "repos": [
+      {
+        "rank": 1,
+        "author": "JetBrains",
+        "name": "thinkrail",
+        "fullName": "JetBrains/thinkrail",
+        "url": "https://github.com/JetBrains/thinkrail",
+        "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 5598,
+        "forks": 287,
+        "builtBy": [
+          {
+            "username": "rsolmano",
+            "avatar": "https://avatars.githubusercontent.com/u/177517595?s=40&40&v=4"
+          },
+          {
+            "username": "danyaberezun",
+            "avatar": "https://avatars.githubusercontent.com/u/3789877?s=40&40&v=4"
+          },
+          {
+            "username": "OLavrik",
+            "avatar": "https://avatars.githubusercontent.com/u/14210843?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "SBOne-Kenobi",
+            "avatar": "https://avatars.githubusercontent.com/u/54807972?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "author": "elayadesign",
+        "name": "ai-design-skills",
+        "fullName": "elayadesign/ai-design-skills",
+        "url": "https://github.com/elayadesign/ai-design-skills",
+        "description": "",
+        "language": null,
+        "languageColor": null,
+        "starsToday": 0,
+        "totalStars": 11653,
+        "forks": 842,
+        "builtBy": [
+          {
+            "username": "elayadesign",
+            "avatar": "https://avatars.githubusercontent.com/u/218383883?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "author": "obra",
+        "name": "superpowers",
+        "fullName": "obra/superpowers",
+        "url": "https://github.com/obra/superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "languageColor": "#89e051",
+        "starsToday": 0,
+        "totalStars": 307851,
+        "forks": 27378,
+        "builtBy": [
+          {
+            "username": "obra",
+            "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&40&v=4"
+          },
+          {
+            "username": "arittr",
+            "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "clkao",
+            "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&40&v=4"
+          },
+          {
+            "username": "arimu1",
+            "avatar": "https://avatars.githubusercontent.com/u/19286898?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "author": "HKUDS",
+        "name": "DeepTutor",
+        "fullName": "HKUDS/DeepTutor",
+        "url": "https://github.com/HKUDS/DeepTutor",
+        "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 48926,
+        "forks": 6056,
+        "builtBy": [
+          {
+            "username": "pancacake",
+            "avatar": "https://avatars.githubusercontent.com/u/150592536?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "Pinkllow",
+            "avatar": "https://avatars.githubusercontent.com/u/272976591?s=40&40&v=4"
+          },
+          {
+            "username": "evan188199-tech",
+            "avatar": "https://avatars.githubusercontent.com/u/238371241?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "author": "macro-inc",
+        "name": "macro",
+        "fullName": "macro-inc/macro",
+        "url": "https://github.com/macro-inc/macro",
+        "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 5620,
+        "forks": 531,
+        "builtBy": [
+          {
+            "username": "gbirman",
+            "avatar": "https://avatars.githubusercontent.com/u/25272206?s=40&40&v=4"
+          },
+          {
+            "username": "whutchinson98",
+            "avatar": "https://avatars.githubusercontent.com/u/6412775?s=40&40&v=4"
+          },
+          {
+            "username": "synoet",
+            "avatar": "https://avatars.githubusercontent.com/u/10552019?s=40&40&v=4"
+          },
+          {
+            "username": "sedson",
+            "avatar": "https://avatars.githubusercontent.com/u/11590722?s=40&40&v=4"
+          },
+          {
+            "username": "peterchinman",
+            "avatar": "https://avatars.githubusercontent.com/u/56948273?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "author": "Nutlope",
+        "name": "hallmark",
+        "fullName": "Nutlope/hallmark",
+        "url": "https://github.com/Nutlope/hallmark",
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "language": "CSS",
+        "languageColor": "#663399",
+        "starsToday": 0,
+        "totalStars": 41382,
+        "forks": 2150,
+        "builtBy": [
+          {
+            "username": "Luffixos",
+            "avatar": "https://avatars.githubusercontent.com/u/154055839?s=40&40&v=4"
+          },
+          {
+            "username": "Nutlope",
+            "avatar": "https://avatars.githubusercontent.com/u/63742054?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "riccardogiorato",
+            "avatar": "https://avatars.githubusercontent.com/u/4527364?s=40&40&v=4"
+          },
+          {
+            "username": "JaySmith502",
+            "avatar": "https://avatars.githubusercontent.com/u/8827236?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "author": "pbakaus",
+        "name": "impeccable",
+        "fullName": "pbakaus/impeccable",
+        "url": "https://github.com/pbakaus/impeccable",
+        "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 94019,
+        "forks": 5556,
+        "builtBy": [
+          {
+            "username": "pbakaus",
+            "avatar": "https://avatars.githubusercontent.com/u/43004?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "abdulwahabone",
+            "avatar": "https://avatars.githubusercontent.com/u/32850166?s=40&40&v=4"
+          },
+          {
+            "username": "cursoragent",
+            "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "author": "makecindy",
+        "name": "cindy",
+        "fullName": "makecindy/cindy",
+        "url": "https://github.com/makecindy/cindy",
+        "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 8443,
+        "forks": 990,
+        "builtBy": [
+          {
+            "username": "dashhuang",
+            "avatar": "https://avatars.githubusercontent.com/u/125997726?s=40&40&v=4"
+          },
+          {
+            "username": "zqchris",
+            "avatar": "https://avatars.githubusercontent.com/u/4436110?s=40&40&v=4"
+          },
+          {
+            "username": "MagicLizi",
+            "avatar": "https://avatars.githubusercontent.com/u/17176223?s=40&40&v=4"
+          },
+          {
+            "username": "DavidShenXD",
+            "avatar": "https://avatars.githubusercontent.com/u/290921921?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "author": "nightly-labs",
+        "name": "openbot",
+        "fullName": "nightly-labs/openbot",
+        "url": "https://github.com/nightly-labs/openbot",
+        "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 3559,
+        "forks": 336,
+        "builtBy": [
+          {
+            "username": "NorbertBodziony",
+            "avatar": "https://avatars.githubusercontent.com/u/38857779?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "Sniezka1927",
+            "avatar": "https://avatars.githubusercontent.com/u/48182795?s=40&40&v=4"
+          },
+          {
+            "username": "nrb-dev",
+            "avatar": "https://avatars.githubusercontent.com/u/90916274?s=40&40&v=4"
+          },
+          {
+            "username": "aniruddhaadak80",
+            "avatar": "https://avatars.githubusercontent.com/u/127435065?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "author": "togg53192-cmd",
+        "name": "jailbreaks",
+        "fullName": "togg53192-cmd/jailbreaks",
+        "url": "https://github.com/togg53192-cmd/jailbreaks",
+        "description": "LIST OF ALL MY JAILBREAKS",
+        "language": null,
+        "languageColor": null,
+        "starsToday": 0,
+        "totalStars": 7820,
+        "forks": 1105,
+        "builtBy": [
+          {
+            "username": "togg53192-cmd",
+            "avatar": "https://avatars.githubusercontent.com/u/222877182?s=40&40&v=4"
+          },
+          {
+            "username": "raghavraut",
+            "avatar": "https://avatars.githubusercontent.com/u/282240492?s=40&40&v=4"
+          },
+          {
+            "username": "metalim",
+            "avatar": "https://avatars.githubusercontent.com/u/230431?s=40&40&v=4"
+          },
+          {
+            "username": "reblox01",
+            "avatar": "https://avatars.githubusercontent.com/u/74146687?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 11,
+        "author": "hmjz100",
+        "name": "LinkSwift",
+        "fullName": "hmjz100/LinkSwift",
+        "url": "https://github.com/hmjz100/LinkSwift",
+        "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 35934,
+        "forks": 2548,
+        "builtBy": [
+          {
+            "username": "hmjz100",
+            "avatar": "https://avatars.githubusercontent.com/u/98228280?s=40&40&v=4"
+          },
+          {
+            "username": "MisaLiu",
+            "avatar": "https://avatars.githubusercontent.com/u/62408957?s=40&40&v=4"
+          },
+          {
+            "username": "Night-stars-1",
+            "avatar": "https://avatars.githubusercontent.com/u/99261160?s=40&40&v=4"
+          },
+          {
+            "username": "sherlocknieh",
+            "avatar": "https://avatars.githubusercontent.com/u/43476643?s=40&40&v=4"
+          },
+          {
+            "username": "DeepslateQAQ",
+            "avatar": "https://avatars.githubusercontent.com/u/46892455?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 12,
+        "author": "expo",
+        "name": "skills",
+        "fullName": "expo/skills",
+        "url": "https://github.com/expo/skills",
+        "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+        "language": "Shell",
+        "languageColor": "#89e051",
+        "starsToday": 0,
+        "totalStars": 3736,
+        "forks": 235,
+        "builtBy": [
+          {
+            "username": "EvanBacon",
+            "avatar": "https://avatars.githubusercontent.com/u/9664363?s=40&40&v=4"
+          },
+          {
+            "username": "Kudo",
+            "avatar": "https://avatars.githubusercontent.com/u/46429?s=40&40&v=4"
+          },
+          {
+            "username": "gwdp",
+            "avatar": "https://avatars.githubusercontent.com/u/215459?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "ide",
+            "avatar": "https://avatars.githubusercontent.com/u/379606?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 13,
+        "author": "ruvnet",
+        "name": "RuView",
+        "fullName": "ruvnet/RuView",
+        "url": "https://github.com/ruvnet/RuView",
+        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 101438,
+        "forks": 13184,
+        "builtBy": [
+          {
+            "username": "ruvnet",
+            "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "proffesor-for-testing",
+            "avatar": "https://avatars.githubusercontent.com/u/214853444?s=40&40&v=4"
+          },
+          {
+            "username": "aepod",
+            "avatar": "https://avatars.githubusercontent.com/u/124563?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 14,
+        "author": "xiaolai",
+        "name": "the-craft-of-selfteaching",
+        "fullName": "xiaolai/the-craft-of-selfteaching",
+        "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
+        "description": "One has no future if one couldn't teach themself.",
+        "language": "Jupyter Notebook",
+        "languageColor": "#DA5B0B",
+        "starsToday": 0,
+        "totalStars": 18801,
+        "forks": 17927,
+        "builtBy": [
+          {
+            "username": "xiaolai",
+            "avatar": "https://avatars.githubusercontent.com/u/152970?s=40&40&v=4"
+          },
+          {
+            "username": "wpeiran",
+            "avatar": "https://avatars.githubusercontent.com/u/45680845?s=40&40&v=4"
+          },
+          {
+            "username": "towerzju",
+            "avatar": "https://avatars.githubusercontent.com/u/23193127?s=40&40&v=4"
+          },
+          {
+            "username": "HarryYC",
+            "avatar": "https://avatars.githubusercontent.com/u/12432409?s=40&40&v=4"
+          },
+          {
+            "username": "ljqbpm",
+            "avatar": "https://avatars.githubusercontent.com/u/16041286?s=40&40&v=4"
+          }
+        ]
+      }
+    ]
+  },
+  "productHunt": null,
+  "hackerNews": null
+}

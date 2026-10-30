@@ -1,237 +1,237 @@
 {
-  "updatedAt": "2026-10-29T10:40:16.645Z",
+  "updatedAt": "2026-10-30T10:41:04.573Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-      "url": "https://divagr.com/blog/qwenputer",
-      "score": 483,
-      "comments": 100,
-      "author": "csmantle"
+      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+      "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+      "score": 1391,
+      "comments": 888,
+      "author": "Tiberium"
     },
     {
       "rank": 2,
-      "title": "Zero click, silent, remote Android DoS",
-      "url": "https://smsofdeath.com/",
-      "score": 88,
-      "comments": 45,
-      "author": "MarkBlah"
+      "title": "We're releasing the weights of Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4-oss/",
+      "score": 1496,
+      "comments": 398,
+      "author": "kuberwastaken"
     },
     {
       "rank": 3,
-      "title": "Why is this fingerprinting script creating bioweapons?",
-      "url": "https://nullpt.rs/fingerprinting-bioweapons",
-      "score": 1258,
-      "comments": 239,
-      "author": "hazebooth"
+      "title": "How Do You Take a Picture of a Black Hole?",
+      "url": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
+      "score": 7,
+      "comments": 2,
+      "author": "dverlaeckt80"
     },
     {
       "rank": 4,
-      "title": "Getting debug access on a Brother printer over Telnet",
-      "url": "https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/",
-      "score": 55,
+      "title": "Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated",
+      "url": "https://www.theguardian.com/books/2026/oct/20/gilgamesh-by-simon-armitage-review-an-ancient-epic-is-brilliantly-translated-for-our-times",
+      "score": 41,
       "comments": 14,
-      "author": "inventor7777"
+      "author": "benbreen"
     },
     {
       "rank": 5,
-      "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
-      "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
-      "score": 65,
+      "title": "Cuis: The Modern Smalltalk-80",
+      "url": "https://cuis.st/",
+      "score": 125,
       "comments": 16,
-      "author": "austinallegro"
+      "author": "theanonymousone"
     },
     {
       "rank": 6,
-      "title": "OpenAI's agents talked to each other through the CPU Cache",
-      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
-      "score": 169,
-      "comments": 79,
-      "author": "limbicsystem"
-    },
-    {
-      "rank": 7,
-      "title": "StackOverflow now gets fewer than 1000 questions a month",
-      "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
-      "score": 475,
-      "comments": 399,
-      "author": "babelfish"
-    },
-    {
-      "rank": 8,
-      "title": "A Health Update",
-      "url": "https://furbo.org/2026/10/28/a-health-update/",
-      "score": 265,
-      "comments": 42,
-      "author": "frizlab"
-    },
-    {
-      "rank": 9,
-      "title": "MiniLake Is a Local Databricks API Emulator with SQL, Delta Lake and Spark",
-      "url": "https://dmux.github.io/minilake/",
-      "score": 18,
-      "comments": 2,
-      "author": "kermatt"
-    },
-    {
-      "rank": 10,
-      "title": "A new faster algorithm to compute 64-bit signed floor division",
-      "url": "https://www.benjoffe.com/fast-floordiv",
-      "score": 69,
-      "comments": 5,
-      "author": "benjoffe"
-    },
-    {
-      "rank": 11,
-      "title": "CNC Stone Carving",
-      "url": "https://carmelitegothic.com/cnc-stone-carving/",
-      "score": 476,
-      "comments": 131,
-      "author": "bschne"
-    },
-    {
-      "rank": 12,
-      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
-      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-      "score": 182,
-      "comments": 89,
-      "author": "sashk"
-    },
-    {
-      "rank": 13,
-      "title": "Claude Code regularly sends each background agent’s transcript to its model",
-      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-      "score": 391,
-      "comments": 136,
-      "author": "NikZaal"
-    },
-    {
-      "rank": 14,
-      "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
-      "url": "https://www.circuithub.com/post/unveiling-the-grid",
-      "score": 503,
-      "comments": 229,
-      "author": "seddona"
-    },
-    {
-      "rank": 15,
-      "title": "Formlabs Studio 1 $699 Resin Printer",
-      "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
-      "score": 189,
-      "comments": 125,
-      "author": "mhb"
-    },
-    {
-      "rank": 16,
-      "title": "Gemini 4 Carbon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-      "score": 940,
-      "comments": 759,
-      "author": "acossta"
-    },
-    {
-      "rank": 17,
-      "title": "Treap (Cartesian Tree)",
-      "url": "https://cp-algorithms.com/data_structures/treap.html",
-      "score": 28,
-      "comments": 3,
-      "author": "vismit2000"
-    },
-    {
-      "rank": 18,
-      "title": "Spain train crash: What we know after two trains crashed with dozens feared dead",
-      "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
-      "score": 17,
-      "comments": 5,
-      "author": "ZeljkoS"
-    },
-    {
-      "rank": 19,
-      "title": "Cuba is skipping its November 1, 2026 clock change and staying on DST until 2027",
-      "url": "https://www.timeanddate.com/news/time/cuba-keeps-dst-until-nov-2027.html",
-      "score": 65,
-      "comments": 121,
-      "author": "n_plus_1_acc"
-    },
-    {
-      "rank": 20,
-      "title": "Why birds can fly over Mount Everest (2020)",
-      "url": "https://lede-v2.nautil.us/why-birds-can-fly-over-mount-everest-237864",
-      "score": 167,
-      "comments": 34,
-      "author": "andsoitis"
-    },
-    {
-      "rank": 21,
-      "title": "Human-enhanced tsunami hazard in large lakes",
-      "url": "https://www.nature.com/articles/s41467-026-78272-8",
-      "score": 38,
-      "comments": 3,
-      "author": "gumby"
-    },
-    {
-      "rank": 22,
-      "title": "MacBook Pro with PROLED XDR Display and Touch",
-      "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
-      "score": 578,
-      "comments": 983,
-      "author": "etothet"
-    },
-    {
-      "rank": 23,
-      "title": "Nixpkgs for the Front End Impaired",
-      "url": "https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired",
-      "score": 66,
-      "comments": 13,
+      "title": "I'm so bad at billiards that I ended up in the hyperbolic plane [video]",
+      "url": "https://www.youtube.com/watch?v=kL9BTbIGxLg",
+      "score": 141,
+      "comments": 18,
       "author": "surprisetalk"
     },
     {
-      "rank": 24,
-      "title": "AlpineBSD",
-      "url": "https://wiki.alpinebsd.org",
-      "score": 219,
-      "comments": 210,
-      "author": "bradley_taunt"
+      "rank": 7,
+      "title": "Herdr has released native app",
+      "url": "https://github.com/herdrdev/herdr-app",
+      "score": 215,
+      "comments": 140,
+      "author": "cherioo"
     },
     {
-      "rank": 25,
-      "title": "Apple's git still trusts the compromised eMudhra certificates",
-      "url": "https://emudhra.we-have-a-problem.com/apple.html",
-      "score": 1137,
-      "comments": 397,
-      "author": "galadran"
+      "rank": 8,
+      "title": "Astroterm: A Planetarium for Your Terminal",
+      "url": "https://github.com/da-luce/astroterm",
+      "score": 144,
+      "comments": 12,
+      "author": "nvmdbljstm"
     },
     {
-      "rank": 26,
-      "title": "Scaling Hierarchical Networks",
-      "url": "https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1",
-      "score": 73,
-      "comments": 4,
-      "author": "guybedo"
+      "rank": 9,
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "score": 293,
+      "comments": 105,
+      "author": "sandslash"
     },
     {
-      "rank": 28,
-      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-      "url": "https://surgehq.ai/blog/dayjob-tax",
-      "score": 238,
-      "comments": 153,
-      "author": "landonxi"
+      "rank": 10,
+      "title": "Artificial Analysis v5 and the benchmarker's dilemma",
+      "url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+      "score": 20,
+      "comments": 3,
+      "author": "6thbit"
     },
     {
-      "rank": 29,
-      "title": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
-      "url": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
-      "score": 66,
-      "comments": 6,
+      "rank": 11,
+      "title": "H.264 Is Magic (2016)",
+      "url": "https://sidbala.com/h-264-is-magic/",
+      "score": 438,
+      "comments": 150,
+      "author": "ea016"
+    },
+    {
+      "rank": 12,
+      "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+      "url": "https://github.com/SheepSeb/tinyworldformer",
+      "score": 214,
+      "comments": 15,
+      "author": "airinei"
+    },
+    {
+      "rank": 14,
+      "title": "Show HN: I Turned DOOM into a Transformer",
+      "url": "https://github.com/mottopanikeiku/doomformer",
+      "score": 94,
+      "comments": 29,
+      "author": "falperc"
+    },
+    {
+      "rank": 15,
+      "title": "LLM Voice",
+      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "score": 487,
+      "comments": 255,
       "author": "ibobev"
     },
     {
+      "rank": 16,
+      "title": "'Elite North Korean hackers' blamed for $6.3B Binance hack",
+      "url": "https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates",
+      "score": 57,
+      "comments": 51,
+      "author": "tosh"
+    },
+    {
+      "rank": 17,
+      "title": "Why a program doesn't work when run from a batch file, but works when clicked",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/",
+      "score": 25,
+      "comments": 2,
+      "author": "ibobev"
+    },
+    {
+      "rank": 18,
+      "title": "Python on My Wrist",
+      "url": "https://tildeweb.nl/~michiel/python-on-my-wrist.html",
+      "score": 48,
+      "comments": 6,
+      "author": "roywashere"
+    },
+    {
+      "rank": 19,
+      "title": "Pico CSS is no longer maintained",
+      "url": "https://github.com/picocss/pico/discussions/754",
+      "score": 147,
+      "comments": 64,
+      "author": "henrid"
+    },
+    {
+      "rank": 20,
+      "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
+      "url": "https://news.ycombinator.com/item?id=50291116",
+      "score": 69,
+      "comments": 24,
+      "author": "shong0504"
+    },
+    {
+      "rank": 21,
+      "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
+      "url": "https://journal.animationstudies.org/article/id/66/",
+      "score": 122,
+      "comments": 29,
+      "author": "simonebrunozzi"
+    },
+    {
+      "rank": 22,
+      "title": "An illustrated online book on Hewlett-Packard equipment",
+      "url": "https://blog.adafruit.com/2026/10/27/an-illustrated-online-book-on-hewlett-packard-equipment/",
+      "score": 21,
+      "comments": 4,
+      "author": "sohkamyung"
+    },
+    {
+      "rank": 23,
+      "title": "Patrick Stewart has died",
+      "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+      "score": 3011,
+      "comments": 641,
+      "author": "j4mie"
+    },
+    {
+      "rank": 24,
+      "title": "If IPv4 were land",
+      "url": "https://iptrust.co/blog/if-ipv4-were-land",
+      "score": 290,
+      "comments": 407,
+      "author": "rokostik"
+    },
+    {
+      "rank": 25,
+      "title": "What we know so far about Spain train crash",
+      "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
+      "score": 209,
+      "comments": 375,
+      "author": "ZeljkoS"
+    },
+    {
+      "rank": 26,
+      "title": "Should a medical diagnosis reshape the past? (2025)",
+      "url": "https://chengela.substack.com/p/should-a-medical-diagnosis-reshape",
+      "score": 45,
+      "comments": 9,
+      "author": "wyndham"
+    },
+    {
+      "rank": 27,
+      "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
+      "url": "https://github.com/johncassil/dontallow",
+      "score": 138,
+      "comments": 104,
+      "author": "johncassil"
+    },
+    {
+      "rank": 28,
+      "title": "ElementaryUI – Swift, in the Browser",
+      "url": "https://elementary.codes",
+      "score": 106,
+      "comments": 31,
+      "author": "frizlab"
+    },
+    {
+      "rank": 29,
+      "title": "16colo.rs – ANSI/ASCII art archive",
+      "url": "https://16colo.rs/",
+      "score": 123,
+      "comments": 9,
+      "author": "memalign"
+    },
+    {
       "rank": 30,
-      "title": "The Agent SDK",
-      "url": "https://cursor.com/blog/agent-sdk",
-      "score": 131,
-      "comments": 125,
-      "author": "torutofu"
+      "title": "Historical Scientific Instruments",
+      "url": "https://nealstephenson.substack.com/p/historical-scientific-instruments",
+      "score": 41,
+      "comments": 3,
+      "author": "peteforde"
     }
   ]
 }

@@ -1,237 +1,245 @@
 {
-  "updatedAt": "2026-10-30T10:41:04.573Z",
+  "updatedAt": "2026-10-31T10:07:36.188Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
-      "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
-      "score": 1391,
-      "comments": 888,
-      "author": "Tiberium"
+      "title": "Switch Lowering in GCC",
+      "url": "https://xoranth.net/gcc-switch/",
+      "score": 50,
+      "comments": 2,
+      "author": "signa11"
     },
     {
       "rank": 2,
-      "title": "We're releasing the weights of Mistral Large 4",
-      "url": "https://mistral.ai/news/mistral-large-4-oss/",
-      "score": 1496,
-      "comments": 398,
-      "author": "kuberwastaken"
+      "title": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
+      "url": "https://zebra.rodeo/en/blog/marelleo/",
+      "score": 46,
+      "comments": 15,
+      "author": "foOg"
     },
     {
       "rank": 3,
-      "title": "How Do You Take a Picture of a Black Hole?",
-      "url": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
-      "score": 7,
-      "comments": 2,
-      "author": "dverlaeckt80"
+      "title": "Digital Minimalism",
+      "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+      "score": 37,
+      "comments": 15,
+      "author": "wilbertliu"
     },
     {
       "rank": 4,
-      "title": "Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated",
-      "url": "https://www.theguardian.com/books/2026/oct/20/gilgamesh-by-simon-armitage-review-an-ancient-epic-is-brilliantly-translated-for-our-times",
-      "score": 41,
-      "comments": 14,
-      "author": "benbreen"
+      "title": "My favourite PowerMac is a Nintendo Wii",
+      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+      "score": 309,
+      "comments": 88,
+      "author": "DHowett"
     },
     {
       "rank": 5,
-      "title": "Cuis: The Modern Smalltalk-80",
-      "url": "https://cuis.st/",
-      "score": 125,
-      "comments": 16,
-      "author": "theanonymousone"
+      "title": "Cloudflare Turnstile solver library (no headless browser required)",
+      "url": "https://github.com/chris124567/cfsolve",
+      "score": 207,
+      "comments": 60,
+      "author": "costco"
     },
     {
       "rank": 6,
-      "title": "I'm so bad at billiards that I ended up in the hyperbolic plane [video]",
-      "url": "https://www.youtube.com/watch?v=kL9BTbIGxLg",
-      "score": 141,
-      "comments": 18,
-      "author": "surprisetalk"
+      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+      "score": 455,
+      "comments": 304,
+      "author": "domhudson"
     },
     {
       "rank": 7,
-      "title": "Herdr has released native app",
-      "url": "https://github.com/herdrdev/herdr-app",
-      "score": 215,
-      "comments": 140,
-      "author": "cherioo"
+      "title": "Northflank Breached",
+      "url": "https://status.northflank.com",
+      "score": 434,
+      "comments": 315,
+      "author": "js4ever"
     },
     {
       "rank": 8,
-      "title": "Astroterm: A Planetarium for Your Terminal",
-      "url": "https://github.com/da-luce/astroterm",
-      "score": 144,
-      "comments": 12,
-      "author": "nvmdbljstm"
+      "title": "Tell HN: Scribd Breached",
+      "url": "https://news.ycombinator.com/item?id=50312756",
+      "score": 205,
+      "comments": 84,
+      "author": "x______________"
     },
     {
       "rank": 9,
-      "title": "We ran AI agent swarms in Minecraft and Mindustry",
-      "url": "https://labs.ycombinator.com/projects/games/index.html",
-      "score": 293,
-      "comments": 105,
-      "author": "sandslash"
+      "title": "Breaking the open web won't stop the bad bots",
+      "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
+      "score": 261,
+      "comments": 111,
+      "author": "raybb"
     },
     {
       "rank": 10,
-      "title": "Artificial Analysis v5 and the benchmarker's dilemma",
-      "url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
-      "score": 20,
-      "comments": 3,
-      "author": "6thbit"
+      "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+      "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
+      "score": 29,
+      "comments": 2,
+      "author": "datascientist"
     },
     {
       "rank": 11,
-      "title": "H.264 Is Magic (2016)",
-      "url": "https://sidbala.com/h-264-is-magic/",
-      "score": 438,
-      "comments": 150,
-      "author": "ea016"
+      "title": "Longitudinal Changes InWearable-Captured PhysiologyBefore Sudden Cardiac Death",
+      "url": "https://www.jacc.org/doi/epdf/10.1016/j.jaccas.2026.110397",
+      "score": 32,
+      "comments": 17,
+      "author": "brandonb"
     },
     {
       "rank": 12,
-      "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
-      "url": "https://github.com/SheepSeb/tinyworldformer",
-      "score": 214,
-      "comments": 15,
-      "author": "airinei"
+      "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+      "url": "https://github.com/dbreunig/nesformer",
+      "score": 252,
+      "comments": 122,
+      "author": "dbreunig"
+    },
+    {
+      "rank": 13,
+      "title": "The oldest ice disappears and the Stone Age emerges from it",
+      "url": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
+      "score": 152,
+      "comments": 59,
+      "author": "dxs"
     },
     {
       "rank": 14,
-      "title": "Show HN: I Turned DOOM into a Transformer",
-      "url": "https://github.com/mottopanikeiku/doomformer",
-      "score": 94,
-      "comments": 29,
-      "author": "falperc"
+      "title": "Florilegium: Procedural Flowers in LaTeX",
+      "url": "https://github.com/kevinraymond/florilegium",
+      "score": 280,
+      "comments": 47,
+      "author": "nanna"
     },
     {
       "rank": 15,
-      "title": "LLM Voice",
-      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
-      "score": 487,
-      "comments": 255,
-      "author": "ibobev"
+      "title": "Infinite Mac: BeOS",
+      "url": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
+      "score": 157,
+      "comments": 70,
+      "author": "ecliptik"
     },
     {
       "rank": 16,
-      "title": "'Elite North Korean hackers' blamed for $6.3B Binance hack",
-      "url": "https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates",
-      "score": 57,
-      "comments": 51,
-      "author": "tosh"
+      "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+      "url": "https://tng.episodle.com/",
+      "score": 192,
+      "comments": 54,
+      "author": "francisofascii"
     },
     {
       "rank": 17,
-      "title": "Why a program doesn't work when run from a batch file, but works when clicked",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/",
-      "score": 25,
-      "comments": 2,
-      "author": "ibobev"
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "score": 893,
+      "comments": 529,
+      "author": "_chall"
     },
     {
       "rank": 18,
-      "title": "Python on My Wrist",
-      "url": "https://tildeweb.nl/~michiel/python-on-my-wrist.html",
-      "score": 48,
-      "comments": 6,
-      "author": "roywashere"
+      "title": "The federated code forge",
+      "url": "https://tangled.org/blog/forge/",
+      "score": 289,
+      "comments": 85,
+      "author": "zlliang"
     },
     {
       "rank": 19,
-      "title": "Pico CSS is no longer maintained",
-      "url": "https://github.com/picocss/pico/discussions/754",
-      "score": 147,
-      "comments": 64,
-      "author": "henrid"
+      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+      "score": 192,
+      "comments": 224,
+      "author": "taubek"
     },
     {
       "rank": 20,
-      "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
-      "url": "https://news.ycombinator.com/item?id=50291116",
-      "score": 69,
-      "comments": 24,
-      "author": "shong0504"
+      "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+      "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+      "score": 310,
+      "comments": 58,
+      "author": "swq115"
     },
     {
       "rank": 21,
-      "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
-      "url": "https://journal.animationstudies.org/article/id/66/",
-      "score": 122,
-      "comments": 29,
-      "author": "simonebrunozzi"
+      "title": "Jules Verne's Lost Novel",
+      "url": "https://blue-continuum.com/verne-paris",
+      "score": 111,
+      "comments": 27,
+      "author": "dnetesn"
     },
     {
       "rank": 22,
-      "title": "An illustrated online book on Hewlett-Packard equipment",
-      "url": "https://blog.adafruit.com/2026/10/27/an-illustrated-online-book-on-hewlett-packard-equipment/",
-      "score": 21,
-      "comments": 4,
-      "author": "sohkamyung"
+      "title": "Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
+      "url": "https://www.firezone.dev/blog/introducing-sanstun",
+      "score": 133,
+      "comments": 24,
+      "author": "wh33zle"
     },
     {
       "rank": 23,
-      "title": "Patrick Stewart has died",
-      "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
-      "score": 3011,
-      "comments": 641,
-      "author": "j4mie"
+      "title": "Double Buffering with Cloudflare Queues",
+      "url": "https://bellone.com/technical/double-buffering-with-cloudflare-queues",
+      "score": 37,
+      "comments": 4,
+      "author": "b_llc"
     },
     {
       "rank": 24,
-      "title": "If IPv4 were land",
-      "url": "https://iptrust.co/blog/if-ipv4-were-land",
-      "score": 290,
-      "comments": 407,
-      "author": "rokostik"
+      "title": "Brief History of PDP Computers",
+      "url": "https://entropicthoughts.com/history-of-pdp-computers",
+      "score": 26,
+      "comments": 11,
+      "author": "ibobev"
     },
     {
       "rank": 25,
-      "title": "What we know so far about Spain train crash",
-      "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
-      "score": 209,
-      "comments": 375,
-      "author": "ZeljkoS"
+      "title": "Trapped in the Technologist Factory",
+      "url": "https://ideolalia.com/essays/trapped-in-the-technologist-factory.html",
+      "score": 41,
+      "comments": 13,
+      "author": "luu"
     },
     {
       "rank": 26,
-      "title": "Should a medical diagnosis reshape the past? (2025)",
-      "url": "https://chengela.substack.com/p/should-a-medical-diagnosis-reshape",
-      "score": 45,
-      "comments": 9,
-      "author": "wyndham"
+      "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+      "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+      "score": 315,
+      "comments": 177,
+      "author": "apress"
     },
     {
       "rank": 27,
-      "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
-      "url": "https://github.com/johncassil/dontallow",
-      "score": 138,
-      "comments": 104,
-      "author": "johncassil"
+      "title": "Building an AI-native engineering org",
+      "url": "https://twitter.com/sgondala2/status/2115832070274723875",
+      "score": 154,
+      "comments": 181,
+      "author": "sgondala_ycapp"
     },
     {
       "rank": 28,
-      "title": "ElementaryUI – Swift, in the Browser",
-      "url": "https://elementary.codes",
-      "score": 106,
-      "comments": 31,
-      "author": "frizlab"
+      "title": "Turning a solar power system into its own backup",
+      "url": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
+      "score": 52,
+      "comments": 19,
+      "author": "PaulHoule"
     },
     {
       "rank": 29,
-      "title": "16colo.rs – ANSI/ASCII art archive",
-      "url": "https://16colo.rs/",
-      "score": 123,
-      "comments": 9,
-      "author": "memalign"
+      "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
+      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+      "score": 226,
+      "comments": 30,
+      "author": "acossta"
     },
     {
       "rank": 30,
-      "title": "Historical Scientific Instruments",
-      "url": "https://nealstephenson.substack.com/p/historical-scientific-instruments",
-      "score": 41,
-      "comments": 3,
-      "author": "peteforde"
+      "title": "Tree-mounted machines connect to web app to let users knock on wood remotely",
+      "url": "https://www.designboom.com/technology/tree-mounted-machines-web-app-users-knock-on-wood-remotely/",
+      "score": 89,
+      "comments": 38,
+      "author": "surprisetalk"
     }
   ]
 }

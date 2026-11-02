@@ -1,0 +1,488 @@
+{
+  "date": "2026-11-02",
+  "updatedAt": "2026-11-02T11:56:59.846Z",
+  "github": {
+    "updatedAt": "2026-11-02T11:56:57.882Z",
+    "repos": [
+      {
+        "rank": 1,
+        "author": "vercel-labs",
+        "name": "agent-desktop",
+        "fullName": "vercel-labs/agent-desktop",
+        "url": "https://github.com/vercel-labs/agent-desktop",
+        "description": "Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry, instead of guessing from pixels.",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 7851,
+        "forks": 560,
+        "builtBy": [
+          {
+            "username": "lahfir",
+            "avatar": "https://avatars.githubusercontent.com/u/70215676?s=40&40&v=4"
+          },
+          {
+            "username": "ctate",
+            "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "author": "thedotmack",
+        "name": "claude-mem",
+        "fullName": "thedotmack/claude-mem",
+        "url": "https://github.com/thedotmack/claude-mem",
+        "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 110202,
+        "forks": 9612,
+        "builtBy": [
+          {
+            "username": "thedotmack",
+            "avatar": "https://avatars.githubusercontent.com/u/683968?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "rudycelekli",
+            "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&40&v=4"
+          },
+          {
+            "username": "cursoragent",
+            "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&40&v=4"
+          },
+          {
+            "username": "rodboev",
+            "avatar": "https://avatars.githubusercontent.com/u/106971?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "author": "D4Vinci",
+        "name": "Scrapling",
+        "fullName": "D4Vinci/Scrapling",
+        "url": "https://github.com/D4Vinci/Scrapling",
+        "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 92129,
+        "forks": 9716,
+        "builtBy": [
+          {
+            "username": "D4Vinci",
+            "avatar": "https://avatars.githubusercontent.com/u/20604835?s=40&40&v=4"
+          },
+          {
+            "username": "yetval",
+            "avatar": "https://avatars.githubusercontent.com/u/102706514?s=40&40&v=4"
+          },
+          {
+            "username": "AbdullahY36",
+            "avatar": "https://avatars.githubusercontent.com/u/52079299?s=40&40&v=4"
+          },
+          {
+            "username": "SulimanAbdulrazzaq",
+            "avatar": "https://avatars.githubusercontent.com/u/144490671?s=40&40&v=4"
+          },
+          {
+            "username": "codex",
+            "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "author": "hyprwm",
+        "name": "Hyprland",
+        "fullName": "hyprwm/Hyprland",
+        "url": "https://github.com/hyprwm/Hyprland",
+        "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "starsToday": 0,
+        "totalStars": 39623,
+        "forks": 2139,
+        "builtBy": [
+          {
+            "username": "vaxerski",
+            "avatar": "https://avatars.githubusercontent.com/u/43317083?s=40&40&v=4"
+          },
+          {
+            "username": "fufexan",
+            "avatar": "https://avatars.githubusercontent.com/u/36706276?s=40&40&v=4"
+          },
+          {
+            "username": "gulafaran",
+            "avatar": "https://avatars.githubusercontent.com/u/773455?s=40&40&v=4"
+          },
+          {
+            "username": "MightyPlaza",
+            "avatar": "https://avatars.githubusercontent.com/u/123664421?s=40&40&v=4"
+          },
+          {
+            "username": "UjinT34",
+            "avatar": "https://avatars.githubusercontent.com/u/41110182?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "author": "Donchitos",
+        "name": "Claude-Code-Game-Studios",
+        "fullName": "Donchitos/Claude-Code-Game-Studios",
+        "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+        "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+        "language": "Shell",
+        "languageColor": "#89e051",
+        "starsToday": 0,
+        "totalStars": 32983,
+        "forks": 4469,
+        "builtBy": [
+          {
+            "username": "Donchitos",
+            "avatar": "https://avatars.githubusercontent.com/u/150119193?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "author": "FlashML-org",
+        "name": "FreeToken",
+        "fullName": "FlashML-org/FreeToken",
+        "url": "https://github.com/FlashML-org/FreeToken",
+        "description": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 15739,
+        "forks": 1570,
+        "builtBy": [
+          {
+            "username": "jason-fxz",
+            "avatar": "https://avatars.githubusercontent.com/u/36730318?s=40&40&v=4"
+          },
+          {
+            "username": "andy-yang-1",
+            "avatar": "https://avatars.githubusercontent.com/u/73746844?s=40&40&v=4"
+          },
+          {
+            "username": "taking-lying-flat",
+            "avatar": "https://avatars.githubusercontent.com/u/234872336?s=40&40&v=4"
+          },
+          {
+            "username": "void-mckenzie",
+            "avatar": "https://avatars.githubusercontent.com/u/30838527?s=40&40&v=4"
+          },
+          {
+            "username": "zihaomu",
+            "avatar": "https://avatars.githubusercontent.com/u/16487352?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "author": "pingdotgg",
+        "name": "t3code",
+        "fullName": "pingdotgg/t3code",
+        "url": "https://github.com/pingdotgg/t3code",
+        "description": "",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 39785,
+        "forks": 8994,
+        "builtBy": [
+          {
+            "username": "juliusmarminge",
+            "avatar": "https://avatars.githubusercontent.com/u/51714798?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "t3dotgg",
+            "avatar": "https://avatars.githubusercontent.com/u/6751787?s=40&40&v=4"
+          },
+          {
+            "username": "maria-rcks",
+            "avatar": "https://avatars.githubusercontent.com/u/254055478?s=40&40&v=4"
+          },
+          {
+            "username": "codex",
+            "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "author": "shiyu-coder",
+        "name": "Kronos",
+        "fullName": "shiyu-coder/Kronos",
+        "url": "https://github.com/shiyu-coder/Kronos",
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 45743,
+        "forks": 7542,
+        "builtBy": [
+          {
+            "username": "shiyu-coder",
+            "avatar": "https://avatars.githubusercontent.com/u/65760973?s=40&40&v=4"
+          },
+          {
+            "username": "Luciferbobo",
+            "avatar": "https://avatars.githubusercontent.com/u/54936491?s=40&40&v=4"
+          },
+          {
+            "username": "CharlesJ-ABu",
+            "avatar": "https://avatars.githubusercontent.com/u/18326516?s=40&40&v=4"
+          },
+          {
+            "username": "AnMakc",
+            "avatar": "https://avatars.githubusercontent.com/u/1777564?s=40&40&v=4"
+          },
+          {
+            "username": "randyy179",
+            "avatar": "https://avatars.githubusercontent.com/u/129808685?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "author": "kornia",
+        "name": "kornia",
+        "fullName": "kornia/kornia",
+        "url": "https://github.com/kornia/kornia",
+        "description": "🐍 Geometric Computer Vision Library for Spatial AI",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 11988,
+        "forks": 1481,
+        "builtBy": [
+          {
+            "username": "edgarriba",
+            "avatar": "https://avatars.githubusercontent.com/u/5157099?s=40&40&v=4"
+          },
+          {
+            "username": "ducha-aiki",
+            "avatar": "https://avatars.githubusercontent.com/u/4803565?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "johnnv1",
+            "avatar": "https://avatars.githubusercontent.com/u/20444345?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "author": "JustVugg",
+        "name": "colibri",
+        "fullName": "JustVugg/colibri",
+        "url": "https://github.com/JustVugg/colibri",
+        "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+        "language": "C",
+        "languageColor": "#555555",
+        "starsToday": 0,
+        "totalStars": 46154,
+        "forks": 5324,
+        "builtBy": [
+          {
+            "username": "JustVugg",
+            "avatar": "https://avatars.githubusercontent.com/u/13022503?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "ZacharyZcR",
+            "avatar": "https://avatars.githubusercontent.com/u/48591714?s=40&40&v=4"
+          },
+          {
+            "username": "monotophic",
+            "avatar": "https://avatars.githubusercontent.com/u/289220702?s=40&40&v=4"
+          },
+          {
+            "username": "rudycelekli",
+            "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 11,
+        "author": "mattpocock",
+        "name": "skills",
+        "fullName": "mattpocock/skills",
+        "url": "https://github.com/mattpocock/skills",
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "languageColor": "#89e051",
+        "starsToday": 0,
+        "totalStars": 309676,
+        "forks": 26058,
+        "builtBy": [
+          {
+            "username": "mattpocock",
+            "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "gabimoncha",
+            "avatar": "https://avatars.githubusercontent.com/u/39256258?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 12,
+        "author": "max-sixty",
+        "name": "worktrunk",
+        "fullName": "max-sixty/worktrunk",
+        "url": "https://github.com/max-sixty/worktrunk",
+        "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 9828,
+        "forks": 349,
+        "builtBy": [
+          {
+            "username": "max-sixty",
+            "avatar": "https://avatars.githubusercontent.com/u/5635139?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "worktrunk-bot",
+            "avatar": "https://avatars.githubusercontent.com/u/254187624?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 13,
+        "author": "paperclipai",
+        "name": "paperclip",
+        "fullName": "paperclipai/paperclip",
+        "url": "https://github.com/paperclipai/paperclip",
+        "description": "The open-source app everyone uses to manage agents at work",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 110093,
+        "forks": 18244,
+        "builtBy": [
+          {
+            "username": "cryppadotta",
+            "avatar": "https://avatars.githubusercontent.com/u/34892728?s=40&40&v=4"
+          },
+          {
+            "username": "Paperclip-Paperclip",
+            "avatar": "https://avatars.githubusercontent.com/u/271391591?s=40&40&v=4"
+          },
+          {
+            "username": "devinfoley",
+            "avatar": "https://avatars.githubusercontent.com/u/139239?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "nickyleach",
+            "avatar": "https://avatars.githubusercontent.com/u/331803?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 14,
+        "author": "karpathy",
+        "name": "nanochat",
+        "fullName": "karpathy/nanochat",
+        "url": "https://github.com/karpathy/nanochat",
+        "description": "The best ChatGPT that $100 can buy.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 59611,
+        "forks": 8386,
+        "builtBy": [
+          {
+            "username": "karpathy",
+            "avatar": "https://avatars.githubusercontent.com/u/241138?s=40&40&v=4"
+          },
+          {
+            "username": "svlandeg",
+            "avatar": "https://avatars.githubusercontent.com/u/8796347?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "suraj-self",
+            "avatar": "https://avatars.githubusercontent.com/u/171422876?s=40&40&v=4"
+          },
+          {
+            "username": "lukestanley",
+            "avatar": "https://avatars.githubusercontent.com/u/306671?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 15,
+        "author": "p-e-w",
+        "name": "heretic",
+        "fullName": "p-e-w/heretic",
+        "url": "https://github.com/p-e-w/heretic",
+        "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 37775,
+        "forks": 4304,
+        "builtBy": [
+          {
+            "username": "p-e-w",
+            "avatar": "https://avatars.githubusercontent.com/u/2702526?s=40&40&v=4"
+          },
+          {
+            "username": "Vinay-Umrethe",
+            "avatar": "https://avatars.githubusercontent.com/u/175500353?s=40&40&v=4"
+          },
+          {
+            "username": "anrp",
+            "avatar": "https://avatars.githubusercontent.com/u/1325515?s=40&40&v=4"
+          },
+          {
+            "username": "spikymoth",
+            "avatar": "https://avatars.githubusercontent.com/u/133602907?s=40&40&v=4"
+          }
+        ]
+      }
+    ]
+  },
+  "productHunt": null,
+  "hackerNews": null
+}

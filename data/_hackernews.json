@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-11-02T11:56:59.839Z",
+  "updatedAt": "2026-11-03T11:32:50.590Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-      "url": "https://hackerbooks.org",
-      "score": 1468,
-      "comments": 246,
-      "author": "roansh"
+      "title": "Astra can read and write weights to improve Qwen",
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "score": 2720,
+      "comments": 822,
+      "author": "dbreunig"
     },
     {
       "rank": 2,
-      "title": "Postgres 19 is late because so many more bugs are being found now",
-      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
-      "score": 537,
-      "comments": 329,
-      "author": "soheilpro"
+      "title": "Nvidia – open-source auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "score": 90,
+      "comments": 30,
+      "author": "campervans"
     },
     {
       "rank": 3,
-      "title": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
-      "url": "https://wikihack.netlify.app",
-      "score": 238,
-      "comments": 72,
-      "author": "aizk"
+      "title": "Toit v2.0.0",
+      "url": "https://toit.io/blog/toit-v2-0-0/",
+      "score": 102,
+      "comments": 32,
+      "author": "floitsch"
     },
     {
       "rank": 4,
-      "title": "HackerTube: YouTube built from videos recommended by HN",
-      "url": "https://karpathy.bearblog.dev/hacker-tube/",
-      "score": 2627,
-      "comments": 577,
-      "author": "karpathy"
+      "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+      "score": 243,
+      "comments": 50,
+      "author": "bpierre"
     },
     {
       "rank": 5,
-      "title": "Show HN: I've updated my Linux System Call website and API",
-      "url": "https://syscall.sh/",
-      "score": 31,
-      "comments": 13,
-      "author": "guitmz"
+      "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+      "url": "https://hackertimes.ca/",
+      "score": 304,
+      "comments": 90,
+      "author": "polpenn"
     },
     {
       "rank": 6,
-      "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
-      "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
-      "score": 145,
-      "comments": 15,
-      "author": "joonehur"
+      "title": "Revolut moves to self-hosted GLM",
+      "url": "https://twitter.com/guilleflorvs/status/2117379073785696395",
+      "score": 82,
+      "comments": 44,
+      "author": "pretext"
     },
     {
       "rank": 7,
-      "title": "Bones may release proteins that slow aging and extend life span",
-      "url": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span",
-      "score": 132,
-      "comments": 29,
-      "author": "EA-3167"
+      "title": "Show HN: Subvocal – Talk to your computer without making noise",
+      "url": "https://news.ycombinator.com/item?id=50340088",
+      "score": 713,
+      "comments": 344,
+      "author": "aarushyadav"
     },
     {
       "rank": 8,
-      "title": "Ask HN: Which TV do you recommend for privacy?",
-      "url": "https://news.ycombinator.com/item?id=50328896",
-      "score": 442,
-      "comments": 573,
-      "author": "LecroJS"
+      "title": "European RISC-V Industrial Computing Initiative",
+      "url": "https://erici.eu",
+      "score": 128,
+      "comments": 67,
+      "author": "ymz5"
     },
     {
       "rank": 9,
-      "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
-      "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
-      "score": 150,
-      "comments": 68,
-      "author": "_Microft"
+      "title": "Katamari Damacy but it's The Met collection",
+      "url": "https://katamari.vaguespac.es/",
+      "score": 13,
+      "comments": 4,
+      "author": "thebigship"
     },
     {
       "rank": 10,
-      "title": "Trigger.dev customer environment variables exposed",
-      "url": "https://trigger.dev/blog/security-incident-nov-2026",
-      "score": 103,
-      "comments": 45,
-      "author": "anurag"
+      "title": "If you love a website, back it up",
+      "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+      "score": 569,
+      "comments": 128,
+      "author": "ingve"
     },
     {
       "rank": 11,
-      "title": "Show HN: HackerHack – HackerBooks but for Posts Posted on HN",
-      "url": "https://news.ycombinator.com/",
-      "score": 38,
-      "comments": 8,
-      "author": "mw888"
+      "title": "Vathographs: Photographic depth maps as creative expression",
+      "url": "https://vathography.com/",
+      "score": 22,
+      "comments": 5,
+      "author": "hankbond"
     },
     {
       "rank": 12,
-      "title": "From Charlemagne to the Kitchen Boy: Reading the Hamburg Rathaus",
-      "url": "https://alsterrunde.com/from-charlemagne-to-the-kitchen-boy-reading-the-hamburg-rathaus/",
-      "score": 43,
-      "comments": 5,
-      "author": "mertbio"
+      "title": "US boy names that became girl names and vice versa",
+      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+      "score": 413,
+      "comments": 393,
+      "author": "xoobdev"
     },
     {
       "rank": 13,
-      "title": "The future in old computer magazines (1984–2004)",
-      "url": "https://tomorrowasusual.substack.com/p/blast-from-the-past-the-future-in",
-      "score": 10,
-      "comments": 4,
-      "author": "tudell"
+      "title": "Resisting Cognitive Surrender",
+      "url": "https://knlb.dev/essays/surrender",
+      "score": 194,
+      "comments": 92,
+      "author": "knlb"
     },
     {
       "rank": 14,
-      "title": "Nibnib: Image compression with extreme decompression speed",
-      "url": "https://github.com/raphlinus/nibnib",
-      "score": 153,
-      "comments": 26,
-      "author": "raphlinus"
+      "title": "Efficient algorithms, the Exponential Time Hypothesis, and losing the plot",
+      "url": "https://www.argmin.net/p/galactus-the-devourer",
+      "score": 63,
+      "comments": 43,
+      "author": "sebg"
     },
     {
       "rank": 15,
-      "title": "Tips for more effective fuzz testing with AFL++",
-      "url": "https://nullprogram.com/blog/2025/02/05/",
-      "score": 127,
-      "comments": 24,
-      "author": "luu"
+      "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
+      "url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
+      "score": 238,
+      "comments": 67,
+      "author": "tomrod"
     },
     {
       "rank": 16,
-      "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
-      "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
-      "score": 61,
-      "comments": 36,
-      "author": "jonnybgood"
+      "title": "Optical Circuit Switch Technology Built on Low-Loss Silicon Photonics Platform",
+      "url": "https://www.psiquantum.com/news-import/psiquantum-unveils-optical-circuit-switch-technology-built-on-advanced-low-loss-silicon-photonics-platform",
+      "score": 13,
+      "comments": 1,
+      "author": "gmays"
     },
     {
       "rank": 17,
-      "title": "Supermarket freezers in Belgium and Sweden hit by suspected cyber-attack",
-      "url": "https://www.bbc.com/news/articles/cq1kd1nee80eo",
-      "score": 3,
-      "comments": 0,
-      "author": "xqcgrek2"
+      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+      "url": "https://momentic.ai/",
+      "score": 146,
+      "comments": 97,
+      "author": "wuweiweiwu"
     },
     {
       "rank": 18,
-      "title": "Copper – A minimal low-level programming language with OOP and generics",
-      "url": "https://tibleiz.net/copper/",
-      "score": 176,
-      "comments": 96,
-      "author": "bogdanoff_2"
+      "title": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
+      "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
+      "score": 283,
+      "comments": 45,
+      "author": "stared"
     },
     {
       "rank": 19,
-      "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
-      "url": "https://github.com/ivankovic/omnidiff",
-      "score": 265,
-      "comments": 75,
-      "author": "FabCH"
+      "title": "Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities",
+      "url": "https://arxiv.org/abs/2608.25820",
+      "score": 39,
+      "comments": 4,
+      "author": "teleforce"
     },
     {
       "rank": 20,
-      "title": "OccupySaaS",
-      "url": "https://occupysaas.com/",
-      "score": 317,
-      "comments": 184,
-      "author": "misswaterfairy"
+      "title": "Shrinking NixOS RAM footprint and resource requirements to the bare minimum",
+      "url": "https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum",
+      "score": 74,
+      "comments": 10,
+      "author": "birdculture"
     },
     {
       "rank": 21,
-      "title": "The AI cost of JavaScript frameworks",
-      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-      "score": 388,
-      "comments": 299,
-      "author": "luu"
+      "title": "Show HN: I built a little browser game to practice Vim commands",
+      "url": "https://hjkl.duy.run",
+      "score": 41,
+      "comments": 30,
+      "author": "dh1011"
     },
     {
       "rank": 22,
-      "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
-      "score": 89,
-      "comments": 38,
-      "author": "stevenalowe"
+      "title": "Ask HN: Who is hiring? (November 2026)",
+      "url": "https://news.ycombinator.com/item?id=50338728",
+      "score": 221,
+      "comments": 183,
+      "author": "whoishiring"
     },
     {
       "rank": 23,
-      "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
-      "url": "https://arxiv.org/abs/2610.39302",
-      "score": 145,
-      "comments": 71,
-      "author": "Anon84"
+      "title": "uBlock Origin filter to block autoplay videos in TechCrunch",
+      "url": "https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html",
+      "score": 91,
+      "comments": 27,
+      "author": "cornfieldlabs"
     },
     {
       "rank": 24,
-      "title": "One-minute frequency disturbances from synchronization in power systems",
-      "url": "https://www.nature.com/articles/s41560-026-02144-0",
-      "score": 163,
-      "comments": 52,
-      "author": "croes"
+      "title": "Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai/",
+      "score": 236,
+      "comments": 155,
+      "author": "makeramen"
     },
     {
       "rank": 25,
-      "title": "Show HN: Point your camera at a landscape to learn about its geology",
-      "url": "https://outcrop.rocks/",
-      "score": 215,
-      "comments": 47,
-      "author": "headsupernova"
-    },
-    {
-      "rank": 26,
-      "title": "Mathematics has changed. Let's act like it",
-      "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
-      "score": 323,
-      "comments": 377,
+      "title": "Egoless Mathematics in the AI Era",
+      "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+      "score": 165,
+      "comments": 124,
       "author": "smilelamp"
     },
     {
+      "rank": 26,
+      "title": "SLAC researchers find proof of altermagnetism, a new magnetic phase",
+      "url": "https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase",
+      "score": 79,
+      "comments": 9,
+      "author": "gmays"
+    },
+    {
       "rank": 27,
-      "title": "Radiation Map of the World",
-      "url": "https://radiaverse.com/",
-      "score": 186,
-      "comments": 51,
-      "author": "slater"
+      "title": "Polyend releases the Tracker firmware source code",
+      "url": "https://polyend.com/whats-up/tracker-the-biggest-update-yet/",
+      "score": 141,
+      "comments": 45,
+      "author": "austinallegro"
     },
     {
       "rank": 28,
-      "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
-      "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
-      "score": 509,
-      "comments": 166,
-      "author": "entryleveljobsc"
+      "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+      "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+      "score": 537,
+      "comments": 154,
+      "author": "majorchord"
     },
     {
       "rank": 29,
-      "title": "The She-Wolves of Jülich",
-      "url": "https://www.historytoday.com/archive/history-matters/she-wolves-julich",
-      "score": 34,
-      "comments": 6,
-      "author": "Thevet"
+      "title": "WTF Ubuntu?",
+      "url": "https://chalmovsky.com/posts/wtf-ubuntu",
+      "score": 1542,
+      "comments": 643,
+      "author": "chalmovsky"
     },
     {
       "rank": 30,
-      "title": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2",
-      "url": "https://kevs3d.co.uk/phoria2/",
-      "score": 95,
-      "comments": 18,
-      "author": "kevs3d"
+      "title": "Sneaking into the auditorium for the Windows 2000 launch rehearsal",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/",
+      "score": 142,
+      "comments": 48,
+      "author": "ibobev"
     }
   ]
 }

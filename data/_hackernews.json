@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-11-04T11:47:59.001Z",
+  "updatedAt": "2026-11-05T11:47:13.829Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
-      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
-      "score": 115,
-      "comments": 63,
-      "author": "novaRom"
+      "title": "Baidu released ERNIE 5.5 Flash Base",
+      "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+      "score": 48,
+      "comments": 30,
+      "author": "pretext"
     },
     {
       "rank": 2,
-      "title": "Kitty 0.50",
-      "url": "https://sw.kovidgoyal.net/kitty/changelog/#",
-      "score": 169,
-      "comments": 89,
-      "author": "porridgeraisin"
+      "title": "Residential proxies detected on White House network",
+      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+      "score": 1101,
+      "comments": 358,
+      "author": "Rasbora"
     },
     {
       "rank": 3,
-      "title": "Verification Is Not Knowledge: Science needs more than answers",
-      "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
-      "score": 62,
-      "comments": 31,
-      "author": "ersinesen"
+      "title": "Lemmings CSS Animation",
+      "url": "https://markblah.github.io/lemmings/",
+      "score": 219,
+      "comments": 45,
+      "author": "MarkBlah"
     },
     {
       "rank": 4,
-      "title": "Jelly Sheet",
-      "url": "https://mrdoob.github.io/codevember-2026/01/",
-      "score": 276,
-      "comments": 72,
-      "author": "memalign"
+      "title": "Awesome repositories are no longer awesome",
+      "url": "https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/",
+      "score": 17,
+      "comments": 5,
+      "author": "erikgahner"
     },
     {
       "rank": 5,
-      "title": "Incident with Pull Requests, Git Operations and Issues",
-      "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
-      "score": 84,
-      "comments": 47,
-      "author": "kevcampb"
+      "title": "A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+      "score": 371,
+      "comments": 269,
+      "author": "dangelosaurus"
     },
     {
       "rank": 6,
-      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-      "url": "https://news.ycombinator.com/item?id=50363461",
-      "score": 60,
-      "comments": 20,
-      "author": "jameslk"
+      "title": "Images 2.6",
+      "url": "https://openai.com/index/introducing-images-2-6/",
+      "score": 318,
+      "comments": 190,
+      "author": "davidbarker"
     },
     {
       "rank": 7,
-      "title": "Jailbreaking my car's navigation system just so I can change the time",
-      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-      "score": 850,
-      "comments": 324,
-      "author": "xx_ns"
+      "title": "Partial Operator Precedence",
+      "url": "https://ziglang.org/devlog/2026/#2026-10-24",
+      "score": 59,
+      "comments": 30,
+      "author": "tosh"
     },
     {
       "rank": 8,
-      "title": "Stringman, an $800 open-source room scale gripper robot",
-      "url": "https://neufangled.com/",
-      "score": 625,
-      "comments": 206,
-      "author": "nharada"
+      "title": "Replacing homepage demo media with looping HTML and CSS",
+      "url": "https://stepshots.com/css-feature-clips",
+      "score": 12,
+      "comments": 4,
+      "author": "hauju"
     },
     {
       "rank": 9,
-      "title": "The lost malloc()",
-      "url": "https://napcakes.nekoweb.org/posts/malloc/",
-      "score": 59,
-      "comments": 20,
-      "author": "matt_d"
+      "title": "Kimi K3.1 Pro model weights are out",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "score": 549,
+      "comments": 153,
+      "author": "abrarthought"
     },
     {
       "rank": 10,
-      "title": "The Internals of PostgreSQL",
-      "url": "https://www.interdb.jp/pg/index.html",
-      "score": 295,
-      "comments": 23,
-      "author": "ibobev"
+      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "url": "https://www.ricursive.com/ripple",
+      "score": 302,
+      "comments": 108,
+      "author": "Philpax"
     },
     {
       "rank": 11,
-      "title": "C++26 Disapproved",
-      "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
-      "score": 327,
-      "comments": 220,
-      "author": "thatxliner"
+      "title": "TextEdit vs. Pages",
+      "url": "https://leancrew.com/all-this/2026/10/textedit-vs-pages/",
+      "score": 28,
+      "comments": 6,
+      "author": "surprisetalk"
     },
     {
       "rank": 12,
-      "title": "Geoffrey Hinton: it might turn out we were better off without AI",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-      "score": 42,
-      "comments": 18,
-      "author": "alkyon"
+      "title": "Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",
+      "url": "https://www.altera.com/newsroom/agilex-2x",
+      "score": 37,
+      "comments": 13,
+      "author": "gmays"
     },
     {
       "rank": 13,
-      "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-      "url": "https://uncracked.city",
-      "score": 76,
-      "comments": 33,
-      "author": "passkey1510"
+      "title": "A new Go API for JSON",
+      "url": "https://go.dev/blog/jsonv2",
+      "score": 329,
+      "comments": 164,
+      "author": "olexsmir"
     },
     {
       "rank": 14,
-      "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
-      "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
-      "score": 77,
-      "comments": 24,
-      "author": "gmays"
+      "title": "Spreading Liquid with Three.js",
+      "url": "https://mofu-dev.com/en/blog/fluid-foundation/",
+      "score": 124,
+      "comments": 18,
+      "author": "mooreds"
     },
     {
       "rank": 15,
-      "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
-      "url": "https://hackertv.org",
-      "score": 351,
-      "comments": 69,
-      "author": "dsalzman"
+      "title": "Insects don't swarm at LED lights",
+      "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
+      "score": 272,
+      "comments": 133,
+      "author": "speckx"
     },
     {
       "rank": 16,
-      "title": "Giant canyon on Mars is still tectonically active",
-      "url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
-      "score": 98,
-      "comments": 17,
-      "author": "gmays"
+      "title": "Moment of Ruby: An Argument for Nothing",
+      "url": "https://www.aha.io/engineering/articles/moment-of-ruby-an-argument-for-nothing",
+      "score": 23,
+      "comments": 1,
+      "author": "zemptime"
     },
     {
       "rank": 17,
-      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-      "score": 486,
-      "comments": 205,
-      "author": "bookofjoe"
+      "title": "Conductor is joining Meta",
+      "url": "https://www.conductor.build/announcement",
+      "score": 184,
+      "comments": 200,
+      "author": "kenrose"
     },
     {
       "rank": 18,
-      "title": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
-      "url": "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/",
-      "score": 200,
-      "comments": 32,
-      "author": "zdw"
+      "title": "OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability",
+      "url": "https://hachyderm.io/@damienmiller/117563026759098135",
+      "score": 36,
+      "comments": 7,
+      "author": "Animux"
     },
     {
       "rank": 19,
-      "title": "Arrows to arrows, categories to queries (2025)",
-      "url": "https://reasonablypolymorphic.com/blog/arrows-to-arrows/",
-      "score": 59,
-      "comments": 2,
-      "author": "firstbase"
+      "title": "Ask HN: What's your current AI agentic setup?",
+      "url": "https://news.ycombinator.com/item?id=50366117",
+      "score": 358,
+      "comments": 406,
+      "author": "eggbrain"
     },
     {
       "rank": 20,
-      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-      "score": 645,
-      "comments": 188,
-      "author": "theanonymousone"
+      "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
+      "url": "https://icode4.coffee/?p=1746",
+      "score": 120,
+      "comments": 12,
+      "author": "muricula"
     },
     {
       "rank": 21,
-      "title": "Milkman – The Better Alternative to Postman",
-      "url": "https://milkman.dev/",
-      "score": 45,
-      "comments": 45,
-      "author": "jplunien"
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "score": 1204,
+      "comments": 705,
+      "author": "pseudolus"
     },
     {
       "rank": 22,
-      "title": "How I use AI (Oct 2026)",
-      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
-      "score": 183,
-      "comments": 217,
-      "author": "citelao"
+      "title": "Future Maintenance of Mbed TLS",
+      "url": "https://lists.trustedfirmware.org/archives/list/mbed-tls@lists.trustedfirmware.org/thread/YPIGCB7WN6GCHOGEGKOJXUYAP7OK527W/",
+      "score": 53,
+      "comments": 14,
+      "author": "jonesjohnson"
     },
     {
       "rank": 23,
-      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-      "score": 1322,
-      "comments": 447,
-      "author": "sidgarimella"
+      "title": "Being a kid making games in the early 2000s",
+      "url": "https://jaytholen.net/teengamedev/",
+      "score": 22,
+      "comments": 3,
+      "author": "farmerbb"
     },
     {
       "rank": 24,
-      "title": "Safari introduces Adaptive Dark Mode in 27.3",
-      "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
-      "score": 449,
-      "comments": 234,
-      "author": "paddingtone"
+      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "score": 158,
+      "comments": 60,
+      "author": "peter_d_sherman"
     },
     {
       "rank": 25,
-      "title": "We're training a Figma-fluent editing model",
-      "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
-      "score": 124,
-      "comments": 55,
-      "author": "gmays"
+      "title": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
+      "url": "https://fireflyk64.github.io/wcmulti/",
+      "score": 200,
+      "comments": 29,
+      "author": "daniel_rh"
     },
     {
       "rank": 26,
-      "title": "There is no posttraining data commons",
-      "url": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
-      "score": 81,
-      "comments": 22,
-      "author": "lukasschwab"
+      "title": "Progress on provable inference for large language models",
+      "url": "https://www.anthropic.com/research/provable-inference",
+      "score": 226,
+      "comments": 114,
+      "author": "ltononro"
     },
     {
       "rank": 27,
-      "title": "Why Clip Art Was Everywhere Until It Wasn't [video]",
-      "url": "https://www.youtube.com/watch?v=XfLlpxE6AYM",
-      "score": 43,
-      "comments": 18,
-      "author": "surprisetalk"
+      "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
+      "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+      "score": 313,
+      "comments": 242,
+      "author": "zenincognito"
     },
     {
       "rank": 28,
-      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-      "url": "https://arxiv.org/abs/2605.29713",
-      "score": 349,
-      "comments": 55,
-      "author": "ibobev"
+      "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+      "url": "https://news.ycombinator.com/item?id=50368804",
+      "score": 89,
+      "comments": 34,
+      "author": "lukeigel"
     },
     {
       "rank": 29,
-      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
-      "url": "https://honnibal.dev/blog/astra-read-write-misleading",
-      "score": 993,
-      "comments": 203,
-      "author": "syllogism"
+      "title": "OpenAI to acquire Pierre Computer Company",
+      "url": "https://openai.com/index/openai-to-acquire-pierre/",
+      "score": 247,
+      "comments": 75,
+      "author": "itunpredictable"
     },
     {
       "rank": 30,
-      "title": "Curiosity Traps",
-      "url": "https://www.autodidacts.io/curiosity-traps/",
-      "score": 81,
-      "comments": 13,
-      "author": "surprisetalk"
+      "title": "A wave of plastic-free coffee pods and machines",
+      "url": "https://www.cnn.com/2026/11/02/food/coffee-machine-plastic-free",
+      "score": 110,
+      "comments": 130,
+      "author": "thunderbong"
     }
   ]
 }

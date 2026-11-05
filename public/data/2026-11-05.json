@@ -1,0 +1,476 @@
+{
+  "date": "2026-11-05",
+  "updatedAt": "2026-11-05T11:47:13.836Z",
+  "github": {
+    "updatedAt": "2026-11-05T11:47:11.721Z",
+    "repos": [
+      {
+        "rank": 1,
+        "author": "NVIDIA",
+        "name": "auto-ontology",
+        "fullName": "NVIDIA/auto-ontology",
+        "url": "https://github.com/NVIDIA/auto-ontology",
+        "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 6316,
+        "forks": 497,
+        "builtBy": [
+          {
+            "username": "DinaLaptii",
+            "avatar": "https://avatars.githubusercontent.com/u/263323607?s=40&40&v=4"
+          },
+          {
+            "username": "yuvalshkolar",
+            "avatar": "https://avatars.githubusercontent.com/u/21292702?s=40&40&v=4"
+          },
+          {
+            "username": "liavnave",
+            "avatar": "https://avatars.githubusercontent.com/u/29655923?s=40&40&v=4"
+          },
+          {
+            "username": "liofnv",
+            "avatar": "https://avatars.githubusercontent.com/u/263700388?s=40&40&v=4"
+          },
+          {
+            "username": "tomer-levin-nv",
+            "avatar": "https://avatars.githubusercontent.com/u/263323887?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "author": "mattpocock",
+        "name": "skills",
+        "fullName": "mattpocock/skills",
+        "url": "https://github.com/mattpocock/skills",
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "languageColor": "#89e051",
+        "starsToday": 0,
+        "totalStars": 314140,
+        "forks": 26339,
+        "builtBy": [
+          {
+            "username": "mattpocock",
+            "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "gabimoncha",
+            "avatar": "https://avatars.githubusercontent.com/u/39256258?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "author": "garrytan",
+        "name": "gstack",
+        "fullName": "garrytan/gstack",
+        "url": "https://github.com/garrytan/gstack",
+        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 139609,
+        "forks": 20664,
+        "builtBy": [
+          {
+            "username": "garrytan",
+            "avatar": "https://avatars.githubusercontent.com/u/19957?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "test22345",
+            "avatar": "https://avatars.githubusercontent.com/u/17983607?s=40&40&v=4"
+          },
+          {
+            "username": "szsunyuan",
+            "avatar": "https://avatars.githubusercontent.com/u/3579304?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "author": "Usagi-org",
+        "name": "ai-goofish-monitor",
+        "fullName": "Usagi-org/ai-goofish-monitor",
+        "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+        "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 17292,
+        "forks": 2924,
+        "builtBy": [
+          {
+            "username": "dingyufei615",
+            "avatar": "https://avatars.githubusercontent.com/u/34468774?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "ijodion",
+            "avatar": "https://avatars.githubusercontent.com/u/212712200?s=40&40&v=4"
+          },
+          {
+            "username": "hurleychin",
+            "avatar": "https://avatars.githubusercontent.com/u/4160779?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "author": "D4Vinci",
+        "name": "Scrapling",
+        "fullName": "D4Vinci/Scrapling",
+        "url": "https://github.com/D4Vinci/Scrapling",
+        "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 97295,
+        "forks": 10192,
+        "builtBy": [
+          {
+            "username": "D4Vinci",
+            "avatar": "https://avatars.githubusercontent.com/u/20604835?s=40&40&v=4"
+          },
+          {
+            "username": "yetval",
+            "avatar": "https://avatars.githubusercontent.com/u/102706514?s=40&40&v=4"
+          },
+          {
+            "username": "AbdullahY36",
+            "avatar": "https://avatars.githubusercontent.com/u/52079299?s=40&40&v=4"
+          },
+          {
+            "username": "SulimanAbdulrazzaq",
+            "avatar": "https://avatars.githubusercontent.com/u/144490671?s=40&40&v=4"
+          },
+          {
+            "username": "codex",
+            "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "author": "vercel-labs",
+        "name": "agent-desktop",
+        "fullName": "vercel-labs/agent-desktop",
+        "url": "https://github.com/vercel-labs/agent-desktop",
+        "description": "Computer use CLI for AI agents",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 16112,
+        "forks": 1125,
+        "builtBy": [
+          {
+            "username": "lahfir",
+            "avatar": "https://avatars.githubusercontent.com/u/70215676?s=40&40&v=4"
+          },
+          {
+            "username": "ctate",
+            "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "author": "max-sixty",
+        "name": "worktrunk",
+        "fullName": "max-sixty/worktrunk",
+        "url": "https://github.com/max-sixty/worktrunk",
+        "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 11308,
+        "forks": 424,
+        "builtBy": [
+          {
+            "username": "max-sixty",
+            "avatar": "https://avatars.githubusercontent.com/u/5635139?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "worktrunk-bot",
+            "avatar": "https://avatars.githubusercontent.com/u/254187624?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "author": "lz4",
+        "name": "lz4",
+        "fullName": "lz4/lz4",
+        "url": "https://github.com/lz4/lz4",
+        "description": "Extremely Fast Compression algorithm",
+        "language": "C",
+        "languageColor": "#555555",
+        "starsToday": 0,
+        "totalStars": 12225,
+        "forks": 1631,
+        "builtBy": [
+          {
+            "username": "Cyan4973",
+            "avatar": "https://avatars.githubusercontent.com/u/750081?s=40&40&v=4"
+          },
+          {
+            "username": "inikep",
+            "avatar": "https://avatars.githubusercontent.com/u/15112322?s=40&40&v=4"
+          },
+          {
+            "username": "t-mat",
+            "avatar": "https://avatars.githubusercontent.com/u/898396?s=40&40&v=4"
+          },
+          {
+            "username": "felixhandte",
+            "avatar": "https://avatars.githubusercontent.com/u/1154694?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "author": "google",
+        "name": "skills",
+        "fullName": "google/skills",
+        "url": "https://github.com/google/skills",
+        "description": "Agent Skills for Google products and technologies",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 22095,
+        "forks": 1880,
+        "builtBy": [
+          {
+            "username": "cloud-ix-copybara",
+            "avatar": "https://avatars.githubusercontent.com/u/277152880?s=40&40&v=4"
+          },
+          {
+            "username": "holtskinner",
+            "avatar": "https://avatars.githubusercontent.com/u/13262395?s=40&40&v=4"
+          },
+          {
+            "username": "martinvarelaj",
+            "avatar": "https://avatars.githubusercontent.com/u/52255361?s=40&40&v=4"
+          },
+          {
+            "username": "helloeve",
+            "avatar": "https://avatars.githubusercontent.com/u/2510012?s=40&40&v=4"
+          },
+          {
+            "username": "wangauone",
+            "avatar": "https://avatars.githubusercontent.com/u/51683731?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "author": "vercel-labs",
+        "name": "agent-browser",
+        "fullName": "vercel-labs/agent-browser",
+        "url": "https://github.com/vercel-labs/agent-browser",
+        "description": "Browser automation CLI for AI agents",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 45613,
+        "forks": 3136,
+        "builtBy": [
+          {
+            "username": "ctate",
+            "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&40&v=4"
+          },
+          {
+            "username": "Railly",
+            "avatar": "https://avatars.githubusercontent.com/u/51397083?s=40&40&v=4"
+          },
+          {
+            "username": "lahfir",
+            "avatar": "https://avatars.githubusercontent.com/u/70215676?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 11,
+        "author": "scenario-labs",
+        "name": "skills",
+        "fullName": "scenario-labs/skills",
+        "url": "https://github.com/scenario-labs/skills",
+        "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 2741,
+        "forks": 254,
+        "builtBy": [
+          {
+            "username": "hervenivon",
+            "avatar": "https://avatars.githubusercontent.com/u/1057302?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "codex",
+            "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&40&v=4"
+          },
+          {
+            "username": "edemaistre",
+            "avatar": "https://avatars.githubusercontent.com/u/78570368?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 12,
+        "author": "ConardLi",
+        "name": "garden-skills",
+        "fullName": "ConardLi/garden-skills",
+        "url": "https://github.com/ConardLi/garden-skills",
+        "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 13943,
+        "forks": 1632,
+        "builtBy": [
+          {
+            "username": "ConardLi",
+            "avatar": "https://avatars.githubusercontent.com/u/30708545?s=40&40&v=4"
+          },
+          {
+            "username": "cursoragent",
+            "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&40&v=4"
+          },
+          {
+            "username": "eltociear",
+            "avatar": "https://avatars.githubusercontent.com/u/22633385?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 13,
+        "author": "microsoft",
+        "name": "VibeVoice",
+        "fullName": "microsoft/VibeVoice",
+        "url": "https://github.com/microsoft/VibeVoice",
+        "description": "Open-Source Frontier Voice AI",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 55378,
+        "forks": 6241,
+        "builtBy": [
+          {
+            "username": "YaoyaoChang",
+            "avatar": "https://avatars.githubusercontent.com/u/20237658?s=40&40&v=4"
+          },
+          {
+            "username": "pengzhiliang",
+            "avatar": "https://avatars.githubusercontent.com/u/26346329?s=40&40&v=4"
+          },
+          {
+            "username": "MSLDCherryPick",
+            "avatar": "https://avatars.githubusercontent.com/u/173002764?s=40&40&v=4"
+          },
+          {
+            "username": "jsoref",
+            "avatar": "https://avatars.githubusercontent.com/u/2119212?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 14,
+        "author": "floci-io",
+        "name": "floci",
+        "fullName": "floci-io/floci",
+        "url": "https://github.com/floci-io/floci",
+        "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "starsToday": 0,
+        "totalStars": 29988,
+        "forks": 3305,
+        "builtBy": [
+          {
+            "username": "hectorvent",
+            "avatar": "https://avatars.githubusercontent.com/u/2405682?s=40&40&v=4"
+          },
+          {
+            "username": "pgermosen",
+            "avatar": "https://avatars.githubusercontent.com/u/6233424?s=40&40&v=4"
+          },
+          {
+            "username": "AndreKurait",
+            "avatar": "https://avatars.githubusercontent.com/u/33106608?s=40&40&v=4"
+          },
+          {
+            "username": "okinaka",
+            "avatar": "https://avatars.githubusercontent.com/u/120861?s=40&40&v=4"
+          },
+          {
+            "username": "exoego",
+            "avatar": "https://avatars.githubusercontent.com/u/127635?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 15,
+        "author": "JiaFeiMiao-K-Cat",
+        "name": "DiscImageStudio",
+        "fullName": "JiaFeiMiao-K-Cat/DiscImageStudio",
+        "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+        "description": "",
+        "language": "C#",
+        "languageColor": "#7355dd",
+        "starsToday": 0,
+        "totalStars": 6959,
+        "forks": 247,
+        "builtBy": [
+          {
+            "username": "JiaFeiMiao-K-Cat",
+            "avatar": "https://avatars.githubusercontent.com/u/60653106?s=40&40&v=4"
+          },
+          {
+            "username": "Catho168",
+            "avatar": "https://avatars.githubusercontent.com/u/98449983?s=40&40&v=4"
+          },
+          {
+            "username": "eltociear",
+            "avatar": "https://avatars.githubusercontent.com/u/22633385?s=40&40&v=4"
+          },
+          {
+            "username": "keremuysal",
+            "avatar": "https://avatars.githubusercontent.com/u/70893996?s=40&40&v=4"
+          },
+          {
+            "username": "lukyrys",
+            "avatar": "https://avatars.githubusercontent.com/u/2318346?s=40&40&v=4"
+          }
+        ]
+      }
+    ]
+  },
+  "productHunt": null,
+  "hackerNews": null
+}

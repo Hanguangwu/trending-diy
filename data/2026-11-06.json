@@ -1,0 +1,609 @@
+{
+  "date": "2026-11-06",
+  "updatedAt": "2026-11-06T11:43:38.228Z",
+  "github": {
+    "updatedAt": "2026-11-06T11:43:36.775Z",
+    "repos": [
+      {
+        "rank": 1,
+        "author": "zed-industries",
+        "name": "zed",
+        "fullName": "zed-industries/zed",
+        "url": "https://github.com/zed-industries/zed",
+        "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 92982,
+        "forks": 11455,
+        "builtBy": [
+          {
+            "username": "as-cii",
+            "avatar": "https://avatars.githubusercontent.com/u/482957?s=40&40&v=4"
+          },
+          {
+            "username": "maxbrunsfeld",
+            "avatar": "https://avatars.githubusercontent.com/u/326587?s=40&40&v=4"
+          },
+          {
+            "username": "maxdeviant",
+            "avatar": "https://avatars.githubusercontent.com/u/1486634?s=40&40&v=4"
+          },
+          {
+            "username": "nathansobo",
+            "avatar": "https://avatars.githubusercontent.com/u/1789?s=40&40&v=4"
+          },
+          {
+            "username": "ConradIrwin",
+            "avatar": "https://avatars.githubusercontent.com/u/94272?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "author": "NVIDIA",
+        "name": "auto-ontology",
+        "fullName": "NVIDIA/auto-ontology",
+        "url": "https://github.com/NVIDIA/auto-ontology",
+        "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 8272,
+        "forks": 663,
+        "builtBy": [
+          {
+            "username": "DinaLaptii",
+            "avatar": "https://avatars.githubusercontent.com/u/263323607?s=40&40&v=4"
+          },
+          {
+            "username": "yuvalshkolar",
+            "avatar": "https://avatars.githubusercontent.com/u/21292702?s=40&40&v=4"
+          },
+          {
+            "username": "liavnave",
+            "avatar": "https://avatars.githubusercontent.com/u/29655923?s=40&40&v=4"
+          },
+          {
+            "username": "liofnv",
+            "avatar": "https://avatars.githubusercontent.com/u/263700388?s=40&40&v=4"
+          },
+          {
+            "username": "tomer-levin-nv",
+            "avatar": "https://avatars.githubusercontent.com/u/263323887?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "author": "rails",
+        "name": "rails",
+        "fullName": "rails/rails",
+        "url": "https://github.com/rails/rails",
+        "description": "Ruby on Rails",
+        "language": "Ruby",
+        "languageColor": "#701516",
+        "starsToday": 0,
+        "totalStars": 58889,
+        "forks": 23823,
+        "builtBy": [
+          {
+            "username": "rafaelfranca",
+            "avatar": "https://avatars.githubusercontent.com/u/47848?s=40&40&v=4"
+          },
+          {
+            "username": "kamipo",
+            "avatar": "https://avatars.githubusercontent.com/u/12642?s=40&40&v=4"
+          },
+          {
+            "username": "jeremy",
+            "avatar": "https://avatars.githubusercontent.com/u/199?s=40&40&v=4"
+          },
+          {
+            "username": "tenderlove",
+            "avatar": "https://avatars.githubusercontent.com/u/3124?s=40&40&v=4"
+          },
+          {
+            "username": "byroot",
+            "avatar": "https://avatars.githubusercontent.com/u/44640?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "author": "mpv-player",
+        "name": "mpv",
+        "fullName": "mpv-player/mpv",
+        "url": "https://github.com/mpv-player/mpv",
+        "description": "🎥 Command line media player",
+        "language": "C",
+        "languageColor": "#555555",
+        "starsToday": 0,
+        "totalStars": 37756,
+        "forks": 3628,
+        "builtBy": [
+          {
+            "username": "kasper93",
+            "avatar": "https://avatars.githubusercontent.com/u/1126053?s=40&40&v=4"
+          },
+          {
+            "username": "Dudemanguy",
+            "avatar": "https://avatars.githubusercontent.com/u/5105515?s=40&40&v=4"
+          },
+          {
+            "username": "guidocella",
+            "avatar": "https://avatars.githubusercontent.com/u/11783568?s=40&40&v=4"
+          },
+          {
+            "username": "haasn",
+            "avatar": "https://avatars.githubusercontent.com/u/1149047?s=40&40&v=4"
+          },
+          {
+            "username": "pigoz",
+            "avatar": "https://avatars.githubusercontent.com/u/24681?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "author": "rust-lang",
+        "name": "rust",
+        "fullName": "rust-lang/rust",
+        "url": "https://github.com/rust-lang/rust",
+        "description": "Empowering everyone to build reliable and efficient software.",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 121156,
+        "forks": 17356,
+        "builtBy": [
+          {
+            "username": "bors",
+            "avatar": "https://avatars.githubusercontent.com/u/3372342?s=40&40&v=4"
+          },
+          {
+            "username": "matthiaskrgr",
+            "avatar": "https://avatars.githubusercontent.com/u/476013?s=40&40&v=4"
+          },
+          {
+            "username": "RalfJung",
+            "avatar": "https://avatars.githubusercontent.com/u/330628?s=40&40&v=4"
+          },
+          {
+            "username": "GuillaumeGomez",
+            "avatar": "https://avatars.githubusercontent.com/u/3050060?s=40&40&v=4"
+          },
+          {
+            "username": "matklad",
+            "avatar": "https://avatars.githubusercontent.com/u/1711539?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "author": "react",
+        "name": "react",
+        "fullName": "react/react",
+        "url": "https://github.com/react/react",
+        "description": "The library for web and native user interfaces.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 252028,
+        "forks": 51777,
+        "builtBy": [
+          {
+            "username": "sebmarkbage",
+            "avatar": "https://avatars.githubusercontent.com/u/63648?s=40&40&v=4"
+          },
+          {
+            "username": "zpao",
+            "avatar": "https://avatars.githubusercontent.com/u/8445?s=40&40&v=4"
+          },
+          {
+            "username": "gaearon",
+            "avatar": "https://avatars.githubusercontent.com/u/810438?s=40&40&v=4"
+          },
+          {
+            "username": "acdlite",
+            "avatar": "https://avatars.githubusercontent.com/u/3624098?s=40&40&v=4"
+          },
+          {
+            "username": "sophiebits",
+            "avatar": "https://avatars.githubusercontent.com/u/6820?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "author": "angular",
+        "name": "angular",
+        "fullName": "angular/angular",
+        "url": "https://github.com/angular/angular",
+        "description": "Deliver web apps with confidence 🚀",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 101134,
+        "forks": 28905,
+        "builtBy": [
+          {
+            "username": "gkalpak",
+            "avatar": "https://avatars.githubusercontent.com/u/8604205?s=40&40&v=4"
+          },
+          {
+            "username": "petebacondarwin",
+            "avatar": "https://avatars.githubusercontent.com/u/15655?s=40&40&v=4"
+          },
+          {
+            "username": "crisbeto",
+            "avatar": "https://avatars.githubusercontent.com/u/4450522?s=40&40&v=4"
+          },
+          {
+            "username": "angular-robot",
+            "avatar": "https://avatars.githubusercontent.com/u/89942104?s=40&40&v=4"
+          },
+          {
+            "username": "devversion",
+            "avatar": "https://avatars.githubusercontent.com/u/4987015?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "author": "symfony",
+        "name": "symfony",
+        "fullName": "symfony/symfony",
+        "url": "https://github.com/symfony/symfony",
+        "description": "The Symfony PHP framework",
+        "language": "PHP",
+        "languageColor": "#4F5D95",
+        "starsToday": 0,
+        "totalStars": 31245,
+        "forks": 9938,
+        "builtBy": [
+          {
+            "username": "fabpot",
+            "avatar": "https://avatars.githubusercontent.com/u/47313?s=40&40&v=4"
+          },
+          {
+            "username": "nicolas-grekas",
+            "avatar": "https://avatars.githubusercontent.com/u/243674?s=40&40&v=4"
+          },
+          {
+            "username": "xabbuh",
+            "avatar": "https://avatars.githubusercontent.com/u/1957048?s=40&40&v=4"
+          },
+          {
+            "username": "derrabus",
+            "avatar": "https://avatars.githubusercontent.com/u/1506493?s=40&40&v=4"
+          },
+          {
+            "username": "chalasr",
+            "avatar": "https://avatars.githubusercontent.com/u/7502063?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "author": "prometheus",
+        "name": "prometheus",
+        "fullName": "prometheus/prometheus",
+        "url": "https://github.com/prometheus/prometheus",
+        "description": "The Prometheus monitoring system and time series database.",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "starsToday": 0,
+        "totalStars": 66986,
+        "forks": 10980,
+        "builtBy": [
+          {
+            "username": "fabxc",
+            "avatar": "https://avatars.githubusercontent.com/u/4948210?s=40&40&v=4"
+          },
+          {
+            "username": "juliusv",
+            "avatar": "https://avatars.githubusercontent.com/u/538008?s=40&40&v=4"
+          },
+          {
+            "username": "beorn7",
+            "avatar": "https://avatars.githubusercontent.com/u/5609886?s=40&40&v=4"
+          },
+          {
+            "username": "bboreham",
+            "avatar": "https://avatars.githubusercontent.com/u/8125524?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "author": "google",
+        "name": "skills",
+        "fullName": "google/skills",
+        "url": "https://github.com/google/skills",
+        "description": "Agent Skills for Google products and technologies",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 22615,
+        "forks": 1904,
+        "builtBy": [
+          {
+            "username": "cloud-ix-copybara",
+            "avatar": "https://avatars.githubusercontent.com/u/277152880?s=40&40&v=4"
+          },
+          {
+            "username": "holtskinner",
+            "avatar": "https://avatars.githubusercontent.com/u/13262395?s=40&40&v=4"
+          },
+          {
+            "username": "martinvarelaj",
+            "avatar": "https://avatars.githubusercontent.com/u/52255361?s=40&40&v=4"
+          },
+          {
+            "username": "helloeve",
+            "avatar": "https://avatars.githubusercontent.com/u/2510012?s=40&40&v=4"
+          },
+          {
+            "username": "wangauone",
+            "avatar": "https://avatars.githubusercontent.com/u/51683731?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 11,
+        "author": "microsoft",
+        "name": "vscode",
+        "fullName": "microsoft/vscode",
+        "url": "https://github.com/microsoft/vscode",
+        "description": "Visual Studio Code",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 194774,
+        "forks": 44404,
+        "builtBy": [
+          {
+            "username": "bpasero",
+            "avatar": "https://avatars.githubusercontent.com/u/900690?s=40&40&v=4"
+          },
+          {
+            "username": "jrieken",
+            "avatar": "https://avatars.githubusercontent.com/u/1794099?s=40&40&v=4"
+          },
+          {
+            "username": "Tyriar",
+            "avatar": "https://avatars.githubusercontent.com/u/2193314?s=40&40&v=4"
+          },
+          {
+            "username": "sandy081",
+            "avatar": "https://avatars.githubusercontent.com/u/10746682?s=40&40&v=4"
+          },
+          {
+            "username": "joaomoreno",
+            "avatar": "https://avatars.githubusercontent.com/u/22350?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 12,
+        "author": "lz4",
+        "name": "lz4",
+        "fullName": "lz4/lz4",
+        "url": "https://github.com/lz4/lz4",
+        "description": "Extremely Fast Compression algorithm",
+        "language": "C",
+        "languageColor": "#555555",
+        "starsToday": 0,
+        "totalStars": 12526,
+        "forks": 1640,
+        "builtBy": [
+          {
+            "username": "Cyan4973",
+            "avatar": "https://avatars.githubusercontent.com/u/750081?s=40&40&v=4"
+          },
+          {
+            "username": "inikep",
+            "avatar": "https://avatars.githubusercontent.com/u/15112322?s=40&40&v=4"
+          },
+          {
+            "username": "t-mat",
+            "avatar": "https://avatars.githubusercontent.com/u/898396?s=40&40&v=4"
+          },
+          {
+            "username": "felixhandte",
+            "avatar": "https://avatars.githubusercontent.com/u/1154694?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 13,
+        "author": "nushell",
+        "name": "nushell",
+        "fullName": "nushell/nushell",
+        "url": "https://github.com/nushell/nushell",
+        "description": "A new type of shell",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 40797,
+        "forks": 2331,
+        "builtBy": [
+          {
+            "username": "sophiajt",
+            "avatar": "https://avatars.githubusercontent.com/u/547158?s=40&40&v=4"
+          },
+          {
+            "username": "fdncred",
+            "avatar": "https://avatars.githubusercontent.com/u/343840?s=40&40&v=4"
+          },
+          {
+            "username": "sholderbach",
+            "avatar": "https://avatars.githubusercontent.com/u/15833959?s=40&40&v=4"
+          },
+          {
+            "username": "andrasio",
+            "avatar": "https://avatars.githubusercontent.com/u/951128?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 14,
+        "author": "etcd-io",
+        "name": "etcd",
+        "fullName": "etcd-io/etcd",
+        "url": "https://github.com/etcd-io/etcd",
+        "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "starsToday": 0,
+        "totalStars": 52481,
+        "forks": 10573,
+        "builtBy": [
+          {
+            "username": "gyuho",
+            "avatar": "https://avatars.githubusercontent.com/u/6799218?s=40&40&v=4"
+          },
+          {
+            "username": "ahrtr",
+            "avatar": "https://avatars.githubusercontent.com/u/30739825?s=40&40&v=4"
+          },
+          {
+            "username": "xiang90",
+            "avatar": "https://avatars.githubusercontent.com/u/4479947?s=40&40&v=4"
+          },
+          {
+            "username": "serathius",
+            "avatar": "https://avatars.githubusercontent.com/u/5873433?s=40&40&v=4"
+          },
+          {
+            "username": "yichengq",
+            "avatar": "https://avatars.githubusercontent.com/u/2976232?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 15,
+        "author": "openssl",
+        "name": "openssl",
+        "fullName": "openssl/openssl",
+        "url": "https://github.com/openssl/openssl",
+        "description": "General purpose TLS and crypto library",
+        "language": "C",
+        "languageColor": "#555555",
+        "starsToday": 0,
+        "totalStars": 31199,
+        "forks": 11579,
+        "builtBy": [
+          {
+            "username": "levitte",
+            "avatar": "https://avatars.githubusercontent.com/u/698918?s=40&40&v=4"
+          },
+          {
+            "username": "mattcaswell",
+            "avatar": "https://avatars.githubusercontent.com/u/7422273?s=40&40&v=4"
+          },
+          {
+            "username": "dot-asm",
+            "avatar": "https://avatars.githubusercontent.com/u/9038069?s=40&40&v=4"
+          },
+          {
+            "username": "paulidale",
+            "avatar": "https://avatars.githubusercontent.com/u/17916609?s=40&40&v=4"
+          },
+          {
+            "username": "snhenson",
+            "avatar": "https://avatars.githubusercontent.com/u/6590984?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 16,
+        "author": "mattpocock",
+        "name": "skills",
+        "fullName": "mattpocock/skills",
+        "url": "https://github.com/mattpocock/skills",
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "languageColor": "#89e051",
+        "starsToday": 0,
+        "totalStars": 316095,
+        "forks": 26446,
+        "builtBy": [
+          {
+            "username": "mattpocock",
+            "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "gabimoncha",
+            "avatar": "https://avatars.githubusercontent.com/u/39256258?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 17,
+        "author": "cloudflare",
+        "name": "security-audit-skill",
+        "fullName": "cloudflare/security-audit-skill",
+        "url": "https://github.com/cloudflare/security-audit-skill",
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 62695,
+        "forks": 4066,
+        "builtBy": [
+          {
+            "username": "literally-dan",
+            "avatar": "https://avatars.githubusercontent.com/u/9935415?s=40&40&v=4"
+          },
+          {
+            "username": "CooperSheroy",
+            "avatar": "https://avatars.githubusercontent.com/u/59650384?s=40&40&v=4"
+          },
+          {
+            "username": "kennysarnoski-jarvis",
+            "avatar": "https://avatars.githubusercontent.com/u/228360615?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 18,
+        "author": "astral-sh",
+        "name": "ruff",
+        "fullName": "astral-sh/ruff",
+        "url": "https://github.com/astral-sh/ruff",
+        "description": "An extremely fast Python linter and code formatter, written in Rust.",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 50484,
+        "forks": 2596,
+        "builtBy": [
+          {
+            "username": "charliermarsh",
+            "avatar": "https://avatars.githubusercontent.com/u/1309177?s=40&40&v=4"
+          },
+          {
+            "username": "MichaReiser",
+            "avatar": "https://avatars.githubusercontent.com/u/1203881?s=40&40&v=4"
+          },
+          {
+            "username": "AlexWaygood",
+            "avatar": "https://avatars.githubusercontent.com/u/66076021?s=40&40&v=4"
+          },
+          {
+            "username": "sharkdp",
+            "avatar": "https://avatars.githubusercontent.com/u/4209276?s=40&40&v=4"
+          }
+        ]
+      }
+    ]
+  },
+  "productHunt": null,
+  "hackerNews": null
+}

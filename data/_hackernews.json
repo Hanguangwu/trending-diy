@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-11-06T11:43:38.220Z",
+  "updatedAt": "2026-11-07T10:50:57.856Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
-      "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
-      "score": 122,
-      "comments": 69,
-      "author": "microtonal"
+      "title": "Libghostty 1.0",
+      "url": "https://mitchellh.com/writing/libghostty-1-0",
+      "score": 673,
+      "comments": 109,
+      "author": "mfiguiere"
     },
     {
       "rank": 2,
-      "title": "Blender's UI and Runtime: Much Faster Than GPUI",
-      "url": "https://github.com/ppmpreetham/BUI",
-      "score": 261,
-      "comments": 104,
-      "author": "ppmpreetham"
+      "title": "Upload Your RAM",
+      "url": "https://uploadyourram.org",
+      "score": 6,
+      "comments": 0,
+      "author": "susanthenerd"
     },
     {
       "rank": 3,
-      "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
-      "url": "https://jhr.pensoft.net/articles.php?id=9096",
-      "score": 38,
-      "comments": 9,
-      "author": "hitekker"
+      "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+      "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+      "score": 109,
+      "comments": 71,
+      "author": "benbreen"
     },
     {
       "rank": 4,
-      "title": "Claude Code sends your email address to websites",
-      "url": "https://github.com/anthropics/claude-code/issues/107757",
-      "score": 1215,
-      "comments": 384,
-      "author": "motoroco"
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+      "score": 487,
+      "comments": 111,
+      "author": "theanomaly"
     },
     {
       "rank": 5,
-      "title": "Kugelblitz – Mac-Native Google Earth Alternative",
-      "url": "https://apps.metaebene.me/en/kugelblitz",
-      "score": 102,
-      "comments": 22,
-      "author": "luoc"
+      "title": "Tesla to wind down Cybertruck production",
+      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+      "score": 1019,
+      "comments": 1872,
+      "author": "PLenz"
     },
     {
       "rank": 6,
-      "title": "sshole",
-      "url": "https://sshhole.com",
-      "score": 2744,
-      "comments": 664,
-      "author": "josemrb"
+      "title": "The Components of Agent Memory",
+      "url": "https://www.anthropic.com/research/components-of-agent-memory",
+      "score": 50,
+      "comments": 26,
+      "author": "geoffbp"
     },
     {
       "rank": 7,
-      "title": "MS Paint Remote Code Execution Vulnerability",
-      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
-      "score": 567,
-      "comments": 206,
-      "author": "kuberwastaken"
+      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "score": 6,
+      "comments": 0,
+      "author": "infwhispers"
     },
     {
       "rank": 8,
-      "title": "Pwn.college",
-      "url": "https://pwn.college/",
-      "score": 173,
-      "comments": 22,
-      "author": "tripdout"
+      "title": "PostgreSQL Internals [pdf]",
+      "url": "https://edu.postgrespro.com/postgresql_internals-14_en.pdf",
+      "score": 26,
+      "comments": 2,
+      "author": "Foe"
     },
     {
       "rank": 9,
-      "title": "Hardcoded credentials and other issues in Tata Motors App",
-      "url": "https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0537",
-      "score": 37,
-      "comments": 7,
-      "author": "qtqtqt"
+      "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+      "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
+      "score": 130,
+      "comments": 63,
+      "author": "raybb"
     },
     {
       "rank": 10,
-      "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
-      "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
-      "score": 114,
-      "comments": 39,
-      "author": "jonbaer"
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+      "score": 341,
+      "comments": 276,
+      "author": "ChrisArchitect"
     },
     {
       "rank": 11,
-      "title": "Nvidia Kubernetes Engine (NVKE)",
-      "url": "https://github.com/dsx-ai-factory/nvke",
-      "score": 85,
-      "comments": 22,
-      "author": "gkapur"
+      "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
+      "url": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
+      "score": 112,
+      "comments": 9,
+      "author": "derbOac"
     },
     {
       "rank": 12,
-      "title": "The Hackintosh Reborn",
-      "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
-      "score": 324,
-      "comments": 182,
-      "author": "rubatuga"
+      "title": "Firecracker VM Escape: PwnEscape Part 2",
+      "url": "https://pwn.ai/blog/firecracker-escape",
+      "score": 241,
+      "comments": 106,
+      "author": "SerCe"
     },
     {
       "rank": 13,
-      "title": "Inkling 2 Small",
-      "url": "https://thinkingmachines.ai/news/inkling-2-small/",
-      "score": 214,
-      "comments": 70,
-      "author": "Philpax"
+      "title": "Enterprise Brain – Memory that learns from work",
+      "url": "https://www.ampup.ai/companybrain",
+      "score": 4,
+      "comments": 0,
+      "author": "irodov_rg"
     },
     {
       "rank": 14,
-      "title": "Multiplayer tanks that demolish real buildings from OpenStreetMap",
-      "url": "https://worldstrike.fun/",
-      "score": 64,
-      "comments": 44,
-      "author": "n4ze3m"
+      "title": "The Flash C Compiler",
+      "url": "https://blog.adafruit.com/2026/10/31/flash-c-compiler/",
+      "score": 55,
+      "comments": 9,
+      "author": "AlexeyBrin"
     },
     {
       "rank": 15,
-      "title": "Window Sweaters",
-      "url": "https://github.com/saragordic/window-sweaters",
-      "score": 365,
-      "comments": 111,
-      "author": "nickswalker"
+      "title": "Port 0: The Port That Does Not Exist",
+      "url": "https://acid.vegas/blog/the-port-that-does-not-exist/",
+      "score": 4,
+      "comments": 1,
+      "author": "NewCzech"
     },
     {
       "rank": 16,
-      "title": "I struggle to believe that AI R&D is ingenious",
-      "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
-      "score": 118,
-      "comments": 97,
-      "author": "porridgeraisin"
+      "title": "Need for Speed Underground 2 online in the browser",
+      "url": "https://nfsu2.xyz/",
+      "score": 5,
+      "comments": 0,
+      "author": "fluxusars"
     },
     {
       "rank": 17,
-      "title": "Britain to make salary disclosure in job ads mandatory",
-      "url": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
-      "score": 235,
-      "comments": 229,
-      "author": "1659447091"
+      "title": "Notes on San Marino",
+      "url": "https://mattlakeman.org/2026/11/05/notes-on-san-marino/",
+      "score": 73,
+      "comments": 25,
+      "author": "yorwba"
     },
     {
       "rank": 18,
-      "title": "Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",
-      "url": "https://firenook.dev/",
-      "score": 126,
-      "comments": 17,
-      "author": "sanjevirau"
+      "title": "The great butter and cheese fire of 1991",
+      "url": "https://www.wisfarmer.com/story/opinion/columnists/2022/05/11/over-20-m-lbs-commodities-lost-great-butter-fire-1991/9650051002/",
+      "score": 32,
+      "comments": 12,
+      "author": "subroutine"
     },
     {
       "rank": 19,
-      "title": "Motorola Signature 27 with GrapheneOS support",
-      "url": "https://motorolanews.com/motorola-signature-27-2/",
-      "score": 495,
-      "comments": 350,
-      "author": "monneyboi"
+      "title": "8088 Domination Post-Mortem",
+      "url": "https://trixter.oldskool.org/2014/06/19/8088-domination-post-mortem-part-1/",
+      "score": 19,
+      "comments": 4,
+      "author": "cosmojg"
     },
     {
       "rank": 20,
-      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
-      "url": "https://github.com/rivet-dev/rivet",
-      "score": 102,
-      "comments": 53,
-      "author": "NathanFlurry"
+      "title": "Asahi Linux Progress Linux 7.3",
+      "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
+      "score": 186,
+      "comments": 142,
+      "author": "ackyshake"
     },
     {
       "rank": 21,
-      "title": "I wish tech companies knew more about me",
-      "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
-      "score": 445,
-      "comments": 371,
-      "author": "freetonik"
+      "title": "First steps in bare-metal programming using UEFI",
+      "url": "https://kevinboone.me/efitest_index.html",
+      "score": 223,
+      "comments": 42,
+      "author": "LaSombra"
     },
     {
       "rank": 22,
-      "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
-      "url": "https://www.linum.ai/field-notes/pjit-21k",
-      "score": 240,
-      "comments": 22,
-      "author": "schopra909"
+      "title": "GitHub's new Git storage architecture",
+      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+      "score": 148,
+      "comments": 32,
+      "author": "DAlperin"
     },
     {
       "rank": 23,
-      "title": "App Store 2026 in numbers: AI, pricing, abandoned apps",
-      "url": "https://obelisk.club/research/app-store-2026",
-      "score": 48,
-      "comments": 44,
-      "author": "Peter216"
+      "title": "Can GROUP BY still be optimized after all these years?",
+      "url": "https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/",
+      "score": 85,
+      "comments": 15,
+      "author": "ntur1337"
     },
     {
       "rank": 24,
-      "title": "September in Servo: <progress>, rounded rectangles, and more",
-      "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
-      "score": 246,
-      "comments": 62,
-      "author": "iamnothere"
+      "title": "AI is dramatically accelerating AI research",
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "score": 311,
+      "comments": 265,
+      "author": "yurivish"
     },
     {
       "rank": 25,
-      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
-      "score": 366,
-      "comments": 175,
-      "author": "randycupertino"
+      "title": "Gemini Omni 1.2 Flash",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "score": 339,
+      "comments": 231,
+      "author": "thisisauserid"
     },
     {
       "rank": 26,
-      "title": "MoofTCP – A modern replacement for MacTCP on 68k Macs",
-      "url": "https://github.com/matthewmrichter/mooftcp",
-      "score": 52,
-      "comments": 20,
-      "author": "marcusbasant"
+      "title": "Devvm.dev: One VM for every project",
+      "url": "https://devvm.dev/",
+      "score": 159,
+      "comments": 61,
+      "author": "luispa"
     },
     {
       "rank": 27,
-      "title": "Download your favourite YouTube videos",
-      "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
-      "score": 356,
-      "comments": 170,
-      "author": "surprisetalk"
+      "title": "Restaurant Delivery Payment-Skimming Campaign",
+      "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
+      "score": 128,
+      "comments": 62,
+      "author": "fiej"
     },
     {
       "rank": 28,
-      "title": "Pangram Image 1.0",
-      "url": "https://www.pangram.com/blog/introducing-pangram-image-1-0",
-      "score": 113,
-      "comments": 54,
-      "author": "gmays"
+      "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
+      "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
+      "score": 76,
+      "comments": 20,
+      "author": "rexbee"
     },
     {
       "rank": 29,
-      "title": "MCP Explained",
-      "url": "https://mcp-explained.com/",
-      "score": 308,
-      "comments": 130,
-      "author": "rwilinski"
+      "title": "Bug Finding Considered Harmful?",
+      "url": "https://alperenkeles.com/posts/bug-finding-considered-harmful/",
+      "score": 12,
+      "comments": 2,
+      "author": "alpaylan"
     },
     {
       "rank": 30,
-      "title": "Obscure audio codec is a perfect fit for the N64",
-      "url": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
-      "score": 243,
-      "comments": 28,
-      "author": "frostbyte7"
+      "title": "Chomsky and the two cultures of statistical learning (2011)",
+      "url": "https://www.norvig.com/chomsky.html",
+      "score": 129,
+      "comments": 102,
+      "author": "andsoitis"
     }
   ]
 }

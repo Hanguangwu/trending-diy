@@ -1,0 +1,496 @@
+{
+  "date": "2026-11-08",
+  "updatedAt": "2026-11-08T10:59:56.848Z",
+  "github": {
+    "updatedAt": "2026-11-08T10:59:55.278Z",
+    "repos": [
+      {
+        "rank": 1,
+        "author": "vercel-labs",
+        "name": "agent-browser",
+        "fullName": "vercel-labs/agent-browser",
+        "url": "https://github.com/vercel-labs/agent-browser",
+        "description": "Browser automation CLI for AI agents",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 47178,
+        "forks": 3233,
+        "builtBy": [
+          {
+            "username": "ctate",
+            "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&40&v=4"
+          },
+          {
+            "username": "Railly",
+            "avatar": "https://avatars.githubusercontent.com/u/51397083?s=40&40&v=4"
+          },
+          {
+            "username": "lahfir",
+            "avatar": "https://avatars.githubusercontent.com/u/70215676?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "author": "cloudflare",
+        "name": "security-audit-skill",
+        "fullName": "cloudflare/security-audit-skill",
+        "url": "https://github.com/cloudflare/security-audit-skill",
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 66272,
+        "forks": 4316,
+        "builtBy": [
+          {
+            "username": "literally-dan",
+            "avatar": "https://avatars.githubusercontent.com/u/9935415?s=40&40&v=4"
+          },
+          {
+            "username": "CooperSheroy",
+            "avatar": "https://avatars.githubusercontent.com/u/59650384?s=40&40&v=4"
+          },
+          {
+            "username": "kennysarnoski-jarvis",
+            "avatar": "https://avatars.githubusercontent.com/u/228360615?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "author": "google",
+        "name": "skills",
+        "fullName": "google/skills",
+        "url": "https://github.com/google/skills",
+        "description": "Agent Skills for Google products and technologies",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 23614,
+        "forks": 1971,
+        "builtBy": [
+          {
+            "username": "cloud-ix-copybara",
+            "avatar": "https://avatars.githubusercontent.com/u/277152880?s=40&40&v=4"
+          },
+          {
+            "username": "holtskinner",
+            "avatar": "https://avatars.githubusercontent.com/u/13262395?s=40&40&v=4"
+          },
+          {
+            "username": "martinvarelaj",
+            "avatar": "https://avatars.githubusercontent.com/u/52255361?s=40&40&v=4"
+          },
+          {
+            "username": "helloeve",
+            "avatar": "https://avatars.githubusercontent.com/u/2510012?s=40&40&v=4"
+          },
+          {
+            "username": "wangauone",
+            "avatar": "https://avatars.githubusercontent.com/u/51683731?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "author": "mattpocock",
+        "name": "skills",
+        "fullName": "mattpocock/skills",
+        "url": "https://github.com/mattpocock/skills",
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "languageColor": "#89e051",
+        "starsToday": 0,
+        "totalStars": 318103,
+        "forks": 26623,
+        "builtBy": [
+          {
+            "username": "mattpocock",
+            "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "gabimoncha",
+            "avatar": "https://avatars.githubusercontent.com/u/39256258?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "author": "anthropics",
+        "name": "skills",
+        "fullName": "anthropics/skills",
+        "url": "https://github.com/anthropics/skills",
+        "description": "Public repository for Agent Skills",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 189082,
+        "forks": 22291,
+        "builtBy": [
+          {
+            "username": "rlancemartin",
+            "avatar": "https://avatars.githubusercontent.com/u/122662504?s=40&40&v=4"
+          },
+          {
+            "username": "klazuka",
+            "avatar": "https://avatars.githubusercontent.com/u/84525?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "cj-ant",
+            "avatar": "https://avatars.githubusercontent.com/u/286490957?s=40&40&v=4"
+          },
+          {
+            "username": "ericharmeling",
+            "avatar": "https://avatars.githubusercontent.com/u/27286675?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "author": "meta",
+        "name": "astryx",
+        "fullName": "meta/astryx",
+        "url": "https://github.com/meta/astryx",
+        "description": "An open source design system that's fully customizable and agent ready",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 14933,
+        "forks": 1221,
+        "builtBy": [
+          {
+            "username": "cixzhang",
+            "avatar": "https://avatars.githubusercontent.com/u/2781099?s=40&40&v=4"
+          },
+          {
+            "username": "rubyycheung",
+            "avatar": "https://avatars.githubusercontent.com/u/254546175?s=40&40&v=4"
+          },
+          {
+            "username": "josephfarina",
+            "avatar": "https://avatars.githubusercontent.com/u/17398284?s=40&40&v=4"
+          },
+          {
+            "username": "vjeux",
+            "avatar": "https://avatars.githubusercontent.com/u/197597?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "author": "prometheus",
+        "name": "prometheus",
+        "fullName": "prometheus/prometheus",
+        "url": "https://github.com/prometheus/prometheus",
+        "description": "The Prometheus monitoring system and time series database.",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "starsToday": 0,
+        "totalStars": 67533,
+        "forks": 11011,
+        "builtBy": [
+          {
+            "username": "fabxc",
+            "avatar": "https://avatars.githubusercontent.com/u/4948210?s=40&40&v=4"
+          },
+          {
+            "username": "juliusv",
+            "avatar": "https://avatars.githubusercontent.com/u/538008?s=40&40&v=4"
+          },
+          {
+            "username": "beorn7",
+            "avatar": "https://avatars.githubusercontent.com/u/5609886?s=40&40&v=4"
+          },
+          {
+            "username": "bboreham",
+            "avatar": "https://avatars.githubusercontent.com/u/8125524?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "author": "sherlock-project",
+        "name": "sherlock",
+        "fullName": "sherlock-project/sherlock",
+        "url": "https://github.com/sherlock-project/sherlock",
+        "description": "Hunt down social media accounts by username across social networks",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 101575,
+        "forks": 12004,
+        "builtBy": [
+          {
+            "username": "sdushantha",
+            "avatar": "https://avatars.githubusercontent.com/u/27065646?s=40&40&v=4"
+          },
+          {
+            "username": "hoadlck",
+            "avatar": "https://avatars.githubusercontent.com/u/1666888?s=40&40&v=4"
+          },
+          {
+            "username": "ppfeister",
+            "avatar": "https://avatars.githubusercontent.com/u/33327613?s=40&40&v=4"
+          },
+          {
+            "username": "TheYahya",
+            "avatar": "https://avatars.githubusercontent.com/u/15307244?s=40&40&v=4"
+          },
+          {
+            "username": "Czechball",
+            "avatar": "https://avatars.githubusercontent.com/u/13371865?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "author": "milind-soni",
+        "name": "OpenMausBot",
+        "fullName": "milind-soni/OpenMausBot",
+        "url": "https://github.com/milind-soni/OpenMausBot",
+        "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 17550,
+        "forks": 2457,
+        "builtBy": [
+          {
+            "username": "milind-soni",
+            "avatar": "https://avatars.githubusercontent.com/u/46266943?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "aivsomkar",
+            "avatar": "https://avatars.githubusercontent.com/u/255997030?s=40&40&v=4"
+          },
+          {
+            "username": "robinsonnblack",
+            "avatar": "https://avatars.githubusercontent.com/u/331326017?s=40&40&v=4"
+          },
+          {
+            "username": "bradhallett",
+            "avatar": "https://avatars.githubusercontent.com/u/53977268?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "author": "astral-sh",
+        "name": "ruff",
+        "fullName": "astral-sh/ruff",
+        "url": "https://github.com/astral-sh/ruff",
+        "description": "An extremely fast Python linter and code formatter, written in Rust.",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 51075,
+        "forks": 2636,
+        "builtBy": [
+          {
+            "username": "charliermarsh",
+            "avatar": "https://avatars.githubusercontent.com/u/1309177?s=40&40&v=4"
+          },
+          {
+            "username": "MichaReiser",
+            "avatar": "https://avatars.githubusercontent.com/u/1203881?s=40&40&v=4"
+          },
+          {
+            "username": "AlexWaygood",
+            "avatar": "https://avatars.githubusercontent.com/u/66076021?s=40&40&v=4"
+          },
+          {
+            "username": "sharkdp",
+            "avatar": "https://avatars.githubusercontent.com/u/4209276?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 11,
+        "author": "tailwindlabs",
+        "name": "tailwindcss",
+        "fullName": "tailwindlabs/tailwindcss",
+        "url": "https://github.com/tailwindlabs/tailwindcss",
+        "description": "A utility-first CSS framework for rapid UI development.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 98631,
+        "forks": 7119,
+        "builtBy": [
+          {
+            "username": "adamwathan",
+            "avatar": "https://avatars.githubusercontent.com/u/4323180?s=40&40&v=4"
+          },
+          {
+            "username": "RobinMalfait",
+            "avatar": "https://avatars.githubusercontent.com/u/1834413?s=40&40&v=4"
+          },
+          {
+            "username": "thecrypticace",
+            "avatar": "https://avatars.githubusercontent.com/u/614993?s=40&40&v=4"
+          },
+          {
+            "username": "reinink",
+            "avatar": "https://avatars.githubusercontent.com/u/882133?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 12,
+        "author": "mbillow",
+        "name": "localthings",
+        "fullName": "mbillow/localthings",
+        "url": "https://github.com/mbillow/localthings",
+        "description": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 1128,
+        "forks": 115,
+        "builtBy": [
+          {
+            "username": "mbillow",
+            "avatar": "https://avatars.githubusercontent.com/u/8651166?s=40&40&v=4"
+          },
+          {
+            "username": "perseus177",
+            "avatar": "https://avatars.githubusercontent.com/u/25415840?s=40&40&v=4"
+          },
+          {
+            "username": "roweboat123",
+            "avatar": "https://avatars.githubusercontent.com/u/37281333?s=40&40&v=4"
+          },
+          {
+            "username": "antiremy",
+            "avatar": "https://avatars.githubusercontent.com/u/848627?s=40&40&v=4"
+          },
+          {
+            "username": "Metal-Eagle",
+            "avatar": "https://avatars.githubusercontent.com/u/32430809?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 13,
+        "author": "zed-industries",
+        "name": "zed",
+        "fullName": "zed-industries/zed",
+        "url": "https://github.com/zed-industries/zed",
+        "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 94412,
+        "forks": 11565,
+        "builtBy": [
+          {
+            "username": "as-cii",
+            "avatar": "https://avatars.githubusercontent.com/u/482957?s=40&40&v=4"
+          },
+          {
+            "username": "maxbrunsfeld",
+            "avatar": "https://avatars.githubusercontent.com/u/326587?s=40&40&v=4"
+          },
+          {
+            "username": "maxdeviant",
+            "avatar": "https://avatars.githubusercontent.com/u/1486634?s=40&40&v=4"
+          },
+          {
+            "username": "nathansobo",
+            "avatar": "https://avatars.githubusercontent.com/u/1789?s=40&40&v=4"
+          },
+          {
+            "username": "ConradIrwin",
+            "avatar": "https://avatars.githubusercontent.com/u/94272?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 14,
+        "author": "ranxianglei",
+        "name": "billion-context",
+        "fullName": "ranxianglei/billion-context",
+        "url": "https://github.com/ranxianglei/billion-context",
+        "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 4815,
+        "forks": 388,
+        "builtBy": [
+          {
+            "username": "ranxianglei",
+            "avatar": "https://avatars.githubusercontent.com/u/12445698?s=40&40&v=4"
+          },
+          {
+            "username": "YunzhouLi-hub",
+            "avatar": "https://avatars.githubusercontent.com/u/154221037?s=40&40&v=4"
+          },
+          {
+            "username": "z0d0dOr",
+            "avatar": "https://avatars.githubusercontent.com/u/128966342?s=40&40&v=4"
+          },
+          {
+            "username": "yanhuojiyusheng",
+            "avatar": "https://avatars.githubusercontent.com/u/98598692?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 15,
+        "author": "dsx-ai-factory",
+        "name": "nvke",
+        "fullName": "dsx-ai-factory/nvke",
+        "url": "https://github.com/dsx-ai-factory/nvke",
+        "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "starsToday": 0,
+        "totalStars": 664,
+        "forks": 102,
+        "builtBy": [
+          {
+            "username": "dims",
+            "avatar": "https://avatars.githubusercontent.com/u/23304?s=40&40&v=4"
+          },
+          {
+            "username": "TerryHowe",
+            "avatar": "https://avatars.githubusercontent.com/u/104113?s=40&40&v=4"
+          },
+          {
+            "username": "lia-campbell",
+            "avatar": "https://avatars.githubusercontent.com/u/200289150?s=40&40&v=4"
+          },
+          {
+            "username": "jedimt",
+            "avatar": "https://avatars.githubusercontent.com/u/10234760?s=40&40&v=4"
+          },
+          {
+            "username": "danbudris",
+            "avatar": "https://avatars.githubusercontent.com/u/11739241?s=40&40&v=4"
+          }
+        ]
+      }
+    ]
+  },
+  "productHunt": null,
+  "hackerNews": null
+}

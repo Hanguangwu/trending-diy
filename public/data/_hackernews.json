@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-11-09T12:26:39.077Z",
+  "updatedAt": "2026-11-10T12:00:27.302Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Fun things to do with your VM/370 CE machine – Fun with big computers",
-      "url": "https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/",
-      "score": 43,
-      "comments": 4,
-      "author": "rbanffy"
+      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+      "score": 368,
+      "comments": 126,
+      "author": "aloukissas"
     },
     {
       "rank": 2,
-      "title": "Fold Epic Paper Airplanes",
-      "url": "https://www.foldableflight.com",
-      "score": 6,
-      "comments": 0,
-      "author": "vismit2000"
+      "title": "Queens Public library under ransomware attack e-borrowing suspended",
+      "url": "https://connect.queenslibrary.org/",
+      "score": 56,
+      "comments": 37,
+      "author": "rustyhancock"
     },
     {
       "rank": 3,
-      "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
-      "url": "https://arxiv.org/abs/2610.14162",
-      "score": 111,
-      "comments": 16,
-      "author": "theanonymousone"
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "score": 659,
+      "comments": 840,
+      "author": "lairv"
     },
     {
       "rank": 4,
-      "title": "Nvidia was in 1 in 11 startup rounds over $100M last year",
-      "url": "https://datahyena.com/research/a-chipmaker-was-in-one-of-every-eleven-100m-rounds/",
-      "score": 27,
-      "comments": 20,
-      "author": "ghostfoxgod"
+      "title": "USPS now offers official ZIP Code boundary polygons",
+      "url": "https://postalpro.usps.com/zcb",
+      "score": 636,
+      "comments": 320,
+      "author": "munro"
     },
     {
       "rank": 5,
-      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
-      "url": "https://ketchup3d.github.io/app/",
-      "score": 553,
-      "comments": 165,
-      "author": "dcoulmbe"
+      "title": "Fossil CO2 emissions decrease by 0.4% in 2026",
+      "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/",
+      "score": 26,
+      "comments": 14,
+      "author": "giuliomagnifico"
     },
     {
       "rank": 6,
-      "title": "Unlocking any car from X brand in most of the world",
-      "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
-      "score": 425,
-      "comments": 196,
-      "author": "infosecau"
+      "title": "Your TV can see through walls",
+      "url": "https://maurycyz.com/projects/fading/",
+      "score": 148,
+      "comments": 51,
+      "author": "Curiositry"
     },
     {
       "rank": 7,
-      "title": "I'm not convinced the AI bubble exists",
-      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
-      "score": 354,
-      "comments": 597,
-      "author": "matteoraso"
+      "title": "Fireworks AI security breach impacts Notion and their customers",
+      "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+      "score": 67,
+      "comments": 20,
+      "author": "werrett"
     },
     {
       "rank": 8,
-      "title": "Try Gleam",
-      "url": "https://nchagnet.eu/blog/you-should-try-gleam",
-      "score": 3,
-      "comments": 1,
-      "author": "nchagnet"
+      "title": "AI usage generates a fragile codebase",
+      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+      "score": 65,
+      "comments": 49,
+      "author": "plun9"
     },
     {
       "rank": 9,
-      "title": "Declarative Dragging",
-      "url": "https://declarative-dragging.github.io/",
-      "score": 596,
-      "comments": 77,
-      "author": "smusamashah"
+      "title": "Locating the source of a mysterious beep",
+      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+      "score": 217,
+      "comments": 100,
+      "author": "bigwheels"
     },
     {
       "rank": 10,
-      "title": "Chimera Vocal Synth",
-      "url": "https://chimera-vocal-synth.vercel.app/",
-      "score": 251,
-      "comments": 37,
-      "author": "nmstoker"
+      "title": "Billion Watts in the Speaker [video]",
+      "url": "https://www.youtube.com/watch?v=PHOcTXYaMfg",
+      "score": 24,
+      "comments": 10,
+      "author": "Element_"
     },
     {
       "rank": 11,
-      "title": "Psalm 7 release: PHP security&static analysis software",
-      "url": "https://psalm.dev/articles/psalm-7",
-      "score": 39,
-      "comments": 21,
-      "author": "danogentili"
+      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+      "score": 538,
+      "comments": 303,
+      "author": "ocd"
     },
     {
       "rank": 12,
-      "title": "Outlook.com is rejecting email from domains without DMARC",
-      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
-      "score": 432,
-      "comments": 303,
-      "author": "xmddmx"
+      "title": "Foldable Flight: The Best Paper Airplanes",
+      "url": "https://www.foldableflight.com",
+      "score": 1058,
+      "comments": 151,
+      "author": "vismit2000"
     },
     {
       "rank": 13,
-      "title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
-      "url": "https://github.com/OmniJev/Flide",
-      "score": 55,
-      "comments": 14,
-      "author": "unikcc"
+      "title": "E-means: Outperforming k-means in one-tenth the epochs",
+      "url": "https://e-means.github.io/",
+      "score": 418,
+      "comments": 50,
+      "author": "porridgeraisin"
     },
     {
       "rank": 14,
-      "title": "The French Cake Cooked on a Spit (2018) [video]",
-      "url": "https://www.youtube.com/watch?v=havcACdx0Y0",
-      "score": 13,
+      "title": "How hard is it to check for whitespace?",
+      "url": "https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace",
+      "score": 43,
       "comments": 10,
-      "author": "NaOH"
+      "author": "theanonymousone"
     },
     {
       "rank": 15,
-      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
-      "url": "https://duxlabs.dev/",
-      "score": 300,
-      "comments": 105,
-      "author": "indigodaddy"
+      "title": "Horible public key tricks",
+      "url": "https://maurycyz.com/projects/badcert/",
+      "score": 180,
+      "comments": 59,
+      "author": "Curiositry"
     },
     {
       "rank": 16,
-      "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
-      "url": "https://twitter.com/shanemelaugh/status/2119192075505893695",
-      "score": 249,
-      "comments": 173,
-      "author": "rzk"
+      "title": "Ultorg: The User Interface for Relational Databases",
+      "url": "https://www.ultorg.com/",
+      "score": 88,
+      "comments": 26,
+      "author": "Ivoah"
     },
     {
       "rank": 17,
-      "title": "Ask HN: What are you working on? (November 2026)",
-      "url": "https://news.ycombinator.com/item?id=50417407",
-      "score": 227,
-      "comments": 781,
-      "author": "david927"
+      "title": "ClickHouse Acquires Xata",
+      "url": "https://xata.io/blog/xata-is-joining-clickhouse",
+      "score": 44,
+      "comments": 6,
+      "author": "mebcitto"
     },
     {
       "rank": 18,
-      "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
-      "url": "https://news.ycombinator.com/item?id=50422628",
-      "score": 56,
-      "comments": 11,
-      "author": "DenGorbachev"
+      "title": "'C:\\> FORMAT C:' – relax, it's just a screen saver",
+      "url": "https://fakedos.com/",
+      "score": 3,
+      "comments": 0,
+      "author": "TheIncredibleCh"
     },
     {
       "rank": 19,
-      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
-      "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
-      "score": 734,
-      "comments": 825,
-      "author": "karimf"
+      "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
+      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+      "score": 322,
+      "comments": 219,
+      "author": "speckx"
     },
     {
       "rank": 20,
-      "title": "Quasi-Logarithmic Kitchen Timer",
-      "url": "https://blog.coredump.cx/p/quasi-logarithmic-kitchen-timer",
-      "score": 47,
-      "comments": 12,
-      "author": "surprisetalk"
+      "title": "What Constant Surveillance Is Doing to Children",
+      "url": "https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/",
+      "score": 23,
+      "comments": 7,
+      "author": "FinnLobsien"
     },
     {
       "rank": 21,
-      "title": "Burying the Evidence: nine out of every 10 time capsules go missing",
-      "url": "https://longreads.com/2026/11/05/time-capsules-ashley-stimpson/",
-      "score": 4,
-      "comments": 0,
-      "author": "ohjeez"
+      "title": "Formalizing CPython",
+      "url": "https://broyojo.com/python-formalization/",
+      "score": 84,
+      "comments": 32,
+      "author": "carnevalem"
     },
     {
       "rank": 22,
-      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-      "url": "https://github.com/synchopate/llama-modchip",
-      "score": 435,
-      "comments": 193,
-      "author": "joshcsimmons"
+      "title": "A primer on GPUs and kernel optimization",
+      "url": "https://www.nabo.dev/blogs/kernel-primer",
+      "score": 162,
+      "comments": 14,
+      "author": "nomi_uw"
     },
     {
       "rank": 23,
-      "title": "Ur-Nammu Founder of the Sumerian Renaissance",
-      "url": "https://www.worldhistory.org/Ur-Nammu/",
-      "score": 35,
-      "comments": 4,
-      "author": "Bluestein"
+      "title": "Show HN: Every satellite that passed over any place this week, and its photos",
+      "url": "https://www.watched.earth",
+      "score": 374,
+      "comments": 66,
+      "author": "a585gupt"
     },
     {
       "rank": 24,
-      "title": "The Qlobe: Rotating Quine (2010)",
-      "url": "http://mamememo.blogspot.com/2010/09/qlobe.html",
-      "score": 34,
-      "comments": 0,
-      "author": "niceguitars"
+      "title": "The first 300-millimeter power silicon carbide (SiC) wafer",
+      "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
+      "score": 141,
+      "comments": 81,
+      "author": "sshah03"
     },
     {
       "rank": 25,
-      "title": "Writing as a thinking tool",
-      "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
-      "score": 387,
-      "comments": 95,
-      "author": "jruohonen"
+      "title": "Google Gemini routes personal Drive files and emails to human annotators",
+      "url": "https://github.com/thisisme6598/gemini_files/",
+      "score": 631,
+      "comments": 132,
+      "author": "gf74918"
     },
     {
       "rank": 26,
-      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-      "score": 796,
-      "comments": 424,
-      "author": "TheWiggles"
+      "title": "Muse Ember: Our smallest, most efficient model",
+      "url": "https://research.meta.ai/blog/muse-ember",
+      "score": 309,
+      "comments": 131,
+      "author": "dvaplima"
     },
     {
       "rank": 27,
-      "title": "Nvidia's China Problem [pdf]",
-      "url": "https://culperresearch.com/wp-content/uploads/2026/05/Culper_NVDA_5-13-2026.pdf",
-      "score": 3,
-      "comments": 0,
-      "author": "Erikun"
+      "title": "Time for AVIF everywhere?",
+      "url": "https://www.michaelponders.com/2026/11/isnt-it-time-for-avif-everywhere.html",
+      "score": 88,
+      "comments": 61,
+      "author": "speckx"
     },
     {
       "rank": 28,
-      "title": "How I Fight AI Brain Fry",
-      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-      "score": 271,
-      "comments": 182,
-      "author": "kyunez"
+      "title": "On Being an Engineer in 2026",
+      "url": "https://twitter.com/shaharglazner/status/2119796029256032278",
+      "score": 129,
+      "comments": 205,
+      "author": "talboren"
     },
     {
       "rank": 29,
-      "title": "RIP, Harvest",
-      "url": "https://aphyr.com/posts/427-rip-harvest",
-      "score": 381,
-      "comments": 117,
-      "author": "zdw"
+      "title": "Never Gonna Print You Up",
+      "url": "https://dixken.de/blog/never-gonna-print-you-up",
+      "score": 53,
+      "comments": 2,
+      "author": "ta988"
     },
     {
       "rank": 30,
-      "title": "Goodbye Claude, hello Pi",
-      "url": "https://caleb.software/posts/claude-to-pi.html",
-      "score": 778,
-      "comments": 474,
-      "author": "karagenit"
+      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "score": 171,
+      "comments": 136,
+      "author": "lxm"
     }
   ]
 }

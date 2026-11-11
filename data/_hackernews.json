@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-11-10T12:00:27.302Z",
+  "updatedAt": "2026-11-11T11:38:39.351Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
-      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
-      "score": 368,
-      "comments": 126,
-      "author": "aloukissas"
+      "title": "Protecting SSH Keys with macOS Secure Enclave",
+      "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+      "score": 225,
+      "comments": 84,
+      "author": "js2"
     },
     {
       "rank": 2,
-      "title": "Queens Public library under ransomware attack e-borrowing suspended",
-      "url": "https://connect.queenslibrary.org/",
-      "score": 56,
-      "comments": 37,
-      "author": "rustyhancock"
+      "title": "Plane lifted into back garden as bunker takes shape",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgjv4pj023o",
+      "score": 36,
+      "comments": 25,
+      "author": "edward"
     },
     {
       "rank": 3,
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "score": 659,
-      "comments": 840,
-      "author": "lairv"
+      "title": "Smart home devices should work without the internet",
+      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "score": 993,
+      "comments": 354,
+      "author": "skittleson"
     },
     {
       "rank": 4,
-      "title": "USPS now offers official ZIP Code boundary polygons",
-      "url": "https://postalpro.usps.com/zcb",
-      "score": 636,
-      "comments": 320,
-      "author": "munro"
+      "title": ".name Grandfathered",
+      "url": "https://neil.fraser.name/news/2026/11/10/",
+      "score": 863,
+      "comments": 188,
+      "author": "p4bl0"
     },
     {
       "rank": 5,
-      "title": "Fossil CO2 emissions decrease by 0.4% in 2026",
-      "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/",
-      "score": 26,
-      "comments": 14,
-      "author": "giuliomagnifico"
+      "title": "Scion is back and is going to sell a kei truck in America",
+      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+      "score": 486,
+      "comments": 316,
+      "author": "NaOH"
     },
     {
       "rank": 6,
-      "title": "Your TV can see through walls",
-      "url": "https://maurycyz.com/projects/fading/",
-      "score": 148,
-      "comments": 51,
-      "author": "Curiositry"
+      "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+      "url": "https://github.com/gmkurtzer/ginux",
+      "score": 79,
+      "comments": 36,
+      "author": "d3Xt3r"
     },
     {
       "rank": 7,
-      "title": "Fireworks AI security breach impacts Notion and their customers",
-      "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
-      "score": 67,
-      "comments": 20,
-      "author": "werrett"
+      "title": "A great old-timey game-programming hack (2013)",
+      "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+      "score": 185,
+      "comments": 35,
+      "author": "palsecam"
     },
     {
       "rank": 8,
-      "title": "AI usage generates a fragile codebase",
-      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
-      "score": 65,
-      "comments": 49,
-      "author": "plun9"
+      "title": "Apple has new Mac app coming to make running local AI models easy",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "score": 288,
+      "comments": 248,
+      "author": "linolevan"
     },
     {
       "rank": 9,
-      "title": "Locating the source of a mysterious beep",
-      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
-      "score": 217,
-      "comments": 100,
-      "author": "bigwheels"
+      "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+      "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
+      "score": 111,
+      "comments": 75,
+      "author": "Metacelsus"
     },
     {
       "rank": 10,
-      "title": "Billion Watts in the Speaker [video]",
-      "url": "https://www.youtube.com/watch?v=PHOcTXYaMfg",
-      "score": 24,
-      "comments": 10,
-      "author": "Element_"
+      "title": "Six Math Essentials",
+      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+      "score": 261,
+      "comments": 51,
+      "author": "digital55"
     },
     {
       "rank": 11,
-      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-      "score": 538,
-      "comments": 303,
-      "author": "ocd"
+      "title": "Synaptics patent claims stop work on DisplayLink drivers",
+      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+      "score": 417,
+      "comments": 236,
+      "author": "speckx"
     },
     {
       "rank": 12,
-      "title": "Foldable Flight: The Best Paper Airplanes",
-      "url": "https://www.foldableflight.com",
-      "score": 1058,
-      "comments": 151,
-      "author": "vismit2000"
+      "title": "Starlink Mini 2",
+      "url": "https://starlink.com/mini-2",
+      "score": 432,
+      "comments": 459,
+      "author": "robertjfclarke"
     },
     {
       "rank": 13,
-      "title": "E-means: Outperforming k-means in one-tenth the epochs",
-      "url": "https://e-means.github.io/",
-      "score": 418,
-      "comments": 50,
-      "author": "porridgeraisin"
+      "title": "AlphaProof Code",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "score": 644,
+      "comments": 186,
+      "author": "ilreb"
     },
     {
       "rank": 14,
-      "title": "How hard is it to check for whitespace?",
-      "url": "https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace",
-      "score": 43,
-      "comments": 10,
-      "author": "theanonymousone"
+      "title": "Good Enough for a Tuesday Night",
+      "url": "https://www.newyorker.com/culture/the-weekend-essay/good-enough-for-a-tuesday-night",
+      "score": 4,
+      "comments": 1,
+      "author": "Michelangelo11"
     },
     {
       "rank": 15,
-      "title": "Horible public key tricks",
-      "url": "https://maurycyz.com/projects/badcert/",
-      "score": 180,
-      "comments": 59,
-      "author": "Curiositry"
+      "title": "Why I wrote the BEAM book (2025)",
+      "url": "https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/",
+      "score": 105,
+      "comments": 17,
+      "author": "zenincognito"
     },
     {
       "rank": 16,
-      "title": "Ultorg: The User Interface for Relational Databases",
-      "url": "https://www.ultorg.com/",
-      "score": 88,
-      "comments": 26,
-      "author": "Ivoah"
+      "title": "Why Amstrad chose the 3\" drives",
+      "url": "https://www.cpcwiki.eu/forum/amstrad-cpc-hardware/why-amstrad-chose-the-3-drives/",
+      "score": 52,
+      "comments": 14,
+      "author": "Skyfall106"
     },
     {
       "rank": 17,
-      "title": "ClickHouse Acquires Xata",
-      "url": "https://xata.io/blog/xata-is-joining-clickhouse",
-      "score": 44,
-      "comments": 6,
-      "author": "mebcitto"
+      "title": "A Compendium of Abandoned Greenhouses",
+      "url": "https://www.messynessychic.com/2015/01/15/a-compendium-of-abandoned-greenhouses/",
+      "score": 50,
+      "comments": 3,
+      "author": "ohjeez"
     },
     {
       "rank": 18,
-      "title": "'C:\\> FORMAT C:' – relax, it's just a screen saver",
-      "url": "https://fakedos.com/",
-      "score": 3,
-      "comments": 0,
-      "author": "TheIncredibleCh"
+      "title": "Val Town is winding down",
+      "url": "https://blog.val.town/winding-down",
+      "score": 391,
+      "comments": 97,
+      "author": "tosh"
     },
     {
       "rank": 19,
-      "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
-      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
-      "score": 322,
-      "comments": 219,
-      "author": "speckx"
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance",
+      "score": 380,
+      "comments": 121,
+      "author": "paulirish"
     },
     {
       "rank": 20,
-      "title": "What Constant Surveillance Is Doing to Children",
-      "url": "https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/",
-      "score": 23,
-      "comments": 7,
-      "author": "FinnLobsien"
+      "title": "Tracking Anthropic-discovered vulnerabilities",
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "score": 408,
+      "comments": 195,
+      "author": "panic"
     },
     {
       "rank": 21,
-      "title": "Formalizing CPython",
-      "url": "https://broyojo.com/python-formalization/",
-      "score": 84,
-      "comments": 32,
-      "author": "carnevalem"
+      "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+      "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+      "score": 240,
+      "comments": 172,
+      "author": "Yorothegoat"
     },
     {
       "rank": 22,
-      "title": "A primer on GPUs and kernel optimization",
-      "url": "https://www.nabo.dev/blogs/kernel-primer",
-      "score": 162,
-      "comments": 14,
-      "author": "nomi_uw"
+      "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
+      "url": "https://github.com/adrbn/bo2-mac",
+      "score": 33,
+      "comments": 3,
+      "author": "adrbn"
     },
     {
       "rank": 23,
-      "title": "Show HN: Every satellite that passed over any place this week, and its photos",
-      "url": "https://www.watched.earth",
-      "score": 374,
-      "comments": 66,
-      "author": "a585gupt"
+      "title": "Hacking the Meta Ray-Ban smartglasses",
+      "url": "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
+      "score": 123,
+      "comments": 41,
+      "author": "moooooky"
     },
     {
       "rank": 24,
-      "title": "The first 300-millimeter power silicon carbide (SiC) wafer",
-      "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
-      "score": 141,
-      "comments": 81,
-      "author": "sshah03"
+      "title": "AI usage generates a fragile codebase",
+      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+      "score": 574,
+      "comments": 539,
+      "author": "plun9"
     },
     {
       "rank": 25,
-      "title": "Google Gemini routes personal Drive files and emails to human annotators",
-      "url": "https://github.com/thisisme6598/gemini_files/",
-      "score": 631,
-      "comments": 132,
-      "author": "gf74918"
+      "title": "\"Jumping genes\" helped ants evolve after the extinction of the dinosaurs",
+      "url": "https://www.uni-muenster.de/news/view.php?cmdid=15659&utm_source=join1440&utm_medium=email&utm_placement=newsletter&user_id=66c4bf745d78644b3aa57b08",
+      "score": 15,
+      "comments": 0,
+      "author": "gmays"
     },
     {
       "rank": 26,
-      "title": "Muse Ember: Our smallest, most efficient model",
-      "url": "https://research.meta.ai/blog/muse-ember",
-      "score": 309,
-      "comments": 131,
-      "author": "dvaplima"
+      "title": "A ZIP-style Prolog VM for trilog",
+      "url": "https://github.com/no382001/zipc",
+      "score": 16,
+      "comments": 6,
+      "author": "triska"
     },
     {
       "rank": 27,
-      "title": "Time for AVIF everywhere?",
-      "url": "https://www.michaelponders.com/2026/11/isnt-it-time-for-avif-everywhere.html",
-      "score": 88,
-      "comments": 61,
-      "author": "speckx"
+      "title": "LLMs Play Zachtronics' TIS-100",
+      "url": "https://tis-100.wincon.dev/",
+      "score": 74,
+      "comments": 15,
+      "author": "fairestvalue"
     },
     {
       "rank": 28,
-      "title": "On Being an Engineer in 2026",
-      "url": "https://twitter.com/shaharglazner/status/2119796029256032278",
-      "score": 129,
-      "comments": 205,
-      "author": "talboren"
+      "title": "$30M Raised to Redo the CPU",
+      "url": "https://tendrils.co/blog/2026-11-10/30m-raised",
+      "score": 112,
+      "comments": 115,
+      "author": "shioyama"
     },
     {
       "rank": 29,
-      "title": "Never Gonna Print You Up",
-      "url": "https://dixken.de/blog/never-gonna-print-you-up",
-      "score": 53,
-      "comments": 2,
-      "author": "ta988"
+      "title": "AMD's Zen 6 Family: Feeding the Beast",
+      "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
+      "score": 245,
+      "comments": 99,
+      "author": "pixelpoet"
     },
     {
       "rank": 30,
-      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-      "score": 171,
-      "comments": 136,
-      "author": "lxm"
+      "title": "Process Explorer for macOS",
+      "url": "https://github.com/microsoft/Procexp-Mac",
+      "score": 214,
+      "comments": 68,
+      "author": "ingve"
     }
   ]
 }

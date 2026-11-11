@@ -1,0 +1,329 @@
+{
+  "date": "2026-11-11",
+  "updatedAt": "2026-11-11T11:38:39.359Z",
+  "github": {
+    "updatedAt": "2026-11-11T11:38:37.111Z",
+    "repos": [
+      {
+        "rank": 1,
+        "author": "meta",
+        "name": "astryx",
+        "fullName": "meta/astryx",
+        "url": "https://github.com/meta/astryx",
+        "description": "An open source design system that's fully customizable and agent ready",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 24114,
+        "forks": 1882,
+        "builtBy": [
+          {
+            "username": "cixzhang",
+            "avatar": "https://avatars.githubusercontent.com/u/2781099?s=40&40&v=4"
+          },
+          {
+            "username": "rubyycheung",
+            "avatar": "https://avatars.githubusercontent.com/u/254546175?s=40&40&v=4"
+          },
+          {
+            "username": "josephfarina",
+            "avatar": "https://avatars.githubusercontent.com/u/17398284?s=40&40&v=4"
+          },
+          {
+            "username": "vjeux",
+            "avatar": "https://avatars.githubusercontent.com/u/197597?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "author": "ZhuLinsen",
+        "name": "daily_stock_analysis",
+        "fullName": "ZhuLinsen/daily_stock_analysis",
+        "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+        "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 69707,
+        "forks": 56742,
+        "builtBy": [
+          {
+            "username": "ZhuLinsen",
+            "avatar": "https://avatars.githubusercontent.com/u/42829555?s=40&40&v=4"
+          },
+          {
+            "username": "massif-01",
+            "avatar": "https://avatars.githubusercontent.com/u/176381099?s=40&40&v=4"
+          },
+          {
+            "username": "freesme",
+            "avatar": "https://avatars.githubusercontent.com/u/56824280?s=40&40&v=4"
+          },
+          {
+            "username": "Activer007",
+            "avatar": "https://avatars.githubusercontent.com/u/30621586?s=40&40&v=4"
+          },
+          {
+            "username": "birdxs",
+            "avatar": "https://avatars.githubusercontent.com/u/36181736?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "author": "GoogleChrome",
+        "name": "modern-web-guidance-src",
+        "fullName": "GoogleChrome/modern-web-guidance-src",
+        "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+        "description": "",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 1406,
+        "forks": 126,
+        "builtBy": [
+          {
+            "username": "paulirish",
+            "avatar": "https://avatars.githubusercontent.com/u/39191?s=40&40&v=4"
+          },
+          {
+            "username": "rviscomi",
+            "avatar": "https://avatars.githubusercontent.com/u/1120896?s=40&40&v=4"
+          },
+          {
+            "username": "micahjo7",
+            "avatar": "https://avatars.githubusercontent.com/u/126118814?s=40&40&v=4"
+          },
+          {
+            "username": "philipwalton",
+            "avatar": "https://avatars.githubusercontent.com/u/326742?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "author": "shadcn",
+        "name": "improve",
+        "fullName": "shadcn/improve",
+        "url": "https://github.com/shadcn/improve",
+        "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+        "language": null,
+        "languageColor": null,
+        "starsToday": 0,
+        "totalStars": 10382,
+        "forks": 427,
+        "builtBy": [
+          {
+            "username": "shadcn",
+            "avatar": "https://avatars.githubusercontent.com/u/124599?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "erikpr1994",
+            "avatar": "https://avatars.githubusercontent.com/u/6299331?s=40&40&v=4"
+          },
+          {
+            "username": "beastawakens",
+            "avatar": "https://avatars.githubusercontent.com/u/888909?s=40&40&v=4"
+          },
+          {
+            "username": "morinim",
+            "avatar": "https://avatars.githubusercontent.com/u/10128372?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "author": "addyosmani",
+        "name": "agent-skills",
+        "fullName": "addyosmani/agent-skills",
+        "url": "https://github.com/addyosmani/agent-skills",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 115534,
+        "forks": 12118,
+        "builtBy": [
+          {
+            "username": "addyosmani",
+            "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&40&v=4"
+          },
+          {
+            "username": "nucliweb",
+            "avatar": "https://avatars.githubusercontent.com/u/1307927?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "rudycelekli",
+            "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&40&v=4"
+          },
+          {
+            "username": "ayobamiseun",
+            "avatar": "https://avatars.githubusercontent.com/u/66267222?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "author": "vercel-labs",
+        "name": "agent-browser",
+        "fullName": "vercel-labs/agent-browser",
+        "url": "https://github.com/vercel-labs/agent-browser",
+        "description": "Browser automation CLI for AI agents",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "starsToday": 0,
+        "totalStars": 49574,
+        "forks": 3470,
+        "builtBy": [
+          {
+            "username": "ctate",
+            "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&40&v=4"
+          },
+          {
+            "username": "Railly",
+            "avatar": "https://avatars.githubusercontent.com/u/51397083?s=40&40&v=4"
+          },
+          {
+            "username": "lahfir",
+            "avatar": "https://avatars.githubusercontent.com/u/70215676?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "author": "we-promise",
+        "name": "sure",
+        "fullName": "we-promise/sure",
+        "url": "https://github.com/we-promise/sure",
+        "description": "The personal finance app for everyone (by everyone)",
+        "language": "Ruby",
+        "languageColor": "#701516",
+        "starsToday": 0,
+        "totalStars": 12473,
+        "forks": 924,
+        "builtBy": [
+          {
+            "username": "jjmata",
+            "avatar": "https://avatars.githubusercontent.com/u/187772?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "zachgoll",
+            "avatar": "https://avatars.githubusercontent.com/u/16676157?s=40&40&v=4"
+          },
+          {
+            "username": "Shpigford",
+            "avatar": "https://avatars.githubusercontent.com/u/35243?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "author": "homeassistant-ai",
+        "name": "ha-mcp",
+        "fullName": "homeassistant-ai/ha-mcp",
+        "url": "https://github.com/homeassistant-ai/ha-mcp",
+        "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 6960,
+        "forks": 442,
+        "builtBy": [
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "kingpanther13",
+            "avatar": "https://avatars.githubusercontent.com/u/25392815?s=40&40&v=4"
+          },
+          {
+            "username": "julienld",
+            "avatar": "https://avatars.githubusercontent.com/u/3122659?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "author": "openai",
+        "name": "codex-security",
+        "fullName": "openai/codex-security",
+        "url": "https://github.com/openai/codex-security",
+        "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 11389,
+        "forks": 914,
+        "builtBy": [
+          {
+            "username": "mldangelo-oai",
+            "avatar": "https://avatars.githubusercontent.com/u/269034524?s=40&40&v=4"
+          },
+          {
+            "username": "codex",
+            "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&40&v=4"
+          },
+          {
+            "username": "ianw-oai",
+            "avatar": "https://avatars.githubusercontent.com/u/269041055?s=40&40&v=4"
+          },
+          {
+            "username": "kmbroai",
+            "avatar": "https://avatars.githubusercontent.com/u/272643392?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "author": "TheAlgorithms",
+        "name": "Java",
+        "fullName": "TheAlgorithms/Java",
+        "url": "https://github.com/TheAlgorithms/Java",
+        "description": "All Algorithms implemented in Java",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "starsToday": 0,
+        "totalStars": 66851,
+        "forks": 21489,
+        "builtBy": [
+          {
+            "username": "alxkm",
+            "avatar": "https://avatars.githubusercontent.com/u/19151554?s=40&40&v=4"
+          },
+          {
+            "username": "vil02",
+            "avatar": "https://avatars.githubusercontent.com/u/65706193?s=40&40&v=4"
+          },
+          {
+            "username": "Hardvan",
+            "avatar": "https://avatars.githubusercontent.com/u/97388607?s=40&40&v=4"
+          },
+          {
+            "username": "yanglbme",
+            "avatar": "https://avatars.githubusercontent.com/u/21008209?s=40&40&v=4"
+          }
+        ]
+      }
+    ]
+  },
+  "productHunt": null,
+  "hackerNews": null
+}

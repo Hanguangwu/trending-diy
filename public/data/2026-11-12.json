@@ -1,0 +1,446 @@
+{
+  "date": "2026-11-12",
+  "updatedAt": "2026-11-12T12:04:25.020Z",
+  "github": {
+    "updatedAt": "2026-11-12T12:04:22.750Z",
+    "repos": [
+      {
+        "rank": 1,
+        "author": "GoogleChrome",
+        "name": "modern-web-guidance-src",
+        "fullName": "GoogleChrome/modern-web-guidance-src",
+        "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+        "description": "",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 2210,
+        "forks": 159,
+        "builtBy": [
+          {
+            "username": "paulirish",
+            "avatar": "https://avatars.githubusercontent.com/u/39191?s=40&40&v=4"
+          },
+          {
+            "username": "rviscomi",
+            "avatar": "https://avatars.githubusercontent.com/u/1120896?s=40&40&v=4"
+          },
+          {
+            "username": "micahjo7",
+            "avatar": "https://avatars.githubusercontent.com/u/126118814?s=40&40&v=4"
+          },
+          {
+            "username": "philipwalton",
+            "avatar": "https://avatars.githubusercontent.com/u/326742?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "author": "openai",
+        "name": "codex-security",
+        "fullName": "openai/codex-security",
+        "url": "https://github.com/openai/codex-security",
+        "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 12061,
+        "forks": 955,
+        "builtBy": [
+          {
+            "username": "mldangelo-oai",
+            "avatar": "https://avatars.githubusercontent.com/u/269034524?s=40&40&v=4"
+          },
+          {
+            "username": "codex",
+            "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&40&v=4"
+          },
+          {
+            "username": "ianw-oai",
+            "avatar": "https://avatars.githubusercontent.com/u/269041055?s=40&40&v=4"
+          },
+          {
+            "username": "kmbroai",
+            "avatar": "https://avatars.githubusercontent.com/u/272643392?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "author": "nvm-sh",
+        "name": "nvm",
+        "fullName": "nvm-sh/nvm",
+        "url": "https://github.com/nvm-sh/nvm",
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+        "language": "Shell",
+        "languageColor": "#89e051",
+        "starsToday": 0,
+        "totalStars": 95922,
+        "forks": 10754,
+        "builtBy": [
+          {
+            "username": "ljharb",
+            "avatar": "https://avatars.githubusercontent.com/u/45469?s=40&40&v=4"
+          },
+          {
+            "username": "PeterDaveHello",
+            "avatar": "https://avatars.githubusercontent.com/u/3691490?s=40&40&v=4"
+          },
+          {
+            "username": "creationix",
+            "avatar": "https://avatars.githubusercontent.com/u/89353?s=40&40&v=4"
+          },
+          {
+            "username": "koenpunt",
+            "avatar": "https://avatars.githubusercontent.com/u/351038?s=40&40&v=4"
+          },
+          {
+            "username": "lukechilds",
+            "avatar": "https://avatars.githubusercontent.com/u/2123375?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "author": "pookjw",
+        "name": "HermesEnabler",
+        "fullName": "pookjw/HermesEnabler",
+        "url": "https://github.com/pookjw/HermesEnabler",
+        "description": "Enable Hermès Watch Faces on any Apple Watch devices",
+        "language": "Objective-C",
+        "languageColor": "#438eff",
+        "starsToday": 0,
+        "totalStars": 1336,
+        "forks": 127,
+        "builtBy": [
+          {
+            "username": "pookjw",
+            "avatar": "https://avatars.githubusercontent.com/u/11896738?s=40&40&v=4"
+          },
+          {
+            "username": "SamZong233",
+            "avatar": "https://avatars.githubusercontent.com/u/66147452?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "Jonathan0827",
+            "avatar": "https://avatars.githubusercontent.com/u/74815888?s=40&40&v=4"
+          },
+          {
+            "username": "adgk2349",
+            "avatar": "https://avatars.githubusercontent.com/u/78680745?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "author": "we-promise",
+        "name": "sure",
+        "fullName": "we-promise/sure",
+        "url": "https://github.com/we-promise/sure",
+        "description": "The personal finance app for everyone (by everyone)",
+        "language": "Ruby",
+        "languageColor": "#701516",
+        "starsToday": 0,
+        "totalStars": 13451,
+        "forks": 991,
+        "builtBy": [
+          {
+            "username": "jjmata",
+            "avatar": "https://avatars.githubusercontent.com/u/187772?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "zachgoll",
+            "avatar": "https://avatars.githubusercontent.com/u/16676157?s=40&40&v=4"
+          },
+          {
+            "username": "Shpigford",
+            "avatar": "https://avatars.githubusercontent.com/u/35243?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "author": "QwenLM",
+        "name": "qwen-code",
+        "fullName": "QwenLM/qwen-code",
+        "url": "https://github.com/QwenLM/qwen-code",
+        "description": "An open-source AI coding agent that lives in your terminal.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 29543,
+        "forks": 3381,
+        "builtBy": [
+          {
+            "username": "wenshao",
+            "avatar": "https://avatars.githubusercontent.com/u/1166785?s=40&40&v=4"
+          },
+          {
+            "username": "qwencoder",
+            "avatar": "https://avatars.githubusercontent.com/u/224605497?s=40&40&v=4"
+          },
+          {
+            "username": "yiliang114",
+            "avatar": "https://avatars.githubusercontent.com/u/11473889?s=40&40&v=4"
+          },
+          {
+            "username": "tanzhenxin",
+            "avatar": "https://avatars.githubusercontent.com/u/480123?s=40&40&v=4"
+          },
+          {
+            "username": "qwen-code-dev-bot",
+            "avatar": "https://avatars.githubusercontent.com/u/269191875?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "author": "ashhart",
+        "name": "TensorFold",
+        "fullName": "ashhart/TensorFold",
+        "url": "https://github.com/ashhart/TensorFold",
+        "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+        "language": "Zig",
+        "languageColor": "#ec915c",
+        "starsToday": 0,
+        "totalStars": 1821,
+        "forks": 386,
+        "builtBy": [
+          {
+            "username": "ashhart",
+            "avatar": "https://avatars.githubusercontent.com/u/71890694?s=40&40&v=4"
+          },
+          {
+            "username": "jschmied",
+            "avatar": "https://avatars.githubusercontent.com/u/600316?s=40&40&v=4"
+          },
+          {
+            "username": "BobClawblaw",
+            "avatar": "https://avatars.githubusercontent.com/u/288991054?s=40&40&v=4"
+          },
+          {
+            "username": "laudney",
+            "avatar": "https://avatars.githubusercontent.com/u/106273?s=40&40&v=4"
+          },
+          {
+            "username": "BlivionIaG",
+            "avatar": "https://avatars.githubusercontent.com/u/15323295?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "author": "nodejs",
+        "name": "node",
+        "fullName": "nodejs/node",
+        "url": "https://github.com/nodejs/node",
+        "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 123493,
+        "forks": 38051,
+        "builtBy": [
+          {
+            "username": "Trott",
+            "avatar": "https://avatars.githubusercontent.com/u/718899?s=40&40&v=4"
+          },
+          {
+            "username": "ry",
+            "avatar": "https://avatars.githubusercontent.com/u/80?s=40&40&v=4"
+          },
+          {
+            "username": "bnoordhuis",
+            "avatar": "https://avatars.githubusercontent.com/u/275871?s=40&40&v=4"
+          },
+          {
+            "username": "addaleax",
+            "avatar": "https://avatars.githubusercontent.com/u/899444?s=40&40&v=4"
+          },
+          {
+            "username": "isaacs",
+            "avatar": "https://avatars.githubusercontent.com/u/9287?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "author": "addyosmani",
+        "name": "agent-skills",
+        "fullName": "addyosmani/agent-skills",
+        "url": "https://github.com/addyosmani/agent-skills",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "starsToday": 0,
+        "totalStars": 116330,
+        "forks": 12187,
+        "builtBy": [
+          {
+            "username": "addyosmani",
+            "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&40&v=4"
+          },
+          {
+            "username": "nucliweb",
+            "avatar": "https://avatars.githubusercontent.com/u/1307927?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "rudycelekli",
+            "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&40&v=4"
+          },
+          {
+            "username": "ayobamiseun",
+            "avatar": "https://avatars.githubusercontent.com/u/66267222?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "author": "meta",
+        "name": "astryx",
+        "fullName": "meta/astryx",
+        "url": "https://github.com/meta/astryx",
+        "description": "An open source design system that's fully customizable and agent ready",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 25906,
+        "forks": 2011,
+        "builtBy": [
+          {
+            "username": "cixzhang",
+            "avatar": "https://avatars.githubusercontent.com/u/2781099?s=40&40&v=4"
+          },
+          {
+            "username": "rubyycheung",
+            "avatar": "https://avatars.githubusercontent.com/u/254546175?s=40&40&v=4"
+          },
+          {
+            "username": "josephfarina",
+            "avatar": "https://avatars.githubusercontent.com/u/17398284?s=40&40&v=4"
+          },
+          {
+            "username": "vjeux",
+            "avatar": "https://avatars.githubusercontent.com/u/197597?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 11,
+        "author": "CopilotKit",
+        "name": "OpenBot",
+        "fullName": "CopilotKit/OpenBot",
+        "url": "https://github.com/CopilotKit/OpenBot",
+        "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "starsToday": 0,
+        "totalStars": 11213,
+        "forks": 1391,
+        "builtBy": [
+          {
+            "username": "davidmckayv",
+            "avatar": "https://avatars.githubusercontent.com/u/1574202?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "kevin9327",
+            "avatar": "https://avatars.githubusercontent.com/u/5299031?s=40&40&v=4"
+          },
+          {
+            "username": "guidovizoso",
+            "avatar": "https://avatars.githubusercontent.com/u/27702539?s=40&40&v=4"
+          },
+          {
+            "username": "Ayush7614",
+            "avatar": "https://avatars.githubusercontent.com/u/67006255?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 12,
+        "author": "Alishahryar1",
+        "name": "free-claude-code",
+        "fullName": "Alishahryar1/free-claude-code",
+        "url": "https://github.com/Alishahryar1/free-claude-code",
+        "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "starsToday": 0,
+        "totalStars": 68857,
+        "forks": 10720,
+        "builtBy": [
+          {
+            "username": "Alishahryar1",
+            "avatar": "https://avatars.githubusercontent.com/u/20476625?s=40&40&v=4"
+          },
+          {
+            "username": "cursoragent",
+            "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&40&v=4"
+          },
+          {
+            "username": "Tanishq-1",
+            "avatar": "https://avatars.githubusercontent.com/u/49880456?s=40&40&v=4"
+          }
+        ]
+      },
+      {
+        "rank": 13,
+        "author": "ggml-org",
+        "name": "llama.cpp",
+        "fullName": "ggml-org/llama.cpp",
+        "url": "https://github.com/ggml-org/llama.cpp",
+        "description": "LLM inference in C/C++",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "starsToday": 0,
+        "totalStars": 134239,
+        "forks": 25470,
+        "builtBy": [
+          {
+            "username": "ggerganov",
+            "avatar": "https://avatars.githubusercontent.com/u/1991296?s=40&40&v=4"
+          },
+          {
+            "username": "ngxson",
+            "avatar": "https://avatars.githubusercontent.com/u/7702203?s=40&40&v=4"
+          },
+          {
+            "username": "CISC",
+            "avatar": "https://avatars.githubusercontent.com/u/1629204?s=40&40&v=4"
+          },
+          {
+            "username": "JohannesGaessler",
+            "avatar": "https://avatars.githubusercontent.com/u/18492268?s=40&40&v=4"
+          },
+          {
+            "username": "slaren",
+            "avatar": "https://avatars.githubusercontent.com/u/2141330?s=40&40&v=4"
+          }
+        ]
+      }
+    ]
+  },
+  "productHunt": null,
+  "hackerNews": null
+}

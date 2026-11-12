@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-11-11T11:38:39.351Z",
+  "updatedAt": "2026-11-12T12:04:25.014Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Protecting SSH Keys with macOS Secure Enclave",
-      "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
-      "score": 225,
-      "comments": 84,
-      "author": "js2"
+      "title": "Why Writing Correct Software Is Hard",
+      "url": "https://pron.github.io/posts/correctness-and-complexity",
+      "score": 46,
+      "comments": 10,
+      "author": "AriFordsham"
     },
     {
       "rank": 2,
-      "title": "Plane lifted into back garden as bunker takes shape",
-      "url": "https://www.bbc.co.uk/news/articles/cqkgjv4pj023o",
-      "score": 36,
-      "comments": 25,
-      "author": "edward"
+      "title": "Anthropic IPO",
+      "url": "https://ipo.anthropic.com/us/",
+      "score": 14,
+      "comments": 4,
+      "author": "josephljohnston"
     },
     {
       "rank": 3,
-      "title": "Smart home devices should work without the internet",
-      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
-      "score": 993,
-      "comments": 354,
-      "author": "skittleson"
-    },
-    {
-      "rank": 4,
-      "title": ".name Grandfathered",
-      "url": "https://neil.fraser.name/news/2026/11/10/",
-      "score": 863,
-      "comments": 188,
-      "author": "p4bl0"
-    },
-    {
-      "rank": 5,
-      "title": "Scion is back and is going to sell a kei truck in America",
-      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
-      "score": 486,
-      "comments": 316,
-      "author": "NaOH"
-    },
-    {
-      "rank": 6,
-      "title": "Greg Kurtzer's Ginux is now a userspace kernel",
-      "url": "https://github.com/gmkurtzer/ginux",
-      "score": 79,
-      "comments": 36,
-      "author": "d3Xt3r"
-    },
-    {
-      "rank": 7,
-      "title": "A great old-timey game-programming hack (2013)",
-      "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
-      "score": 185,
-      "comments": 35,
-      "author": "palsecam"
-    },
-    {
-      "rank": 8,
-      "title": "Apple has new Mac app coming to make running local AI models easy",
-      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-      "score": 288,
-      "comments": 248,
-      "author": "linolevan"
-    },
-    {
-      "rank": 9,
-      "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
-      "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
-      "score": 111,
-      "comments": 75,
-      "author": "Metacelsus"
-    },
-    {
-      "rank": 10,
-      "title": "Six Math Essentials",
-      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
-      "score": 261,
-      "comments": 51,
-      "author": "digital55"
-    },
-    {
-      "rank": 11,
-      "title": "Synaptics patent claims stop work on DisplayLink drivers",
-      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
-      "score": 417,
-      "comments": 236,
-      "author": "speckx"
-    },
-    {
-      "rank": 12,
-      "title": "Starlink Mini 2",
-      "url": "https://starlink.com/mini-2",
-      "score": 432,
-      "comments": 459,
-      "author": "robertjfclarke"
-    },
-    {
-      "rank": 13,
-      "title": "AlphaProof Code",
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-      "score": 644,
-      "comments": 186,
-      "author": "ilreb"
-    },
-    {
-      "rank": 14,
-      "title": "Good Enough for a Tuesday Night",
-      "url": "https://www.newyorker.com/culture/the-weekend-essay/good-enough-for-a-tuesday-night",
-      "score": 4,
-      "comments": 1,
-      "author": "Michelangelo11"
-    },
-    {
-      "rank": 15,
-      "title": "Why I wrote the BEAM book (2025)",
-      "url": "https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/",
-      "score": 105,
-      "comments": 17,
-      "author": "zenincognito"
-    },
-    {
-      "rank": 16,
-      "title": "Why Amstrad chose the 3\" drives",
-      "url": "https://www.cpcwiki.eu/forum/amstrad-cpc-hardware/why-amstrad-chose-the-3-drives/",
-      "score": 52,
-      "comments": 14,
-      "author": "Skyfall106"
-    },
-    {
-      "rank": 17,
-      "title": "A Compendium of Abandoned Greenhouses",
-      "url": "https://www.messynessychic.com/2015/01/15/a-compendium-of-abandoned-greenhouses/",
-      "score": 50,
-      "comments": 3,
-      "author": "ohjeez"
-    },
-    {
-      "rank": 18,
-      "title": "Val Town is winding down",
-      "url": "https://blog.val.town/winding-down",
-      "score": 391,
-      "comments": 97,
+      "title": "Jane Street: Socratic Tutor",
+      "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
+      "score": 305,
+      "comments": 73,
       "author": "tosh"
     },
     {
+      "rank": 4,
+      "title": "A live tree of systemd jobs on the boot console",
+      "url": "https://codeberg.org/wvhulle/bootvine",
+      "score": 130,
+      "comments": 48,
+      "author": "orhunp_"
+    },
+    {
+      "rank": 5,
+      "title": "Tim Peters has died",
+      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+      "score": 1256,
+      "comments": 139,
+      "author": "ayhanfuat"
+    },
+    {
+      "rank": 6,
+      "title": "93% of paint splatters are valid Perl programs (2019)",
+      "url": "https://www.mcmillen.dev/sigbovik/",
+      "score": 465,
+      "comments": 58,
+      "author": "zenincognito"
+    },
+    {
+      "rank": 7,
+      "title": "Critical RCE Vulnerability in Apache HTTP Server",
+      "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+      "score": 243,
+      "comments": 115,
+      "author": "soheilpro"
+    },
+    {
+      "rank": 8,
+      "title": "AWS emulator",
+      "url": "https://github.com/aws/aws-emulator",
+      "score": 876,
+      "comments": 239,
+      "author": "super_linear"
+    },
+    {
+      "rank": 9,
+      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+      "score": 507,
+      "comments": 246,
+      "author": "mbac32768"
+    },
+    {
+      "rank": 10,
+      "title": "Making a €40 USB-C hub work as a Nintendo Switch 2 dock",
+      "url": "http://blog.nozomi.space/posts/sw2_dock/",
+      "score": 24,
+      "comments": 2,
+      "author": "mkopec"
+    },
+    {
+      "rank": 11,
+      "title": "Nvidia is preparing to oust Jensen Huang",
+      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+      "score": 1086,
+      "comments": 1461,
+      "author": "jbredeche"
+    },
+    {
+      "rank": 12,
+      "title": "Gemini Decisions API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "score": 454,
+      "comments": 142,
+      "author": "iamdelirium"
+    },
+    {
+      "rank": 13,
+      "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
+      "url": "https://www.getlazarus.org/forums/topic/17/",
+      "score": 59,
+      "comments": 24,
+      "author": "sysrpl"
+    },
+    {
+      "rank": 14,
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "score": 569,
+      "comments": 588,
+      "author": "herpderperator"
+    },
+    {
+      "rank": 15,
+      "title": "Lock Your GitHub Actions",
+      "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+      "score": 269,
+      "comments": 54,
+      "author": "gslin"
+    },
+    {
+      "rank": 16,
+      "title": "I gave an agent a lakehouse and control of my garden",
+      "url": "https://jatorre.github.io/garden/",
+      "score": 108,
+      "comments": 48,
+      "author": "jatorre"
+    },
+    {
+      "rank": 17,
+      "title": "Grote Reber and the 'Square Kilometre Array' Near Bothwell, Tasmania (2017)",
+      "url": "https://www.researchgate.net/publication/319702287_THE_HISTORY_OF_EARLY_LOW_FREQUENCY_RADIO_ASTRONOMY_IN_AUSTRALIA_8_GROTE_REBER_AND_THE_%27SQUARE_KILOMETRE_ARRAY%27_NEAR_BOTHWELL_TASMANIA_IN_THE_1960s_AND_1970s",
+      "score": 9,
+      "comments": 0,
+      "author": "NaOH"
+    },
+    {
+      "rank": 18,
+      "title": "Emacs in the Age of Magic",
+      "url": "https://commandlinesystems.com/magic.txt",
+      "score": 249,
+      "comments": 109,
+      "author": "ggcr"
+    },
+    {
       "rank": 19,
-      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-      "url": "https://github.com/GoogleChrome/modern-web-guidance",
-      "score": 380,
-      "comments": 121,
-      "author": "paulirish"
+      "title": "Code Smells of Desperation (2023)",
+      "url": "https://www.os2museum.com/wp/this-code-smells-of-desperation/",
+      "score": 3,
+      "comments": 0,
+      "author": "sammatilda"
     },
     {
       "rank": 20,
-      "title": "Tracking Anthropic-discovered vulnerabilities",
-      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-      "score": 408,
-      "comments": 195,
-      "author": "panic"
+      "title": "The Utah Teapot",
+      "url": "https://graphics.cs.utah.edu/teapot/",
+      "score": 156,
+      "comments": 35,
+      "author": "cobbal"
     },
     {
       "rank": 21,
-      "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
-      "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
-      "score": 240,
-      "comments": 172,
-      "author": "Yorothegoat"
+      "title": "Legocam: My Lego webcam from 2000, working on a modern Mac",
+      "url": "https://blog.benjamin.ie/legocam",
+      "score": 26,
+      "comments": 21,
+      "author": "benkelly"
     },
     {
       "rank": 22,
-      "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
-      "url": "https://github.com/adrbn/bo2-mac",
-      "score": 33,
-      "comments": 3,
-      "author": "adrbn"
+      "title": "A general purpose Apple Silicon layer for x86-64 PCs",
+      "url": "https://github.com/tylertms/Stela",
+      "score": 114,
+      "comments": 45,
+      "author": "iceboundrock"
     },
     {
       "rank": 23,
-      "title": "Hacking the Meta Ray-Ban smartglasses",
-      "url": "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
-      "score": 123,
-      "comments": 41,
-      "author": "moooooky"
+      "title": "Hyper-Realistic Sand with WebGL2",
+      "url": "https://av.github.io/safe-sand/",
+      "score": 397,
+      "comments": 74,
+      "author": "everlier"
     },
     {
       "rank": 24,
-      "title": "AI usage generates a fragile codebase",
-      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
-      "score": 574,
-      "comments": 539,
-      "author": "plun9"
+      "title": "My AI agents found an unmapped Maya site?",
+      "url": "https://pietromiotti.com/latest/maya-site",
+      "score": 1000,
+      "comments": 369,
+      "author": "eyvindn"
     },
     {
       "rank": 25,
-      "title": "\"Jumping genes\" helped ants evolve after the extinction of the dinosaurs",
-      "url": "https://www.uni-muenster.de/news/view.php?cmdid=15659&utm_source=join1440&utm_medium=email&utm_placement=newsletter&user_id=66c4bf745d78644b3aa57b08",
-      "score": 15,
-      "comments": 0,
-      "author": "gmays"
+      "title": "Darling Development Update – Q4 2026",
+      "url": "https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/",
+      "score": 27,
+      "comments": 6,
+      "author": "tech234a"
     },
     {
       "rank": 26,
-      "title": "A ZIP-style Prolog VM for trilog",
-      "url": "https://github.com/no382001/zipc",
-      "score": 16,
-      "comments": 6,
-      "author": "triska"
+      "title": "Did Life Begin in an RNA World?",
+      "url": "https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/",
+      "score": 64,
+      "comments": 34,
+      "author": "acossta"
     },
     {
       "rank": 27,
-      "title": "LLMs Play Zachtronics' TIS-100",
-      "url": "https://tis-100.wincon.dev/",
-      "score": 74,
-      "comments": 15,
-      "author": "fairestvalue"
+      "title": "Faster Retrieval for Better, More Efficient RAG",
+      "url": "https://machinelearning.apple.com/research/faster-retrieval",
+      "score": 214,
+      "comments": 38,
+      "author": "zerop"
     },
     {
       "rank": 28,
-      "title": "$30M Raised to Redo the CPU",
-      "url": "https://tendrils.co/blog/2026-11-10/30m-raised",
-      "score": 112,
-      "comments": 115,
-      "author": "shioyama"
+      "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "score": 252,
+      "comments": 96,
+      "author": "brownrout"
     },
     {
       "rank": 29,
-      "title": "AMD's Zen 6 Family: Feeding the Beast",
-      "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
-      "score": 245,
-      "comments": 99,
-      "author": "pixelpoet"
+      "title": "Lean Grimoire",
+      "url": "https://terrytao.wordpress.com/2026/11/11/lean-grimoire/",
+      "score": 48,
+      "comments": 8,
+      "author": "smilelamp"
     },
     {
       "rank": 30,
-      "title": "Process Explorer for macOS",
-      "url": "https://github.com/microsoft/Procexp-Mac",
-      "score": 214,
-      "comments": 68,
-      "author": "ingve"
+      "title": "Using voltage glitching to unleash the A100 in my mining card",
+      "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
+      "score": 313,
+      "comments": 124,
+      "author": "lae"
     }
   ]
 }

@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-11-12T12:04:25.014Z",
+  "updatedAt": "2026-11-13T11:47:25.494Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Why Writing Correct Software Is Hard",
-      "url": "https://pron.github.io/posts/correctness-and-complexity",
-      "score": 46,
-      "comments": 10,
-      "author": "AriFordsham"
+      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "url": "https://status.claude.com/incidents/nn11wk485zfn",
+      "score": 214,
+      "comments": 155,
+      "author": "__vivek"
     },
     {
       "rank": 2,
-      "title": "Anthropic IPO",
-      "url": "https://ipo.anthropic.com/us/",
-      "score": 14,
-      "comments": 4,
-      "author": "josephljohnston"
+      "title": "Jensen Huang resigns",
+      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+      "score": 3631,
+      "comments": 3179,
+      "author": "lldb"
     },
     {
       "rank": 3,
-      "title": "Jane Street: Socratic Tutor",
-      "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
-      "score": 305,
-      "comments": 73,
-      "author": "tosh"
+      "title": "IceWM",
+      "url": "https://ice-wm.org/",
+      "score": 211,
+      "comments": 102,
+      "author": "inatreecrown2"
     },
     {
       "rank": 4,
-      "title": "A live tree of systemd jobs on the boot console",
-      "url": "https://codeberg.org/wvhulle/bootvine",
-      "score": 130,
-      "comments": 48,
-      "author": "orhunp_"
+      "title": "The Dawn of the Data Intelligence Engineer",
+      "url": "https://motherduck.com/blog/the-data-intelligence-engineer/",
+      "score": 45,
+      "comments": 38,
+      "author": "jonbaer"
     },
     {
       "rank": 5,
-      "title": "Tim Peters has died",
-      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-      "score": 1256,
-      "comments": 139,
-      "author": "ayhanfuat"
+      "title": "Rust 1.100",
+      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+      "score": 715,
+      "comments": 263,
+      "author": "mbStavola"
     },
     {
       "rank": 6,
-      "title": "93% of paint splatters are valid Perl programs (2019)",
-      "url": "https://www.mcmillen.dev/sigbovik/",
-      "score": 465,
-      "comments": 58,
-      "author": "zenincognito"
+      "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+      "url": "https://brave.com/blog/search-api-agentic-payments/",
+      "score": 125,
+      "comments": 76,
+      "author": "sjdh76"
     },
     {
       "rank": 7,
-      "title": "Critical RCE Vulnerability in Apache HTTP Server",
-      "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
-      "score": 243,
-      "comments": 115,
-      "author": "soheilpro"
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "url": "https://github.com/simpsoka/zigzag",
+      "score": 554,
+      "comments": 190,
+      "author": "simpsoka"
     },
     {
       "rank": 8,
-      "title": "AWS emulator",
-      "url": "https://github.com/aws/aws-emulator",
-      "score": 876,
-      "comments": 239,
-      "author": "super_linear"
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "score": 424,
+      "comments": 123,
+      "author": "jonbaer"
     },
     {
       "rank": 9,
-      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-      "score": 507,
-      "comments": 246,
-      "author": "mbac32768"
+      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+      "score": 324,
+      "comments": 135,
+      "author": "cybermango"
     },
     {
       "rank": 10,
-      "title": "Making a €40 USB-C hub work as a Nintendo Switch 2 dock",
-      "url": "http://blog.nozomi.space/posts/sw2_dock/",
-      "score": 24,
-      "comments": 2,
-      "author": "mkopec"
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "score": 271,
+      "comments": 77,
+      "author": "sroussey"
     },
     {
       "rank": 11,
-      "title": "Nvidia is preparing to oust Jensen Huang",
-      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-      "score": 1086,
-      "comments": 1461,
+      "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+      "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+      "score": 300,
+      "comments": 327,
       "author": "jbredeche"
     },
     {
       "rank": 12,
-      "title": "Gemini Decisions API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "score": 454,
-      "comments": 142,
-      "author": "iamdelirium"
+      "title": "Claude Is Down",
+      "url": "https://status.claude.com/history",
+      "score": 107,
+      "comments": 85,
+      "author": "cornfieldlabs"
     },
     {
       "rank": 13,
-      "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
-      "url": "https://www.getlazarus.org/forums/topic/17/",
-      "score": 59,
-      "comments": 24,
-      "author": "sysrpl"
+      "title": "I'm making LLMs work on small and old devices",
+      "url": "https://github.com/hyperionaidev/smolmaxxing/",
+      "score": 390,
+      "comments": 140,
+      "author": "mrashad74"
     },
     {
       "rank": 14,
-      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-      "score": 569,
-      "comments": 588,
-      "author": "herpderperator"
+      "title": "Service degradation on Microsoft 365",
+      "url": "https://status.cloud.microsoft/",
+      "score": 955,
+      "comments": 820,
+      "author": "dkpk"
     },
     {
       "rank": 15,
-      "title": "Lock Your GitHub Actions",
-      "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
-      "score": 269,
-      "comments": 54,
-      "author": "gslin"
+      "title": "Foundation Models framework",
+      "url": "https://developer.apple.com/foundation-models-framework/",
+      "score": 217,
+      "comments": 31,
+      "author": "kermatt"
     },
     {
       "rank": 16,
-      "title": "I gave an agent a lakehouse and control of my garden",
-      "url": "https://jatorre.github.io/garden/",
-      "score": 108,
-      "comments": 48,
-      "author": "jatorre"
-    },
-    {
-      "rank": 17,
-      "title": "Grote Reber and the 'Square Kilometre Array' Near Bothwell, Tasmania (2017)",
-      "url": "https://www.researchgate.net/publication/319702287_THE_HISTORY_OF_EARLY_LOW_FREQUENCY_RADIO_ASTRONOMY_IN_AUSTRALIA_8_GROTE_REBER_AND_THE_%27SQUARE_KILOMETRE_ARRAY%27_NEAR_BOTHWELL_TASMANIA_IN_THE_1960s_AND_1970s",
-      "score": 9,
-      "comments": 0,
-      "author": "NaOH"
-    },
-    {
-      "rank": 18,
-      "title": "Emacs in the Age of Magic",
-      "url": "https://commandlinesystems.com/magic.txt",
-      "score": 249,
-      "comments": 109,
-      "author": "ggcr"
-    },
-    {
-      "rank": 19,
-      "title": "Code Smells of Desperation (2023)",
-      "url": "https://www.os2museum.com/wp/this-code-smells-of-desperation/",
-      "score": 3,
-      "comments": 0,
+      "title": "Switcher (2004)",
+      "url": "https://folklore.org/Switcher.html",
+      "score": 102,
+      "comments": 31,
       "author": "sammatilda"
     },
     {
+      "rank": 17,
+      "title": "Europe's electric car sales jump 49% as global EV sales grow",
+      "url": "https://electrek.co/2026/11/11/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/",
+      "score": 10,
+      "comments": 0,
+      "author": "cisc"
+    },
+    {
+      "rank": 18,
+      "title": "Global Microsoft Outage",
+      "url": "https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk",
+      "score": 152,
+      "comments": 79,
+      "author": "TechTechTech"
+    },
+    {
+      "rank": 19,
+      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+      "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+      "score": 276,
+      "comments": 103,
+      "author": "klaussilveira"
+    },
+    {
       "rank": 20,
-      "title": "The Utah Teapot",
-      "url": "https://graphics.cs.utah.edu/teapot/",
-      "score": 156,
-      "comments": 35,
-      "author": "cobbal"
+      "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
+      "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+      "score": 203,
+      "comments": 39,
+      "author": "ozirus"
     },
     {
       "rank": 21,
-      "title": "Legocam: My Lego webcam from 2000, working on a modern Mac",
-      "url": "https://blog.benjamin.ie/legocam",
-      "score": 26,
-      "comments": 21,
-      "author": "benkelly"
+      "title": "Microsoft Outlook/365 still down after 12 hours",
+      "url": "https://twitter.com/MSFT365Status/status/2121079061774491735",
+      "score": 348,
+      "comments": 237,
+      "author": "player85"
     },
     {
       "rank": 22,
-      "title": "A general purpose Apple Silicon layer for x86-64 PCs",
-      "url": "https://github.com/tylertms/Stela",
-      "score": 114,
-      "comments": 45,
-      "author": "iceboundrock"
+      "title": "TSMC Hacked",
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000800/a20261112statementregardin.htm",
+      "score": 93,
+      "comments": 15,
+      "author": "gmays"
     },
     {
       "rank": 23,
-      "title": "Hyper-Realistic Sand with WebGL2",
-      "url": "https://av.github.io/safe-sand/",
-      "score": 397,
-      "comments": 74,
-      "author": "everlier"
+      "title": "Anthropic IPO",
+      "url": "https://ipo.anthropic.com/us/",
+      "score": 951,
+      "comments": 871,
+      "author": "josephljohnston"
     },
     {
       "rank": 24,
-      "title": "My AI agents found an unmapped Maya site?",
-      "url": "https://pietromiotti.com/latest/maya-site",
-      "score": 1000,
-      "comments": 369,
-      "author": "eyvindn"
+      "title": "Relax: JIT compiler for Rust to reduce build times",
+      "url": "https://makepad.github.io/relax/",
+      "score": 163,
+      "comments": 82,
+      "author": "adamnemecek"
     },
     {
       "rank": 25,
-      "title": "Darling Development Update – Q4 2026",
-      "url": "https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/",
-      "score": 27,
-      "comments": 6,
-      "author": "tech234a"
+      "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+      "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+      "score": 109,
+      "comments": 29,
+      "author": "miguelrios"
     },
     {
       "rank": 26,
-      "title": "Did Life Begin in an RNA World?",
-      "url": "https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/",
-      "score": 64,
-      "comments": 34,
-      "author": "acossta"
+      "title": "Nvidia employees petition to bring back Jensen Huang",
+      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+      "score": 635,
+      "comments": 479,
+      "author": "lavendermon"
     },
     {
       "rank": 27,
-      "title": "Faster Retrieval for Better, More Efficient RAG",
-      "url": "https://machinelearning.apple.com/research/faster-retrieval",
-      "score": 214,
-      "comments": 38,
-      "author": "zerop"
+      "title": "Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp",
+      "url": "https://github.com/jjba23/sift",
+      "score": 60,
+      "comments": 8,
+      "author": "jjba23"
     },
     {
       "rank": 28,
-      "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
-      "url": "https://github.com/FrigadeHQ/yogurt",
-      "score": 252,
-      "comments": 96,
-      "author": "brownrout"
+      "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+      "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+      "score": 222,
+      "comments": 6,
+      "author": "dverlaeckt80"
     },
     {
       "rank": 29,
-      "title": "Lean Grimoire",
-      "url": "https://terrytao.wordpress.com/2026/11/11/lean-grimoire/",
-      "score": 48,
-      "comments": 8,
-      "author": "smilelamp"
+      "title": "Gemini 4 Hydrogen",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "score": 535,
+      "comments": 336,
+      "author": "dvaplima"
     },
     {
       "rank": 30,
-      "title": "Using voltage glitching to unleash the A100 in my mining card",
-      "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
-      "score": 313,
-      "comments": 124,
-      "author": "lae"
+      "title": "Show HN: Kapso – Iterative learning from enterprise data",
+      "url": "https://news.ycombinator.com/item?id=50471281",
+      "score": 47,
+      "comments": 11,
+      "author": "alirezamshi"
     }
   ]
 }

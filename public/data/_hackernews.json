@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-11-13T11:47:25.494Z",
+  "updatedAt": "2026-11-14T11:09:17.609Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-      "url": "https://status.claude.com/incidents/nn11wk485zfn",
-      "score": 214,
-      "comments": 155,
-      "author": "__vivek"
+      "title": "Why get an expensive Pi when I have an old phone?",
+      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+      "score": 84,
+      "comments": 47,
+      "author": "casi"
     },
     {
       "rank": 2,
-      "title": "Jensen Huang resigns",
-      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-      "score": 3631,
-      "comments": 3179,
-      "author": "lldb"
+      "title": "Ggml v1.0.0",
+      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+      "score": 276,
+      "comments": 45,
+      "author": "cobychapple"
     },
     {
       "rank": 3,
-      "title": "IceWM",
-      "url": "https://ice-wm.org/",
-      "score": 211,
-      "comments": 102,
-      "author": "inatreecrown2"
+      "title": "Monkey Island: all 13 versions side by side",
+      "url": "https://monkeyisland.pages.dev/",
+      "score": 149,
+      "comments": 38,
+      "author": "maximilianburke"
     },
     {
       "rank": 4,
-      "title": "The Dawn of the Data Intelligence Engineer",
-      "url": "https://motherduck.com/blog/the-data-intelligence-engineer/",
-      "score": 45,
-      "comments": 38,
-      "author": "jonbaer"
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "score": 612,
+      "comments": 353,
+      "author": "speckx"
     },
     {
       "rank": 5,
-      "title": "Rust 1.100",
-      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-      "score": 715,
-      "comments": 263,
-      "author": "mbStavola"
+      "title": "FAA issues national ground stop – lifted 4.5 hours later",
+      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+      "score": 1554,
+      "comments": 1175,
+      "author": "zulln"
     },
     {
       "rank": 6,
-      "title": "Brave Search API now accepts agentic payments via the x402 protocol",
-      "url": "https://brave.com/blog/search-api-agentic-payments/",
-      "score": 125,
-      "comments": 76,
-      "author": "sjdh76"
+      "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+      "url": "https://unsloth.ai/docs/models/qwen3.8",
+      "score": 152,
+      "comments": 46,
+      "author": "Retro_Dev"
     },
     {
       "rank": 7,
-      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
-      "url": "https://github.com/simpsoka/zigzag",
-      "score": 554,
-      "comments": 190,
-      "author": "simpsoka"
+      "title": "Terminal borders that don't cost a cell",
+      "url": "https://www.joshka.net/cell-borders/",
+      "score": 268,
+      "comments": 117,
+      "author": "vinhnx"
     },
     {
       "rank": 8,
-      "title": "Gemini 4 Hydrogen and Orchestrator",
-      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-      "score": 424,
-      "comments": 123,
-      "author": "jonbaer"
+      "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
+      "url": "https://grounds.top/",
+      "score": 151,
+      "comments": 21,
+      "author": "gvsi"
     },
     {
       "rank": 9,
-      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
-      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
-      "score": 324,
-      "comments": 135,
-      "author": "cybermango"
+      "title": "What happened to 3Com?",
+      "url": "https://dfarq.homeip.net/what-happened-to-3com/",
+      "score": 149,
+      "comments": 78,
+      "author": "gvieri"
     },
     {
       "rank": 10,
-      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-      "score": 271,
-      "comments": 77,
-      "author": "sroussey"
+      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "score": 305,
+      "comments": 388,
+      "author": "helloplanets"
     },
     {
       "rank": 11,
-      "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
-      "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
-      "score": 300,
-      "comments": 327,
-      "author": "jbredeche"
+      "title": "Found: A protein that drives ageing without unleashing inflammation",
+      "url": "https://www.nature.com/articles/d41586-026-03638-3",
+      "score": 205,
+      "comments": 38,
+      "author": "gumby"
     },
     {
       "rank": 12,
-      "title": "Claude Is Down",
-      "url": "https://status.claude.com/history",
-      "score": 107,
-      "comments": 85,
-      "author": "cornfieldlabs"
+      "title": "Extending LLDB to Debug Applications That Span CPUs and GPUs",
+      "url": "https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/",
+      "score": 18,
+      "comments": 3,
+      "author": "JDevlieghere"
     },
     {
       "rank": 13,
-      "title": "I'm making LLMs work on small and old devices",
-      "url": "https://github.com/hyperionaidev/smolmaxxing/",
-      "score": 390,
-      "comments": 140,
-      "author": "mrashad74"
+      "title": "FM-1 Workbench",
+      "url": "https://open.m-vave.com/fm1-workbench",
+      "score": 239,
+      "comments": 159,
+      "author": "simonebrunozzi"
     },
     {
       "rank": 14,
-      "title": "Service degradation on Microsoft 365",
-      "url": "https://status.cloud.microsoft/",
-      "score": 955,
-      "comments": 820,
-      "author": "dkpk"
+      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+      "url": "https://orcasairband.com/",
+      "score": 267,
+      "comments": 61,
+      "author": "mmaunder"
     },
     {
       "rank": 15,
-      "title": "Foundation Models framework",
-      "url": "https://developer.apple.com/foundation-models-framework/",
-      "score": 217,
-      "comments": 31,
-      "author": "kermatt"
+      "title": "After 600 experiments, here's what I discovered about JEPA world models",
+      "url": "https://haddyalchaer.com/jepa",
+      "score": 264,
+      "comments": 43,
+      "author": "halcdev"
     },
     {
       "rank": 16,
-      "title": "Switcher (2004)",
-      "url": "https://folklore.org/Switcher.html",
-      "score": 102,
-      "comments": 31,
-      "author": "sammatilda"
+      "title": "How Not to Build a Music Player",
+      "url": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player/",
+      "score": 119,
+      "comments": 48,
+      "author": "vinhnx"
     },
     {
       "rank": 17,
-      "title": "Europe's electric car sales jump 49% as global EV sales grow",
-      "url": "https://electrek.co/2026/11/11/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/",
-      "score": 10,
-      "comments": 0,
-      "author": "cisc"
+      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+      "score": 131,
+      "comments": 23,
+      "author": "gmays"
     },
     {
       "rank": 18,
-      "title": "Global Microsoft Outage",
-      "url": "https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk",
-      "score": 152,
-      "comments": 79,
-      "author": "TechTechTech"
+      "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
+      "url": "https://isometricsf.com/",
+      "score": 216,
+      "comments": 70,
+      "author": "juscha1"
     },
     {
       "rank": 19,
-      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
-      "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
-      "score": 276,
-      "comments": 103,
-      "author": "klaussilveira"
+      "title": "Show HN: I have trained 15 blood glucose forecasting models on my own data",
+      "url": "https://github.com/0xdeadf1sh/T1DMAI",
+      "score": 36,
+      "comments": 13,
+      "author": "0xdeadf1sh"
     },
     {
       "rank": 20,
-      "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
-      "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
-      "score": 203,
-      "comments": 39,
-      "author": "ozirus"
+      "title": "Live-migration support in FreeBSD and bhyve coming",
+      "url": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
+      "score": 109,
+      "comments": 25,
+      "author": "JohnDohnBohn"
     },
     {
       "rank": 21,
-      "title": "Microsoft Outlook/365 still down after 12 hours",
-      "url": "https://twitter.com/MSFT365Status/status/2121079061774491735",
-      "score": 348,
-      "comments": 237,
-      "author": "player85"
+      "title": "Service Crew Discovers Rare Yellow Burbot in Oswego Harbor",
+      "url": "https://www.fws.gov/story/2026-11/service-crew-discovers-rare-yellow-burbot-oswego-harbor",
+      "score": 5,
+      "comments": 1,
+      "author": "tart-lemonade"
     },
     {
       "rank": 22,
-      "title": "TSMC Hacked",
-      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000800/a20261112statementregardin.htm",
-      "score": 93,
-      "comments": 15,
+      "title": "Elephants found to be increasingly isolated leading to fractured social networks",
+      "url": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
+      "score": 139,
+      "comments": 30,
       "author": "gmays"
     },
     {
       "rank": 23,
-      "title": "Anthropic IPO",
-      "url": "https://ipo.anthropic.com/us/",
-      "score": 951,
-      "comments": 871,
-      "author": "josephljohnston"
+      "title": "Minnesota guitarist's \"palmfrets\" invention strikes a new chord",
+      "url": "https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord",
+      "score": 175,
+      "comments": 101,
+      "author": "bookofjoe"
     },
     {
       "rank": 24,
-      "title": "Relax: JIT compiler for Rust to reduce build times",
-      "url": "https://makepad.github.io/relax/",
-      "score": 163,
-      "comments": 82,
-      "author": "adamnemecek"
+      "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
+      "url": "https://news.ycombinator.com/item?id=50494696",
+      "score": 34,
+      "comments": 34,
+      "author": "shnock"
     },
     {
       "rank": 25,
-      "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
-      "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
-      "score": 109,
-      "comments": 29,
-      "author": "miguelrios"
+      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+      "score": 756,
+      "comments": 214,
+      "author": "scottjg"
     },
     {
       "rank": 26,
-      "title": "Nvidia employees petition to bring back Jensen Huang",
-      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
-      "score": 635,
-      "comments": 479,
-      "author": "lavendermon"
+      "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+      "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
+      "score": 168,
+      "comments": 60,
+      "author": "snow_mac"
     },
     {
       "rank": 27,
-      "title": "Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp",
-      "url": "https://github.com/jjba23/sift",
-      "score": 60,
-      "comments": 8,
-      "author": "jjba23"
+      "title": "A technical vision for the Haskell ecosystem",
+      "url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
+      "score": 208,
+      "comments": 125,
+      "author": "cosmic_quanta"
     },
     {
       "rank": 28,
-      "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
-      "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
-      "score": 222,
-      "comments": 6,
-      "author": "dverlaeckt80"
+      "title": "The Other Nefertiti (2015)",
+      "url": "https://alloversky.com/puzzlepieces/the-other-nefertiti",
+      "score": 20,
+      "comments": 4,
+      "author": "dmbche"
     },
     {
       "rank": 29,
-      "title": "Gemini 4 Hydrogen",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-      "score": 535,
-      "comments": 336,
-      "author": "dvaplima"
+      "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
+      "url": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
+      "score": 88,
+      "comments": 43,
+      "author": "dethmasque"
     },
     {
       "rank": 30,
-      "title": "Show HN: Kapso – Iterative learning from enterprise data",
-      "url": "https://news.ycombinator.com/item?id=50471281",
-      "score": 47,
+      "title": "Security Agencies Worldwide Found to Use Ad-Based Surveillance System",
+      "url": "https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/",
+      "score": 110,
       "comments": 11,
-      "author": "alirezamshi"
+      "author": "billybuckwheat"
     }
   ]
 }

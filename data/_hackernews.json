@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-11-20T12:25:32.368Z",
+  "updatedAt": "2026-11-21T11:59:18.309Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-      "url": "https://architectlabs.com/blog/frostbite",
-      "score": 165,
-      "comments": 105,
-      "author": "shioyama"
+      "title": "Hurried Announcement: Alessandro Masullo GRH",
+      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "score": 2157,
+      "comments": 1002,
+      "author": "jasondavies"
     },
     {
       "rank": 2,
-      "title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)",
-      "url": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
-      "score": 163,
-      "comments": 80,
-      "author": "sammatilda"
+      "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "url": "https://alpo.ge/remark.pdf",
+      "score": 2682,
+      "comments": 1872,
+      "author": "iamronaldo"
     },
     {
       "rank": 3,
-      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
-      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
-      "score": 72,
-      "comments": 42,
-      "author": "sammatilda"
+      "title": "Inkling 2 Mini",
+      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "score": 1060,
+      "comments": 198,
+      "author": "jasondavies"
     },
     {
       "rank": 4,
-      "title": "The Making of Oxygene",
-      "url": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
-      "score": 34,
-      "comments": 9,
-      "author": "hggh"
+      "title": "RCE in Gnupg",
+      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+      "score": 40,
+      "comments": 3,
+      "author": "gdgghhhhh"
     },
     {
       "rank": 5,
-      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
-      "url": "https://github.com/openssl/openssl/pull/33652",
-      "score": 288,
-      "comments": 226,
-      "author": "JacobHenner"
+      "title": "ClawDOS – An AI coding agent for DOS",
+      "url": "http://ricapar.net/ClawDOS/",
+      "score": 84,
+      "comments": 22,
+      "author": "Ricapar"
     },
     {
       "rank": 6,
-      "title": "Show HN: Tinnitus frequency finder and audio notch tool",
-      "url": "https://trynotched.com/find",
-      "score": 29,
-      "comments": 15,
-      "author": "brianrhea"
+      "title": "We promoted developers into architects without informing them",
+      "url": "https://manidoraisamy.com/developer-to-architect.html",
+      "score": 461,
+      "comments": 251,
+      "author": "QueensGambit"
     },
     {
       "rank": 7,
-      "title": "The Strongest Sokoban Solver",
-      "url": "https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver",
-      "score": 81,
-      "comments": 16,
-      "author": "ibobev"
+      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+      "score": 462,
+      "comments": 191,
+      "author": "archon1410"
     },
     {
       "rank": 8,
-      "title": "Why do tech leaders sound so illogical and off-putting?",
-      "url": "https://www.theatlantic.com/technology/2026/11/silicon-valley-model-collapse/689505/",
-      "score": 56,
-      "comments": 42,
-      "author": "pseudolus"
+      "title": "NINLIVE: The Nine Inch Nails live archive",
+      "url": "https://ninlive.com/",
+      "score": 273,
+      "comments": 71,
+      "author": "CharlesW"
     },
     {
       "rank": 9,
-      "title": "FFmpeg 9.1 'Gauss'",
-      "url": "https://ffmpeg.org/download.html#release_9.1",
-      "score": 179,
-      "comments": 26,
-      "author": "gyan"
+      "title": "Clojure will affect the way you think about programming (2017)",
+      "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
+      "score": 111,
+      "comments": 34,
+      "author": "sammatilda"
     },
     {
       "rank": 10,
-      "title": "µ-Wire – USB on an ATtiny 10",
-      "url": "https://cpldcpu.com/2014/03/19/%c2%b5-wire-usb-on-an-attiny-10/",
-      "score": 56,
-      "comments": 2,
-      "author": "mofosyne"
+      "title": "Surprisingly Adorable Insect Portraits",
+      "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
+      "score": 59,
+      "comments": 13,
+      "author": "NordStreamYacht"
     },
     {
       "rank": 11,
-      "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
-      "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
-      "score": 123,
-      "comments": 16,
-      "author": "craigkerstiens"
+      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+      "url": "https://news.ycombinator.com/item?id=50583761",
+      "score": 246,
+      "comments": 195,
+      "author": "LetThingsBeDiff"
     },
     {
       "rank": 12,
-      "title": "What people are building, discovered through new domains",
-      "url": "https://startups.novumsignals.com/",
-      "score": 17,
-      "comments": 6,
-      "author": "walterschnitzel"
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "url": "https://www.bbc.com/news/articles/cvze7de86pk3o",
+      "score": 36,
+      "comments": 9,
+      "author": "theanonymousone"
     },
     {
       "rank": 13,
-      "title": "\"I can tell you wrote this yourself\"",
-      "url": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
-      "score": 237,
-      "comments": 242,
-      "author": "BrunoBernardino"
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "url": "https://arxiv.org/abs/2611.21885",
+      "score": 423,
+      "comments": 123,
+      "author": "lwhsiao"
     },
     {
       "rank": 14,
-      "title": "Claude solves two open problems in the physics of black holes",
-      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-      "score": 514,
-      "comments": 242,
-      "author": "cybermango"
+      "title": "Sir Brian May adds new dimension to Hera asteroid",
+      "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
+      "score": 121,
+      "comments": 26,
+      "author": "mooreds"
     },
     {
       "rank": 15,
-      "title": "Show HN: Radiotherapy Delivery Demo",
-      "url": "https://tps.neuralrad.com",
-      "score": 6,
+      "title": "Engineer's Guide to Career Growth – Advice from My Time at Stripe and Facebook",
+      "url": "https://review.firstround.com/the-engineers-guide-to-career-growth-advice-from-my-time-at-stripe-and-facebook/",
+      "score": 16,
       "comments": 3,
-      "author": "coolwulf"
+      "author": "kurinikku"
     },
     {
       "rank": 16,
-      "title": "How to CAD Almost Anything",
-      "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
-      "score": 290,
-      "comments": 96,
-      "author": "o4c"
+      "title": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
+      "url": "https://valkey.io/blog/from-skiplist-to-b+tree/",
+      "score": 147,
+      "comments": 49,
+      "author": "reconditerose"
     },
     {
       "rank": 17,
-      "title": "PostgreSQL 19",
-      "url": "https://www.postgresql.org/docs/release/19.0/",
-      "score": 242,
-      "comments": 12,
-      "author": "linzhangrun"
+      "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+      "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
+      "score": 229,
+      "comments": 78,
+      "author": "facundo_olano"
     },
     {
       "rank": 18,
-      "title": "Jujutsu Primer",
-      "url": "https://ethanlowman.com/posts/jj-primer/",
-      "score": 143,
-      "comments": 97,
-      "author": "renehsz"
+      "title": "Fewer slides, more dragons",
+      "url": "https://www.breakingchange.blog/p/fewer-slides-more-dragons",
+      "score": 39,
+      "comments": 15,
+      "author": "firloop"
     },
     {
       "rank": 19,
-      "title": "What Comes After AGI?",
-      "url": "https://institute.deepmind.com/essays/what-comes-after-agi/",
-      "score": 84,
-      "comments": 163,
-      "author": "jdkee"
+      "title": "Finite-time blow-up for the Navier–Stokes equations",
+      "url": "https://github.com/tristanbuckmaster/navier-stokes/",
+      "score": 298,
+      "comments": 92,
+      "author": "trotro"
     },
     {
       "rank": 20,
-      "title": "Vint Cerf on why TCP/IP was never patented",
-      "url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
-      "score": 120,
-      "comments": 56,
-      "author": "emot"
+      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "score": 336,
+      "comments": 621,
+      "author": "cdrnsf"
     },
     {
       "rank": 21,
-      "title": "Bit Shifting in Basic",
-      "url": "https://subethasoftware.com/2020/06/11/bit-shifting-in-basic/",
-      "score": 48,
+      "title": "Microsoft's SideWinder Strategic Commander was a failed attempt",
+      "url": "https://www.rockpapershotgun.com/microsofts-sidewinder-strategic-commander-was-a-failed-attempt-to-reimagine-rts-controls-23-years-later-why-are-some-players-still-using-it",
+      "score": 15,
       "comments": 3,
-      "author": "efren6"
+      "author": "Tomte"
     },
     {
       "rank": 22,
-      "title": "Pancreatic cancer halted by virus injection in three patients",
-      "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
-      "score": 801,
-      "comments": 139,
-      "author": "cybermango"
+      "title": "Slopstrap – Make your site look hastily vibecoded",
+      "url": "https://slopstrap.mikelacher.com/",
+      "score": 308,
+      "comments": 60,
+      "author": "mlacher"
     },
     {
       "rank": 23,
-      "title": "Synology Security Advisory",
-      "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
-      "score": 161,
-      "comments": 119,
-      "author": "choult"
+      "title": "Exascale fusion simulation team named finalist for 2026 Gordon Bell Prize",
+      "url": "https://www.alcf.anl.gov/news/exascale-fusion-simulation-team-named-finalist-2026-gordon-bell-prize",
+      "score": 5,
+      "comments": 0,
+      "author": "rbanffy"
     },
     {
       "rank": 24,
-      "title": "Can I borrow a lunar rover? (2013)",
-      "url": "https://space.stackexchange.com/questions/2095",
-      "score": 11,
-      "comments": 8,
-      "author": "Skyfall106"
+      "title": "Show HN: Tinnitus frequency finder and audio notch tool",
+      "url": "https://trynotched.com/find",
+      "score": 185,
+      "comments": 118,
+      "author": "brianrhea"
     },
     {
       "rank": 25,
-      "title": "Automatic Checking of Compiler Correctness with E-Graphs",
-      "url": "https://stng.substack.com/p/automatic-checking-of-compiler-correctness",
-      "score": 46,
-      "comments": 0,
-      "author": "g0xA52A2A"
+      "title": "Vibecoding an inference chip",
+      "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
+      "score": 152,
+      "comments": 63,
+      "author": "ankitvgupta"
     },
     {
       "rank": 26,
-      "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
-      "url": "https://thedataexchange.media/pete-warden-moonshine/",
-      "score": 257,
-      "comments": 222,
-      "author": "datascientist"
+      "title": "Why the Airbus A321XLR often gets stuck climbing for first few hours of flight",
+      "url": "https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/",
+      "score": 124,
+      "comments": 88,
+      "author": "edward"
     },
     {
       "rank": 27,
-      "title": "Someone reported java4shell bug in September 2026",
-      "url": "https://github.com/openjdk/jdk/pull/32781",
-      "score": 438,
-      "comments": 123,
-      "author": "notmine1337"
+      "title": "3-legged Persian leopard's 150-mile journey highlights Caucasus border hazards",
+      "url": "https://news.mongabay.com/short-article/2026/11/three-legged-persian-leopards-150-mile-journey-highlights-caucasus-border-hazards/",
+      "score": 25,
+      "comments": 6,
+      "author": "rguiscard"
     },
     {
       "rank": 28,
-      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-      "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
-      "score": 312,
-      "comments": 159,
-      "author": "dev1one1"
+      "title": "Serious cyberattack thought backed by wealthy operators",
+      "url": "https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411",
+      "score": 94,
+      "comments": 48,
+      "author": "Bender"
     },
     {
       "rank": 29,
-      "title": "Weight-Space Programming builds neural networks like a 1990s researcher",
-      "url": "https://notesbylex.com/weight-space-programming-1990s",
-      "score": 106,
-      "comments": 8,
-      "author": "lexandstuff"
+      "title": "Winedroid – run Android apps without Android (WASM demo)",
+      "url": "https://winedroid.soham.sh/demo/",
+      "score": 158,
+      "comments": 42,
+      "author": "sohzm"
     },
     {
       "rank": 30,
-      "title": "Anthropic’s Nasdaq debut",
-      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-      "score": 1097,
-      "comments": 2175,
-      "author": "wslh"
+      "title": "Acoustic parameters of bird vocalizations&their perceived pleasantness by humans",
+      "url": "https://www.frontiersin.org/journals/bird-science/articles/10.3389/fbirs.2026.1794594/full",
+      "score": 3,
+      "comments": 0,
+      "author": "bookofjoe"
     }
   ]
 }

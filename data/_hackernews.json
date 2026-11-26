@@ -1,237 +1,237 @@
 {
-  "updatedAt": "2026-11-25T13:48:17.959Z",
+  "updatedAt": "2026-11-26T13:28:33.794Z",
   "stories": [
     {
       "rank": 1,
-      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
-      "url": "https://github.com/xoxorwr/pw-loudness-eq",
-      "score": 109,
-      "comments": 55,
-      "author": "ThrowNotAway"
+      "title": "Euro-Office comes to your desktop with the Nextcloud Office Desktop app",
+      "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+      "score": 87,
+      "comments": 23,
+      "author": "e12e"
     },
     {
       "rank": 2,
-      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
-      "url": "https://buttons.joshwcomeau.com/",
-      "score": 534,
-      "comments": 81,
-      "author": "gaurang_tandon"
+      "title": "Intel One Mono font",
+      "url": "https://github.com/intel/intel-one-mono",
+      "score": 172,
+      "comments": 101,
+      "author": "saikatsg"
     },
     {
       "rank": 3,
-      "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
-      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-      "score": 766,
-      "comments": 433,
-      "author": "E-Reverance"
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "url": "https://scottaaronson.blog/?p=10379",
+      "score": 1694,
+      "comments": 1527,
+      "author": "Kotlopou"
     },
     {
       "rank": 4,
-      "title": "The short age of dragon riders",
-      "url": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/",
-      "score": 80,
-      "comments": 36,
-      "author": "synapsomorphy"
+      "title": "1Password Security Incident",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "score": 1510,
+      "comments": 650,
+      "author": "lxhrstn"
     },
     {
       "rank": 5,
-      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
-      "score": 307,
-      "comments": 132,
-      "author": "gmays"
+      "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+      "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+      "score": 144,
+      "comments": 24,
+      "author": "joonehur"
     },
     {
       "rank": 6,
-      "title": "Getting old Java phones online again",
-      "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
-      "score": 91,
-      "comments": 43,
-      "author": "waximabbax"
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "score": 459,
+      "comments": 383,
+      "author": "rmason"
     },
     {
       "rank": 7,
-      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-      "url": "https://gpu-demo-gallery.pages.dev/",
-      "score": 198,
-      "comments": 46,
-      "author": "arkits"
+      "title": "Minipg: PostgreSQL as a Single Executable",
+      "url": "https://progrium.github.io/minipg/",
+      "score": 178,
+      "comments": 26,
+      "author": "rguiscard"
     },
     {
       "rank": 8,
-      "title": "Ternary Bonsai 2.5 27B",
-      "url": "https://prismml.com/news/bonsai-2-5-27b",
-      "score": 488,
-      "comments": 150,
-      "author": "b0m"
+      "title": "Collection of preserved UI style guides",
+      "url": "https://aresluna.org/ui-style-guides/",
+      "score": 269,
+      "comments": 40,
+      "author": "sohkamyung"
     },
     {
-      "rank": 9,
-      "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
-      "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
-      "score": 283,
-      "comments": 103,
-      "author": "vinhnx"
+      "rank": 10,
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "url": "https://github.com/lsernau/grh-lean",
+      "score": 487,
+      "comments": 278,
+      "author": "nb-t"
     },
     {
       "rank": 11,
-      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
-      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
-      "score": 308,
-      "comments": 52,
-      "author": "smusamashah"
+      "title": "Tell HN: Lots of Ask HNs again",
+      "url": "https://news.ycombinator.com/item?id=50649864",
+      "score": 309,
+      "comments": 121,
+      "author": "dang"
     },
     {
       "rank": 12,
-      "title": "Taking over US Treasury subdomains for $3 each",
-      "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
-      "score": 137,
-      "comments": 27,
-      "author": "negura"
+      "title": "Slow Ubuntu security response times",
+      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "score": 338,
+      "comments": 168,
+      "author": "gslin"
     },
     {
       "rank": 13,
-      "title": "Wikipedia Has Hidden Doors",
-      "url": "https://cardcatalogforlife.substack.com/p/wikipedia-has-hidden-doors-heres",
-      "score": 12,
-      "comments": 12,
-      "author": "occurrence"
+      "title": "Discovery of curse ritual in trash dump surprises Egyptologist",
+      "url": "https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html",
+      "score": 8,
+      "comments": 3,
+      "author": "PaulHoule"
     },
     {
       "rank": 14,
-      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
-      "score": 164,
-      "comments": 69,
-      "author": "Curiositry"
+      "title": "Show HN: Synth Patch Hero",
+      "url": "https://swarkentin.github.io/synth-patch-hero/",
+      "score": 81,
+      "comments": 17,
+      "author": "kaidon"
     },
     {
       "rank": 15,
-      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-      "score": 302,
-      "comments": 90,
-      "author": "acossta"
+      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+      "score": 407,
+      "comments": 115,
+      "author": "bjin"
     },
     {
       "rank": 16,
-      "title": "The Spray Bottle",
-      "url": "https://mechanical-pencil.com/products/spray-bottle",
-      "score": 532,
-      "comments": 121,
-      "author": "vinhnx"
+      "title": "Moat: Your OpenRouter Replacement",
+      "url": "https://commandcode.ai/moat",
+      "score": 122,
+      "comments": 85,
+      "author": "amanverasia"
     },
     {
       "rank": 17,
-      "title": "Smart People Who Give a Shit Use Tools",
-      "url": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools",
-      "score": 64,
-      "comments": 48,
-      "author": "matthewsinclair"
+      "title": "What VP ≠ VNP Means (In 3 Minutes)",
+      "url": "https://www.friedgil.com/vpvnp",
+      "score": 163,
+      "comments": 50,
+      "author": "vinhnx"
     },
     {
       "rank": 18,
-      "title": "The algebra of dependent types (2025)",
-      "url": "https://dotat.at/@/2025-05-28-types.html",
-      "score": 53,
-      "comments": 9,
-      "author": "todsacerdoti"
+      "title": "Training on Documents About Monitoring Leads to Cot Obfuscation",
+      "url": "https://arxiv.org/abs/2605.15257",
+      "score": 26,
+      "comments": 1,
+      "author": "sonabinu"
     },
     {
       "rank": 19,
-      "title": "When in Doubt, Flail About",
-      "url": "https://www.seangoedecke.com/when-in-doubt-flail-about/",
-      "score": 68,
-      "comments": 29,
-      "author": "zdw"
+      "title": "The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",
+      "url": "https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf",
+      "score": 108,
+      "comments": 42,
+      "author": "Michelangelo11"
     },
     {
       "rank": 20,
-      "title": "The Shapes of Rivers",
-      "url": "https://dominicroye.github.io/shapes-of-rivers/",
-      "score": 93,
-      "comments": 25,
-      "author": "joexov"
+      "title": "The history of civilization is the history of wheat",
+      "url": "https://asteriskmag.com/issues/16/marginal-grains",
+      "score": 69,
+      "comments": 37,
+      "author": "NaOH"
     },
     {
       "rank": 21,
-      "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
-      "url": "https://news.ycombinator.com/item?id=50634426",
-      "score": 94,
-      "comments": 86,
-      "author": "harshithl1777"
+      "title": "An algebraic quantization of gravity from the null cone",
+      "url": "https://arxiv.org/abs/2611.34924",
+      "score": 73,
+      "comments": 14,
+      "author": "hecmmm"
     },
     {
       "rank": 22,
-      "title": "Macrohistory in Six Facts",
-      "url": "https://basilhalperin.com/essays/macrohistory.html",
-      "score": 102,
-      "comments": 51,
-      "author": "tptacek"
+      "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+      "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+      "score": 169,
+      "comments": 66,
+      "author": "dm"
     },
     {
       "rank": 23,
-      "title": "Top open problems in mathematics ranked by LLM-assessed importance",
-      "url": "https://www.proofatlas.ai/open-problems/",
-      "score": 71,
-      "comments": 38,
-      "author": "ijidak"
+      "title": "Bare Metal Qwen",
+      "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+      "score": 181,
+      "comments": 40,
+      "author": "miohtama"
     },
     {
       "rank": 24,
-      "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
-      "url": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
-      "score": 94,
-      "comments": 14,
-      "author": "octember"
+      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+      "score": 341,
+      "comments": 188,
+      "author": "Herrera"
     },
     {
       "rank": 25,
-      "title": "Active intrusion campaign against Check Point security management servers",
-      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
-      "score": 290,
-      "comments": 145,
-      "author": "louiereederson"
+      "title": "Qualcomm's Oryon 3 Reaches the Top",
+      "url": "https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top",
+      "score": 58,
+      "comments": 27,
+      "author": "wmf"
     },
     {
       "rank": 26,
-      "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
-      "url": "https://news.ycombinator.com/item?id=50630809",
-      "score": 352,
-      "comments": 273,
-      "author": "weli"
+      "title": "Deploying a payphone on a tiny Pacific Island for fun and zero profit",
+      "url": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
+      "score": 121,
+      "comments": 13,
+      "author": "qzervaas"
     },
     {
       "rank": 27,
-      "title": "Lua for data representation (2025)",
-      "url": "https://citrons.xyz/journal/2025-07-23",
-      "score": 75,
-      "comments": 29,
-      "author": "vinhnx"
+      "title": "Unconditional Integer Factorization in Subexponential Time",
+      "url": "https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization",
+      "score": 70,
+      "comments": 8,
+      "author": "_alternator_"
     },
     {
       "rank": 28,
-      "title": "GTA 6 Running on Windows",
-      "url": "https://twitter.com/raul_bs3/status/2125213756238291075",
-      "score": 449,
-      "comments": 513,
-      "author": "andrem"
+      "title": "SSH is a GUI framework",
+      "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
+      "score": 215,
+      "comments": 104,
+      "author": "teledream"
     },
     {
       "rank": 29,
-      "title": "An Italian folding bicycle design that fits into a suitcase",
-      "url": "https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase",
-      "score": 201,
-      "comments": 138,
-      "author": "surprisetalk"
+      "title": "MCP Gateway: How Snap Checks Both the Person and the Agent",
+      "url": "https://eng.snap.com/mcp-gateway",
+      "score": 10,
+      "comments": 3,
+      "author": "Kaedon"
     },
     {
       "rank": 30,
-      "title": "A faster algorithm for extracting hexadecimal digits of π",
-      "url": "https://www.stylewarning.com/posts/faster-digit-extraction/",
-      "score": 55,
-      "comments": 2,
-      "author": "vinhnx"
+      "title": "The polynomial Hirsch conjecture is false [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+      "score": 167,
+      "comments": 45,
+      "author": "acossta"
     }
   ]
 }

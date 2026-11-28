@@ -1,245 +1,245 @@
 {
-  "updatedAt": "2026-11-27T13:24:54.158Z",
+  "updatedAt": "2026-11-28T12:38:29.532Z",
   "stories": [
     {
       "rank": 1,
-      "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
-      "url": "https://eprint.iacr.org/2026/3020.pdf",
-      "score": 67,
-      "comments": 26,
-      "author": "yuvadam"
+      "title": "Farewell",
+      "url": "https://github.com/p-e-w/heretic/issues/601",
+      "score": 141,
+      "comments": 31,
+      "author": "nolist_policy"
     },
     {
       "rank": 2,
-      "title": "The group chat where your AI talks behind your back",
-      "url": "https://construct22.com/",
-      "score": 401,
-      "comments": 178,
-      "author": "utiiiD"
+      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+      "url": "https://unkernel.dev",
+      "score": 406,
+      "comments": 101,
+      "author": "nreece"
     },
     {
       "rank": 3,
-      "title": "Counseling for mental health decreases likelihood of protesting by 34%–39%",
-      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219",
-      "score": 7,
-      "comments": 0,
-      "author": "bko"
+      "title": "Loom seamlessly combines weaving, knitting and braiding",
+      "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
+      "score": 166,
+      "comments": 19,
+      "author": "PaulHoule"
     },
     {
       "rank": 4,
-      "title": "Kimi for Science More scientific ideas, made possible",
-      "url": "https://www.kimi.ai/news/kimi-for-science-program",
-      "score": 15,
-      "comments": 3,
-      "author": "theanonymousone"
+      "title": "Knuth: Moratorium on Error Reports",
+      "url": "https://www-cs-faculty.stanford.edu/~knuth/moratorium.html",
+      "score": 180,
+      "comments": 89,
+      "author": "ultraficial"
     },
     {
       "rank": 5,
-      "title": "AI made self-hosting fun again",
-      "url": "https://janlukas.blog/posts/ai-self-hosting",
-      "score": 832,
-      "comments": 405,
-      "author": "jlelse"
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "score": 460,
+      "comments": 166,
+      "author": "ComputedCamp995"
     },
     {
       "rank": 6,
-      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-      "score": 421,
-      "comments": 109,
-      "author": "dverlaeckt80"
+      "title": "The Balatro Timeline",
+      "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
+      "score": 422,
+      "comments": 113,
+      "author": "sheepscreek"
     },
     {
       "rank": 7,
-      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-      "url": "https://github.com/antonpictures/youtube-punisher",
-      "score": 445,
-      "comments": 525,
-      "author": "iantongeorge"
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "score": 467,
+      "comments": 297,
+      "author": "dr_red_dog"
     },
     {
       "rank": 8,
-      "title": "New York and California Age Gating Rules Go into Effect in the New Year",
-      "url": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
-      "score": 10,
-      "comments": 0,
-      "author": "frutiger"
+      "title": "Paolo Soleri built a utopian eco-city in the Arizona desert",
+      "url": "https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona",
+      "score": 94,
+      "comments": 25,
+      "author": "robtherobber"
     },
     {
       "rank": 9,
-      "title": "AMD-specific fork of llama.cpp",
-      "url": "https://devnull.land/amd-specific-llama-cpp",
-      "score": 389,
-      "comments": 96,
-      "author": "julianlam"
+      "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+      "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/",
+      "score": 5,
+      "comments": 1,
+      "author": "homarp"
     },
     {
       "rank": 10,
-      "title": "Hard Drive pricing has gotten bad",
-      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
-      "score": 418,
-      "comments": 352,
-      "author": "zdw"
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "score": 548,
+      "comments": 289,
+      "author": "scanr"
     },
     {
       "rank": 11,
-      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
-      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-      "score": 290,
-      "comments": 141,
-      "author": "Bender"
+      "title": "Signals",
+      "url": "https://www.quarter--mile.com/Signals",
+      "score": 16,
+      "comments": 6,
+      "author": "surprisetalk"
     },
     {
       "rank": 12,
-      "title": "Company Culture = Slack Emoji ÷ √Headcount",
-      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
-      "score": 432,
-      "comments": 210,
-      "author": "liamg"
+      "title": "Swapping Jolt's sorted collections to a B+tree",
+      "url": "https://yogthos.net/posts/2026-11-23-b+trees.html",
+      "score": 3,
+      "comments": 0,
+      "author": "nefreat"
     },
     {
       "rank": 13,
-      "title": "Intel One Mono font (2023)",
-      "url": "https://github.com/intel/intel-one-mono",
-      "score": 539,
-      "comments": 260,
-      "author": "saikatsg"
+      "title": "Sydney Fire Ant Infestation",
+      "url": "https://www.abc.net.au/news/2026-11-25/nsw-government-ramps-up-efforts-to-respond-to-fire-ants-/107424812",
+      "score": 71,
+      "comments": 45,
+      "author": "altilunium"
     },
     {
       "rank": 14,
-      "title": "Buy Nothing Day – Friday November 27th 2026",
-      "url": "https://www.buynothingday.co.uk/",
-      "score": 170,
-      "comments": 41,
-      "author": "f_allwein"
+      "title": "Coherent Energy Transformations: What elements can you make?",
+      "url": "https://starfire.tech/shock/",
+      "score": 15,
+      "comments": 8,
+      "author": "jerlendds"
     },
     {
       "rank": 15,
-      "title": "European Commission Declares Browser Competition a Digital Markets Act Priority",
-      "url": "https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/",
-      "score": 122,
-      "comments": 81,
-      "author": "anilgulecha"
+      "title": "Convex skills send the user's app idea to a remote server without telling them",
+      "url": "https://github.com/convex/convex-backend-skill/issues/64",
+      "score": 324,
+      "comments": 106,
+      "author": "MickyTheMouse"
     },
     {
       "rank": 16,
-      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-      "score": 359,
-      "comments": 308,
-      "author": "ritzaco"
+      "title": "What Is the Metabolism-First Theory for the Origin of Life?",
+      "url": "https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/",
+      "score": 35,
+      "comments": 7,
+      "author": "ibobev"
     },
     {
       "rank": 17,
-      "title": "The need for a formally verifiable mainstream programming language",
-      "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
-      "score": 199,
-      "comments": 182,
-      "author": "todsacerdoti"
+      "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
+      "url": "https://tabernet.es/",
+      "score": 159,
+      "comments": 51,
+      "author": "mmcclure"
     },
     {
       "rank": 18,
-      "title": "An introduction to uncertainty in machine learning",
-      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
-      "score": 103,
-      "comments": 8,
-      "author": "chrhenning"
+      "title": "Citroën Hydraulic System",
+      "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
+      "score": 218,
+      "comments": 71,
+      "author": "o4c"
     },
     {
       "rank": 19,
-      "title": "Pizza history: AI agent's cardless purchase is a first for UK",
-      "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
-      "score": 11,
-      "comments": 14,
-      "author": "6LLvveMx2koXfwn"
+      "title": "The Quantum Omelette Problem",
+      "url": "https://quantumfrontiers.com/2026/10/11/the-quantum-omelette-problem-how-much-energy-belongs-to-the-yolk/",
+      "score": 13,
+      "comments": 0,
+      "author": "wawayanda"
     },
     {
       "rank": 20,
-      "title": "Show HN: I wrote an entire Vim manual over 4 years",
-      "url": "http://themouseless.dev/vim/",
-      "score": 226,
-      "comments": 69,
-      "author": "thanato0s"
+      "title": "9/UX: a Macintosh-inspired desktop for 9front",
+      "url": "https://progrium.github.io/9ux/",
+      "score": 143,
+      "comments": 36,
+      "author": "rbanffy"
     },
     {
       "rank": 21,
-      "title": "Rvoip: VoIP stack in Rust",
-      "url": "https://github.com/eisenzopf/rvoip",
-      "score": 143,
-      "comments": 34,
-      "author": "zerosegfaults"
+      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+      "url": "https://bouncemarket.minhanhday.com/",
+      "score": 387,
+      "comments": 130,
+      "author": "mday404"
     },
     {
       "rank": 22,
-      "title": "Indie web browser Ladybird enters alpha testing",
-      "url": "https://www.theregister.com/software/2026/11/26/indie-web-browser-ladybird-enters-alpha-testing/5311914",
-      "score": 49,
-      "comments": 10,
-      "author": "01-_-"
+      "title": "Michael Nielsen took down his book on neural nets",
+      "url": "https://neuralnetworksanddeeplearning.com/",
+      "score": 575,
+      "comments": 364,
+      "author": "brandonb"
     },
     {
       "rank": 23,
-      "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
-      "url": "https://kendell.dev/blog/arkwrapper/",
-      "score": 111,
-      "comments": 19,
-      "author": "leafingensemble"
+      "title": "Build your own amp modeler: $78 DIY pedal kit from TONE3000",
+      "url": "https://www.guitarworld.com/gear/guitar-pedals/tone3000-daisy-audio-diy-pedal-kit",
+      "score": 97,
+      "comments": 24,
+      "author": "gregsadetsky"
     },
     {
       "rank": 24,
-      "title": "The Cutthroat Business of Shipwrecks",
-      "url": "https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/",
-      "score": 37,
-      "comments": 11,
-      "author": "herbertl"
+      "title": "Show HN: Fleetlayer – Framework for running many AI agents on multiple machines",
+      "url": "https://fleetlayer.ai/",
+      "score": 10,
+      "comments": 6,
+      "author": "nathan_f77"
     },
     {
       "rank": 25,
-      "title": "An algebraic quantization of gravity from the null cone",
-      "url": "https://arxiv.org/abs/2611.34924",
-      "score": 251,
-      "comments": 99,
-      "author": "hecmmm"
+      "title": "First images of the impact of DART asteroid deflection experiment",
+      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+      "score": 221,
+      "comments": 69,
+      "author": "Bender"
     },
     {
       "rank": 26,
-      "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
-      "url": "https://bui.preetham.top/charts/",
-      "score": 121,
-      "comments": 34,
-      "author": "ppmpreetham"
+      "title": "Rayshader 1.0: Exit the Matrix",
+      "url": "https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html",
+      "score": 139,
+      "comments": 17,
+      "author": "tylermw"
     },
     {
       "rank": 27,
-      "title": "The USAID Files",
-      "url": "https://reclaimthenet.org/usaid-files",
-      "score": 291,
-      "comments": 358,
-      "author": "MassPikeMike"
+      "title": "Diablo II",
+      "url": "https://www.filfre.net/2026/11/diablo-ii/",
+      "score": 3,
+      "comments": 0,
+      "author": "doppp"
     },
     {
       "rank": 28,
-      "title": "Curiosity Is No Solo Act",
-      "url": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/",
-      "score": 167,
-      "comments": 43,
-      "author": "Petiver"
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+      "score": 407,
+      "comments": 263,
+      "author": "DeepLogin"
     },
     {
       "rank": 29,
-      "title": "Moat: OpenRouter replacement",
-      "url": "https://commandcode.ai/moat",
-      "score": 300,
-      "comments": 157,
-      "author": "amanverasia"
+      "title": "FastLanes: Next-gen File Format [pdf]",
+      "url": "https://research.vu.nl/files/447013431/afroozehphdthesis%20-%2069280d90f0bfd.pdf",
+      "score": 25,
+      "comments": 2,
+      "author": "todsacerdoti"
     },
     {
       "rank": 30,
-      "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
-      "url": "https://olumino.app",
-      "score": 117,
-      "comments": 49,
-      "author": "Wiyseful"
+      "title": "Show HN: Analysis of Hacker News predictions since 2008",
+      "url": "https://hnpredictions.com/",
+      "score": 103,
+      "comments": 78,
+      "author": "mv4"
     }
   ]
 }
